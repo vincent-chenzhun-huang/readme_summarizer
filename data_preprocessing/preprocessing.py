@@ -29,9 +29,18 @@ class Preprocessor:
 
 
 if __name__ == '__main__':
-    train_preprocessor = Preprocessor('../../train.readme_data.csv', 'cleaned.train.readme_data.csv')
-    eval_preprocessor = Preprocessor('../../valid.readme_data.csv', 'cleaned.valid.readme_data.csv')
-    test_preprocessor = Preprocessor('../../test.readme_data.csv', 'cleaned.test.readme_data.csv')
+    train_preprocessor = Preprocessor(
+        '/Users/vincenthuang/Development/Summer-2020/train.readme_data.csv',
+        'train.cleaned_readme_data.csv'
+    )
+    eval_preprocessor = Preprocessor(
+        '/Users/vincenthuang/Development/Summer-2020/valid.readme_data.csv',
+        'valid.cleaned_readme_data.csv'
+    )
+    test_preprocessor = Preprocessor(
+        '/Users/vincenthuang/Development/Summer-2020/test.readme_data.csv',
+        'test.cleaned_readme_data.csv'
+    )
 
     preprocessors = [train_preprocessor, eval_preprocessor, test_preprocessor]
 
