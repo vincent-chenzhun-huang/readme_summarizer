@@ -245,13 +245,6 @@ fabric.properties
 .idea/readme_summarizer.iml
 .idea/vcs.xml
 
-/data/cleaned_data/*
-/data/extractive_summarizations/*
-/data/output/model_summaries/*
-/data/output/model_summaries_edmunson/*
-/data/output/system_summaries/*
-/data/scores/*
-/data/test_cleaned_data/*
 
 /summarizations/extractive_summarizations/.ipynb_checkpoints/
 .DS_Store
