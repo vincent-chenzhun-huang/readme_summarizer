@@ -253,3 +253,5 @@ fabric.properties
 .idea/other.xml
 .idea/remote-mappings.xml
 readme-no-code-stepthrough.py
+
+/data/*
