@@ -245,4 +245,18 @@ fabric.properties
 .idea/readme_summarizer.iml
 .idea/vcs.xml
 
-/data/*
+/data/cleaned_data/*
+/data/extractive_summarizations/*
+/data/output/model_summaries/*
+/data/output/model_summaries_edmunson/*
+/data/output/system_summaries/*
+/data/scores/*
+/data/test_cleaned_data/*
+
+/summarizations/extractive_summarizations/.ipynb_checkpoints/
+.DS_Store
+.idea/datalore.xml
+.idea/deployment.xml
+.idea/other.xml
+.idea/remote-mappings.xml
+readme-no-code-stepthrough.py
