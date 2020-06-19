@@ -1,4 +1,4 @@
-from evaluation.config import SYS_ROOT_DIR, MOD_ROOT_DIR, OUTPUT_PATH
+from evaluation.config import SYS_ROOT_DIR, MOD_ROOT_DIR, MOD_ROOT_DIR02, OUTPUT_PATH
 from evaluation.rouge_score import RougeEvaluator
 from evaluation.summary_writer import SummaryWriter
 from summarizations.extractive_summarizations.data_reader import DataReader
@@ -18,7 +18,7 @@ def write_to_dir(readme_df):
 
     sys_writer = SummaryWriter(SYS_ROOT_DIR, system_summaries, 'system.', '')
     lex_rank_writer = SummaryWriter(MOD_ROOT_DIR, lex_rank_summaries, 'model.', 'A.')
-    edmunson_writer = SummaryWriter(MOD_ROOT_DIR, edmunson_summaries, 'model.', 'B.')
+    edmunson_writer = SummaryWriter(MOD_ROOT_DIR02, edmunson_summaries, 'model.', 'B.')
 
     writers = [sys_writer, lex_rank_writer, edmunson_writer]
 
@@ -37,7 +37,7 @@ def calculate():
     )
     edmunson_evaluator = RougeEvaluator(
         SYS_ROOT_DIR,
-        MOD_ROOT_DIR,
+        MOD_ROOT_DIR02,
         'system.(\d+).txt',
         'model.B.#ID#.txt',
         OUTPUT_PATH,
