@@ -1,0 +1,1 @@
+installation of responsive library will bring in all dependency packages this will include startup.csconfigureservicesadddetectionadddetectioncoreadddeviceaddbrowseraddplatformaddengineadds the engine resolver service to the detection core services builder.

@@ -1,0 +1,1 @@
+say it appears to be of length x when positioned at a distance y from xaxis on the drawing paper y is not equal to y it is the height on the paper where x is drawn which we will calculate in next step.

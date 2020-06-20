@@ -1,0 +1,1 @@
+github coverage reporter jenkins plugin for reporting code coverage as a github status check.

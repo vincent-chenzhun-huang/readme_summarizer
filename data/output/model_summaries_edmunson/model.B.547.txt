@@ -1,0 +1,1 @@
+postman collection sdk postman collection sdk is a nodejs module that allows a developer to work with postman collections.

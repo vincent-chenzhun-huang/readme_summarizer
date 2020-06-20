@@ -1,0 +1,1 @@
+enable the modules you wish to use in the initializer you are ready to add devise security extension modules on top of devise modules to any of your devise models for securevalidatable you need to add configuration captchasupport the captcha support depends on easycaptcha.

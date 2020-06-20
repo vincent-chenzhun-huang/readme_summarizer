@@ -1,0 +1,1 @@
+quick cli for exploring the fb graphql api literally tossed together in a few hours to save time inspecting what fields are actually supported since the fb api docs i find super frustrating to read through and understand

@@ -1,0 +1,1 @@
+hashtagtracker google apps script connected to spreadsheet that follows trending hashtags hashtags we use on instagram and twitter twitter location trends api this api uses oauth1 to generate the access keys and give access to the api

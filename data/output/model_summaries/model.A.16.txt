@@ -1,0 +1,1 @@
+3.13.5 a service should return an http 301 or 307 response with appropriate location header when a request url indicates a version that is not currently deployed for the requested resource.

@@ -1,0 +1,1 @@
+text to image synthesis this is an experimental tensorflow implementation of synthesizing images.

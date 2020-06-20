@@ -1,0 +1,1 @@
+ansibleex407 some notes to help prepare for the ex407 exam ansibleex407 introduction chapters in this repo 0

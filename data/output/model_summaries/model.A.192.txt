@@ -1,0 +1,1 @@
+download split information from httpsgithub.comliangzheng06marsevaluationtreemasterinfo and put info in datamars we want to follow the standard split in 8. the data structure would look like use when running the training code.

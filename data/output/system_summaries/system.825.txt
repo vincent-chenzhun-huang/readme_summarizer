@@ -1,0 +1,1 @@
+A Rails gem to send messages inside a web application

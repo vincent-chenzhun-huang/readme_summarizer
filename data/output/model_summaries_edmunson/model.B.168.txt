@@ -1,0 +1,1 @@
+vivus.js demo available on httpmaxwellito.github.iovivus play with it on vivus instant vivus is a lightweight javascript class with no dependencies that allows you to animate svgs giving them the appearance of being drawn.

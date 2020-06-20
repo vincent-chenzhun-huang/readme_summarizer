@@ -1,0 +1,1 @@
+如何在 readme 里面添加徽章 （travisci goreportcard coveralls 

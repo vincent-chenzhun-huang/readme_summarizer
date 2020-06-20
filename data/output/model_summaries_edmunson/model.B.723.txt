@@ -1,0 +1,1 @@
+gatsbysourcegoogledocs is a gatsby plugin to use google docs as a data source.

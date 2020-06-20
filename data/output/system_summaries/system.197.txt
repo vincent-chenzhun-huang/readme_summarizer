@@ -1,0 +1,1 @@
+TizenRT is a lightweight RTOS-based platform to support low-end IoT devices

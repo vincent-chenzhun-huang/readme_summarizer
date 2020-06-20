@@ -1,0 +1,1 @@
+zf http cache introduction is a zf2 module for automating httpcache tasks within a zend framework 2 application.

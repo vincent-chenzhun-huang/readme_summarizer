@@ -1,0 +1,1 @@
+tsmicrodict functions for representing plain objects as typesafe immutable dictionaries getting started usage

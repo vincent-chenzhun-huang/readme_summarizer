@@ -1,0 +1,1 @@
+tizenrt tizenrt is lightweight rtosbased platform to support lowend iot devices

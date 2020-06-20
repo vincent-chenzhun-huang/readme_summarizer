@@ -1,0 +1,1 @@
+official distribution packages fedora packages maintained by mprahl opensuse packages maintained by guoyunhe gentoo packages maintained by pacho thirdparty distribution packages arch linux packages maintained by darkfm ubuntu packages maintained by webupd8 build from source the following are the instructions to install woeusb if prebuilt version is not available or too old.

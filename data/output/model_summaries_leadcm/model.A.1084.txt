@@ -1,0 +1,1 @@
+awslambdadependencylayer ansible role to build and deploy a lambda layer bundled with the dependencies for a given runtime

@@ -1,0 +1,1 @@
+Doclet to generate UML diagrams for Javadoc using PlantUML.

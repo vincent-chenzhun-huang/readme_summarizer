@@ -1,0 +1,1 @@
+motivation anki includes a review count graph that plots the total reviews for learning relearning young and mature cards.

@@ -1,0 +1,1 @@
+redisfullcheck is used to compare whether two redis have the same data.

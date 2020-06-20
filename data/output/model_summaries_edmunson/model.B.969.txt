@@ -1,0 +1,1 @@
+spanomatic spanomatic is an android library that allows you to automatically add spans to text from resources strings.

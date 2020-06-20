@@ -1,0 +1,1 @@
+processing pipeline to create a flat representation of clinvar suited for our purposes we took several steps encapsulated in the pipeline srcmaster.py download the latest xml and txt dumps from clinvar ftp.

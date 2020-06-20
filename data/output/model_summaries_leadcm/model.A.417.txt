@@ -1,0 +1,1 @@
+configure a dockerized install docker raspbian stretch the easiest method of installing docker on a raspberry pi running raspbian is to execute a scripted install from the docker website

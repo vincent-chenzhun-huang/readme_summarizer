@@ -1,0 +1,1 @@
+training the model run traintrain6chsreshape.m at matlab to train the model.

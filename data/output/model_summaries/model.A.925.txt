@@ -1,0 +1,1 @@
+note all docker images in this project work for released versions of dataverse only prerequisites youll need a running and fully configured kubernetes cluster either using openshift minikube a fullfledged cluster gke or similar.

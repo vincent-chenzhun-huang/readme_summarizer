@@ -1,0 +1,1 @@
+login to datastax lifecycle manager lcm when the completed it printed out the urls for opscenter and lcm.

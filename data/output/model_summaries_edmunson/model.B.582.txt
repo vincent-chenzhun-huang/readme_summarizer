@@ -1,0 +1,1 @@
+visidata v1.5.2 a terminal interface for exploring and arranging tabular data.

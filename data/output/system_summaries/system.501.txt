@@ -1,0 +1,1 @@
+A Terraform module for managing Google Cloud IP addresses.

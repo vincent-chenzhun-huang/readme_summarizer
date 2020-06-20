@@ -1,0 +1,1 @@
+JIntellitype is a Java API for interacting with Microsoft Intellitype commands as well as registering for Global Hotkeys in your Java application.

@@ -1,0 +1,1 @@
+cookiecuttercli this is a cookiecutter template designed to help you get started with your commandline interface cli project

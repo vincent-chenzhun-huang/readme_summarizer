@@ -1,0 +1,1 @@
+Terraform to deploy Memcached on Oracle Cloud Infrastructure (OCI)

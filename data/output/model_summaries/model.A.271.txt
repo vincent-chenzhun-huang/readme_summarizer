@@ -1,0 +1,1 @@
+to provide vulkan capability to the ios and macos platforms moltenvk uses apples publicly available apis including metal.

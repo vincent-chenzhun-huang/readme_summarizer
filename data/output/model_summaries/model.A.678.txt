@@ -1,0 +1,1 @@
+features search for movie torrents get the details of any movie which includes torrent details of 720p1080p3d quality torrent magnet links and hashes along with their size and seeds imdbcode imdb rating and mpa rating year runtime summary movie description all the above details are obtained in the form of attributes of yify.movie object each object representing a movie.

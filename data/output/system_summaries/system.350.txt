@@ -1,0 +1,1 @@
+Raspberry Pi project to support piano player using MIDI interface

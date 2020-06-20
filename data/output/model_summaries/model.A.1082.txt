@@ -1,0 +1,1 @@
+and property now supports all above enum of just enjoy it installation there are three ways to use txscrolllabelview in your project using cocoapods manual using carthage cocoapods cocoapods is a dependency manager for objectivec which automates and simplifies the process of using 3rdparty libraries in your projects.

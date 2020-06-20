@@ -1,0 +1,1 @@
+why similar project like owasp node goat are pretty and useful for learning process but not for a real researcher or studding vulnerabilities in source code because their code is not really vulnerable but simulated.

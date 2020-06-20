@@ -1,0 +1,1 @@
+Bot Connector allows you to connect your bot to multiple messaging channels.

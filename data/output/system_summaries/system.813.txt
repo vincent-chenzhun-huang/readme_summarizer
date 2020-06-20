@@ -1,0 +1,1 @@
+A convenient way to store data into Flash memory on the ATSAMD21

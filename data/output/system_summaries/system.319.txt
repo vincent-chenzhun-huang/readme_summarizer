@@ -1,0 +1,1 @@
+lib-testrtc: Turns TestRTC into a library to make webrtc tests embeddable in any page.

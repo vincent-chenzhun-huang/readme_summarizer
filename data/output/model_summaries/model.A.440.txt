@@ -1,0 +1,1 @@
+connecting to the server console the minecraft server runs inside a session.

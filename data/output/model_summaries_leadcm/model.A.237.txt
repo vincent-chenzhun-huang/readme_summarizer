@@ -1,0 +1,1 @@
+angularrave easily intergrate the rave payment gateway in your angular2 project how to use you can checkout the demo here 1

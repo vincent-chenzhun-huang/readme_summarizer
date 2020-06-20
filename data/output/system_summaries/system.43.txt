@@ -1,0 +1,1 @@
+A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.

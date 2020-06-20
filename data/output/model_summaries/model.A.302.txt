@@ -1,0 +1,1 @@
+to run ecs on a directory right click on a folder in the project browser go to external tools and select ecs.

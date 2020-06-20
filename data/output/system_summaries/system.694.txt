@@ -1,0 +1,1 @@
+A simple gem to generate all files needed in a project that will support Cucumber, Calabash Android and Calabash IOS and Appium Android and IOS.

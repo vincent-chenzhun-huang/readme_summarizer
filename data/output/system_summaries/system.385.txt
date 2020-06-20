@@ -1,0 +1,1 @@
+Context free and basic utils to build Android project conveniently

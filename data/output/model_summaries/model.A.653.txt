@@ -1,0 +1,1 @@
+the following example filters the data frame to rows which have the value 669944 in column userid and value between 20160101 and 20160301. histogram view scatter plot view requirements since wxpython is not pipinstallable dfgui does not handle dependencies automatically.

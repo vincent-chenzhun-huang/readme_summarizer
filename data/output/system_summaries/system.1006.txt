@@ -1,0 +1,1 @@
+Simple Python wrapper for getting values from AWS Systems Manager Parameter Store

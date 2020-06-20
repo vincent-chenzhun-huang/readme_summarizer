@@ -1,0 +1,1 @@
+Client-side buttons to run a single test or skip it for Cypress test runner

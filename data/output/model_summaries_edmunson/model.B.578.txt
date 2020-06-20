@@ -1,0 +1,1 @@
+bochspwn reloaded bochspwn reloaded is an instrumentation module for the bochs ia32 emulator similar to the original bochspwn project from 2013. it performs taint tracking of the kernel address space of the guest operating systems to detect the disclosure of uninitialized kernel stackheap memory to usermode and other data sinks.

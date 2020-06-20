@@ -1,0 +1,1 @@
+C# application to switch default playing device. Download: https://soundswitch.aaflalo.me/

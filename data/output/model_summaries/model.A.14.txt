@@ -1,0 +1,1 @@
+to generate a php migration definition execute php ezpublishconsole kaliopmigrationgenerate mybundle amigrationclass formatphp this will create the following file which you are free to edit ...mybundlemigrations2016xxyyhhmmssamigrationclass.php as you can see in the generated definition the php class to be used for a migration needs to implement a specific interface.

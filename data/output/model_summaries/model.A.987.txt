@@ -1,0 +1,1 @@
+micro usb used both to upload the firmware to the board as to use it to control the servo directly from the pc without involving other microcontrollers.

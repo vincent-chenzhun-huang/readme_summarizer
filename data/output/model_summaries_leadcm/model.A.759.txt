@@ -1,0 +1,1 @@
+phptojavascript a tool for converting simple php objects to javascript code so that code for manipulating objects can be used both serverside and clientside

@@ -1,0 +1,1 @@
+lottieplayer web component this is a web component for easily embedding and playing lottie animations in websites

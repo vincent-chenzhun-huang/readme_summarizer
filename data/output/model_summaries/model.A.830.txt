@@ -1,0 +1,1 @@
+if you wish to iterate over all data or check if a particular show has a specific piece of data use the data attribute rating in tscrubs.data true banners and actors since banners and actors are separate xml files retrieving them by default is undesirable.

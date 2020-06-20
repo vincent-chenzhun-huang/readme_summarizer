@@ -1,0 +1,1 @@
+Allows for generating an Apiary Blueprint (http://apiary.io) for you Grape API

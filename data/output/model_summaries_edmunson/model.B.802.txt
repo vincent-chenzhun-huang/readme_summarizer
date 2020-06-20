@@ -1,0 +1,1 @@
+c language interface foundation clif clif provides a common foundation for creating c wrapper generators for various languages.

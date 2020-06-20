@@ -1,0 +1,1 @@
+files for run coins price file the file should be a compressed gzip csv file with the candlestick information it must contain the following headers ptime the time of the candlestick epoch timestamp in seconds.

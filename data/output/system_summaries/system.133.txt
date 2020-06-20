@@ -1,0 +1,1 @@
+Adapters for combining Realm Java with Android UI components and framework classes

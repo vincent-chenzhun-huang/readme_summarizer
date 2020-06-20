@@ -1,0 +1,1 @@
+telerik friends sample app for phonegapcordova overview screenshots requirements configuration running the sample overview this repository contains the telerik friends app for phonegapcordova

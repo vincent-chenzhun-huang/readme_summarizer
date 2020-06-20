@@ -1,0 +1,1 @@
+djangoprofilemiddleware an easy to use customizable django profiling middleware for django version below 1

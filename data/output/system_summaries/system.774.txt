@@ -1,0 +1,1 @@
+Nodejs-Script to combine tuyaapi and openhab via mqtt

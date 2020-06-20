@@ -1,0 +1,1 @@
+this version is currently being refactored to integrate with both the standard ultima online client 5.x 7.x and the open source classicuo.

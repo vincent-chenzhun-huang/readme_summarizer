@@ -1,0 +1,1 @@
+on the computer where the script is running start chrome and start the simple rest client url httplocalhost8000getall method get you should see all the simulation variable values such as altitude of user aircraft etc.

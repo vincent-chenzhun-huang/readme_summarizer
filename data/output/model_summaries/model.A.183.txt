@@ -1,0 +1,1 @@
+usage use the function to get a locationforecast object by calling the locationforecast api.

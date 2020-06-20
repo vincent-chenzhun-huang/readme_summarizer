@@ -1,0 +1,1 @@
+the agent is also taking few steps to reach the goal state so the ratio of cumulative reward to number of steps tends to increase.

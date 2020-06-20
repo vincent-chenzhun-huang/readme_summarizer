@@ -1,0 +1,1 @@
+Javascript module that allows a developer to work with Postman Collections

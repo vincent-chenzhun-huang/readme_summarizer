@@ -1,0 +1,1 @@
+from the command line verify that maven has been installed correctly mvn version aws credentials a prerequisite to running any of the test cases above is setting up aws credentials.

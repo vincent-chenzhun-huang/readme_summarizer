@@ -1,0 +1,1 @@
+vmdash a cloud vm dashboard that allows you to interact with multiple providers from a single panel

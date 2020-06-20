@@ -1,0 +1,1 @@
+cookiecutterdjangoansible .. image httpsrequires.iogithubbenregncookiecutterdjangoansiblerequirements.pngbranchmaster target httpsrequires.iogithubbenregncookiecutterdjangoansiblerequirementsbranchmaster alt requirements status a cookiecutter template for django.

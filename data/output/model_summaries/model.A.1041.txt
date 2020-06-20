@@ -1,0 +1,1 @@
+set options when creating a channel optional create a typed channel in typescript clear tmpfolder when used in nodejs the broadcastchannel will communicate with other processes over filesystem based sockets.

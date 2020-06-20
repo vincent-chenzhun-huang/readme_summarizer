@@ -1,0 +1,1 @@
+sdcdotwazekinesisdatapersisttodynamo this lambda function is developed by sdc team for persisting the curated data from kinesis data stream in dynamodb

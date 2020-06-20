@@ -1,0 +1,1 @@
+visual studio snippet converter this is a small project to convert visual studios code snippets xml 

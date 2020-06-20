@@ -1,0 +1,1 @@
+logtraveler a simple tool to filter lines of log files based on given datetime range

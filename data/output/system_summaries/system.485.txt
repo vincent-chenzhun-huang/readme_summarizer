@@ -1,0 +1,1 @@
+Web application for drawing analog meter scales / Веб приложение для рисования шкал аналоговых приборов

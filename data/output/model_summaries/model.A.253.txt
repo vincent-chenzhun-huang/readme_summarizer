@@ -1,0 +1,1 @@
+use the sample button to generate a random latent vector and corresponding image.

@@ -1,0 +1,1 @@
+httptravisci.orgrubietynilifyblanks httpsgemnasium.comrubietynilifyblanks httpscodeclimate.comgithubrubietynilifyblanks nilify blanks in rails when saving a model from a form and values are not provided by the user an empty string is recorded to the database instead of a null as many would prefer mixing blanks and nulls can become confusing.

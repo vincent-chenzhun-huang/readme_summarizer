@@ -1,0 +1,1 @@
+these scripts enable training of sparse cnn models resulting in low complexity models that can be used in embedded platforms.

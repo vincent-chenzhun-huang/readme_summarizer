@@ -1,0 +1,1 @@
+A simple, efficient tool to detect doublet cells directly from scRNAseq count data

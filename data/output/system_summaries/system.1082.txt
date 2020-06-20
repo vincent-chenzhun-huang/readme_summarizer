@@ -1,0 +1,1 @@
+????TXScrollLabelView, the best way to show & display information such as adverts / boardcast / onsale e.g. with a customView.

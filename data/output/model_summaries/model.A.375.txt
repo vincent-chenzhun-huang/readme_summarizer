@@ -1,0 +1,1 @@
+jooqs reason of being compared to linq other platforms incorporate ideas such as linq with linqtosql or scalas slick or also javas querydsl to better integrate querying as a concept into their respective language.

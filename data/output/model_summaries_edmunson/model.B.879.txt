@@ -1,0 +1,1 @@
+pathfinder playtest encounter creator overview this is a python based tool for dms to design encounters for the pathfinder playtest rulset.

@@ -1,0 +1,1 @@
+supported languages gb de fr poland czechrepublic ru cn hungary jp es netherlands tr it homebridge config ui x this is a plugin for homebridge.

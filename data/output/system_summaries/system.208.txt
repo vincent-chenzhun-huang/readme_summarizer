@@ -1,0 +1,1 @@
+A package for making a cookbook and managing recipes with org-mode.

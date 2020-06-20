@@ -1,0 +1,1 @@
+amsmb2 this is small swift library for ios macos and tvos which wraps libsmb2 and allows to connect a smb23 share and do file operation

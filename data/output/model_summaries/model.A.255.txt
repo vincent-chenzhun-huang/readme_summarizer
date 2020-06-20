@@ -1,0 +1,1 @@
+webpageurl string a boolean value that determines whether siri can suggest the user activity as a shortcut to the user.

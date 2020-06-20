@@ -1,0 +1,1 @@
+key rotation is a best practice that limits the amount of data an attacker can decrypt if the database were ever compromised provided we keep the encryption keys safe that is 3. define the 6 functions we need 6 functions for encrypting decrypting hashing and verifying the data we will be storing encrypt to encrypt any personal data we want to store in the database.

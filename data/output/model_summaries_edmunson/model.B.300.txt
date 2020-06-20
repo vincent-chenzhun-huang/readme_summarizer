@@ -1,0 +1,1 @@
+codepilot.ai this and others readmes in the repo serve as living documents and the source of truth for our development practices.

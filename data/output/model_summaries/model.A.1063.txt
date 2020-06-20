@@ -1,0 +1,1 @@
+the location of the script is copied to your computer so you can paste the soon to be executed dtrace script in the terminal.

@@ -1,0 +1,1 @@
+This project aims to be a collaborative effort to collect under one roof all the memristor models published to date.

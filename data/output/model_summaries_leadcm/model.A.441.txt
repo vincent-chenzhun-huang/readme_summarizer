@@ -1,0 +1,1 @@
+handwritten text recognition ocr with mxnet gluon these notebooks have been created by jonathan chung as part of his internship as applied scientist amazon ai in collaboration with thomas delteil who built the original prototype

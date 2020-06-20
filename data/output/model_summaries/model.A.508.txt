@@ -1,0 +1,1 @@
+make sure docker is available on you machine and running httpswww.docker.comdockerwindows httpswww.docker.comdockermac make sure you checked out all the code from the gut submodules e.g. make sure to pass with the ip of the phone final steps kill running rsync by pressing ctrlc start android subsystem or just run some app.

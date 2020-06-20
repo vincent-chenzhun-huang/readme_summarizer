@@ -1,0 +1,1 @@
+ansible playbooks for initial raspberry pi lockdown simple ansible playbooks roles and tasks to lock down and perform initial setup for a new raspberry pi.

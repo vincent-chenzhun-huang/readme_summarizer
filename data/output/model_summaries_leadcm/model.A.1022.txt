@@ -1,0 +1,1 @@
+scala exercises how it works scala exercises brings exercises for the stdlib cats shapeless and many other great libraries for scala to your browser

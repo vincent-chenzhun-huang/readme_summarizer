@@ -1,0 +1,1 @@
+A simple Dialogflow agent, a server, and a web interface that shows an approach for handling text-based conversations between a Dialogflow agent and a human operator

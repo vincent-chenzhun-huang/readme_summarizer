@@ -1,0 +1,1 @@
+sideeffects to use pixi.js with expo react native you will want to import a modified version of pixi.js like so now you can create a new application the way you would on the web but be sure to pass in a .

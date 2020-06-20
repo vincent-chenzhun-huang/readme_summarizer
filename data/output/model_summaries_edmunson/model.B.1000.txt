@@ -1,0 +1,1 @@
+silverstripe sqs job queue a module for sending and consuming sqs tasks.

@@ -1,0 +1,1 @@
+yify for python this is python library which is used to get the top seeded torrents at any given time and get the entire movie details and ratings 

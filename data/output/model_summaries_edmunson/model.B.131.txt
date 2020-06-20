@@ -1,0 +1,1 @@
+gofeedcli is an implementation of gofeed as a command line.

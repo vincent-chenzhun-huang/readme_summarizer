@@ -1,0 +1,1 @@
+Flutter plugin to play audio in the background while the screen is off.

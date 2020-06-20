@@ -1,0 +1,1 @@
+future features the to do list bookmarks find in files not just the current file but search through files in a directory.

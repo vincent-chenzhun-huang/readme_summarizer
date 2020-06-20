@@ -1,0 +1,1 @@
+cloudfrunt cloudfrunt is a tool for identifying misconfigured cloudfront domains.

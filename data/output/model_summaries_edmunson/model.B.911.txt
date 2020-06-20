@@ -1,0 +1,1 @@
+slic3r plugin for octoprint warning this plugin has been successfully tested for the following cases linux slic3rs stable versions 1.1.7 and 1.2.9 tests done under a raspberry pi 2 but it should work for other linux distributions.

@@ -1,0 +1,1 @@
+ociquickstartarangodb this is a terraform module that deploys arrangodb on oracle cloud infrastructure oci.

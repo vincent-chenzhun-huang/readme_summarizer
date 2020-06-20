@@ -1,0 +1,1 @@
+Use supervised learning to illuminate the latent space of GAN for controlled generation and edit

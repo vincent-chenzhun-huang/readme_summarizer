@@ -1,0 +1,1 @@
+implementation the remapping technique uses the following strategy the image is copied to an executable buffer referred to as the remap region.

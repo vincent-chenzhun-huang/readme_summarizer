@@ -1,0 +1,1 @@
+contact.sh an osint tool to find contacts in order to report security vulnerabilities.

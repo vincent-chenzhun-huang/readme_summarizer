@@ -1,0 +1,1 @@
+as technologists we like to take this one step further this pi day will explore the power of a raspberry pi device combined with azure.

@@ -1,0 +1,1 @@
+place the directory somewhere and add an entry on your path to it or put the directory somewhere on the path and run with tmg2sqltmg2sql usage program tmg2sql foo.pjc this command will convert the foo.pjc tmg project into a sqlite database by the same name.

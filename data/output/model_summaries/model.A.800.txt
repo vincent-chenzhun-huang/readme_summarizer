@@ -1,0 +1,1 @@
+but when we say expressions we dont mean programs and this is a very important distinction k programs are read written and evaluated left to right.

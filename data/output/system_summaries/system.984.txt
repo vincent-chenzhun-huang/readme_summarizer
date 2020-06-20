@@ -1,0 +1,1 @@
+An SDK for building research study apps on Android.

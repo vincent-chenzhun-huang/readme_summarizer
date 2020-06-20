@@ -1,0 +1,1 @@
+sometimes the components look too different for you to be able to just change the css you have to make one component for desktop and another for mobile.

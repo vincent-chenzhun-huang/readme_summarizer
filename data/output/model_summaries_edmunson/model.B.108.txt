@@ -1,0 +1,1 @@
+pandas data exploration journey the pandas data exploration journey series will consist of following notebooks 1. data profiling 0116avautomateddataprofilingmsword.ipynb 2. data quality and transformations decisions 3. tidy data and data tranformations 4. analytics visualisations objective the main objective of this notebook is only to understand the data using data profiling.

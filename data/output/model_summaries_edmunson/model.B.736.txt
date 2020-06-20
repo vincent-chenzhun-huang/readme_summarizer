@@ -1,0 +1,1 @@
+go emoji utils a collection of useful functions for working with emoji.

@@ -1,0 +1,1 @@
+microsoft partner center powershell this repository contains a set of powershell commands for administrators and developers to manage cloud solution provider program resources.

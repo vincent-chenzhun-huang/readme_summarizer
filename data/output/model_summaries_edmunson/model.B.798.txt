@@ -1,0 +1,1 @@
+linux unattended installation this project provides all you need to create an unattended installation of a minimal setup of linux whereas minimal translates to the most lightweight setup including an openssh service and python which you can derive from the standard installer of a linux distribution.

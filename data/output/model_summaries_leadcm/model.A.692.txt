@@ -1,0 +1,1 @@
+openweathermap php api a php api to retrieve and parse global weather data from openweathermap

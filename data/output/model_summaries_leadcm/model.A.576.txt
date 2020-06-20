@@ -1,0 +1,1 @@
+the backtesting introduction this is to backtest a trading strategy based on simple moving average ma cross signal

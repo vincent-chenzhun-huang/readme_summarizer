@@ -1,0 +1,1 @@
+usage cumulusservice cumulusservice executable includes the following argument launch options for developement and installation usage registerservice register the application as a service.

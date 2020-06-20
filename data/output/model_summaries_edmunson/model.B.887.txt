@@ -1,0 +1,1 @@
+yubiswitch overview is an osx status bar application to enabledisable a yubikey nano or neo from yubico.

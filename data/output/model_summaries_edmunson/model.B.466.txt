@@ -1,0 +1,1 @@
+queries to monitor your postgresql database these have been compiled from multiple sources like the postgresql wiki and checkpostgres.

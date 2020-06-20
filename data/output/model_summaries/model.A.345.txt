@@ -1,0 +1,1 @@
+we dont sort in databases for two reasons the sort order collation for strings for example can be different between sql server and postgresql and we dont want to stress the servers more than needed anyway.

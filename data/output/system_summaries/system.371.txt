@@ -1,0 +1,1 @@
+A node.js wrapper for the etherscan api to fetch data and metadata from the ethereum blockchain 

@@ -1,0 +1,1 @@
+if you wish to specify your wifi credentials via code for example if you are giving the touch lights away as gifts and want the wifi connection set up for when the light arrives then you can use to set the wifi creds of the touch light without being in range of the router you want the light to connect to.

@@ -1,0 +1,1 @@
+yoga311tweaks tweaks necessary for running linux on the lenovo yoga 311 files are located in the relative paths necessary for their use on an ubuntu 18

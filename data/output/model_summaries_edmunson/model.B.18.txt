@@ -1,0 +1,1 @@
+convolutional recurrent neural network update 20190521 i rewrite this repo base on fairseq refer to my implementation here.

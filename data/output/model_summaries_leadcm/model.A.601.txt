@@ -1,0 +1,1 @@
+reactwithmoxy opinionated boilerplate to create isomorphic react applications

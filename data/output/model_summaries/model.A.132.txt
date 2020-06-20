@@ -1,0 +1,1 @@
+below is the an example of importing the documents exported in the example further up you might notice that the api here allows you to pipe from one cluster or index directly into another.

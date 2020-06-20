@@ -1,0 +1,1 @@
+A PHP library/toolkit designed to handle all of your web scraping needs under a MIT or LGPL license.  Also has web server and WebSocket server classes for building custom servers.

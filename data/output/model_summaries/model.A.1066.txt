@@ -1,0 +1,1 @@
+natural language toolkit for indic languages inltk inltk aims to provide out of the box support for various nlp tasks that an application developer might need for indic languages.

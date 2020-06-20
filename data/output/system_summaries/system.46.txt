@@ -1,0 +1,1 @@
+A tool for provisioning and managing Apache Hadoop clusters in the cloud. Cloudbreak, as part of the Hortonworks Data Platform, makes it easy to provision, configure and elastically grow HDP clusters on cloud infrastructure. Cloudbreak can be used to prov

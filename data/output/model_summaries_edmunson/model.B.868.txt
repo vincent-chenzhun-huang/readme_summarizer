@@ -1,0 +1,1 @@
+the raspberrymatic project is a collaborate effort to provide a lightweight linuxbuildrootbased homematic compatible operating system for embedded single board computers sbc like the raspberrypi or tinkerboard.

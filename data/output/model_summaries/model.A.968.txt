@@ -1,0 +1,1 @@
+format of this key can be defined as you can use ripe command to generate new authority key or you can use openssl cli tool to do so this will generate something like which is base64encoded keypair seperated with generate new signature key license signature key is whats used to sign the licensees signature.

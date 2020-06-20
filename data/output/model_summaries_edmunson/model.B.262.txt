@@ -1,0 +1,1 @@
+digital forensics framework dff is an open source computer forensics platform built on top of a dedicated application programming interface api.

@@ -1,0 +1,1 @@
+welcome to the introduction to text analytics training we will be going through several jupyter notebooks during this time and use a number of data science libraries along the way

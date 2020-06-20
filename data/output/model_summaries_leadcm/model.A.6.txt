@@ -1,0 +1,1 @@
+custom component for lovelace which can be used as a card or an element on a pictureelements card

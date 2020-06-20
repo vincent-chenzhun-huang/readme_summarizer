@@ -1,0 +1,1 @@
+useful features sphinx search by date range for example search link looks like httpsite.rusearchdatestart26.09.2013dateend27.09.2013 examples this code will use indexname index to search for a query in qget parameter you can use all methods that provides by php sphinxapi.

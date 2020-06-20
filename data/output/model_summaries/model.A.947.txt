@@ -1,0 +1,1 @@
+add lookup files in splunk click settings then lookups.

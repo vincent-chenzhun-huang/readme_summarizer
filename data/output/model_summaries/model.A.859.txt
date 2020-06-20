@@ -1,0 +1,1 @@
+js const swag require..modelsswag module.exports read req res next res.status200.send swag then we can require it into serverindex.js and create an endpoint that calls this method.

@@ -1,0 +1,1 @@
+leaflet.illustrate rich annotation plugin drawing text and more for leaflet extending leaflet.draw.

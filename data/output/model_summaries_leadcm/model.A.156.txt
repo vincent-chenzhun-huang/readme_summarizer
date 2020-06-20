@@ -1,0 +1,1 @@
+magento 2 smtp extension gmail g suite amazon ses office360 mailgun sendgrid mandrill and other smtp servers

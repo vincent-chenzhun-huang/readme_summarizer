@@ -1,0 +1,1 @@
+support all functions of grafana rest api for manipulating dashboards and datasources.

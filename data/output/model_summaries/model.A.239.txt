@@ -1,0 +1,1 @@
+note the arduino ide does not install board support packages to the base arduino installation directory the directory that will work with avr makefiles.

@@ -1,0 +1,1 @@
+easy to use ready to go fully customizable awesome card collection for react native

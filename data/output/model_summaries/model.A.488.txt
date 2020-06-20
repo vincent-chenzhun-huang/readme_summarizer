@@ -1,0 +1,1 @@
+anonymous pr branches no local branch only operating detached fetch existing pr branches by number automatic diffs against upstream head and pr branch delete local and remote branches at same time git pr rm support for gitlab and github support for automatically making prsmrs github and gitlab11.10.

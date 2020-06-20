@@ -1,0 +1,1 @@
+whats supported and limitations the plugin will rebuild current scene or scenes will convert static meshes and will attempt to convert terrain landscapes and skeletal meshes to unreal format.

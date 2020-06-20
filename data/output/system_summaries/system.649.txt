@@ -1,0 +1,1 @@
+WiFi device to announce the presence of a car for garage door automation

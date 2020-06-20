@@ -1,0 +1,1 @@
+supercellpacketlistener with this proxy you can easily output the packet metadata sent between the clash royale brawl stars game client and game server

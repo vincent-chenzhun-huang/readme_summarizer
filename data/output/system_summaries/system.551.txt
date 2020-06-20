@@ -1,0 +1,1 @@
+Passive proxy (pipes data between client and server) for dumping the unencrypted packet meta data from Clash Royale or Brawl Stars.

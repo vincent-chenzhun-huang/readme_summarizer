@@ -1,0 +1,1 @@
+some examples after fetching a valid access token you are now ready to use the api.

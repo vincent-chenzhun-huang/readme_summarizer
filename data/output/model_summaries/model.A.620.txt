@@ -1,0 +1,1 @@
+known issues devoted cleric power flame strike causes falling damage that can not be tracked.

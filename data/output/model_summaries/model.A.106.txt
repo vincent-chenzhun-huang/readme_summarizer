@@ -1,0 +1,1 @@
+glove cove and elmo many of our models make use of glove pretrained word embeddings in particular the 300dimensional 840b version.

@@ -1,0 +1,1 @@
+nginxupstreamdynamicservers an nginx module to resolve domain names inside upstreams and keep them up to date.

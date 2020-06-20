@@ -1,0 +1,1 @@
+Small, dependency-free, fast Python package to infer file types checking the magic numbers signature

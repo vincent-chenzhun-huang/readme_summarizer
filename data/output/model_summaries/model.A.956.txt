@@ -1,0 +1,1 @@
+softwaredefined power meters are configurable software libraries that can estimate the power consumption of software in realtime.

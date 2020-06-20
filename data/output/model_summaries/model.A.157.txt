@@ -1,0 +1,1 @@
+parses readme for any referenced files and packages them up as well.

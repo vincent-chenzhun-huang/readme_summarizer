@@ -1,0 +1,1 @@
+this is an example for how deep learning models can be successfully used to understand the intent of a text query.

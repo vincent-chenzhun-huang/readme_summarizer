@@ -1,0 +1,1 @@
+neverwinteractplugin an plugin for act advanced combat tracker to parse combat log file from neverwinter by perfect world

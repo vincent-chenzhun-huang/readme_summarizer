@@ -1,0 +1,1 @@
+connections helper functions are provided for both building the graphql types for connections and for implementing the method for fields returning those types.

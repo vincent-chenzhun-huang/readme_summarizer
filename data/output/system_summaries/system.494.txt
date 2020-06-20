@@ -1,0 +1,1 @@
+A wrapper executable that can be used to host any executable as an Windows service, in a liberal license

@@ -1,0 +1,1 @@
+Boostrap a VM to run a Salt master as Docker container. Use Salt to deploy multiple additional containers: Docker registry, Prometheus & Node-Exporter. Build a Docker Swarm cluster by adding more VMs.

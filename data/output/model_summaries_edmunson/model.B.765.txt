@@ -1,0 +1,1 @@
+swifterswift is a collection of over 500 native swift extensions with handy methods syntactic sugar and performance improvements for wide range of primitive data types uikit and cocoa classes –over 500 in 1– for ios macos tvos watchos and linux.

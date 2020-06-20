@@ -1,0 +1,1 @@
+wishlist if you want us to add a docker please create an issue this way paste the source code of the repository you want us to add tell us why you think this is useful andor how you or you think someone else may want to use it.

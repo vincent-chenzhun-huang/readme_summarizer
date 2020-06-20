@@ -1,0 +1,1 @@
+default value is 0.1. the detection model outputs a confidence score for each detection between 0 and 1 and wont include in the response detections with confidence lower than this threshold.

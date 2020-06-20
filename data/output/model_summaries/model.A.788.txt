@@ -1,0 +1,1 @@
+assuming we have code execution in the host process and the library we wish to inject has been written into an arbitrary location of memory in the host process reflective dll injection works as follows.

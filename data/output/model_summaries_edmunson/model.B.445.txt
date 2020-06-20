@@ -1,0 +1,1 @@
+builder a concourse task to builds docker images without pushing and without spinning up a docker daemon.

@@ -1,0 +1,1 @@
+dlib c library dlib is a modern c toolkit containing machine learning algorithms and tools for creating complex software in c to solve real world problems

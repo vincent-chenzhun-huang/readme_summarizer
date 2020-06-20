@@ -1,0 +1,1 @@
+This is a github repository for modeling ECoG electrodes and with simple analytic models

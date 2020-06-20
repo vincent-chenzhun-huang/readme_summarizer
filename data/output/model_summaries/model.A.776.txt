@@ -1,0 +1,1 @@
+useful for cicd layer caching dockerpush pushes the recently build image to the registry k8sdeploy generates cisha1 suffixs for each of the files defined in your k8sscripts config and uses kubectl create if the objects dont exist kubectl apply if they do.

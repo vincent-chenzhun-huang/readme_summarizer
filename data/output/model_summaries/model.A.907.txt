@@ -1,0 +1,1 @@
+sample app the project includes a sample app which uses airmapview.

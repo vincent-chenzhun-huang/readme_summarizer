@@ -1,0 +1,1 @@
+eslint website configuring rules contributing reporting bugs code of conduct twitter mailing list chat room eslint is a tool for identifying and reporting on patterns found in ecmascriptjavascript code

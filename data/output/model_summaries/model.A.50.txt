@@ -1,0 +1,1 @@
+purpose config detail description this skillet will be used to connect your palo alto network device physical or vmseries to any gcp vpn gateway to establish an ipsec connection.

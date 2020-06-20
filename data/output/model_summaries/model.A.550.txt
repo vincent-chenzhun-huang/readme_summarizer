@@ -1,0 +1,1 @@
+usage install logstash add to add to restart logstash the included logstash config file requires two input fields to exist in input events the name of the program that generated the log line f.i.

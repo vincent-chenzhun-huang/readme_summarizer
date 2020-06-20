@@ -1,0 +1,1 @@
+This is a backtesting demo in Python. Different moving average prices are used to make buy and sell decisions. A Jupyter notebook version is for serial mode. while py version is for multiprocessing. A version for GPU has been tried, but not successful.

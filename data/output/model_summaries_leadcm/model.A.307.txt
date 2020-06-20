@@ -1,0 +1,1 @@
+alsaloopbackmpdandicecast2 setting up an alsa loopback pipelining it to mpd

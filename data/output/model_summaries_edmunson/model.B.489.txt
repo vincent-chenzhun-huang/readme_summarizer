@@ -1,0 +1,1 @@
+asp.net core detection asp.net core client web browser detection extension to resolve devices platforms engine of the client.

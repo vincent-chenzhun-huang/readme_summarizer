@@ -1,0 +1,1 @@
+hueset a node module to set phillips hue bulb parameters installation hueset can be used as a global or local package

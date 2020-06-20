@@ -1,0 +1,1 @@
+the configuration script will support to install gps oled display rgb led wifi remote access g4 access and other standard functionality to a raspberry pi based gateway e.g. rak831 rak833 or ic880apsi and pi based gateway for a small budget ttn gateway.

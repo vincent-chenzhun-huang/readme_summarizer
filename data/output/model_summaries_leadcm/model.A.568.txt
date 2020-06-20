@@ -1,0 +1,1 @@
+machine learning resources this is a curated list of resources that i have found useful regarding machine learning in particular deep learning

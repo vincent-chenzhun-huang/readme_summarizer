@@ -1,0 +1,1 @@
+2. download the jupyter notebooks clone or download this github repository so you have access to all the jupyter notebooks .ipynb extension in the tutorial.

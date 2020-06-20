@@ -1,0 +1,1 @@
+so yubiswitch installs an helper daemon with root privileges which contains the logic to grab the usb hid interface the main application talks to this daemon via xpc calls.

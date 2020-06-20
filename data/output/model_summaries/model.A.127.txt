@@ -1,0 +1,1 @@
+to run a test in a specific environment just add the desired configuration file as the first parameter running single feature sometimes its useful to only execute a single feature file to do so use the following command using tags if you want to run only specific tests you can mark your features with tags.

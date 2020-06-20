@@ -1,0 +1,1 @@
+here we present the first dedicated prs software prsice ‘precise’ for calculating applying evaluating and plotting the results of polygenic risk scores.

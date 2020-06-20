@@ -1,0 +1,1 @@
+grouping attributes grouping works for both batch table properties and feature table properties.

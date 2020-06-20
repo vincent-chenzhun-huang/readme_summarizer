@@ -1,0 +1,1 @@
+Lottie-Windows is a library and tools for rendering Lottie animations on Windows 10. 

@@ -1,0 +1,1 @@
+this is required to support parsing data from prime soundcloud and youtube music as simple get requests will not do.

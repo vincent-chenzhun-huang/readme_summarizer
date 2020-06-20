@@ -1,0 +1,1 @@
+although the proxy does attempt to rewrite these links to avoid the redirect.

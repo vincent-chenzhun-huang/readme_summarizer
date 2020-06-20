@@ -1,0 +1,1 @@
+The code of \Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes\""

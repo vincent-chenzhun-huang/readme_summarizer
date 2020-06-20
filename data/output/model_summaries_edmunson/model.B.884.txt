@@ -1,0 +1,1 @@
+sphinxsearchbundle with this bundle you can use sphinx to search in your symfony2 project.

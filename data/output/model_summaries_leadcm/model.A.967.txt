@@ -1,0 +1,1 @@
+cakephp shopify plugin this is a plugin that allows you to authenticate and make api calls with shopify

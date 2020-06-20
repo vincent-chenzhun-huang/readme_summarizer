@@ -1,0 +1,1 @@
+examples unixlinux usrlibpython2.7 mac libraryframeworkspython.frameworkversions2.7libpython2.7 windows cusersusernameappdatalocalprogramspythonpython37 add the path to your python folder as an environment variable.

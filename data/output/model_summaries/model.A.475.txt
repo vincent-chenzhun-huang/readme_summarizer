@@ -1,0 +1,1 @@
+dpi 200 functions connect to or disconnect from a wireless network rename a wireless profile change automatic connection auto connect or automatic switch auto switch settings of a wireless profile rush perform rescan of wireless networks in short intervals the number indicates interval sec.

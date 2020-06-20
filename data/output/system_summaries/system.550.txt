@@ -1,0 +1,1 @@
+Logstash configuration and grok patterns for parsing postfix logging

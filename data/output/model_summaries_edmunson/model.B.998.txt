@@ -1,0 +1,1 @@
+archive statement as of march 2019 this repository is readonly as salesforce has archived the fuelux opensource ui framework and will no longer be supported.

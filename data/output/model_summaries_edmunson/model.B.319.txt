@@ -1,0 +1,1 @@
+libtestrtc turns testrtc into a library to make tests embeddable in any page.

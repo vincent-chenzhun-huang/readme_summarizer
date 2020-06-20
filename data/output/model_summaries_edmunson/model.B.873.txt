@@ -1,0 +1,1 @@
+luceneutil lucene benchmarking utilities setting up luceneutil first pick a root directory under which luceneutil will be checked out datasets exist indices are built lucene source code is checked out etc.. well refer to this directory as here.

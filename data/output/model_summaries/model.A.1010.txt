@@ -1,0 +1,1 @@
+a bloom filter is ideal for cases where the data set is known a priori because the falsepositive rate can be configured by the size and number of hash functions.

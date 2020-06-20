@@ -1,0 +1,1 @@
+recorder.js introduction recorder.js is a javascript library to simply record audio in the browser.

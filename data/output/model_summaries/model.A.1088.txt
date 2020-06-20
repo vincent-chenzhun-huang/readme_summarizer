@@ -1,0 +1,1 @@
+eclipsefdnhugosolsticetheme hugo theme of the eclipse foundation look and feel.

@@ -1,0 +1,1 @@
+a very simple model with three criteria and one criteria with two subcriteria and three alternatives is as follows supported methods there are a wide variety of methods available for calculating the priorities from preference matrices.

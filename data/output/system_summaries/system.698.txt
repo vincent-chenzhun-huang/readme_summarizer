@@ -1,0 +1,1 @@
+A Python cookiecutter template to help you start a Click project.

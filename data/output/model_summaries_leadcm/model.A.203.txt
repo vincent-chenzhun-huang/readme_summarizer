@@ -1,0 +1,1 @@
+terraformawskopsdatanetwork terraform module to lookup network resources within a kops cluster this project is part of our comprehensive sweetops approach towards devops

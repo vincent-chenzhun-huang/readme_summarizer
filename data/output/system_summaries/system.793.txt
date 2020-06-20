@@ -1,0 +1,1 @@
+This bundle introduces all the necessary logic in order to save admiistrable configuration in the database or in any  other way. 

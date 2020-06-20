@@ -1,0 +1,1 @@
+astranet is a package for managing highly concurrent independent network streams

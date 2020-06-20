@@ -1,0 +1,1 @@
+Maven Plug-in to launch OSGi-Applications

@@ -1,0 +1,1 @@
+e4 pure maven build support this is a reactor project contains plugins and maven extensions which are needed to build a eclipse e4 application with pure maven.

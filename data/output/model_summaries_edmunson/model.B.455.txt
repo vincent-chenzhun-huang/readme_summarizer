@@ -1,0 +1,1 @@
+microsoft asp.net webhooks note this repo is solely for the asp.net webhooks projects libraries to create and consume webhooks on asp.net 4.x and .net framework 4.5. for asp.net core webhooks targeting .net standard 2.0 see the aspnetwebhooks repo.

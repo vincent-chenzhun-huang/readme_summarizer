@@ -1,0 +1,1 @@
+griffinlim python implementation of the griffin and lim algorithm to recover an audio signal from a magnitudeonly spectrogram.

@@ -1,0 +1,1 @@
+installation dependencies pythonrecsys is build on top of with cscpysparse divisi2 also requires and uses networkx.

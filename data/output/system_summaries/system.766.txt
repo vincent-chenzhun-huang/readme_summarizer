@@ -1,0 +1,1 @@
+Rocket Plugins to set easily skillsets with permissions

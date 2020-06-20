@@ -1,0 +1,1 @@
+ociquickstarttableau these are terraform modules that deploy tableau on oracle cloud infrastructure oci.

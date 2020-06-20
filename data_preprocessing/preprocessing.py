@@ -18,6 +18,16 @@ class Preprocessor:
         self.faulty_indices = []
         self.extractive = extractive
 
+    def remove_starting_periods(self, readme: str):
+        if readme.startswith('.'):
+            print('removing starting periods...')
+            while readme.startswith('.'):
+                readme = readme.replace('.', '', 1)
+        return readme
+
+    def bulk_remove_starting_periods(self, column_to_clean='readme'):
+        self.df[column_to_clean] = self.df[column_to_clean].apply(self.remove_starting_periods)
+
     def remove_punctuation_and_escapes(self, column_to_clean='readme'):
         print('Removing punctuations...')
         if self.extractive:
@@ -28,6 +38,7 @@ class Preprocessor:
             self.df[column_to_clean][i] = self.df[column_to_clean][i] \
                 .translate(str.maketrans(self.ESCAPES, ' ' * len(self.ESCAPES))) \
                 .translate(str.maketrans('', '', punctuation))
+        self.bulk_remove_starting_periods()
 
     def findCodeBlocks(self, githubFlavoredMarkdown):
             self.COUNT += 1
@@ -39,6 +50,11 @@ class Preprocessor:
         for code in codes:
             readme = readme.replace(code, "")
         return readme
+
+    def delete_code_blocks2(self, readme):
+        substituted_text = re.sub(r'```.*?```', "", readme, re.MULTILINE, re.DOTALL)
+        substituted_text = re.sub(r'`.*?`', "", substituted_text, re.MULTILINE, re.DOTALL)
+        return substituted_text
 
     def to_lower_case(self, readme):
         return readme.lower()
@@ -52,8 +68,9 @@ class Preprocessor:
         for i in range(len(self.df[column_to_clean])):
             try:
                 with timeout(2, exception=RuntimeError):
-                    self.df[column_to_clean][i] = self.delete_code_blocks(self.df[column_to_clean][i])
+                    self.df[column_to_clean][i] = self.delete_code_blocks2(self.df[column_to_clean][i])
             except RuntimeError:
+                print('timeout deleting code blocks')
                 self.faulty_indices.append(i)
 
     def write_faulty_index_to_txt_file(self):
@@ -98,6 +115,7 @@ class Preprocessor:
                 with timeout(2, exception=RuntimeError):
                     self.df[column_to_clean][i] = self.remove_markdown(self.df[column_to_clean][i])
             except RuntimeError:
+                print('timeout removing markdown')
                 self.faulty_indices.append(i)
 
     def remove_faulty_rows(self):
@@ -140,17 +158,17 @@ if __name__ == '__main__':
     train_preprocessor = Preprocessor(
         '/Users/vincenthuang/Development/Summer-2020/readme_summarizer/data/original_data/train.readme_data.csv',
         'train.cleaned_readme_data.csv',
-        extractive=True
+        extractive=False
     )
     eval_preprocessor = Preprocessor(
         '/Users/vincenthuang/Development/Summer-2020/readme_summarizer/data/original_data/valid.readme_data.csv',
         'valid.cleaned_readme_data.csv',
-        extractive=True
+        extractive=False
     )
     test_preprocessor = Preprocessor(
         '/Users/vincenthuang/Development/Summer-2020/readme_summarizer/data/original_data/test.readme_data.csv',
         'test.cleaned_readme_data.csv',
-        extractive=True
+        extractive=False
     )
 
     preprocessors = [train_preprocessor, eval_preprocessor, test_preprocessor]

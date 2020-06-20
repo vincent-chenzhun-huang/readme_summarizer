@@ -1,0 +1,1 @@
+Simple to use, easy to customize Toast component for Android & iOS. Developed with love for redux apps

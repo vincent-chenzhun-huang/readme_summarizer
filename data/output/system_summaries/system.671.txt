@@ -1,0 +1,1 @@
+Asterisk AGI script that uses Google's translate text to speech service.

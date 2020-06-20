@@ -1,0 +1,1 @@
+moneybuttonpaymailclient description javascript client to interact with bsv paymail protocol.

@@ -1,0 +1,1 @@
+vk sdk for android library for working with vk api authorization through vk app using vk functions

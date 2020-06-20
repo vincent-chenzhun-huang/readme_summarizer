@@ -1,0 +1,1 @@
+check out the installation guide for detailed instructions on how to install the secrethub cli on your platform of choice.

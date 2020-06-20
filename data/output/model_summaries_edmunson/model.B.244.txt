@@ -1,0 +1,1 @@
+example of launching binder with a custom jupyterlab layout we would like to be able to launch jupyterlab from a binder deployment with a specific layout.

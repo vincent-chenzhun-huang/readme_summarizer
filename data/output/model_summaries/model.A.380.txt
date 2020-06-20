@@ -1,0 +1,1 @@
+returns type void setloopingvalue boolean void sets the looping of the animation.

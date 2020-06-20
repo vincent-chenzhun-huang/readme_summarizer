@@ -1,0 +1,1 @@
+symbolized by dialog a dialog is a branching conversation flow that defines responses to the defined intents and entities.

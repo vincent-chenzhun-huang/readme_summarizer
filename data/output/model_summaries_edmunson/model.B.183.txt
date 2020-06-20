@@ -1,0 +1,1 @@
+yr.noforecast wrapper to easily get weather data for a specified location in json format.

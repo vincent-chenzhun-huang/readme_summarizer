@@ -1,0 +1,1 @@
+ï·½ banner license is software licensing library that provides an abstract way to secure your software usage

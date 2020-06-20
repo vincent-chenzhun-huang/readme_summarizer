@@ -1,0 +1,1 @@
+scale master online demo web application for creating printable analog meter scales.

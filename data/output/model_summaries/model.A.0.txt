@@ -1,0 +1,1 @@
+ai magazine 2008. other useful datasets link citation dataset httpslinqs.soe.ucsc.edudata heteregeneous graph datasets imdb datasets movielens latest dataset which consists of 33000 movies.

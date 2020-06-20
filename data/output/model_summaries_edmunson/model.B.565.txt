@@ -1,0 +1,1 @@
+aws iot sdk for javascript the awsiotdevicesdk.js package allows developers to write javascript applications which access the aws iot platform via mqtt or mqtt over the secure websocket protocol.

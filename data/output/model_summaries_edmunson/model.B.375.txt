@@ -1,0 +1,1 @@
+jooqs reason for being compared to jpa java and sql have come a long way.

@@ -1,0 +1,1 @@
+nodenativeprinter a node module to natively print your files requirements windows edge electronedge depending on your environment or any other fork of these.

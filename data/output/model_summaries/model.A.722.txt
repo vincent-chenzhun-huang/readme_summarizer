@@ -1,0 +1,1 @@
+import them as follows create a to create a new chart first you have to create one or more person objects.

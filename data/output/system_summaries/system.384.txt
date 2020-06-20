@@ -1,0 +1,1 @@
+All-in-one script to build bleeding-edge-toolchain for ARM microcontrollers

@@ -1,0 +1,1 @@
+this script uses the class below to deploy the aforementioned template to the subscription and resource group specified in and respectively.

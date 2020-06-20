@@ -1,0 +1,1 @@
+A chart to install Thanos for Prometheus

@@ -1,0 +1,1 @@
+note you need https proxy for https url a audioonly download audio only note if you are using a proxy you need https proxy for https url heres the demo on how to use it building binaries if you want to build binaries make sure you have pywin32 installed windows only as well as pyinstaller.

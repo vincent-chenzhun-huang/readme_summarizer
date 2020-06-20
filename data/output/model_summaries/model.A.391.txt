@@ -1,0 +1,1 @@
+vinylcontents utility to read the contents of a vinyl file.

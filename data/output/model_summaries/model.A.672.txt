@@ -1,0 +1,1 @@
+8. secrets.yml your rails apps may have a configsecrets.yml file that specifies the rails secret key.

@@ -1,0 +1,1 @@
+mrcnpdlkurlsearchparser contents this boundle has been created for parsing advanced queries to easytouse objects

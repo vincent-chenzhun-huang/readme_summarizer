@@ -1,0 +1,1 @@
+usrlibckandefaultbinactivate install the ckanextorganizationapproval python package into your virtual environment pip install ckanextorganizationapproval add organizationapproval to the ckan.plugins setting in your ckan config file by default the config file is located at etcckandefaultproduction.ini.

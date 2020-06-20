@@ -1,0 +1,1 @@
+data pipeline clientlib what is it data pipeline clientlib provides an interface to tail and publish to data pipeline topics.

@@ -1,0 +1,1 @@
+BAC0 - Library depending on BACpypes (Python 3) to build automation script for BACnet applications

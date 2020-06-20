@@ -1,0 +1,1 @@
+solder jumper sj2 on the ltebee adapter is for selecting which pin on the bee modules gets connected to mayfly d19 mayfly bee header pin 12. the default setting is for the ltebee modules pin 13 to be connected to mayfly d19 which is how this adapter should always be used with a digi ltebee but changing sj2 to the other setting will connect pin 12 of the bee module to d19.

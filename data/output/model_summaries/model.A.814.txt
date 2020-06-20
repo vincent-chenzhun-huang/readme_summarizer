@@ -1,0 +1,1 @@
+it shows values of latency and throughput close to optimal with the cost of some more optimization tricks which might be hard to keep in real trading platforms symbols are not maintained orders and price limits structures are optimized to be optimal.

@@ -1,0 +1,1 @@
+Mirror git/svn/hg/bzr to gitlab inside Docker

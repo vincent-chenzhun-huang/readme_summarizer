@@ -1,0 +1,1 @@
+the value will be the new list value after drop.

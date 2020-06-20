@@ -1,0 +1,1 @@
+start after configuring the file routine you can launch the multitest task by startup script .repbenchmark.sh then the test information will show in terminal.

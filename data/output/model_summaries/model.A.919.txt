@@ -1,0 +1,1 @@
+rdflib rdflib is a python library for working with rdf a simple yet powerful language for representing information as graphs.

@@ -1,0 +1,1 @@
+readme.md asmclickdebounce it is a gradle plugin that uses bytecode weaving technology to solve the click debounce problem of android applications.

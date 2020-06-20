@@ -1,0 +1,1 @@
+AnLinux allow you to run Linux on Android without root access.

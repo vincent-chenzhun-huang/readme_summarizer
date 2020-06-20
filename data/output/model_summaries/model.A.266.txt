@@ -1,0 +1,1 @@
+log viewer configuration homebridge config ui x allows you to view the homebridge process logs in the browser.

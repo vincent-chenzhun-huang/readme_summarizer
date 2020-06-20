@@ -1,0 +1,1 @@
+A Go (golang) library for managing highly concurrent independent network streams.

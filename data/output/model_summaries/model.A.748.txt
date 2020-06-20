@@ -1,0 +1,1 @@
+the method allow any object but only some of types are handled in an special way.

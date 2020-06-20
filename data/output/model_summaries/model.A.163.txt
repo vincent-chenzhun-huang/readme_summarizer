@@ -1,0 +1,1 @@
+table of contents writing a plugin before writing a snap plugin brief overview of snap architecture example plugins plugin flags custom config plugin diagnostics custom flags writing a plugin snap has four different plugin types and for instructions on how to write a plugin check out the collector processor publisher and streaming collector plugin docs.

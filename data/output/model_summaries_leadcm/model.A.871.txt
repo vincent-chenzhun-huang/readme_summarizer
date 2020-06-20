@@ -1,0 +1,1 @@
+exor masternode install guide this tutorial details the steps required to setup a masternode wallet in ubuntu linux with a local cold wallet

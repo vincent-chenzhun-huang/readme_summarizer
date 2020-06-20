@@ -1,0 +1,1 @@
+falldetectionwithcnnsandopticalflow this repository contains the code for our paper if you find the code useful for your research please cite our paper updates 4119 a bug was fixed and the results have improved.

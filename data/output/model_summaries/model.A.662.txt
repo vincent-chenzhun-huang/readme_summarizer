@@ -1,0 +1,1 @@
+how does this work first thing you need to provide for all app instances is a folder where they will store their prevalence databases and logs.

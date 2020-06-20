@@ -1,0 +1,1 @@
+contenthash this is a simple package made for encoding and decoding content hashes has specified in the eip 1577

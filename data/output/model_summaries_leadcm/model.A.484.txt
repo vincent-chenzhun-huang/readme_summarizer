@@ -1,0 +1,1 @@
+this project contains a verilator fft to screen spectrogram demonstration

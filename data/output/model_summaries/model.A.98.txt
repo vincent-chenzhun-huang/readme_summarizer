@@ -1,0 +1,1 @@
+this helper function as well as other json downsampling functions are available in all downsamplers read json files as an input so calling before is mandatory.

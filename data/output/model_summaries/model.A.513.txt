@@ -1,0 +1,1 @@
+status documents docx word readwriteedit formatting images tables spreadsheets xlsx excel readwriteedit cell formatting including conditional formatting cell validation drop down combobox rules etc.

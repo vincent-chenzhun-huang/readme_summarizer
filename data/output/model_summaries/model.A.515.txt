@@ -1,0 +1,1 @@
+table of contents warmup numpy pytorch tensors pytorch autograd pytorch defining new autograd functions tensorflow static graphs pytorch nn pytorch optim pytorch custom nn modules pytorch control flow and weight sharing warmup numpy before introducing pytorch we will first implement the network using numpy.

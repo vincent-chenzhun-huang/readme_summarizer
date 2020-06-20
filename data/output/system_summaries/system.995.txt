@@ -1,0 +1,1 @@
+A Vault swiss-army knife: A K8s operator. Go client with automatic token renewal, Kubernetes support, dynamic secrets, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection

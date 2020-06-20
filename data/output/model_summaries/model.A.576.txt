@@ -1,0 +1,1 @@
+multithreading vs multiprocessing there is a good article to compare multithreading and multiprocessing of python httpsmedium.comcontentsquareengineeringblogmultithreadingvsmultiprocessinginpythonece023ad55a .

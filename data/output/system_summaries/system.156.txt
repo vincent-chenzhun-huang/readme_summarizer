@@ -1,0 +1,1 @@
+Configure Magento 2 to send email using Google App, Gmail, Amazon Simple Email Service (SES), Microsoft Office365 and many other SMTP (Simple Mail Transfer Protocol) servers

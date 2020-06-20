@@ -1,0 +1,1 @@
+Design and implement an efficient data storage locker that utilizes deduplication. The locker should be able to accept files and store them with a minimum storage by storing some common data blocks only once. The file should also be retrieved from the loc

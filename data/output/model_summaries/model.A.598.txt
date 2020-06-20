@@ -1,0 +1,1 @@
+installation usage bugs suggestions and contributions copyright and license installation first add the package to the attribute of your file you could add it to the section instead but you likely only need this during development.

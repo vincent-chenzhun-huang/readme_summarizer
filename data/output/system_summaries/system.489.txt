@@ -1,0 +1,1 @@
+ASP.NET Core Detection service components for identifying details about client device, browser, engine, platform, & crawler.

@@ -1,0 +1,1 @@
+gerrychaintemplates this repo provides an evolving set of instructional guides for using the gerrychain package for generating dual graph partitions

@@ -1,0 +1,1 @@
+Step-by-step instructions for installing an Exor masternode on Ubuntu Linux

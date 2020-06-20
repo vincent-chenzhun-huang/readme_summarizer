@@ -1,0 +1,1 @@
+codenav visual studio extension to show the code structure of your current document features quickly see all the important methods and properties in your document

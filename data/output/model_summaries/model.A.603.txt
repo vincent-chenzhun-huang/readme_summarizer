@@ -1,0 +1,1 @@
+for example permissions android add the following permissions to your androidmanifest.xml ios set the in your file note does not handle the process of asking and checking for permissions.

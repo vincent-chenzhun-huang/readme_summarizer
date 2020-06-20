@@ -1,0 +1,1 @@
+after building fuse studio can be started by running from the command line.

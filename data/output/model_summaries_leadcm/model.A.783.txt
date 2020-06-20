@@ -1,0 +1,1 @@
+thanos helm chart helm chart that install and configure prometheusoperator and thanos

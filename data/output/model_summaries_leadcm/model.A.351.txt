@@ -1,0 +1,1 @@
+singlespaportalexample the goal of this project is to provide an example of how to build a portal like app which consists of multiple single page applications spas

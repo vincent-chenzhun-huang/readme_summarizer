@@ -11,5 +11,9 @@ class SummaryWriter:
 
     def bulk_write_to_txt(self):
         for i, summary in enumerate(self.summaries):
-            self.write_to_txt(summary, i)
+            try:
+                print(i)
+                self.write_to_txt(summary, i)
+            except:
+                print(summary, i)
         print('Successfully wrote the summaries to txt files')

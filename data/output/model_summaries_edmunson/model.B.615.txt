@@ -1,0 +1,1 @@
+scdblfinder introduction scdblfinder identifies doublets in singlecell rnaseq directly by creating artificial doublets and looking at their prevalence in the neighborhood of each cell.

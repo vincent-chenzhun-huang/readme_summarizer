@@ -1,0 +1,1 @@
+this plugin supports checking and requesting of android runtime permissions.

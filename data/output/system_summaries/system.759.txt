@@ -1,0 +1,1 @@
+A tool for converting simple PHP objects/code to Javascript, so that code for manipulating objects can be used both server-side and client-side.

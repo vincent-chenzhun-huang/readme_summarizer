@@ -1,0 +1,1 @@
+Flask extension providing python-ldap3 connection and ORM for accessing LDAP servers.

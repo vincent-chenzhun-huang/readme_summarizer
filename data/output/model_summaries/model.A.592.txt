@@ -1,0 +1,1 @@
+the script will select the best match it can find based on the frequency scores of the bnc bigrams frequency of use in modern british english.

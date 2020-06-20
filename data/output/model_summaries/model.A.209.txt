@@ -1,0 +1,1 @@
+if displaytype is not specified returns the current shot displaytype accessor which defaults to shots.shotrenderthresholdshotrenderthreshold shotrenderthreshold can be any integer greater than 0 if shotrenderthreshold is specified sets the minimum number of shots required for a hexbin to display and returns the shots generator.

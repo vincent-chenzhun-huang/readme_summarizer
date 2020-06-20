@@ -1,0 +1,1 @@
+specifications for using ppulajointdeconvsegultrasound a demo file is provided mainscript.m runs the proposed method with several configurations more information within.

@@ -1,0 +1,1 @@
+An elegant Ruby gem to interact with Questrade API

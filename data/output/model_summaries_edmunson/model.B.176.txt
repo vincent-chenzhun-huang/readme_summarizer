@@ -1,0 +1,1 @@
+python jsonpath rw httpsgithub.comkennknowlespythonjsonpathrw build status test coverage pypi version pypi downloads this library provides a robust and significantly extended implementation of jsonpath for python.

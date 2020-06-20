@@ -1,0 +1,1 @@
+run the deterministic tests under development some tests will fail from the build directory invoke ctest specifying only tests that are deterministic and known to be reliable.

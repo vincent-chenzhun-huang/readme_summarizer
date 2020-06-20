@@ -1,0 +1,1 @@
+serverless edition react starter kit for firebase is a popular project template aka boilerplate for building modern scalable web applications with react relay and graphql using serverless infrastructure provided by google cloud cloud sql cloud functions cdn hosting and file storage.

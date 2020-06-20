@@ -1,0 +1,1 @@
+is an ios lightweight library that can displays adverts or boardcast e.g. with an custom view.

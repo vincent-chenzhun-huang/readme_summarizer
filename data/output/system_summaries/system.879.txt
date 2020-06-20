@@ -1,0 +1,1 @@
+Jupyter notebook that contains simple code to find possible creature combinations for encounters given several parameters.

@@ -1,0 +1,1 @@
+usb event marker use an arduinocompatible board to output 8channel digital event markers from a computer to a data acquisition system

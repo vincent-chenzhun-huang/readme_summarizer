@@ -1,0 +1,1 @@
+The Device Framework is a mechanism for interacting with Palo Alto Networks devices (including physical and virtualized Next-generation Firewalls and Panorama).  The Device Framework is object oriented and mimics the traditional interaction with the devic

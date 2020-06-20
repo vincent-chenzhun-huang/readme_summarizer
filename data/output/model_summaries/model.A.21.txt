@@ -1,0 +1,1 @@
+4.3 filtering with score threshold the output result may contain several rectangles that are false positives or overlap if your input image size of 416 416 3 you will get 52x5226x2613x13x310647 boxes since yolo v3 totally uses 9 anchor boxes.

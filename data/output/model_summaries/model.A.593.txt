@@ -1,0 +1,1 @@
+previousthumb the previous button on the thumbs list.

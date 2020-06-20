@@ -1,0 +1,1 @@
+when the deployment is completed it will show you the public ip of the instance created on oracle cloud infrastructure oci.

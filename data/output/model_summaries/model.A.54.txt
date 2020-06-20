@@ -1,0 +1,1 @@
+ctrl will change the dpi image size on the selected tab.

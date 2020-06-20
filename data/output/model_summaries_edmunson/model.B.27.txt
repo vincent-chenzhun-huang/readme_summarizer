@@ -1,0 +1,1 @@
+python usbtmc readme for more information and updates httpalexforencich.comwikienpythonusbtmcstart github repository httpsgithub.compythonivipythonusbtmc google group httpsgroups.google.comdforumpythonivi introduction python usbtmc provides a pure python usbtmc driver for controlling instruments over usb.

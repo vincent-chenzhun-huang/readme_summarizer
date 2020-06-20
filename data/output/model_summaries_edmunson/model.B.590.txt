@@ -1,0 +1,1 @@
+deterministic deployment proxy this is a proxy contract that can be deployed to any chain at the same address and can then in turn deploy any contract at a deterministic location using create2.

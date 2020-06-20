@@ -1,0 +1,1 @@
+dbnomics.jl dbnomics julia client this package provides you access to dbnomics data series.

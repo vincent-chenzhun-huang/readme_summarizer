@@ -1,0 +1,1 @@
+mobcalmpi parallelization of the commonly used mobcal suite to calculate ion mobilities and collision cross sections

@@ -1,0 +1,1 @@
+:closed_lock_with_key: A detailed example for how to encrypt data in a Phoenix (Elixir) App before inserting into a database using Ecto Types

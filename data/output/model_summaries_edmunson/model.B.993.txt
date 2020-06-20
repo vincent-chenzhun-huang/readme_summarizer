@@ -1,0 +1,1 @@
+android pdfviewer androidpdfviewer 1.x is available on androidpdfviewerv1 repo where can be developed independently.

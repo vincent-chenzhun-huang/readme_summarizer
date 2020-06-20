@@ -1,0 +1,1 @@
+This is a compiled set of instructions and tools wrapped in Docker image to fetch, deodex, patch and upload back  AlienDalvik files on Sailfish phones

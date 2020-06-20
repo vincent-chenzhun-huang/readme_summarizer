@@ -1,0 +1,1 @@
+b connecting and running on hololens • in unity select file build settings.

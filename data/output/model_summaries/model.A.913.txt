@@ -1,0 +1,1 @@
+step three start your flink task managers use the taskmanagercontroller.yaml file to create a replication controller that manages the task manager pods.

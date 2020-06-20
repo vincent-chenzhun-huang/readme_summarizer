@@ -1,0 +1,1 @@
+siddhi map text the siddhimaptext extension is an extension to siddhi that converts text messages tofrom siddhi events.

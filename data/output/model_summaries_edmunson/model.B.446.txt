@@ -1,0 +1,1 @@
+command line utility abbinder as of 1.18 its part of main bundler.

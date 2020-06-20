@@ -1,0 +1,1 @@
+if you have set a default backup password in your android settings then this must be the backup password that you provide when prompted to backup your data.

@@ -1,0 +1,1 @@
+ x86 bare metal examples idprefix idseparator sectanchors sectlinks sectnumlevels 6 sectnums toc macro toclevels 6 toctitle dozens of minimal operating systems to learn x86 system programming

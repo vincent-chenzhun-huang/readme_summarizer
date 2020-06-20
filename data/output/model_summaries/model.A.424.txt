@@ -1,0 +1,1 @@
+you can replace the default web ui by overwriting these settings staticdirpath static asset directory paths templatedirpath template directory path appindexpage the file name of the single page apps html the default web ui list of jobs list of executions audit logs modify a job

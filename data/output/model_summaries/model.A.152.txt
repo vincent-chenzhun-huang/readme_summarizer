@@ -1,0 +1,1 @@
+grubchoosedefault supports running a mount script at startup time.

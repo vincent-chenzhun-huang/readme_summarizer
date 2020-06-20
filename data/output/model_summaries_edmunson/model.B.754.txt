@@ -1,0 +1,1 @@
+mutualfunds the objective of this project is to extract latest data on indian mutual funds from public sources for analysis and recommend top 5 funds as good investment options in different categories for further detailed analysis.

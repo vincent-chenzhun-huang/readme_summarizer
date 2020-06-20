@@ -1,0 +1,1 @@
+geometryapijava this fork of the esri geometry api for java exists in order to run the geogrpc geometryoperatorsservice.

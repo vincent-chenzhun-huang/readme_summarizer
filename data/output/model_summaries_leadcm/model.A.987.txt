@@ -1,0 +1,1 @@
+intelliservo overview intelliservo is a project aiming to transform regular hobby servos into intelligent ones by replacing their original boards

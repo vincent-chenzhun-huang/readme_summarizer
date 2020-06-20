@@ -1,0 +1,1 @@
+Gatsby plugin to use Google Docs as a data source

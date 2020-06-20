@@ -1,0 +1,1 @@
+this module checks all the possible locations that a native addon would be built at and returns the first one that loads successfully.

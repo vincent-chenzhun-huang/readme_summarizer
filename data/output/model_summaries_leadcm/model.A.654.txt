@@ -1,0 +1,1 @@
+simple json datasource a generic backend datasource more documentation about datasource plugins can be found in the docs

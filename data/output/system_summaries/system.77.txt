@@ -1,0 +1,1 @@
+Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay

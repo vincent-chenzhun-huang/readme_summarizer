@@ -1,0 +1,1 @@
+refer httpsgithub.comlocalstacklocalstackissues1277 what i had to do was ssh into localstack and use ifconfig to get the localstacks ip address nb.

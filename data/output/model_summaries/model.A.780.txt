@@ -1,0 +1,1 @@
+ts function inputrulename string yup yup yup.schema rule input rule works exactly as any other rule would work.

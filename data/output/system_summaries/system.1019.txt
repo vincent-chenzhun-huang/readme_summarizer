@@ -1,0 +1,1 @@
+This project will go through how to deal with a wide array of datatypes using purely `python 3.7`.

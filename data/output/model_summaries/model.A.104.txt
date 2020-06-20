@@ -1,0 +1,1 @@
+device addressing assumptions the i2c address sequence consists of a control byte followed by one address byte for eeproms 16k bits or two address bytes for eeproms 16k bits.

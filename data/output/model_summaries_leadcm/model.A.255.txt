@@ -1,0 +1,1 @@
+reactnativesirishortcut this module lets you use the new ios 12 siri shortcuts inside your react native app

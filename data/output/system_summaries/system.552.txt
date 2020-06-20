@@ -1,0 +1,1 @@
+wadbpwn is a shell script made by wuseman for hack a random android device with 100% guarantee to succeed, as usual ;-)

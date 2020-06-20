@@ -1,0 +1,1 @@
+A python package to solve robot arm inverse kinematics in symbolic form

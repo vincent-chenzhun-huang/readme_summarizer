@@ -1,0 +1,1 @@
+\one-click\" CLI to install OpenFaaS Cloud on Kubernetes"

@@ -1,0 +1,1 @@
+amazonkinesisscalingutils the kinesis scaling utility is designed to give you the ability to scale amazon kinesis streams in the same way that you scale ec2 auto scaling groups â€“ up or down by a count or as a percentage of the total fleet

@@ -1,0 +1,1 @@
+sqlserver2pgsql this is a migration tool to convert a microsoft sql server database into a postgresql database as automatically as possible.

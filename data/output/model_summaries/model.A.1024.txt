@@ -1,0 +1,1 @@
+ensure xcode scheme is set to ecm demo app device only clean run and explore license copyright 2014 the mitre corporation all rights reserved.

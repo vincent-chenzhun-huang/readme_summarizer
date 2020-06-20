@@ -1,0 +1,1 @@
+project introduction this project is based on cnnblstmctc to realize verification code identification.

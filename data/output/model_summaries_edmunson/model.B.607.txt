@@ -1,0 +1,1 @@
+new maintainers and repository location this repository no longer is the main location of reactnativefetchblob.

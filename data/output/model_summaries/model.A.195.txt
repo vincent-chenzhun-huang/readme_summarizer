@@ -1,0 +1,1 @@
+the functions which extract the peak to peak voltages of the eps are in the analysisfunctions folder while functions helpful for plotting are under helperfunctions scripts which function on single files are available with epsearchguiselect.m which requires various parameters to be set in code but this enables rapid loading of converted data files for further analysis.

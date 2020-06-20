@@ -1,0 +1,1 @@
+stock performance classification with a 1d cnn keras and azure ml workbench overview we recently worked with a financial services partner to develop a model to predict the future stock market performance of public companies in categories where they invest

@@ -1,0 +1,1 @@
+kafkastormstarter code examples that show how to integrate apache kafka 0.8 with apache storm 0.9 and apache spark 1.1 while using apache avro as the data serialization format.

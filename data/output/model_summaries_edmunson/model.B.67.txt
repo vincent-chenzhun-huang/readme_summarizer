@@ -1,0 +1,1 @@
+govdomwasm this package allows to build frontend applications in go targeting webassembly.

@@ -1,0 +1,1 @@
+features an intuitive and powerful configuration interface custom textures including all textures from power auras and blizzards spell alerts progress bars and textures that show the exact duration of auras displays based on auras health power mana rage soul shards holy power etc.

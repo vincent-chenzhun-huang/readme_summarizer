@@ -1,0 +1,1 @@
+note that you need to include at the end of each line custommark13 startuml actor user participant first class as a participant second class as b participant last class as c user a dowork activate a a b create request activate b b c dowork activate c c b workdone destroy c b a request created deactivate b a user done deactivate a enduml custommark13 an activity diagram.

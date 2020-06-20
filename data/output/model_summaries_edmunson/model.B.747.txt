@@ -1,0 +1,1 @@
+loan default prediction this is the markdown version of the jupyter notebook for easy read online.

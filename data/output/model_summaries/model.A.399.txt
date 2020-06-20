@@ -1,0 +1,1 @@
+aws costs aws lambda invocation usually free amazon ses usually free amazon s3 minimal usage aws cost explorer api calls 0.01 per api call about 25 calls per run prerequisites awscli configure aws credentials for target account run cost explorer enabled verfied amazon ses sender email if you verify an email you can send fromto that address.

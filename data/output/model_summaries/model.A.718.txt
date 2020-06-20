@@ -1,0 +1,1 @@
+by default this package is configured to parse any text type and it will replace any matched with a markdown link if the mentionned user exist in the database.

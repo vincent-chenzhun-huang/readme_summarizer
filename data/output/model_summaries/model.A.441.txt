@@ -1,0 +1,1 @@
+slides pretrained models you can get the models by running sample results the greedy lexicon search and beam search outputs present similar and reasonable predictions for the selected examples.

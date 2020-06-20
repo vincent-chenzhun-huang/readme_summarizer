@@ -1,0 +1,1 @@
+storage session defines the state to be stored in the session storage.

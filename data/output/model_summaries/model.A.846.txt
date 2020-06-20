@@ -1,0 +1,1 @@
+you can also deploy the web archive to a java application server and allow scaling utils to automatically manage the number of shards in the stream based on the observed put or get rate of the stream.

@@ -1,0 +1,1 @@
+ palo alto networks device framework the device framework is a mechanism for interacting with palo alto networks devices including physical and virtualized nextgeneration firewalls and panorama

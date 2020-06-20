@@ -1,0 +1,1 @@
+reactwebpackconfig basic structure to generate react apps with webpack using webpack merge and other interesting plugins.

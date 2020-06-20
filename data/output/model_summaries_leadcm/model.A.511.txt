@@ -1,0 +1,1 @@
+adviserplugindependencies plugin for adviser that contains rules related to dependencies in the package

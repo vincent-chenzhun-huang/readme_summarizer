@@ -1,0 +1,1 @@
+for example this sets allowed protocols to http https and smb python protocols http https smb bleach bleachextensionprotocolsprotocols this adds smb to the bleachspecified set of allowed protocols python bleach bleachextensionprotocolsallowedprotocols smb stripping markup by default bleach escapes disallowed or invalid markup.

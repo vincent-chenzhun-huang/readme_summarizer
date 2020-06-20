@@ -1,0 +1,1 @@
+in the temporalneturfd.py temporalnetfdd.py temporalnetmulticam.py and temporalnetgeneral.py scripts there is a variable called vgg16weights to set the paths to this weights file.

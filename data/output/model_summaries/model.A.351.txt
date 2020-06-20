@@ -1,0 +1,1 @@
+for details see multiple angular apps x support angular aot builds how to run this project clone this project jump into each app folder and do then start the portal with open up httplocalhost9000 in a web browser.

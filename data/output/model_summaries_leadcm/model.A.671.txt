@@ -1,0 +1,1 @@
+ google tts script for asterisk this script makes use of googles translate text to speech service in order to render text to speech and play it back to the user

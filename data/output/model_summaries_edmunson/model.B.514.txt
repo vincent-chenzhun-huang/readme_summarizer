@@ -1,0 +1,1 @@
+graphqlnormalizr normalize graphql responses for persisting in the client cachestate.

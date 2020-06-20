@@ -1,0 +1,1 @@
+examples the main program will need to set up the logger to provide user control over handling issues to deal with errors in processing stages to test code that emits log messages motivation this library was written to support the development of a nontrivial rust application that uses logging.

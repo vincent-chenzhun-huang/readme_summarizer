@@ -1,0 +1,1 @@
+when a elevator arrives at a floor it picks up all of the passengers waiting at the floor up to the maximum capacity of 8 and then starts moving to the end floors.

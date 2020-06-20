@@ -1,0 +1,1 @@
+machinelearningstocks in python a starter project and guide machinelearningstocks is designed to be an intuitive and highly extensible template project applying machine learning to making stock predictions.

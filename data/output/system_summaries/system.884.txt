@@ -1,0 +1,1 @@
+Provide to use Sphinx search in Symfony2

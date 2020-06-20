@@ -1,0 +1,1 @@
+requirements nodejs azure cli terraform create the infrastructure needed.

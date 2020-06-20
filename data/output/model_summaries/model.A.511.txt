@@ -1,0 +1,1 @@
+integration tests to run your rules with adviser we recommend you to create an empty folder we have one under .examplesintegration with an example package.json with example packages in case is related with security make sure to include some of them that fail your test an adviser configuration file.

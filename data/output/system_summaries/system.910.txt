@@ -1,0 +1,1 @@
+Serenity (previously known as 'Thucydides') is a library designed to make writing automated acceptance tests easier, and more fun.

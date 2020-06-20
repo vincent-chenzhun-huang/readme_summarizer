@@ -1,0 +1,1 @@
+.. image httpsgithub.comadafruitadafruitcircuitpythonboardtestblobmasterdocstestjig.png alt test jig fritzing diagram to use each test copy the individual .py or .mpy tests into a folder named adafruitboardtest in the circuitpy drive import the library find the pins available on your board and call boardtest.runtestpins.

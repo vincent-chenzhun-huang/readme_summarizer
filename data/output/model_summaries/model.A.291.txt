@@ -1,0 +1,1 @@
+data mymodeldataset create a tablib dataset from a django queryset from djangotablib import modeldataset from myapp.models import mymodel class mymodeldatasetmodeldataset class meta queryset mymodel.objects.filterisawesometrue this dataset will have the fields id myfield1 and myfield2.

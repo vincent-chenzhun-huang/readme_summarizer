@@ -1,0 +1,1 @@
+A Flutter plugin to retrieve and manage contacts on Android and iOS devices. Maintainer: @lukasgit

@@ -1,0 +1,1 @@
+  This a very small & simple implementation for API Platform with LexikJWTAuthenticationBundle to make user API authentications.

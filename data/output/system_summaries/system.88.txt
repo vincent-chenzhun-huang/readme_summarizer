@@ -1,0 +1,1 @@
+redis-full-check is used to compare whether two redis have the same data. redis-full-check用于比较2个redis数据是否一致。

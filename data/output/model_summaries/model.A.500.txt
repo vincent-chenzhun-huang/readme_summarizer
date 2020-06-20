@@ -1,0 +1,1 @@
+image source generative adversarial texttoimage synthesis paper requirements tensorflow 1.0 tensorlayer 1.4 nltk for tokenizer datasets the model is currently trained on the flowers dataset.

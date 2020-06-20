@@ -1,0 +1,1 @@
+detectobjectsinpath using camera to detect a safe route for walking this is the app i built to help anybody who is visually impaired navigate their way

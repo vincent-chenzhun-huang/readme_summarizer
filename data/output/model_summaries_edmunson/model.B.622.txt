@@ -1,0 +1,1 @@
+looking for contributors quickopenernetbeans no support for netbeans 9.0 wiki download from plugin center nb8.1 download from plugin center ≥ nb8.1 sometimes while programming in netbeans you want to explore a particular file that you are editing on the file system browser or maybe launch a command in a terminal to do something with it.

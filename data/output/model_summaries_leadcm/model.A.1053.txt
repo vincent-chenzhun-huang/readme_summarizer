@@ -1,0 +1,1 @@
+cisco devnet learning labs sample code for restconf these scripts use restconf to demonstrate various configurations you can run as examples in the devnet sandbox

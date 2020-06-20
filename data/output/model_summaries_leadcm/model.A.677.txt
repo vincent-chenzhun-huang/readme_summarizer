@@ -1,0 +1,1 @@
+auth0 php sdk the auth0 php sdk provides straightforward and tested methods for accessing authentication and management api endpoints

@@ -1,0 +1,1 @@
+when the building process finishes all the generated binding files are available in the generated folder.

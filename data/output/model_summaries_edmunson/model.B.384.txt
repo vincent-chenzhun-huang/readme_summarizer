@@ -1,0 +1,1 @@
+bleedingedgetoolchain allinone script to build bleedingedgetoolchain for arm microcontrollers.

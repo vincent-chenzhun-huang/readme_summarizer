@@ -1,0 +1,1 @@
+Dexterity behavior to enable a local Diazo theme.

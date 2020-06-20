@@ -1,0 +1,1 @@
+usage vd ... vd visidata supports tsv csv xlsx hdf5 sqlite json and more see the list of supported sources.

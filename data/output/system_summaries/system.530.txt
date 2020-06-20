@@ -1,0 +1,1 @@
+This is super flexible Custom tab bar controller implementation. You have the complete opportunity to customise according to your necessity ( ## Also support swift ## )

@@ -1,0 +1,1 @@
+vueorgchart a vue component that wraps orgchart.js and supports scoped slots to customize nodes in chart.

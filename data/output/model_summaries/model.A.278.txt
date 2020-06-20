@@ -1,0 +1,1 @@
+scriptinlined css benefits by default during the build css is compressed and inlined as a string within the layer that injects the css when run.

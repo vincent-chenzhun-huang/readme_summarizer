@@ -1,0 +1,1 @@
+Inventory client library written in Swift for developing applications on iOS

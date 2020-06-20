@@ -1,0 +1,1 @@
+what well cover html css javascript es6 template strings map arrow functions flexbox and css variables npm node express socket.io web design with sketch in this mini series we are going to design and build a chat application using socket.io.

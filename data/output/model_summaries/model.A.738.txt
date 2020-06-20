@@ -1,0 +1,1 @@
+as in above the elimination of interface method sets and permission to add methods to existing types the replacement for interface methods is the declaration of structs containing methods.

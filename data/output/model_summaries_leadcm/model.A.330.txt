@@ -1,0 +1,1 @@
+azurekubernetescouchbase this is a walkthrough of setting the couchbase operator up on azure container service aks

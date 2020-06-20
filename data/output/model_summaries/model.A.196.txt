@@ -1,0 +1,1 @@
+the update script can be automated to run on a set schedule via where available systemd units.

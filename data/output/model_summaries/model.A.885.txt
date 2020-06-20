@@ -1,0 +1,1 @@
+liferay an ansible role to install and configure liferay portal.

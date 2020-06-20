@@ -1,0 +1,1 @@
+support x view.onclicklistener x adapterview.onitemclicklistener r8 proguard not required pure bytecode weaving without any reflections.

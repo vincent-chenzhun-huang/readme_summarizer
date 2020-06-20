@@ -1,0 +1,1 @@
+by default a scope and a scope per locale is created locale scopes inherits values of the default scope.

@@ -1,0 +1,1 @@
+A React application primarily use to play around with Jest and Enzyme and practice a strict TDD approach

@@ -1,0 +1,1 @@
+using this template you can still create a 3 or more node cluster distributed architecture for tableau server but some of the tableau services on tableauworkern nodes will not be available if you use trial license.

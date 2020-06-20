@@ -1,0 +1,1 @@
+Simple, minimalistic, and task-focused application for creating screenshots. Available for LInux, MacOS, WIndows

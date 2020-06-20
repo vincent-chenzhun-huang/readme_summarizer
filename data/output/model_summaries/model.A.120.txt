@@ -1,0 +1,1 @@
+you give it a docker container it outputs the command line necessary to run another one just like it along with all those pesky options ports links volumes .... its a real time saver for those that normally deploy their docker containers via some cm tool like ansiblechef and then find themselves needing to manually rerun some container.

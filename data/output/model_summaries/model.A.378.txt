@@ -1,0 +1,1 @@
+or you can always change the ruby version were not doing anything too tricky but stay above like 2.3 2 the first time the app runs it will run some setup tasks to pull in all of the jokes from the api and build a frequency tabledictionary for the markov chain.

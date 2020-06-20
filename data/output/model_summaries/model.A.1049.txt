@@ -1,0 +1,1 @@
+if the other class is outside any of the packages it is shown in grey.

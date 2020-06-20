@@ -1,0 +1,1 @@
+Homebridge Web UI plugin to monitor, manage and control Homebridge from a browser.

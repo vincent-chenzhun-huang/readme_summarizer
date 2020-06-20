@@ -1,0 +1,1 @@
+Melkor is a very intuitive and easy-to-use ELF file format fuzzer to find functional and security bugs in ELF parsers.

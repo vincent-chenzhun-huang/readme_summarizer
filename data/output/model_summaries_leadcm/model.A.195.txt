@@ -1,0 +1,1 @@
+code to look for evoked potentials in variable spacing stimulation data as well as fit analytic models to the volume conducted signals this repository contains code to analyze human intracranial datasets from the stimulation spacing and stimulation geometry projects

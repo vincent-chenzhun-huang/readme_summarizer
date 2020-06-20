@@ -1,0 +1,1 @@
+dynamodb update streams are always routed to the delivery stream with the same name as the base table.

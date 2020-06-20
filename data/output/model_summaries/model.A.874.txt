@@ -1,0 +1,1 @@
+for example you can create a composer package which is an wpm module you can hook it into your own plugin only specifing the moduleprovider class in a configuration file a lot of builtin and useful services 1. cache based on symfonys cache.

@@ -1,0 +1,1 @@
+The MicroStrategy R Integration Pack enables analysts to leverage the power of R in their dashboards

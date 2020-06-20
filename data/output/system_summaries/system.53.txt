@@ -1,0 +1,1 @@
+Js client to interact with servers using paymail specification.

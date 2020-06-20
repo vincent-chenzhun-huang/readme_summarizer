@@ -1,0 +1,1 @@
+provisions an ubuntu server 16.04lts vm and a windows 2016 datacenter server vm using to a new vnet and opens up ports 22 for ssh and 3389 for rdp access via the attached public ip to each vm.

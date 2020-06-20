@@ -1,0 +1,1 @@
+Electron + React app for tracking good things, what you are thankful for, etc.

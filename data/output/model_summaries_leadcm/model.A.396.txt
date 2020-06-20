@@ -1,0 +1,1 @@
+this crate provides basic building blocks for writing async gui code with gtkrs 1

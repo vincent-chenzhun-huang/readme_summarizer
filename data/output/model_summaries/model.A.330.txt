@@ -1,0 +1,1 @@
+when thats done or even while its running you can login to the azure portal and take a look at your new cluster there as well configure kubectl now that we have a cluster the next step is to install and set up kubectl up so it can connect to the cluster.

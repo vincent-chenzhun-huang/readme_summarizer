@@ -1,0 +1,1 @@
+supersetinstallationcheatsheet steps to install superset on amazon ec2 linux version 1 machine note as of may 2019 superset works on python 3

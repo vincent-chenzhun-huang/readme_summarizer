@@ -1,0 +1,1 @@
+todo list in sinatra learning objective know rack a ruby webserver interface know sinatra learn ui testing with rspec and capybaraselenium deployment to heroku rack rack provides a minimal interface between webservers that support ruby and ruby frameworks

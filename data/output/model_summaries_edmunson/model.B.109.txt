@@ -1,0 +1,1 @@
+awilixroutercore this package is intended for use with http libraries that want to configure routes using esnext decorators or a builder pattern.

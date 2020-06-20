@@ -1,0 +1,1 @@
+create a storage account using the azure portal first create a new generalpurpose storage account to use for this quickstart.

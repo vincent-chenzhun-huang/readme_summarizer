@@ -1,0 +1,1 @@
+go to tools port and select which port the device is connected to.

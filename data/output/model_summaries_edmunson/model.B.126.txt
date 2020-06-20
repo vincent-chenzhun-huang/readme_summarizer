@@ -1,0 +1,1 @@
+command line amqp clients amqpspawn and amqpsend allow the simple sending and receiving of amqp messages from the command line or shell scripts.

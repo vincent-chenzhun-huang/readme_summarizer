@@ -1,0 +1,1 @@
+introduction to text analytics in python training for odsc west 2018

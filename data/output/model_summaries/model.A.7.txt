@@ -1,0 +1,1 @@
+this project consist of a text editor dedicated input window descriptive output window list box with autocomplete suggestions dedicated hotkeys binded with different keyboard shortcuts for various functions like complie autocomplete code in speech format save open file etc.

@@ -1,0 +1,1 @@
+bastionhostdisplayname the display name of the bastion host instance.

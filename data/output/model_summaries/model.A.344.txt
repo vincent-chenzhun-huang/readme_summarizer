@@ -1,0 +1,1 @@
+the main aim is to obviously pass the exam ↥ top next chapters in this repo as i slowly make my way through the redhat blueprint for this module more chapters will appear with working snippets to run against our sandpit environment.

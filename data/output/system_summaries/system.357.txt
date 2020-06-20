@@ -1,0 +1,1 @@
+.NET Core library for loading assemblies as a plugin

@@ -1,0 +1,1 @@
+reactredux shopping cart exercise this repository is an exercise of a shopping cart

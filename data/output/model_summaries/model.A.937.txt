@@ -1,0 +1,1 @@
+to enable swipebacklayout you can simply make your extend in method should be called as usual.

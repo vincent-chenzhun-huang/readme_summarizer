@@ -1,0 +1,1 @@
+An Android hook library to fix Toast BadTokenException

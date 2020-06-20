@@ -1,0 +1,1 @@
+its capable of reading and writing epub files programmatically kindle support is under development.

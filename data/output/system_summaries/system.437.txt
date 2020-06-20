@@ -1,0 +1,1 @@
+Implementation of CommonMark specification in C# for converting Markdown documents to HTML. Optimized for maximum performance and portability.

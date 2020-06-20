@@ -1,0 +1,1 @@
+Extension which is used to convert a plain text message to/from Siddhi events

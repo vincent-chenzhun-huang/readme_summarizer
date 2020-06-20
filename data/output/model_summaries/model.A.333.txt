@@ -1,0 +1,1 @@
+there is written in node.js and running on google compute engine which receives the locations reported by the android app along with a time table provided in gtfs format and makes regular updates to a firebase real time database.

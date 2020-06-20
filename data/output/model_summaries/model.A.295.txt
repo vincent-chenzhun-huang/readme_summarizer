@@ -1,0 +1,1 @@
+in the default configuration beam segments are available.

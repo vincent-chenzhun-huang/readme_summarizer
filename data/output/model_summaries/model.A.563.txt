@@ -1,0 +1,1 @@
+salt minion configuration states salt configuration and state files files description srvsalt the state tree includes all sls salt state file representing the state in which all nodes should be etcsaltmaster salt master configuration → defines to location of the state tree srvsalttop.sls maps nodes to sls configuration files cf.

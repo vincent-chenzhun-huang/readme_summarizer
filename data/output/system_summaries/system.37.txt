@@ -1,0 +1,1 @@
+Sample application for Lightning Web Components. Part of the sample gallery. Real estate use case. Get inspired and learn best practices.

@@ -1,0 +1,1 @@
+encrypt your python project command scriptsdir is your python project root directory.

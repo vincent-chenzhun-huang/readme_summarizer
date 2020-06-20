@@ -1,0 +1,1 @@
+fingerprint receiving via keytool 1 you need to find the keystore location for your app.

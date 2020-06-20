@@ -1,0 +1,1 @@
+getting started planet assignment challenge instructions the purpose of this assignment is to allow you to demonstrate your understanding of oo principles and techniques think reusability maintainability flexibility etc.

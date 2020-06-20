@@ -1,0 +1,1 @@
+well start with the place target script it turns out there are several monobehaviors built into unity that can help.

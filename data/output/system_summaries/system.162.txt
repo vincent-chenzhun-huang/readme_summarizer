@@ -1,0 +1,1 @@
+Takt is Android library for measuring the FPS using Choreographer.

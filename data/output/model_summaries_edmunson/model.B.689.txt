@@ -1,0 +1,1 @@
+restated an ambitiously tiny gizp 900b fluxlike progressive state management library inpired by redux and vuex.

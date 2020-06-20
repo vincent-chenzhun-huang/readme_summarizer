@@ -1,0 +1,1 @@
+clinvar deprecated this code is out of date and no longer being maintained.

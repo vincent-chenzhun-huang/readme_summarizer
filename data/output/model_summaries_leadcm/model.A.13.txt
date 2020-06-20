@@ -1,0 +1,1 @@
+polystores polystores is an abstraction and a collection of clients to interact with cloud storages

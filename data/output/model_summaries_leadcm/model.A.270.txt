@@ -1,0 +1,1 @@
+mailgun with go go library for interacting with the mailgun api

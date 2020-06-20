@@ -1,0 +1,1 @@
+ Intelligent entity controller for Home Assistant for controlling devices with timers, overrides, scripts, custom service parameters and sun-based time restrictions.

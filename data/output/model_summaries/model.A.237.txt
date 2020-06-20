@@ -1,0 +1,1 @@
+customeremail string true if customer phone number is not passed email of the customer.

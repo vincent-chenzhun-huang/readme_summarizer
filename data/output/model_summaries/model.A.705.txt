@@ -1,0 +1,1 @@
+you can run the tests like that bash py.test randomorder v testsentities.py testsanon.py testsauth.py for testing in the folder tests you need to create a config.json file the template file is also located in the folder tests .config.json you can also test the library for syntax errors using pylint.

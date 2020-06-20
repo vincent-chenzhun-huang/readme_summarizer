@@ -1,0 +1,1 @@
+Friendly protocol multiplexing. It enables a multicodec to be negotiated between two entities.

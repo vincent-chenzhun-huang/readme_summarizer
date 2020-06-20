@@ -1,0 +1,1 @@
+importance sampling this python package provides a library that accelerates the training of arbitrary neural networks created with using importance sampling

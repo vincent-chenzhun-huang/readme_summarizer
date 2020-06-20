@@ -1,0 +1,1 @@
+notifications soundswitch provides five types of notification when a device was changed.

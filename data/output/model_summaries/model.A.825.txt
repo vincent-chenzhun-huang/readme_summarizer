@@ -1,0 +1,1 @@
+how can i send a message ruby alfa wants to send a message to beta alfa.sendmessagebeta body subject how can i read the messages of a conversation as a messageable what you receive are receipts which are associated with the message itself.

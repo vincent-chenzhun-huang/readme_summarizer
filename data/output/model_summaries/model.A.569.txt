@@ -1,0 +1,1 @@
+trust me its awesome pip install cookiecutter now run it against this repo cookiecutter httpsgithub.combenregncookiecutterdjangoansible.git youll be prompted for some questions answer them then it will create a django project for you.

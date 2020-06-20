@@ -1,0 +1,1 @@
+A plugin for Anki that adds progress stats for learned and matured cards

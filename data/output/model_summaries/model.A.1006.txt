@@ -1,0 +1,1 @@
+aws credentials uses under the hood and therefore inherits the same mechanism for looking up aws credentials.

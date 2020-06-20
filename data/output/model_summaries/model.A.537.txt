@@ -1,0 +1,1 @@
+the following variables are used to configure selinux policy and state the following variables are used to toggle selinux booleans the following variables are used to configure selinux ports the following variables are used to configure selinux fcontexts example playbook license mit

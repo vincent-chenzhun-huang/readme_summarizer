@@ -1,0 +1,1 @@
+ansible role nexus 3 oss this role installs and configures nexus repository manager oss version 3.x.

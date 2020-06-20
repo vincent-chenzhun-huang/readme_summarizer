@@ -1,0 +1,1 @@
+mvccore extension router modules with localization mvccore router extension to manage multiple websites in single project and to manage website localizations language or language and locale optionaly contained in url address domain part or in url address beinning defined by domain routes targeted by module property in url completing.

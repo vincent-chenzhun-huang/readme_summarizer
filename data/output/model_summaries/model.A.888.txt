@@ -1,0 +1,1 @@
+you can find features.py in the directory sh catkinwssrcsensorsticksrcsensorstick first up well alter the computecolorhistograms function which will do rgb color analysis on each point of the point cloud.

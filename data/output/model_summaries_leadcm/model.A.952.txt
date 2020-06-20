@@ -1,0 +1,1 @@
+gwastemplateservices application to provide template related services for the deposition interface requires python 3

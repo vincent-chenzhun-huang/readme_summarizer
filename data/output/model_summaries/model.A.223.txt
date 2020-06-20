@@ -1,0 +1,1 @@
+3. a design.txt or design.md file that contains any assumptions or core design considerations that will position the assignment submission.

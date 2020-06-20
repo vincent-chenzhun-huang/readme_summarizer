@@ -1,0 +1,1 @@
+trinitycore master build status introduction requirements install reporting issues submitting fixes copyright authors contributors links build status master 3

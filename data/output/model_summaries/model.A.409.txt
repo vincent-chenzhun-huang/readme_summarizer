@@ -1,0 +1,1 @@
+starter theme represents the shopify themes teams opinionated starting point for new slate theme projects.

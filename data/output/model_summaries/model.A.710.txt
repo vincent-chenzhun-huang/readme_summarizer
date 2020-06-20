@@ -1,0 +1,1 @@
+to adapt to this change you must explicitely append a null character to the database password you can also update your database to migrate them to a password without the extra null character with sqlite3rekey.

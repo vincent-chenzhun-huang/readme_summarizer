@@ -1,0 +1,1 @@
+accessing r source tldr references just print it function is an s3 generic compiled code 20170731 update since i wrote this jimhester has created the lookup package to automate this process

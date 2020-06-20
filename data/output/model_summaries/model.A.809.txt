@@ -1,0 +1,1 @@
+javascript canvas to blob description canvas to blob is a polyfill for the standard javascript canvas.toblob method.

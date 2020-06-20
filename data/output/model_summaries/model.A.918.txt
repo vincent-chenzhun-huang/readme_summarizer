@@ -1,0 +1,1 @@
+this plugin allows you to specify a list of attributes or exceptions from all the attributes that will be converted to nil if they are blank before a model is saved.

@@ -1,0 +1,1 @@
+deploy your service create a new user by hitting the createuser endpoint you can now retrieve your user by using the getuser endpoint in your createuser code it emits a user.created event to the event gateway which triggers the emailuser function which then emits a email.sent event.

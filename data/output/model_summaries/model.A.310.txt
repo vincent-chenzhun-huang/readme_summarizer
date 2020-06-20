@@ -1,0 +1,1 @@
+defining settings php configuration parameters in files can be defined as parameter on the main php class or phpfpm phpcli classes or phpextension resources for each component independently.

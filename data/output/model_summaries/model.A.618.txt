@@ -1,0 +1,1 @@
+by this way you could define which standard route could be used for which module.

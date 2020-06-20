@@ -1,0 +1,1 @@
+dockernginxrtmp a dockerfile installing nginx nginxrtmpmodule and ffmpeg from source with default settings for hls live streaming.

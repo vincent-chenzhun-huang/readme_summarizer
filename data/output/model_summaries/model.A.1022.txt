@@ -1,0 +1,1 @@
+the compiler and runtime directories allow exercises to be defined using regular scala which is compiled into an exercise library.

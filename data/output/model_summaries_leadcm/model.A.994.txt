@@ -1,0 +1,1 @@
+hetnets in python background hetnets hetnets also called heterogeneous information networks are graphs with multiple node and edge types

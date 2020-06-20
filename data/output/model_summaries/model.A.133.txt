@@ -1,0 +1,1 @@
+using snapshots if you want to test recent bugfixes or features that have not been packaged in an official release yet you can use a snapshot release of the current development version of realm via gradle available on ojo see version.txt for the latest version number.

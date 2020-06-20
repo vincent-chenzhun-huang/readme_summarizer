@@ -1,0 +1,1 @@
+webext redux a set of utilities for building redux applications in web extensions

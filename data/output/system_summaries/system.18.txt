@@ -1,0 +1,1 @@
+PyTorch implementation of CRNN to do Image Text Recognition using torch.nn.CTCLoss

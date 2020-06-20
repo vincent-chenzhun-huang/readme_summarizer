@@ -1,0 +1,1 @@
+solid principles the definitive guide dependency injection and dagger basics what is dependency injection dagger 2 beginner tutorial youtube playlist one of the best tutorials explaining dependency injection and all the annotations involved with live examples from an android app from scratch.

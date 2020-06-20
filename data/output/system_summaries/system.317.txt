@@ -1,0 +1,1 @@
+Use this script to extract data from your private repo. This data is used to calculate your score. https://codersrank.io

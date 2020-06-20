@@ -1,0 +1,1 @@
+if you support multiple url schemes in your app you can register routes specific to those schemes as follows an incoming url of schemeonetimeline objc matches the url.

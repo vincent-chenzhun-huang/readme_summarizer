@@ -1,0 +1,1 @@
+stagemonitor is a java monitoring agent that tightly integrates with time series databases like elasticsearch graphite and influxdb to analyze graphed metrics and kibana to analyze requests and call stacks.

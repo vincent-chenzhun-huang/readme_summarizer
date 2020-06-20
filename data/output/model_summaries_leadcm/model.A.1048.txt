@@ -1,0 +1,1 @@
+videoplayermanager this is a project designed to help controlling android mediaplayer class

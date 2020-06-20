@@ -1,0 +1,1 @@
+Demo app using Firebase and Google Cloud products to implement a \universal translator\""

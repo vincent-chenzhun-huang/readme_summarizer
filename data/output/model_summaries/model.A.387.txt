@@ -1,0 +1,1 @@
+version tagging scheme updates to the repository which correspond to a new vulkan specification release are tagged using the following format e.g. .

@@ -1,0 +1,1 @@
+ember modal dialog the embermodaldialog addon provides components to implement modal dialogs throughout an ember application using a simple consistent pattern.

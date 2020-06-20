@@ -1,0 +1,1 @@
+microsoft.extensions.logging.log4net.aspnetcore allows to configure log4net as microsoft extensions logging handler on any asp.net core application.

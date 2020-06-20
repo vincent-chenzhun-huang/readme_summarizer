@@ -1,0 +1,1 @@
+it allows you to use outputs from one stack as input parameters to other stacks.

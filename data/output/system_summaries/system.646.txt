@@ -1,0 +1,1 @@
+This repository contains a collection of GStreamer* elements to enable CNN model based video analytics capabilities (such as object detection, classification, recognition) in GStreamer* framework. 

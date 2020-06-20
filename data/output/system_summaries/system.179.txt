@@ -1,0 +1,1 @@
+GUI interface for creating, editing, exporting of static GTFS data for a public transit authority

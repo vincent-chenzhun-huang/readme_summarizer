@@ -1,0 +1,1 @@
+to check this run the following command in the terminal after inserting your yubikey if you have an existing key you want to import the key must be a rsa 2048 bit key.

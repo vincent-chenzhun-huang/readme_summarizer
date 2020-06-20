@@ -1,0 +1,1 @@
+bulkwriterows first collects all writes and fires only one request underlying method is mutaterows this results in a much higher write throughput.

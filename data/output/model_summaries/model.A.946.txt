@@ -1,0 +1,1 @@
+aws cloudformation role this is an ansible role for generating cloudformation templates and deploying cloudformation stacks to amazon web services.

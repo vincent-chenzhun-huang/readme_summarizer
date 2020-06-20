@@ -1,0 +1,1 @@
+azure iotpiday workshop this is an exclusive workshop to help developers get handson with azure and iot devices.

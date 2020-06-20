@@ -1,0 +1,1 @@
+the app demonstrates the following patterns with simmy configuring so that simmy chaos policies are only introduced in builds for certain environments for instance dev but not prod configuring simmy chaos policies to be injected into the app without changing any existing configuration code injecting faults or chaos by modifying external configuration.

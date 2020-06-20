@@ -1,0 +1,1 @@
+Erlang build tool that makes it easy to compile and test Erlang applications and releases.

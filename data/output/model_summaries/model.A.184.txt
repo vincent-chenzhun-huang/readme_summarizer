@@ -1,0 +1,1 @@
+funky1234 link isplayerincheckpoint function returns an undefined value if it is called before any other checkpoint functions are called to initialise the value.

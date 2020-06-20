@@ -1,0 +1,1 @@
+Functions for representing plain objects as typesafe immutable dictionaries

@@ -1,0 +1,1 @@
+for users on microstrategy 10.11 or newer the r integration pack comes packaged with microstrategy products users will still need to install r. deployment delivering results from r to any bi user is what the r integration pack is all about.

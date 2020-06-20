@@ -1,0 +1,1 @@
+phpggc php generic gadget chains phpggc is a library of unserialize payloads along with a tool to generate them from command line or programmatically.

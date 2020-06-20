@@ -1,0 +1,1 @@
+:zap: AWS Lambda serverless application created using SAM yaml templates. :twisted_rightwards_arrows: AWS API Gateway used to trigger lambda functions.

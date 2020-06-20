@@ -1,0 +1,1 @@
+this deep neural network is implemented with keras functional api which makes it extremely easy to experiment with different interesting architectures.

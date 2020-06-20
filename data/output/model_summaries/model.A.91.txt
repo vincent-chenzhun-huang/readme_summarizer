@@ -1,0 +1,1 @@
+this repository currently has scripts that download modencode data from ncbi sra performs quality control on the reads aligns them to the drosophila reference genome normalizes the transcript abundances and generates figures comparing gene expression in each sequenced tissue in the l3 larval data set.

@@ -1,0 +1,1 @@
+click app registrations select all apps from the drop down click on the application created in step 3. click settings and then click redirect uris add urnietfwgoauth2.0oob as one of the available redirect uris.

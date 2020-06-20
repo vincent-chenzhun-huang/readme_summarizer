@@ -1,0 +1,1 @@
+mef components can be found in most of our sample applications as in this circuit editor sample source file program.cs.

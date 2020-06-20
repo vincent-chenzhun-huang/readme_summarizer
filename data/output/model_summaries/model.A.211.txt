@@ -1,0 +1,1 @@
+please note that some distributions will need the following environment variables set before running configure export pythonpython3 export pythonconfigusrbinpython3config for developers using the git tree this source tree is based on the autotools suite from gnu to simplify portability.

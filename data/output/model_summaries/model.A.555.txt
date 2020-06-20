@@ -1,0 +1,1 @@
+hckalmanfilter library was created for the implementation of kalman filter algorithm for the problem of gps tracking and correction of trajectories obtained based on the measurement of the gps receiver.

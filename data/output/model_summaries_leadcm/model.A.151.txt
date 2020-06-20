@@ -1,0 +1,1 @@
+introduction model builder is a simple ui tool that runs locally for developers to build train and ship custom machine learning models in your applications

@@ -1,0 +1,1 @@
+dmelhousekeeping description this repository contains the bash and r scripts for downloading public modencode rnaseq data from larval drosophila melanogaster tissues mapping the reads to the reference genome quantifying the transcripts and identifying genes that have wellcorrelated expression across multiple tissues at the same developmental stage

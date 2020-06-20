@@ -1,0 +1,1 @@
+Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.

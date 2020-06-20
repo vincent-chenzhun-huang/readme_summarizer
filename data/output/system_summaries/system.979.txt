@@ -1,0 +1,1 @@
+A truffle box to serve as the foundation of any Truffle and Vue.js dApp. Comes with Vue.js, vue-router and Vuex.

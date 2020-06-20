@@ -1,0 +1,1 @@
+services storage platforms php author roygara transfer objects to and from azure blob storage using php this repository contains a simple sample project to help you getting started with azure storage using .net as the development language.

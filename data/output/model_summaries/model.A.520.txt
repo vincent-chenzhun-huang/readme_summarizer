@@ -1,0 +1,1 @@
+compiling dlib python api before you can run the python example programs you must compile dlib.

@@ -1,0 +1,1 @@
+gtfs feed import from the main page you can import your gtfs feed in a .zip file.

@@ -1,0 +1,1 @@
+java void viewutil.setbackgroundview view drawable drawable void viewutil.setbackgroundview view int drawableres serviceutil ★★☆☆☆ serviceutil helps to get android system service conveniently.

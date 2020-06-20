@@ -1,0 +1,1 @@
+demo check out the demo project for a quick example of how nsgif works.

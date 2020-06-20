@@ -1,0 +1,1 @@
+deploy deploys a backup to a given environment filesdiff show differences between two sites file trees joomlainfo show information about joomla installations sites show configured sites and environments use sit h for help about that command.

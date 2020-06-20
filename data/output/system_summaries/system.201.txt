@@ -1,0 +1,1 @@
+Keras 1D CNN on Azure ML Workbench to classify 4 week stock performance based on text in public earnings statements

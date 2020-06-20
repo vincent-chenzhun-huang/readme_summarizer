@@ -1,0 +1,1 @@
+components where all of our components live except the special app.vue root component.

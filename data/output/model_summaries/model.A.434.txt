@@ -1,0 +1,1 @@
+using providers that require secrets for some providers a secret like an api key is required to use their api.

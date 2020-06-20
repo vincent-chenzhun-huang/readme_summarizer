@@ -1,0 +1,1 @@
+Universal avatar component for angular 2+ applications makes it possible to fetch / generate  avatar from different sources

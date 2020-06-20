@@ -1,0 +1,1 @@
+initialization new spinniesoptions parameters options color any valid chalk color.

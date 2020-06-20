@@ -1,0 +1,1 @@
+results i recorded the html of 850 pages on the eyd website and at least 50000 pages from the kgs archives as of may 31 2019. data cleaning although i still do not have the complete set of data from the kgs archive i have developed the pipelines to clean and organize the information ive gathered from both sources into usable data.

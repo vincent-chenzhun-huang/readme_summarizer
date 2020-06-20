@@ -1,0 +1,1 @@
+cloudbreak website httpshortonworks.comopensourcecloudbreak documentation httpsdocs.hortonworks.comhdpdocumentscloudbreakcloudbreak2.7.0index.html local development setup as of now this document focuses on setting up your development environment on macos.

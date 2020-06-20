@@ -1,0 +1,1 @@
+these configuration setups will be required to be added as environment variables for the server to make use of.

@@ -1,0 +1,1 @@
+emulator commands in a virtual machine emulator commands are used both to define the structure of the virtual machine and to control devices attached to the vm e.g. mount a aws file in a tape device or enqueue a file to the card reader.

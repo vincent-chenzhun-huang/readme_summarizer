@@ -1,0 +1,1 @@
+play method callback instead of using the global constructor callback when you create the vivus object you can add callbacks to be executed for specific play method calls.

@@ -1,0 +1,1 @@
+big data docker guide this guides you to create a docker image and run it effectively

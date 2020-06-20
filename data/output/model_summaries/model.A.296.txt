@@ -1,0 +1,1 @@
+every time the english.lproj was uploaded or updated the project owner should email to all the contributors.

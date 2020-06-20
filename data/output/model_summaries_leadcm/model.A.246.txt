@@ -1,0 +1,1 @@
+reactpainter demo 0 dependencies react component to draw with mousetouch the problem you want a simple functionality to allow user to writedraw on image blank canvas then save the output to be uploaded to serverlocally

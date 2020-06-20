@@ -1,0 +1,1 @@
+A node mini project to introduce connecting to a database in a node project.

@@ -1,0 +1,1 @@
+ansibleselinuxrole allows you to configure selinux

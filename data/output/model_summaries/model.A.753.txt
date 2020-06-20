@@ -1,0 +1,1 @@
+huesensorshass for community support please use this thread place the customcomponents folder in your configuration directory or add its contents to an existing customcomponents folder.

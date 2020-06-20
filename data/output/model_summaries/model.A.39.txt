@@ -1,0 +1,1 @@
+basic usage the most simple implementation to get started options available to pass during initialization corners selected mode fullresolutionsrc keymapper suppresstoolbar selected optional default false value boolean by default your image will initially appear on the screen as unselected meaning its toolbar and editing handles will not be visible.

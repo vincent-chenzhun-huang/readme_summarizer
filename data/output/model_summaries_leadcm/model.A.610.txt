@@ -1,0 +1,1 @@
+ng2dndlist this library is a remake of angulardraganddroplists in angular v2 and upper

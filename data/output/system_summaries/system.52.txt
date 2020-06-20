@@ -1,0 +1,1 @@
+This repository was a fork of BVLC/caffe and includes the upsample, bn, dense_image_data and softmax_with_loss (with class weighting) layers of caffe-segnet (https://github.com/alexgkendall/caffe-segnet) to run SegNet with cuDNN version 5.

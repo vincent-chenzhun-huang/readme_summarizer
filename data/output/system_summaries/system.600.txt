@@ -1,0 +1,1 @@
+Library for using Grafana' structures in Go programs and client for Grafana REST API.

@@ -1,0 +1,1 @@
+log4net.ext.json moved to gitlab enable json logging in log4net extend log4net with simple configuration options to create json log entries.

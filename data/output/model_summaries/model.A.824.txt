@@ -1,0 +1,1 @@
+discord bot 1. install the dependencies using 2. launch the bot using why kakaotalk file we decided to use kakaotalk file for generating data because its the current platform we use for communication so bigger data.

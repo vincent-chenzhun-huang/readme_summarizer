@@ -1,0 +1,1 @@
+???? A GraphQL tool to ease the creation of permission layer.

@@ -1,0 +1,1 @@
+Basic tools and wrappers for enabling not-too-alien syntax when running columnar Collider HEP analysis.

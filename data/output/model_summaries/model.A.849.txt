@@ -1,0 +1,1 @@
+small example ida output when compiling first line features does not leave any strings in memory.

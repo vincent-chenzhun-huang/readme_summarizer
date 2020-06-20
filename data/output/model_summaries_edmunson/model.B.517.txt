@@ -1,0 +1,1 @@
+cross platform controller using ionic magic develop once and export to ios or android with angular.

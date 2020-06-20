@@ -1,0 +1,1 @@
+hackingthecapsulenetwork this repository is contains hands on guide to learning pytorch and developing machine learning models using it.

@@ -1,0 +1,1 @@
+cloudflarescrape a simple python module to bypass cloudflares antibot page also known as im under attack mode or iuam implemented with requests

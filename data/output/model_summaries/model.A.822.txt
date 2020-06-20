@@ -1,0 +1,1 @@
+idempotency with nginx 1.15.0 and later by default this module might configure the deprecated ssl on directive.

@@ -1,0 +1,1 @@
+shiftmediaproject x264 shiftmediaproject shift media project aims to provide native windows development libraries for x264 and associated dependencies to support simpler creation and debugging of rich media content directly within visual studio.

@@ -1,0 +1,1 @@
+In May of 2019, I decided to become proficient in Vue and be qualified as a front-end-developer, this is my journey.

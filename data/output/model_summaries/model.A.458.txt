@@ -1,0 +1,1 @@
+labelbuttonview labelimageview labeltextview parameter description if you need label in your custom view create an new view class extends use labelviewhelper as your in constructor function and ondraw function call labelviewhelper method.

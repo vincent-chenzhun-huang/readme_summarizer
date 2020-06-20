@@ -1,0 +1,1 @@
+you use cloudflarescrape exactly the same way you use requests.

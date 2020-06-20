@@ -1,0 +1,1 @@
+introduction this maven plugin is a onestopshop for building and deploying java applications for docker kubernetes.

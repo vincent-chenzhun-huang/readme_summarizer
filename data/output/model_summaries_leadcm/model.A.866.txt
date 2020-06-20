@@ -1,0 +1,1 @@
+djangodynamicmodels overview dynamic django models allow users to define edit and populate their own database tables and apply runtime schema changes to the database

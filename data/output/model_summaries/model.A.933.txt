@@ -1,0 +1,1 @@
+instructions create a file named .env make sure to add .env to your .gitignore open your .env and add a variable named serverport and set it to 3000. add a variable named connectionstring that equals the uri connection string from your heroku database.

@@ -1,0 +1,1 @@
+23 1.2.2 dont execute hidden queries template support for metrics queries template support for annotation queries if using grafana 2.6 note for grafana 2.6 please use this version copy the data source you want to publicapppluginsdatasource.

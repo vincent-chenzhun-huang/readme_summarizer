@@ -1,0 +1,1 @@
+flash a boot partition .img or recovery partition .img on a supported device.

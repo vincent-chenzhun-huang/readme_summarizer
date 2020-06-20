@@ -1,0 +1,1 @@
+multer multer is a node.js middleware for handling which is primarily used for uploading files.

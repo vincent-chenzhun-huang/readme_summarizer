@@ -1,0 +1,1 @@
+example xml this text size is 20dp drawable description adds an imagespan.

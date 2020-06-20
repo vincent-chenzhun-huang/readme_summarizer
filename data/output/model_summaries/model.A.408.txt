@@ -1,0 +1,1 @@
+flight indicators jquery plugin the flight indicators plugin allows you to display high quality flight indicators using html css3 jquery and svg images.

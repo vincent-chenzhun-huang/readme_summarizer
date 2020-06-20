@@ -1,0 +1,1 @@
+if they are m option takes precedent over the s option known issues with ffmpeg there might be some videos that arent showing properly after splitting the source video with ffmpeg.

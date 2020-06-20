@@ -1,0 +1,1 @@
+create simple queries spring data mongodb focuses on storing data in mongodb.

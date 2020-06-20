@@ -1,0 +1,1 @@
+vmwarepksdeploy this is a project intended to document and automate the process required for a pks nsxt deployment on vsphere.

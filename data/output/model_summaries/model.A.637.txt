@@ -1,0 +1,1 @@
+with this framework blue team can easily generate thousands of unique obfuscated scripts or commands to help create and test detections of bash obfuscation.

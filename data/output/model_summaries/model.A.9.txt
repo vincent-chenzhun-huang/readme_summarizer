@@ -1,0 +1,1 @@
+you can now start adding tasks commands create a project delete a project rename a project add a task remove a task check a task uncheck a task toggle a task list all tasks search tasks create a project delete a project you can use instead of .

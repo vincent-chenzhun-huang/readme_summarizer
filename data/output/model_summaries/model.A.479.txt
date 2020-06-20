@@ -1,0 +1,1 @@
+if you want to use existing certificates you can adapt the following variables to the correct locations for your setup to download the certificate files together with configuration to use in your taskwarrior then you can set in your file and taskwarrior should be ready to sync with taskserver.

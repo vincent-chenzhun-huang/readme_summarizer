@@ -1,0 +1,1 @@
+you can use the prebuilt images in the dockerhub or build it yourself like this resources full usage details issues setup mailing after execution integration with nginx and authentication setup on raspberry pi adding deleting pausing and resuming jobs.

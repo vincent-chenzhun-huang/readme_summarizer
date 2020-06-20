@@ -1,0 +1,1 @@
+installation metabase can be run just about anywhere so checkout our installation guides for detailed instructions for various deployments.

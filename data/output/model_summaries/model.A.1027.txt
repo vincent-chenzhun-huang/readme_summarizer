@@ -1,0 +1,1 @@
+get the demo from googleplay and see the librarys custom interpolators in action.

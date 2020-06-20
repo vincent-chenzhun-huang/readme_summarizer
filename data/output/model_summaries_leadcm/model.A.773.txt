@@ -1,0 +1,1 @@
+rabbitmqadvanced â a generic library for messaging with rabbitmq an extension of spring boot amqp

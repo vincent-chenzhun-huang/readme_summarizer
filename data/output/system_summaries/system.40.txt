@@ -1,0 +1,1 @@
+UI Dashboard for Exq, a job processing library for Elixir.  Exq UI provides the UI dashboard to display stats on job processing.

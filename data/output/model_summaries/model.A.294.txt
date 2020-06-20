@@ -1,0 +1,1 @@
+to start up the test environment run this will build a docker container set up with an environment to run the python test code.

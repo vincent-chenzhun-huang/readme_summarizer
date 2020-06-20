@@ -1,0 +1,1 @@
+criuincontainerdemo this project is an attempt to demostrate use of criu inside docker containers to improve startup time of applications

@@ -1,0 +1,1 @@
+placetopay redirection java library with this code you will be able to quickly connect with the placetopay redirection service.

@@ -1,0 +1,1 @@
+Code repo for 'Learning Selfie-Friendly Abstraction from Artistic Style Images' (ACML 2018).

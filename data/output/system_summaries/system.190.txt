@@ -1,0 +1,1 @@
+Easy to use MariaDb Galera Cluster container based on official mariadb image with support for Docker Swarm Mode.

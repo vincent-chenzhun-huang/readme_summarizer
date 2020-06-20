@@ -1,0 +1,1 @@
+outline server this repository has all the code needed to create and manage outline servers on digitalocean

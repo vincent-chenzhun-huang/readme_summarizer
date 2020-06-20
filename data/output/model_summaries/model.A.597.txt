@@ -1,0 +1,1 @@
+other operators muparser has built in support for the if then else operator.

@@ -1,0 +1,1 @@
+nftables overview role variables os specific variables rules dictionaries example playbook known issue configuration development license author information overview a role to manage nftables rules and packages

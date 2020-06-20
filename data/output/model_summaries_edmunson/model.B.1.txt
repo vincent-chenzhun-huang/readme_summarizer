@@ -1,0 +1,1 @@
+firmware analysis toolkit fat is a toolkit built in order to help security researchers analyze and identify vulnerabilities in iot and embedded device firmware.

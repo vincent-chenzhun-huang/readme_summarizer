@@ -1,0 +1,1 @@
+this repository contains all code and data used to build the computer science rankings website hosted here httpcsrankings.org adding or modifying affiliations please read for full details on how to contribute.

@@ -1,0 +1,1 @@
+varlibmysqlnewcluster cause a node container to behave as a seed container on its first run.

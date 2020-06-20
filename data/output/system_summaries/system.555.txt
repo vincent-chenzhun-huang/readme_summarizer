@@ -1,0 +1,1 @@
+HCKalmanFilter is Swift implementation of Kalman filter algorithm intended to solve problem with GPS tracking

@@ -1,0 +1,1 @@
+readme about this application is an inventory management system that is built to address the needs of diaper banks as directly and explicitly as possible

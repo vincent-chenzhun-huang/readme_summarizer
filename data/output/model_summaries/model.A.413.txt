@@ -1,0 +1,1 @@
+bdprochot related tools require the use of the msr module and the msrtools package etcsystemdsystemdisablebdprochot.service copy this file to the same location in the root of your system and run also ensure to copy usrlocalsbindisableprochot.py to the same path in your system and ensure it is root executable.

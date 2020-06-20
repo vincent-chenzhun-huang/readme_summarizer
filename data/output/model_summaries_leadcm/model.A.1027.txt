@@ -1,0 +1,1 @@
+easings for android if you are not pleased with the native interpolators on android

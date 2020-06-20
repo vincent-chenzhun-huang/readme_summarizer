@@ -1,0 +1,1 @@
+realm is a mobile database that runs directly inside phones tablets or wearables

@@ -1,0 +1,1 @@
+nkakouros.taskserver ansible role to setup a taskservertaskd for taskwarrior.

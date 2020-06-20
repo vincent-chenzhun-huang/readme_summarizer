@@ -1,0 +1,1 @@
+tmg2sql a utility to convert a the master genealogist database into a sqlsqlite database this is a small python utility to convert a tmg database into a sqlite database and eventually distribution this repository contains several forms of distribution of this module.

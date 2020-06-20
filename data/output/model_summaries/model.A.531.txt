@@ -1,0 +1,1 @@
+.. figure httpsraw.github.comcollectivecollective.behavior.localdiazomaster1.png align center height 670px width 700px add a new object you will see a new field called theme and select a diazo theme from the list.

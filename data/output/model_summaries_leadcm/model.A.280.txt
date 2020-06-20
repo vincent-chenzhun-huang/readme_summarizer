@@ -1,0 +1,1 @@
+selinux module for puppet table of contents overview module description what the module does and why it is useful usage configuration options and additional functionality reference an underthehood peek at what the module is doing and how defined types development guide for contributing to the module authors overview this class manages selinux on rhel based systems

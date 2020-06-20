@@ -1,0 +1,1 @@
+Make you can use three.js geometry in Cesium,and use mesh,geometry,material like three.js to manage renderable object in Cesium. Cesium Physics (ammo.js) , BSP(CSG.js)  ,Volume Rendering  demo.  see 

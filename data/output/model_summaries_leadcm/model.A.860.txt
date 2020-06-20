@@ -1,0 +1,1 @@
+openapi swagger connected service is a visual studio extension to generate code for formerly web service with nswag simply put it is like for or for but for json api

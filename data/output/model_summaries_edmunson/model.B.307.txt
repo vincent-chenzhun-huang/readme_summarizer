@@ -1,0 +1,1 @@
+alsaloopbackmpdandicecast2 setting up an alsa loopback pipelining it to mpd.service and then relaying it to icecast2.service just a howto for now setting up an alsa loopback pipelining it to mpd.service and then relaying it to icecast2.service 1. how to determine hwx1y1 first check for soundcards available in your system in procasoundcards.

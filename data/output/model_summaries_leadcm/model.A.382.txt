@@ -1,0 +1,1 @@
+unithread using thread in unity can be problematic because if you join on the thread it blocks the main thread

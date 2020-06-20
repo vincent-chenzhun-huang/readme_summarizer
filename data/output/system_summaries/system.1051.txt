@@ -1,0 +1,1 @@
+Use Mongoose schema to generate graphQL type.

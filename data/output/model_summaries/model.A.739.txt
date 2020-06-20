@@ -1,0 +1,1 @@
+swift let stylesheet labelstylesheet .compose.numberoflines 3 .compose.font uifont.preferredfontfortextstyle .body stylesheets can be used with bentos components.

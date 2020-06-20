@@ -1,0 +1,1 @@
+welcome to this set of openfoam® programming tutorials these are intented to provide a beginner c programmer with handson examples of how to develop code within the openfoam® framework.

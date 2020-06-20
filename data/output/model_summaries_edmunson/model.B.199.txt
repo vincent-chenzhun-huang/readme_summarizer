@@ -1,0 +1,1 @@
+automatedrepair a collection of automated scripts for technicians to repair computers see bottom for md5 hash how to install download the whole repository as a compressed .zip file and then run deploy.bat as administrator.

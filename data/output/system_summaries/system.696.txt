@@ -1,0 +1,1 @@
+Awesome WebSocket CLient - an interactive command line client for testing websocket servers

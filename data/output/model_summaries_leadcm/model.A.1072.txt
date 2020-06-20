@@ -1,0 +1,1 @@
+services azureresourcemanager platforms python author lmazuel deploy an ssh enabled vm with a template in python this sample explains how to use azure resource manager templates to deploy your resources to azure

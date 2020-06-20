@@ -1,0 +1,1 @@
+i18n.js its a small library to provide the rails i18n translations on the javascript.

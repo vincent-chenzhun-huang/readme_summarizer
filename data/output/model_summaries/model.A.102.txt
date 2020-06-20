@@ -1,0 +1,1 @@
+the above code will result in this table id name 1 b 2 c 3 a props data defaults to an array of data that you want to render defaultdirection defaults to can be or this is the direction in which the data is sorted by default.

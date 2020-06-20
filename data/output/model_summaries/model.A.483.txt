@@ -1,0 +1,1 @@
+3 to run a box2d game like lunarlander you have to install the box2d physics engine lunar lander reward for moving from the top of the screen to landing pad and zero speed is about 100..140 points.

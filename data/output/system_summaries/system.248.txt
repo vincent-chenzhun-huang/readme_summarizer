@@ -1,0 +1,1 @@
+Platform to build API applications that have to aggregate data from distributed services in an efficient way.

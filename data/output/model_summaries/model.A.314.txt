@@ -1,0 +1,1 @@
+definitions lighten flatten requirements how does it work an xslt stylesheet is applied to the original xml schema.

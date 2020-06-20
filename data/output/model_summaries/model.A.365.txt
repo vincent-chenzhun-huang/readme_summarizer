@@ -1,0 +1,1 @@
+passing catalog table as a generic type in dotnetcrawler class.

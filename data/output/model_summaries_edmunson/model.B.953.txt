@@ -1,0 +1,1 @@
+flaskldapconn .. image httpstravisci.orgrroemhildflaskldapconn.svgbranchmaster target httpstravisci.orgrroemhildflaskldapconn .. image httpsbadge.fury.iopyflaskldapconn.svg target httpsbadge.fury.iopyflaskldapconn flaskldapconn is a flask extension providing an ldap v3 pure python client connection for accessing ldap servers.

@@ -1,0 +1,1 @@
+ember component focus this embercli addon provides a mixin for adding methods to your ember components that help you manage the currently focused element

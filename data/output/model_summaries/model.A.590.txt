@@ -1,0 +1,1 @@
+between the use of create2 opcode and the onetimeuseaccount for the deployer we can ensure that a given contract will exist at the exact same address on every chain but without having to use the same gas pricing or limits every time.

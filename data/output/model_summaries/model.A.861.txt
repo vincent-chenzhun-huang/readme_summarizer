@@ -1,0 +1,1 @@
+python parseshapefiles.py s wa p geometry data for certain geography types can be very large.

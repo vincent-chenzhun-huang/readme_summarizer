@@ -1,0 +1,1 @@
+avatarconfig interface has two properties avatarcolors allows the user to override the default avatar colors by providing a new set of colors sourcepriorityorder allows the user to change the avatar source priority order.

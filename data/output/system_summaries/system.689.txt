@@ -1,0 +1,1 @@
+An ambitiously tiny, gizp ~900b, flux-like library to manage your state

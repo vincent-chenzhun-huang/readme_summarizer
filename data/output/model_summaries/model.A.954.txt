@@ -1,0 +1,1 @@
+ttparent number the key of this rows parent row options treetable options are all datatable options plus collapsed bool whether to start with all child rows collapsed please note that the treetable plugin adds a lefthand column to the table.

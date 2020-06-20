@@ -1,0 +1,1 @@
+This bundle provides tools to build a complete GraphQL server in your Symfony App.

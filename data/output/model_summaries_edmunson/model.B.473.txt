@@ -1,0 +1,1 @@
+django warrant install django auth backend using the cognitobackend in your django project settings file add the dotted path of to your list of .

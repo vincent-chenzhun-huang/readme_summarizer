@@ -1,0 +1,1 @@
+raspgm installation of conversion to wrfv3 decide on a and make the directory if necessary.

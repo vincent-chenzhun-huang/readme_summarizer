@@ -1,0 +1,1 @@
+video buildanimatecut tools in blender a collection of scripts to automate various parts of the production process behind my animations

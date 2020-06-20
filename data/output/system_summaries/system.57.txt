@@ -1,0 +1,1 @@
+A collection of usage examples for camunda BPM intended to get you started quickly

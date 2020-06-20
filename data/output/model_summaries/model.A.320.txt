@@ -1,0 +1,1 @@
+inferencetrainingtesting after installation please see for examples of inference and training and testing.

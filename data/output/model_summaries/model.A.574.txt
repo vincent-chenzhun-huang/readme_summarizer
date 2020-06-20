@@ -1,0 +1,1 @@
+postinstallation mib load if you want to automatically map the device models and the snmp traps you need to load two mibs the go to zenoss advanced mibs.

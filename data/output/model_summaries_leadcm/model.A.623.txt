@@ -1,0 +1,1 @@
+terraformawsec2bastionserver terraform module to define a generic bastion host with parameterized this project is part of our comprehensive sweetops approach towards devops

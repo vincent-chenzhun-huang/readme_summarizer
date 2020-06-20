@@ -1,0 +1,1 @@
+include partials with this package you can include other template files in your root html file.

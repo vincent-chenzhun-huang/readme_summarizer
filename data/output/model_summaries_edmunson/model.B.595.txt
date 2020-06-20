@@ -1,0 +1,1 @@
+caffejacintomodels example scripts for caffejacinto embedded deep learning framework caffejacintomodels provides example scripts for training sparse models using tidspcaffejacinto.

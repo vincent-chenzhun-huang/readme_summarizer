@@ -1,0 +1,1 @@
+maven extension to build the target platform dependencies in order to build and package a eclipse e4 application a target platform is needed.

@@ -1,0 +1,1 @@
+adds support for responding to and interacting with other sites using the standards developed by the Indieweb Community

@@ -1,0 +1,1 @@
+advances in financial machine learning exercises experimental solutions to selected exercises from the book advances in financial machine learning by marcos lopez de prado make sure to use in your environment so the scripts which include and can be found by the jupyter notebooks and other scripts you may develop

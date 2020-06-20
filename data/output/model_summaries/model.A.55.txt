@@ -1,0 +1,1 @@
+to access the development web server you can use port 3000. when you run yarn start a separate server is started that handles ssr and web api endpoints.

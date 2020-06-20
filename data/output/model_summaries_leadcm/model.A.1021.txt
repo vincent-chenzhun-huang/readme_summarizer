@@ -1,0 +1,1 @@
+ocrmypdf ocrmypdf adds an ocr text layer to scanned pdf files allowing them to be searched or copypasted

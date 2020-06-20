@@ -1,0 +1,1 @@
+build output building creates the following directories under build webapp the manager web app.

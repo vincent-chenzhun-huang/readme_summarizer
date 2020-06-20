@@ -1,0 +1,1 @@
+so if there is no params passed to indoormap it will create a fullscreen 3d map by default 3 load the map data and set up its styles.

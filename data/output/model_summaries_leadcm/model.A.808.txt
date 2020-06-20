@@ -1,0 +1,1 @@
+cli to generate jwt and access tokens for webex teams permanent guest guest issuer applications allow guests aka non webex teams users to persistently use the webex cloud platform through the teams sdks and widgets

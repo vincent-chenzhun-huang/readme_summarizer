@@ -1,0 +1,1 @@
+Repository for collecting Locale data for Ruby on Rails I18n as well as other interesting, Rails related I18n stuff

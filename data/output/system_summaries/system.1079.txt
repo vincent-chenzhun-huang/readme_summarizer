@@ -1,0 +1,1 @@
+A simple .Net Core WebAPI app to demonstrate Simmy chaos policies

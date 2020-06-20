@@ -1,0 +1,1 @@
+Simple Ansible playbooks, roles and tasks to lock down and perform initial setup for a new Raspberry Pi.

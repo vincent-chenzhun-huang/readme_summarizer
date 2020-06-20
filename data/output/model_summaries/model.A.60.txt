@@ -1,0 +1,1 @@
+and instead of maintaining all that infrastructure code yourself you can leverage the work of the module community and maintainers and pick up infrastructure improvements through a version number bump.

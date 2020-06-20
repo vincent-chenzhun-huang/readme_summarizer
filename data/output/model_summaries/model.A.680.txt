@@ -1,0 +1,1 @@
+lights that are already on will be set to the new color.

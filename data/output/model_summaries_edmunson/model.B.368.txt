@@ -1,0 +1,1 @@
+rpiclone version 2 is a complete rewrite with improved capability over the original.

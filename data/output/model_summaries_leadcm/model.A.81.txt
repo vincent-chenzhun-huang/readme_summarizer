@@ -1,0 +1,1 @@
+giphy android search library this library is a wrapper giphys wonderful api and allows you to easily include animated gifs in your projects

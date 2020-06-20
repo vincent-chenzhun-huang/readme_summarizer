@@ -1,0 +1,1 @@
+composernormalize provides a composer plugin for normalizing .

@@ -1,0 +1,1 @@
+An Alexa Skill Template to help create skills that read RSS/Atom feeds. 

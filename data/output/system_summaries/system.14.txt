@@ -1,0 +1,1 @@
+This bundle makes it easy to handle eZPlatform / eZPublish5 content upgrades/migrations

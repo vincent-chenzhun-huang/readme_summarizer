@@ -1,0 +1,1 @@
+section 2 basics of data visualization this section covers the basics of data visualization and design such as choosing the right chart type for your message good practices and common pitfalls in data visualization.

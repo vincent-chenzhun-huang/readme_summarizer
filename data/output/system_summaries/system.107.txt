@@ -1,0 +1,1 @@
+Experimental solutions to selected exercises from the book [Advances in Financial Machine Learning by Marcos Lopez De Prado]

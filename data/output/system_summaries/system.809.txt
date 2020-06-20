@@ -1,0 +1,1 @@
+JavaScript Canvas to Blob is a function to convert canvas elements into Blob objects.

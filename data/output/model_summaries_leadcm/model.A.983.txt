@@ -1,0 +1,1 @@
+lstmlyrics lstm text generation by word

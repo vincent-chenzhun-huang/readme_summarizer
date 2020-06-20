@@ -1,0 +1,1 @@
+Easy to use, Element Printing Plugin for jQuery

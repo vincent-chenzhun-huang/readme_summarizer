@@ -1,0 +1,1 @@
+flat surface shader fss simple lightweight flat surface shader written in javascript for rendering lit triangles to a number of contexts

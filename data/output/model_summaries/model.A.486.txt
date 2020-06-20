@@ -1,0 +1,1 @@
+2. setting the environment variables after installing the npm package you need to set up the configuration in your terminal.

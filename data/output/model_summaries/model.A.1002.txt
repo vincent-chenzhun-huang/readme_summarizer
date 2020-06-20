@@ -1,0 +1,1 @@
+the additional configuration array for the inversecalculator has the keys already described for the validator.

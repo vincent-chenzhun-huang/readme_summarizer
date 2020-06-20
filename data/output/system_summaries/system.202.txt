@@ -1,0 +1,1 @@
+Add's approval_status functionality to ckan. Currently implemented only for organizations.

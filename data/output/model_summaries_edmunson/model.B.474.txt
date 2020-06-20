@@ -1,0 +1,1 @@
+fuse studio fuse studio is a visual desktop tool suite for working with the fuse framework.

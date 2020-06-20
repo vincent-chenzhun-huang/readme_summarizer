@@ -1,0 +1,1 @@
+1.2.0 unique id fix in notification email checkbox value in notification email 1.1.9 feature request link added minor css fixes 1.1.8 contact form full width message area in two column layout 1.1.7 feature added edit submissions 1.1.6 help links added.

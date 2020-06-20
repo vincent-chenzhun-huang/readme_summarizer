@@ -1,0 +1,1 @@
+finally the second fully connected layer takes the input of size 128 to produce 2 output features.

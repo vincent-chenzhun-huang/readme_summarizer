@@ -1,0 +1,1 @@
+this repository the touchgfx open repository contains numerous examples of and ideas for graphical components such as widgets containers and mixins that are not part of the core distribution.

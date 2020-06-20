@@ -1,0 +1,1 @@
+ddclient automated dynamic dns renewal pihole dnslevel adblocking syncthing file synchronization restic scheduled backups a toy barcode generator app todo tig stack telegraf influxdb grafana glances plex media server note linuxserverdockerplex does not officially support bridge networking mode.

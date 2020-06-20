@@ -1,0 +1,1 @@
+for the product images i decided to create a new component productimage an idea i got from reviewing the code of triciacodes.

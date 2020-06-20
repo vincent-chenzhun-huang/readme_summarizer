@@ -1,0 +1,1 @@
+Phone tracker is an Android library to gather environment signals, like cell towers, wifi access points and gps locations.

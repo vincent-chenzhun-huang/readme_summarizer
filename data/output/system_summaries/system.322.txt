@@ -1,0 +1,1 @@
+Ruby string class extension. It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.

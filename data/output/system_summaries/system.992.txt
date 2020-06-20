@@ -1,0 +1,1 @@
+This is a guide showing how to setup esp32 freeRTOS project on Windows

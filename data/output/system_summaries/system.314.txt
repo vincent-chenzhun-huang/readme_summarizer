@@ -1,0 +1,1 @@
+3-in-1 tool for managing Xml Schemas and WSDLS.  Lightens and Flattens.  Now on github!

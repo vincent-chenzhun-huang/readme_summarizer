@@ -1,0 +1,1 @@
+is the public validation api key you can get this value from the mailgun security page is the private api key you can get this value from the mailgun security page is the email address used in various sending tests.

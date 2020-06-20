@@ -1,0 +1,1 @@
+A full-featured social demo app that shows how to integrate a wide range of Telerik Platform services into a Hybrid mobile application.

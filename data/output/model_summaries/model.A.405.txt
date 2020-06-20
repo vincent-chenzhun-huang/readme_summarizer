@@ -1,0 +1,1 @@
+installation usage specifying the path upgrading packages working with secure feeds handling prerelease versions locking to the current major or minor release reporting on transitive dependencies failing when updates are available autoreferences saving results to a file including and excluding packages faq installation download and install the .net core 2.1 sdk or newer.

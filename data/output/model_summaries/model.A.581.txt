@@ -1,0 +1,1 @@
+but first what are streams if you never dealt with streams you might think to yourself why not just link the movie file straight to the video tag if we do that the whole movie file might be loaded into memory on the server side.

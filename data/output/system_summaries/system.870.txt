@@ -1,0 +1,1 @@
+Introduces basic C++ concepts to beginner users of the OpenFOAM open-source CFD libraries.

@@ -1,0 +1,1 @@
+can be supplied multiple times mini mini url of the speedtest mini server source source source ip address to bind to timeout timeout http timeout in seconds.

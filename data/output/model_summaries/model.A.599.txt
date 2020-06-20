@@ -1,0 +1,1 @@
+tinywebsockets changed that and this library merged the changes.

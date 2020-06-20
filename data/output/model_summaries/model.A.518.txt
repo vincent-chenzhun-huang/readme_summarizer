@@ -1,0 +1,1 @@
+use preferences to set lang week time post y get in firmware 1. only get in firmware 2 preferences carpetboostauto only post.

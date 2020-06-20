@@ -1,0 +1,1 @@
+colorize ruby gem for colorizing text using ansi escape sequences.

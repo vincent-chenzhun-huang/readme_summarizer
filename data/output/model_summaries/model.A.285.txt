@@ -1,0 +1,1 @@
+create the application page now that you have an angularjs controller you will create the html page that will load the controller into the users web browser publicindex.html sourcehtml includecompletepublicindex.html note the following two script tags within the head section.

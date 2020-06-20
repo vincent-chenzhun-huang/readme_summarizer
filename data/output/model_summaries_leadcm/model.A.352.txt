@@ -1,0 +1,1 @@
+wordpress exploit framework a ruby framework designed to aid in the penetration testing of wordpress systems

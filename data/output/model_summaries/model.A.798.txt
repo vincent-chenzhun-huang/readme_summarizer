@@ -1,0 +1,1 @@
+parameter description default value the ssh public key to be placed in authorizedkeys home.sshidrsa.pub the path of the iso image created by this script ubuntunetbootamd64unattended.iso boot the created iso image on the target vm or physical machine.

@@ -1,0 +1,1 @@
+certificate configuration when not configured to use a websockettls connection the example programs require a client certificate and private key created using either the aws iot console or the aws iot cli in order to authenticate with aws iot.

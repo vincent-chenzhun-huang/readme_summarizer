@@ -1,0 +1,1 @@
+executing .runcontainerizedtests.sh t all with the config below in place would execute the two control tests against master and bastion instances in your deployment.

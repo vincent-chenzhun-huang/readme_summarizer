@@ -1,0 +1,1 @@
+to make the app more fun we added a simple message when the app has started successfully.

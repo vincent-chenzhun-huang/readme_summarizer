@@ -1,0 +1,1 @@
+you can set sliding length acording to you 4.animation are already in diffrent thread so you dont have to add threads ...just simply add a single line of code and animation is done d how to import this library in your android studio project step1 click on first gradle file build.gradle highlighted in yellow.

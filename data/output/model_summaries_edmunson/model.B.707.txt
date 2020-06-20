@@ -1,0 +1,1 @@
+google indexing api this cfml wrapper has been developed to allow you to easily interact with the google indexing api so that any site owner can directly notify google when pages are added or removed allowing google to schedule pages for a fresh crawl.

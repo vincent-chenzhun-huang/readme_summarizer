@@ -1,0 +1,1 @@
+gogenavro generates typesafe go code based on your avro schemas including serializers and deserializers that support avros schema evolution rules.

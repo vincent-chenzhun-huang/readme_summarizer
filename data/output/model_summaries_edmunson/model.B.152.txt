@@ -1,0 +1,1 @@
+grubchoosedefault copyright 20072010 david mohr version 1.2 201404xx released under the gnu gpl v2 or higher this is free software see the source for copying conditions.

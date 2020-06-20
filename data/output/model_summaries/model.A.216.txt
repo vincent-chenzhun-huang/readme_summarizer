@@ -1,0 +1,1 @@
+in this process office 365 api tool registered an azure ad application in the office 365 tenant that you signed in the wizard and added the azure ad application details to web.config.

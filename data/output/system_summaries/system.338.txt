@@ -1,0 +1,1 @@
+Convert matplotlib figures to TikZ/PGFplots for smooth integration into LaTeX.

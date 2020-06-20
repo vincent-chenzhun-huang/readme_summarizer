@@ -1,0 +1,1 @@
+search for tweets with keywords hashtags etc.. get all followers list get all following list streaming tweets this is not as good as the official twitter api and is still experimental cons cannot get the number of likes and retweets.

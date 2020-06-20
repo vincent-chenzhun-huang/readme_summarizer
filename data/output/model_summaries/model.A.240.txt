@@ -1,0 +1,1 @@
+this leaflet plugin is designed to address the needs of the mapknitter community in particular but is useful in any applications where rich map annotation is desired.

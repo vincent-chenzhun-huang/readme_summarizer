@@ -1,0 +1,1 @@
+A terminal text editor with mouse support and ctrl+Q to quit.

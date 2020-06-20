@@ -1,0 +1,1 @@
+egnyter the package allows for seamless usage of egnytebased corporate filesharing systems from within an r environment.

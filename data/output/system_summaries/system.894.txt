@@ -1,0 +1,1 @@
+PHP library for interacting with the Pusher Channels HTTP API | owner=@WillSewell

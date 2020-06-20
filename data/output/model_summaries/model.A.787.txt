@@ -1,0 +1,1 @@
+this defaults to 200. defines the color of the progress arc.

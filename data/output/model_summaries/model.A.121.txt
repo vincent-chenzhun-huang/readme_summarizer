@@ -1,0 +1,1 @@
+other updates added a hover text option under image grid display options version 3.11 feb 2018 tested in qlik sense desktop feb 2018 release.

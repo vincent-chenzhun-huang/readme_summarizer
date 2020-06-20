@@ -1,0 +1,1 @@
+the protein feature view svg library for visualising protein annotations this is the library behind the protein feature view at rcsb pdb

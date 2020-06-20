@@ -1,0 +1,1 @@
+docker setup running create a new directory to store the configuration and sqlite3 database.

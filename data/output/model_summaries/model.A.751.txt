@@ -1,0 +1,1 @@
+is your solution scalable to handle large corpora as mentioned above for large corporas the indexing time is growing linearly and could be quite high because the solution implemented process and writes data to disk sequentially which could be improved using multithreads ie parallel processing.

@@ -1,0 +1,1 @@
+during installation youll be prompted to select which package do you want to use.be carefully it will be listed all packages in containing the word edge be sure to make the right choice if you wish you can manually specify which fork of edge or electronedge to use.

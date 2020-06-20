@@ -1,0 +1,1 @@
+asciidoctorj base plugin adds an extension for configuring which version of asciidoctorjname and various other asciidoctorjname backends.

@@ -1,0 +1,1 @@
+deepspeech server .. image httpstravisci.orgmainrodeepspeechserver.svgbranchmaster target httpstravisci.orgmainrodeepspeechserver .. image httpsbadge.fury.iopydeepspeechserver.svg target httpsbadge.fury.iopydeepspeechserver key features this is an http server that can be used to test the mozilla deepspeech project.

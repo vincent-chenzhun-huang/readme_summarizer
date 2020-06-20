@@ -1,0 +1,1 @@
+the results demonstrate how a deep learning model trained on text in earnings releases and other sources could provide a valuable signal to the investment decision maker.

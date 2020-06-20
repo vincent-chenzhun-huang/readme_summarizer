@@ -1,0 +1,1 @@
+anglesharp anglesharp is a .net library that gives you the ability to parse angle bracket based hypertexts like html svg and mathml.

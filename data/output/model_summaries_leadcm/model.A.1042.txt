@@ -1,0 +1,1 @@
+flinkk8soperator flinkk8soperator is a kubernetes operator that manages flink applications on kubernetes

@@ -1,0 +1,1 @@
+see also other open source ais projects building building with python .. codeblock console python setup.py build python setup.py install testing with python .. codeblock console virtualenv ve source vebinactivate python setup.py test building with cmake .. codeblock console cmake .

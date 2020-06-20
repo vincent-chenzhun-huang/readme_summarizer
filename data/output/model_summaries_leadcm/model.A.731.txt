@@ -1,0 +1,1 @@
+ikbt a python based system for generating closedform solutions to the manipulator inverse kinematics problem using behavior trees for action selection

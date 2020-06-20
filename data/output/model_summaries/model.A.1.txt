@@ -1,0 +1,1 @@
+install binwalk note alternatively you could also do a setting up firmadyne edit and make the point to the current location of firmadyne folder.

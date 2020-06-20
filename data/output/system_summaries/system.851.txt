@@ -1,0 +1,1 @@
+a simple laravel application on google maps to display messages on map according to its location

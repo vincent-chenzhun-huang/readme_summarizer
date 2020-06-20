@@ -1,0 +1,1 @@
+this requires that you set your facebook app id in the following locations ios the facebookappid key in info.plist.

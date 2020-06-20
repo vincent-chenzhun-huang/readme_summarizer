@@ -1,0 +1,1 @@
+etl connector for alfresco alfresco server extension httpknowledge.openwide.frbinviewmainalfrescoetlconnector copyright c 20082012 open wide sa about etl connector the etl connector extension for alfresco allows to import documents in an alfresco repository by using compatible etl tools for now talend.

@@ -1,0 +1,1 @@
+qlikcli a command line tool to importexport apps from qlik sense desktop or server introduction the qlikcli is a tool that enables qlik sense applications to integrate into a devops cicd workflows

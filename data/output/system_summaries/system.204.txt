@@ -1,0 +1,1 @@
+Energia library for MSP430. Calculates calibrated chip temperature and Vcc voltage using calibration values stored in chip TLV structure. Vcc measurement is useful for battery-operated operation to determine when the battery is running low.

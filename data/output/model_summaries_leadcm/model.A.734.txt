@@ -1,0 +1,1 @@
+sdcdotmanifestgenerator this lambda function runs every 5 mins and creates a manifest file for each batch whose readyforprocessing is set to true

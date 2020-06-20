@@ -1,0 +1,1 @@
+vuexmodulevalidatablestate simple vuex module to handle form fields and validations

@@ -1,0 +1,1 @@
+we include new functions to take data loaded in erplab either eeg or erp and compute the csd data.

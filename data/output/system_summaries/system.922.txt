@@ -1,0 +1,1 @@
+:musical_note: Provides a composer plugin for normalizing composer.json.

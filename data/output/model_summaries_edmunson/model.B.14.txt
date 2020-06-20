@@ -1,0 +1,1 @@
+kaliop ezmigration bundle this bundle makes it easy to programmatically deploy changes to ezplatform ezpublish 5 database structure and contents.

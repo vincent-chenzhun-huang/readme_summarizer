@@ -1,0 +1,1 @@
+it loads an audio file computes the spectrogram optionally performs lowpass filtering by zeroing all frequency bins above some cutoff frequency and then uses the griffin and lim algorithm to reconstruct an audio signal from the modified spectrogram.

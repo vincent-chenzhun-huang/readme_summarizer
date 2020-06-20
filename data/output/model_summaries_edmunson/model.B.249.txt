@@ -1,0 +1,1 @@
+seresye swarm oriented erlang expert system engine introduction seresye is a rete based rules engine written in erlang descended directly from the eresye project by francesca gangemi and corrado santoro.

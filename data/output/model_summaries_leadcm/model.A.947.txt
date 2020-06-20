@@ -1,0 +1,1 @@
+darkfalcon splunkbased dashboards and visuals for working with the mitre attck framework this is a lookup file driven system of dashboards helping work with the attck framework within a company and leveraging it for making business decisions

@@ -1,0 +1,1 @@
+CF component to forward metrics from the Loggregator Firehose to Datadog

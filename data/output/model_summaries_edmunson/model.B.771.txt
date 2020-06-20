@@ -1,0 +1,1 @@
+sql driver mock for golang sqlmock is a mock library implementing sqldriver.

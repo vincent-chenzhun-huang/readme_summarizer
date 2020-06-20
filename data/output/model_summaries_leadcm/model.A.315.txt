@@ -1,0 +1,1 @@
+aws streams to kinesis firehose forwarder please note that this project is now deprecated for kinesis streams sources

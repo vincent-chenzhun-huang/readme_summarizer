@@ -1,0 +1,1 @@
+This is an Android project to offer an alternative to the native Android Date Picker.

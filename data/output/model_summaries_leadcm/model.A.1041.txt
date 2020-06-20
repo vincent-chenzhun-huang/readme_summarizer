@@ -1,0 +1,1 @@
+broadcastchannel a broadcastchannel to send data between different browsertabs or nodejsprocesses leaderelection over the channels a broadcastchannel that allows you to send data between different browsertabs or nodejsprocesses

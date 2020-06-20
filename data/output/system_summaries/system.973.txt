@@ -1,0 +1,1 @@
+A plugin that allows you to bypass DRM protection on any PS Vita content

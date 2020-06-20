@@ -1,0 +1,1 @@
+description authentication services provided by the xsuaa service on sap cloud platform or sap hana xs advanced rely on usage of the oauth 2

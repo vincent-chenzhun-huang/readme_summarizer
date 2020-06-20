@@ -1,0 +1,1 @@
+grapeapiary auto generates an apiary blueprint from the docuementation that is created by your grape api

@@ -1,0 +1,1 @@
+kubernetes maven plugin note this repository has been moved to eclipse jkube.

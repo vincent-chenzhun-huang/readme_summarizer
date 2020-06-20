@@ -1,0 +1,1 @@
+trading using qlearning in this project i will present an adaptive learning model to trade a single stock under the reinforcement learning framework

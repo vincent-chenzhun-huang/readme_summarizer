@@ -1,0 +1,1 @@
+Used Axios for AJAX call to get data from server and render it to data table.

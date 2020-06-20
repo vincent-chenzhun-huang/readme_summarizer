@@ -1,0 +1,1 @@
+A cookiecutter template for creating Django projects and deploying them quickly using Ansible

@@ -1,0 +1,1 @@
+bashfuscator documentation what is bashfuscator bashfuscator is a modular and extendable bash obfuscation framework written in python 3. it provides numerous different ways of making bash oneliners or scripts much more difficult to understand.

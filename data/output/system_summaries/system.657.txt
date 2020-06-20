@@ -1,0 +1,1 @@
+Add Cloudflare ip addresses to trusted proxies for Laravel.

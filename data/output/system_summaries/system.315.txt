@@ -1,0 +1,1 @@
+AWS Lambda function to forward Stream data to Kinesis Firehose

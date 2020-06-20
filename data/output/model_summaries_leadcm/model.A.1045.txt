@@ -1,0 +1,1 @@
+android architecture blueprints the android framework provides a lot of flexibility in deciding how to organize and architect an android app

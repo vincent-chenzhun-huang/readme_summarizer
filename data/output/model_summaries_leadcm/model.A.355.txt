@@ -1,0 +1,1 @@
+trellohub microservice for synchronising a trellobased workflow with github issues

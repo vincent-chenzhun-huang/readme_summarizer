@@ -1,0 +1,1 @@
+features the pyattck package retrieves all tactics techniques actors malware tools and mitigations from the mitre attck enterprise framework as well as any defined relationships within the mitre attck dataset.

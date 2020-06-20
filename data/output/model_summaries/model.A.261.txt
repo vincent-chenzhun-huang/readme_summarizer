@@ -1,0 +1,1 @@
+state entities it is possible to separate control entities and state entities.

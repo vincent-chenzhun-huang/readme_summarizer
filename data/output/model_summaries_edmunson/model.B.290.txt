@@ -1,0 +1,1 @@
+description sharepoint patchify apply cu patch to entire farm from one powershell console.

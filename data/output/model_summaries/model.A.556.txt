@@ -1,0 +1,1 @@
+main debugger script this section shows the main debugger script used to retrieve information about the target machine environment threads and loaded modules.

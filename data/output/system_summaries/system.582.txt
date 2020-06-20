@@ -1,0 +1,1 @@
+A terminal spreadsheet multitool for discovering and arranging data

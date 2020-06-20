@@ -1,0 +1,1 @@
+fusioncharts is a javascript charting library providing 95 charts and 1400 maps for your web and mobile applications.

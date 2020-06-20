@@ -1,0 +1,1 @@
+ofcbootstrap oneclick cli to install openfaas cloud on kubernetes what is this and who is it for you can use this tool to configure a kubernetes cluster with openfaas cloud

@@ -1,0 +1,1 @@
+Add aliases to create a simple new project directory that contains all necessary folders for organized creativity.

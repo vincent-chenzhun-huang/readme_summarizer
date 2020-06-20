@@ -1,0 +1,1 @@
+artisanhash adds artisan tasks to laravel to work with password hashes from the cli.

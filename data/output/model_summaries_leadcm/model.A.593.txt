@@ -1,0 +1,1 @@
+vueimagelightbox a simple image lightbox component for vuejs npm package i use css style from reactimages demo development npm yarn install npm yarn install the package then import it in your project at your entry point normally and use the lightbox browser global usage you can simply view app

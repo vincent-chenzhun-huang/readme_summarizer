@@ -1,0 +1,1 @@
+Consists of source code for creating a manifest file based on the curated dataset records in dynamo db table Consists of source code for creating a manifest file based on the curated dataset records in dynamo db table

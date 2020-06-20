@@ -1,0 +1,1 @@
+cd blockscout set up default configurations.

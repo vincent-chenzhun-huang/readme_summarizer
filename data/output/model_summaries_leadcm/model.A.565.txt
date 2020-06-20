@@ -1,0 +1,1 @@
+aws iot sdk for javascript the awsiotdevicesdk

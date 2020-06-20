@@ -1,0 +1,1 @@
+the guardlet is run using the peername flag and will automatically apply the wireguard configuration on the named peer resource to the local wireguard installation in order to configure the vpn network.

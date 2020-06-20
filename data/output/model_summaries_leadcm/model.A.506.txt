@@ -1,0 +1,1 @@
+yellowcake an opinionated starter project for creating lightningfast websites with gatsby v2 and netlify cms v2

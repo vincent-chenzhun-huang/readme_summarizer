@@ -1,0 +1,1 @@
+this project heavily relies on contributions from the public therefore proving that something is vulnerable is the security researcher and bug bounty programs sole discretion.

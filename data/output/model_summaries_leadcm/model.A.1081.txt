@@ -1,0 +1,1 @@
+cordovaphonegap wrapper for paystack sdk for android ios by arttitude 360 with reference from httpsgithub

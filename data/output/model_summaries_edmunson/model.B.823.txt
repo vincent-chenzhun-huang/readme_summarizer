@@ -1,0 +1,1 @@
+elevatorsimulator simulates four elevators available to take passengers up and down the floors of a 100 floor building written in c. simulation mechanics there are 4 elevators available to take passengers up and down the floors of a 100 floor building.

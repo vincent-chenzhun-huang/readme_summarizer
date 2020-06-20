@@ -1,0 +1,1 @@
+usage using plugins requires at least two projects 1 the host app which loads plugins and 2 the plugin but typically also uses a third 3 an abstractions project which defines the interaction between the plugin and the host.

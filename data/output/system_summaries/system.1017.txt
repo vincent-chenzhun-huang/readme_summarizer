@@ -1,0 +1,1 @@
+This repository contains my Java application Hair salon that enables the user to add, update and delete hair stylists and clients

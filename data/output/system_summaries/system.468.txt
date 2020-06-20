@@ -1,0 +1,1 @@
+A user macro for Confluence server for creating image comparison slider

@@ -1,0 +1,1 @@
+kubernetes scripts opinionated scripts for managing application development and deployment lifecycle using kubernetes.

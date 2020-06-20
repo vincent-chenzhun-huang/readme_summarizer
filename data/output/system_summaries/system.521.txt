@@ -1,0 +1,1 @@
+Carefully crafted library to operate with continuous streams of data in a reactive style with publish/subscribe, asyncio support and broker functionality.

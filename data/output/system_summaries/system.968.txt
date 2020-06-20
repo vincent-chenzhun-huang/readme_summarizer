@@ -1,0 +1,1 @@
+Software licensing done right - license++ is a cross platform software licensing library that uses digital signatures to secure use of your application and it's licensing

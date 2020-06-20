@@ -1,0 +1,1 @@
+note that you cannot adjust any parameters in projection options after you have done this although you can adjust the moad.

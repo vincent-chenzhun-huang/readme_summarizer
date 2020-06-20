@@ -1,0 +1,1 @@
+bulmatoast bulmas pure javascript extension to display toasts.

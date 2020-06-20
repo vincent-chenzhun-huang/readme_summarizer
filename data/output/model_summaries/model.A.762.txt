@@ -1,0 +1,1 @@
+you can configure this as well as other security details by passing a dictionary of customisation options to the function obpserverinfocustomise before the obpserverinfo class initialize has been called.

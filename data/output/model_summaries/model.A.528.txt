@@ -1,0 +1,1 @@
+vs what if someone does not use json create sample response for list endpoints array add support for writing the blueprint to disk add an option to include root in json contributing fork it httpgithub.comconnexiolabsgrapeapiaryfork create your feature branch commit your changes push to the branch create new pull request

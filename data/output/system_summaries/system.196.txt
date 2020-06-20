@@ -1,0 +1,1 @@
+Winetricks is an easy way to work around problems in Wine

@@ -1,0 +1,1 @@
+see this docker container i wish i could run another one just like it but ill be damned if im going to type all those commandline switches manually this is what does

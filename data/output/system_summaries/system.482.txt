@@ -1,0 +1,1 @@
+Simple Python script to split video into equal length chunks or chunks of equal size, duration, etc. 

@@ -1,0 +1,1 @@
+microstrategy r integration pack quick links r integration pack user guide r script shelf readytouse r analytics microstrategy r package on cran microstrategy community support examples and more installation the microstrategy r integration pack makes it easy for anyone to deploy sophisticated r metrics to any user anywhere any time.

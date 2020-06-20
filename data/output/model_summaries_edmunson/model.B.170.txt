@@ -1,0 +1,1 @@
+apt simulator apt simulator is a windows batch script that uses a set of tools and output files to make a system look as if it was compromised.
