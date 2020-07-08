@@ -1,1 +1,1 @@
-horizontal line state card for home assistant used to separate entities in a home assistant group features highly customizable width thickness borders images color dashes double lines etc
+horizontal line state card for home assistant used to separate entities in a home assistant group features highly customizable width thickness borders images color dashes

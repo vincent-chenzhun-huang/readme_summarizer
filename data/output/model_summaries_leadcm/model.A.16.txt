@@ -1,1 +1,1 @@
-1 preface several cisco business units have teamed up to create this restful api design guide
+1 preface several cisco business units have teamed up to create this restful api design guide. collectively this includes devnet collaboration and the application platform

@@ -1,1 +1,1 @@
-pyinstagram whats new version 2
+pyinstagram whats new version 2.1 add logger add new methods for handle geolocation verify fix bugs description this is a simple and easytouse library for

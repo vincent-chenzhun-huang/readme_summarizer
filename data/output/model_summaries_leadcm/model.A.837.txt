@@ -1,1 +1,1 @@
-appinfoparser appinfoparser is a parser for parsing or files
+appinfoparser appinfoparser is a parser for parsing or files. it will return the infomation with json from or . support node ✅ browser latest ✅

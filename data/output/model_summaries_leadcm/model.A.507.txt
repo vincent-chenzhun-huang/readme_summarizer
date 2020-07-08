@@ -1,1 +1,1 @@
-markdowncv a curriculum vitae maintained in plain text and rendered to html and pdf using css
+markdowncv a curriculum vitae maintained in plain text and rendered to html and pdf using css. for more details see the project page or the

@@ -1,1 +1,1 @@
-dataretrieval retrieval functions for usgs and epa hydrologic and water quality data
+dataretrieval retrieval functions for usgs and epa hydrologic and water quality data. for tutorial information see httpsowi.usgs.govrdataretrieval.html reporting bugs please consider reporting bugs and asking

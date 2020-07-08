@@ -1,1 +1,1 @@
-scripts to rule them all this is a set of boilerplate scripts describing the normalized script pattern that github uses in its projects
+scripts to rule them all this is a set of boilerplate scripts describing the normalized script pattern that github uses in its projects. while these

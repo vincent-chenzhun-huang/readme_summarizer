@@ -1,1 +1,1 @@
-tactile is a safer and more idiomatic way to respond to gestures and control events
+tactile is a safer and more idiomatic way to respond to gestures and control events. it lets you catch bugs at compile time and write

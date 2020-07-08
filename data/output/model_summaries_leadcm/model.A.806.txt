@@ -1,1 +1,1 @@
-connect migration middleware small middleware to ease the service migration from legacy to connect
+connect migration middleware small middleware to ease the service migration from legacy to connect. installation if you have a requirements file in your project just

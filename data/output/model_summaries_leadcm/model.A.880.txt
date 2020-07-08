@@ -1,1 +1,1 @@
-mask textspotter introduction this is the official implementation of mask textspotter
+mask textspotter introduction this is the official implementation of mask textspotter. mask textspotter is an endtoend trainable neural network for spotting text with arbitrary shapes

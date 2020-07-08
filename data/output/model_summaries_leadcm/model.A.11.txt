@@ -1,1 +1,1 @@
-vuexmodulevalidatablestate simple vuex module to handle form fields and validations
+vuexmodulevalidatablestate simple vuex module to handle form fields and validations. you can build a view model for your form which runs valdations easily. you just

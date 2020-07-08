@@ -1,1 +1,1 @@
-loggy an opinionated library for developing and testing rust applications that use logging
+loggy an opinionated library for developing and testing rust applications that use logging. this is inspired by simplelogging implementation with additional features focusing on development

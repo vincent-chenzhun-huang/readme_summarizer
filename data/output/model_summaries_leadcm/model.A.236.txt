@@ -1,1 +1,1 @@
-whatsapp keydb extractor allows whatsapp users to extract their cipher key and databases on nonrooted android devices
+whatsapp keydb extractor allows whatsapp users to extract their cipher key and databases on nonrooted android devices. branch updates v4.0 fixed issues with android api

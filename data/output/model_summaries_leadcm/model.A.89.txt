@@ -1,1 +1,1 @@
-b64sha is a perl script to calculate and compare the sha hash values 256 or 512 bits and print them encoded in base64 instead of hexadecimal
+b64sha is a perl script to calculate and compare the sha hash values 256 or 512 bits and print them encoded in base64 instead of

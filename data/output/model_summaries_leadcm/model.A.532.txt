@@ -1,1 +1,1 @@
-what is the mixed reality toolkit mrtk is a microsoft driven open source project
+what is the mixed reality toolkit mrtk is a microsoft driven open source project. mrtkunity provides a set of foundational components and features to accelerate

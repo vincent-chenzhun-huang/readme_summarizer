@@ -1,1 +1,1 @@
-arduino websockets a library for writing modern websockets applications with arduino esp8266 and esp32
+arduino websockets a library for writing modern websockets applications with arduino esp8266 and esp32. this project is based on my project tinywebsockets. the library provides

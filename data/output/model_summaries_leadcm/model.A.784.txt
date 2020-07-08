@@ -1,1 +1,1 @@
-sports
+sports.py gather live uptodate sports scores. baseball basketball cricket football handball hockey rugby soccer tennis and volleyball currently functional scrapes data from scorespro.com profootballreference.com baseballreference.com

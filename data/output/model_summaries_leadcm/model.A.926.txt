@@ -1,1 +1,1 @@
-react native redux toast features cross platform
+react native redux toast features cross platform. triggered dispatching redux actions 100 written in js. no need to link native dependencies easy to customize android

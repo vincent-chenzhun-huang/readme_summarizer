@@ -1,1 +1,1 @@
-go emoji utils a collection of useful functions for working with emoji
+go emoji utils a collection of useful functions for working with emoji. for example look up the definition of a specific emoji or search for

@@ -1,1 +1,1 @@
-filestack swift sdk this is the official swift sdk for filestack api and content management system that makes it easy to add powerful file uploading and transformation capabilities to any web or mobile application
+filestack swift sdk this is the official swift sdk for filestack api and content management system that makes it easy to add powerful file uploading

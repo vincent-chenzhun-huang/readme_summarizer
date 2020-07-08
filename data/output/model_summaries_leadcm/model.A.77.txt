@@ -1,1 +1,1 @@
-react starter kit for firebase   a
+react starter kit for firebase a.k.a. serverless edition react starter kit for firebase is a popular project template aka boilerplate for building modern scalable web

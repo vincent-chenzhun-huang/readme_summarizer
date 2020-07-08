@@ -1,1 +1,1 @@
-learning selfiefriendly abstraction from artistic style images yicun liu jimmy ren jianbo liu jiawei zhang xiaohao chen acml 2018 this repository contains code for the paper learning selfiefriendly abstraction from artistic style images
+learning selfiefriendly abstraction from artistic style images yicun liu jimmy ren jianbo liu jiawei zhang xiaohao chen acml 2018 this repository contains code for the

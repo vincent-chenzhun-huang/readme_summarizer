@@ -1,1 +1,1 @@
-nodebindings helper module for loading your native modules file this is a helper module for authors of node
+nodebindings helper module for loading your native modules file this is a helper module for authors of node.js native addon modules. it is basically the

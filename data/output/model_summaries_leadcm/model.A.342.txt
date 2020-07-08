@@ -1,1 +1,1 @@
-ubuntu repo builder with docker prerequisities docker installed
+ubuntu repo builder with docker prerequisities docker installed. prepare to build packages in the repository are signed with the gpg key. if you already have

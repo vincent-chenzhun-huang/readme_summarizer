@@ -1,1 +1,1 @@
-convolutional recurrent neural network update 20190521 i rewrite this repo base on fairseq refer to my implementation here
+convolutional recurrent neural network update 20190521 i rewrite this repo base on fairseq refer to my implementation here. and the fairseq text recognition is under

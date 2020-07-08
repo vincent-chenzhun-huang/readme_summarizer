@@ -1,1 +1,1 @@
-openimufilter a project aimed to demo filters for imuthe complementary filter the kalman filter and the mahonymadgwick filter with lots of references and tutorials
+openimufilter a project aimed to demo filters for imuthe complementary filter the kalman filter and the mahonymadgwick filter with lots of references and tutorials. references

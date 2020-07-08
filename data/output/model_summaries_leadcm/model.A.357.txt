@@ -1,1 +1,1 @@
-net core plugins this project provides api for loading 
+net core plugins this project provides api for loading .net core assemblies dynamically executing them as extensions to the main application and finding and isolating

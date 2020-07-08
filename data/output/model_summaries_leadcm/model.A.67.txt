@@ -1,1 +1,1 @@
-govdomwasm this package allows to build frontend applications in go targeting webassembly
+govdomwasm this package allows to build frontend applications in go targeting webassembly. it provides a conveniant syntax close to the hyperscript one in the javascript

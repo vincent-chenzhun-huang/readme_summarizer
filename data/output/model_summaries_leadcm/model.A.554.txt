@@ -1,1 +1,1 @@
-ifdefenvgithub tipcaption bulb notecaption informationsource importantcaption heavyexclamationmark cautioncaption fire warningcaption warning endif checkedbox passnormalstartsb✔endsb pivotal cloud native applications workshop overview 
+ifdefenvgithub tipcaption bulb notecaption informationsource importantcaption heavyexclamationmark cautioncaption fire warningcaption warning endif checkedbox passnormalstartsb✔endsb pivotal cloud native applications workshop overview .lead this workshop provides developers

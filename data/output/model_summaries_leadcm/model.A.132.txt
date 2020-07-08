@@ -1,1 +1,1 @@
-limber a simple but quick tool for backing up elasticsearch documents
+limber a simple but quick tool for backing up elasticsearch documents. limber offers a very minimal interface to export and import documents from elasticsearch clusters.

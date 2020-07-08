@@ -1,1 +1,1 @@
-acquaint a simple xamarin app named acquaint
+acquaint a simple xamarin app named acquaint. the app is a simple list of contacts each of which can be viewed in a detail screen

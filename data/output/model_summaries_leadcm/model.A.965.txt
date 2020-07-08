@@ -1,1 +1,1 @@
-azure speech sdk web html demo this project is a demonstration of implementing a voice based search
+azure speech sdk web html demo this project is a demonstration of implementing a voice based search. users can click a microphone button and speak

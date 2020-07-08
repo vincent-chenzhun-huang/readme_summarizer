@@ -1,1 +1,1 @@
-virtuailor idapython tool for c vtables reconstruction virtuailor is an idapython tool that reconstructs vtables for c code written for intel architecture and both 32bit and 64bit code
+virtuailor idapython tool for c vtables reconstruction virtuailor is an idapython tool that reconstructs vtables for c code written for intel architecture and both 32bit

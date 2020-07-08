@@ -1,1 +1,1 @@
-deeplink kit overview deeplink kit is a splendid routematching blockbased way to handle your deep links
+deeplink kit overview deeplink kit is a splendid routematching blockbased way to handle your deep links. rather than decide how to format your urls parse

@@ -1,1 +1,1 @@
-citrix app layering powershell sdk beta this is a reversed engineered sdk that emulates the soap calls that al uses to manage the appliance
+citrix app layering powershell sdk beta this is a reversed engineered sdk that emulates the soap calls that al uses to manage the appliance. currently

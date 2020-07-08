@@ -1,1 +1,1 @@
-wowsharp is a 
+wowsharp is a .net library for accessing blizzards world of warcraft and diablo community apis on battle.net. the library is written in c and is

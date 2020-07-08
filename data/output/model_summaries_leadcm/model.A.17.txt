@@ -1,1 +1,1 @@
-i have a big which i need to scroll up and down
+i have a big which i need to scroll up and down. i do this by copying a part of the bitmap to a different

@@ -1,1 +1,1 @@
-discontinuation of project this project will no longer be maintained by intel
+discontinuation of project this project will no longer be maintained by intel. intel will not provide or guarantee development of or support for this project

@@ -1,1 +1,1 @@
-erplab toolbox is a free opensource matlab package for analyzing erp data
+erplab toolbox is a free opensource matlab package for analyzing erp data. it is tightly integrated with eeglab toolbox extending eeglab’s capabilities to provide robust

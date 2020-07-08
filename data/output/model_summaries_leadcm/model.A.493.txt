@@ -1,1 +1,1 @@
-simple discord bot bot is written using jda library and common sense
+simple discord bot bot is written using jda library and common sense. credits jda for flexible and intuitive discord api java wrapper yuibot for basic

@@ -1,1 +1,1 @@
-kashgari simple and powerful nlp framework build your stateofart model in 5 minutes for named entity recognition ner partofspeech tagging pos and text classification tasks
+kashgari simple and powerful nlp framework build your stateofart model in 5 minutes for named entity recognition ner partofspeech tagging pos and text classification tasks.

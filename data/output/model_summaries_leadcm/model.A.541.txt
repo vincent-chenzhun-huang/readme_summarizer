@@ -1,1 +1,1 @@
-awesome woocommerce plugins and code snippets for your woocommerce store
+awesome woocommerce plugins and code snippets for your woocommerce store. table of contents handy code snippets and plugins action scheduler woocommerce code snippets gist links

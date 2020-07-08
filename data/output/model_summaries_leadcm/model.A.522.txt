@@ -1,1 +1,1 @@
- image httpsgithub
+image httpsgithub.compicknmixpicknmixrawmasterlogopicknmixlogo.png pick n mix .. image httpsimg.shields.iopypivpicknmix.svg target httpspypi.python.orgpypipicknmix .. image httpsimg.shields.iotravispicknmixpicknmix.svg target httpstravisci.orgpicknmixpicknmix .. image httpsreadthedocs.orgprojectspicknmixbadgeversionlatest target httpspicknmix.readthedocs.ioenlatestbadgelatest alt documentation status .. image

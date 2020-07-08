@@ -1,1 +1,1 @@
-scipy proceedings this is the repository for submitting to and managing the proceedings for the annual scientific computing with python conference
+scipy proceedings this is the repository for submitting to and managing the proceedings for the annual scientific computing with python conference. this repository is a

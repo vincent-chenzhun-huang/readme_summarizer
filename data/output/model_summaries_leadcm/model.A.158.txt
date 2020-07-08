@@ -1,1 +1,1 @@
-cookiecutter django 
+cookiecutter django .. image httpstravisci.orgpydannycookiecutterdjango.svgbranchmaster target httpstravisci.orgpydannycookiecutterdjangobranchmaster alt build status .. image httpspyup.ioreposgithubpydannycookiecutterdjangoshield.svg target httpspyup.ioreposgithubpydannycookiecutterdjango alt updates .. image httpsbadges.gitter.imjoin chat.svg target httpsgitter.impydannycookiecutterdjangoutmsourcebadgeutmmediumbadgeutmcampaignprbadgeutmcontentbadge .. image

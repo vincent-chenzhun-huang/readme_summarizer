@@ -1,1 +1,1 @@
-nsgif is an ios library for converting your videos into beautiful animated gifs
+nsgif is an ios library for converting your videos into beautiful animated gifs. check out this example. sometimes we need to deal with gifs in

@@ -1,1 +1,1 @@
-stylegan — encoder for official tensorflow implementation the generated image is not a real person a latent representation of two game of thrones characters was found by using perceptual loss trick
+stylegan — encoder for official tensorflow implementation the generated image is not a real person a latent representation of two game of thrones characters was

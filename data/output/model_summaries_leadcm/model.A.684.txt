@@ -1,1 +1,1 @@
-scaffold this readme is for macos only
+scaffold this readme is for macos only. introduction scaffold adds shell scripts and a few aliases to create a set of directories for new projects.

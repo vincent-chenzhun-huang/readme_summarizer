@@ -1,1 +1,1 @@
-sphinxsearchbundle with this bundle you can use sphinx to search in your symfony2 project
+sphinxsearchbundle with this bundle you can use sphinx to search in your symfony2 project. installation step 1 download sphinxsearchbundle using composer in your composer.json add

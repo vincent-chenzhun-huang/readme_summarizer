@@ -1,1 +1,1 @@
-instagram4android this library directly talks to the private instagram api anything well quite a lot you can do on the ig app you can replicate with this library
+instagram4android this library directly talks to the private instagram api anything well quite a lot you can do on the ig app you can replicate

@@ -1,1 +1,1 @@
-sql driver mock for golang sqlmock is a mock library implementing sqldriver
+sql driver mock for golang sqlmock is a mock library implementing sqldriver. which has one and only purpose to simulate any sql driver behavior in

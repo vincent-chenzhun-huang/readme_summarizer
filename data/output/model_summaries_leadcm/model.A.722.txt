@@ -1,1 +1,1 @@
-astrologyjs astrologyjs is a nodejs package that provides functionality for including astrological charts in projects
+astrologyjs astrologyjs is a nodejs package that provides functionality for including astrological charts in projects. installation to use astrologyjs in a project run the following

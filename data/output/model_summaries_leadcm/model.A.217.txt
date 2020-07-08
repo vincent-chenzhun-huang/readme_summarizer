@@ -1,1 +1,1 @@
-master build status development build status installing we offer binary images of the latest releases here httplatest
+master build status development build status installing we offer binary images of the latest releases here httplatest.turtlecoin.lol if you would like to compile yourself read

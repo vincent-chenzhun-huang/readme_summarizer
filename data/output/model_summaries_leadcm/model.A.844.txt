@@ -1,1 +1,1 @@
-groovy koans project the groovy koans project is a collection of small exercises in the form of unit tests designed to get java developers up to speed on groovy features and common idioms
+groovy koans project the groovy koans project is a collection of small exercises in the form of unit tests designed to get java developers up

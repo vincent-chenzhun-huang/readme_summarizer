@@ -1,1 +1,1 @@
-what is metadebian metadebian is a set of recipes metadata for the poky build system which allows crossbuilding gnulinux images using debian source packages
+what is metadebian metadebian is a set of recipes metadata for the poky build system which allows crossbuilding gnulinux images using debian source packages. by

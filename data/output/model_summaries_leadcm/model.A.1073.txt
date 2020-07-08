@@ -1,1 +1,1 @@
-post kinds contributors dshanske tags indieweb interaction posts webmention share like scrobble stable tag 3
+post kinds contributors dshanske tags indieweb interaction posts webmention share like scrobble stable tag 3.2.6 requires at least 4.9.6 requires php 5.4 tested up to

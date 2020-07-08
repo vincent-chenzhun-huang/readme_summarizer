@@ -1,1 +1,1 @@
-lazy importer a simple and easy to use header only library to make the life of a reverse engineer much harder
+lazy importer a simple and easy to use header only library to make the life of a reverse engineer much harder. small example ida output

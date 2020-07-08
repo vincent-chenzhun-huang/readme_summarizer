@@ -1,1 +1,1 @@
-design and build a chat app with socket
+design and build a chat app with socket.io watch on youtube introduction this mini series is jam packed full of useful information for the beginner

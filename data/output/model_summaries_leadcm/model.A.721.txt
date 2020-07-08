@@ -1,1 +1,1 @@
-installcert
+installcert.java java program written by andreas sterbenz and posted on a blog in oct 2006 httpsblogs.oracle.comgcentryunabletofindvalidcertification link to java program in andreas blog no longer

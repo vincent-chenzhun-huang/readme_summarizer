@@ -1,1 +1,1 @@
-i18n
+i18n.js its a small library to provide the rails i18n translations on the javascript. features pluralization datetime localization number localization locale fallback asset pipeline support

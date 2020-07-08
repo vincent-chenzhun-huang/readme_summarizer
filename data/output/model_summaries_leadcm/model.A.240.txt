@@ -1,1 +1,1 @@
-leaflet
+leaflet.illustrate rich annotation plugin drawing text and more for leaflet extending leaflet.draw. designed to help people tell the story behind the maps that they create.

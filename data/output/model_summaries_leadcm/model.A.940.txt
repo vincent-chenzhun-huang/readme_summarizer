@@ -1,1 +1,1 @@
-note we are not actively responding to issues right now
+note we are not actively responding to issues right now. if you find a bug please submit a pr. android sliding up panel this library

@@ -1,1 +1,1 @@
-winetricks homepage of winetricks previously hosted at 
+winetricks homepage of winetricks previously hosted at . winetricks is an easy way to work around problems in wine. it has a menu of supported

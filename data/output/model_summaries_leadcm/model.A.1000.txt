@@ -1,1 +1,1 @@
-silverstripe sqs job queue a module for sending and consuming sqs tasks
+silverstripe sqs job queue a module for sending and consuming sqs tasks. can be configured to work as the trigger for queuejobs. when used as

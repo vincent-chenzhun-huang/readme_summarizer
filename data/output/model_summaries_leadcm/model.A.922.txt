@@ -1,1 +1,1 @@
-composernormalize provides a composer plugin for normalizing 
+composernormalize provides a composer plugin for normalizing . motivation if you have been working with on more than one project you might have noticed that

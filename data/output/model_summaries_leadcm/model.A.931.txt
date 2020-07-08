@@ -1,1 +1,1 @@
-lottiewindows lottiewindows is a library for rendering adobe aftereffects animations natively in your application
+lottiewindows lottiewindows is a library for rendering adobe aftereffects animations natively in your application. this project adds windows to the lottie family of tools also

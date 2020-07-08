@@ -1,1 +1,1 @@
-rabbitmqadvanced â a generic library for messaging with rabbitmq an extension of spring boot amqp
+rabbitmqadvanced â a generic library for messaging with rabbitmq an extension of spring boot amqp. note if you are already using spring cloud stream you

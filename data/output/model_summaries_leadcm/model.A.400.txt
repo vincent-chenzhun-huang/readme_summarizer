@@ -1,1 +1,1 @@
-sparkknngraphs spark algorithms for building and processing knn graphs
+sparkknngraphs spark algorithms for building and processing knn graphs. currently implemented knn graph building algorithms brute force nndescent which supports any similarity lsh superbit for

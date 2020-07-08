@@ -1,1 +1,1 @@
-videoplayermanager this is a project designed to help controlling android mediaplayer class
+videoplayermanager this is a project designed to help controlling android mediaplayer class. it makes it easier to use mediaplayer listview and recyclerview. also it tracks

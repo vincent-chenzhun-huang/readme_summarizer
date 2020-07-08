@@ -1,1 +1,1 @@
-firebase react initial set up take a tour of the application
+firebase react initial set up take a tour of the application. set up a new project in the firebase console. take a tour of the

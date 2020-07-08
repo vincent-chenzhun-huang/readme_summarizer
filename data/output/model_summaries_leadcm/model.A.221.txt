@@ -1,1 +1,1 @@
-quantiseqnf pipeline to run software quantiseq in parallel to quantify immune cell content from rnaseq data description this nextflow pipeline uses the singularity image of quantiseq to launch the quantiseq pipeline that performs immune cell quantification of 10 cell types from rnaseq data
+quantiseqnf pipeline to run software quantiseq in parallel to quantify immune cell content from rnaseq data description this nextflow pipeline uses the singularity image of

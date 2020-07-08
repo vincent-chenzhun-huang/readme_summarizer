@@ -1,1 +1,1 @@
-entium a command line tool to read entwines output and convert it into cesium 3dtiles
+entium a command line tool to read entwines output and convert it into cesium 3dtiles. installation entium supports python 2.7 or greater. to install run

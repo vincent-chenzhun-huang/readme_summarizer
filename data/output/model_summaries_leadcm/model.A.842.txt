@@ -1,1 +1,1 @@
-uitesthelper general information when creating ui tests you will see that you are often repeating the same pieces of code
+uitesthelper general information when creating ui tests you will see that you are often repeating the same pieces of code. the uitesthelper library will try

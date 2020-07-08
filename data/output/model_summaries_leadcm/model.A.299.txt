@@ -1,1 +1,1 @@
-hackingthecapsulenetwork this repository is contains hands on guide to learning pytorch and developing machine learning models using it
+hackingthecapsulenetwork this repository is contains hands on guide to learning pytorch and developing machine learning models using it. this repo describes capsule networks and its

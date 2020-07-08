@@ -1,1 +1,1 @@
-aem sites core components a set of standardized components for aem 6
+aem sites core components a set of standardized components for aem 6.3 that can be used to speed up development of websites. documentation component library

@@ -1,1 +1,1 @@
-relay library for graphql
+relay library for graphql.js this is a library to allow the easy creation of relaycompliant servers using the graphql.js reference implementation of a graphql server.

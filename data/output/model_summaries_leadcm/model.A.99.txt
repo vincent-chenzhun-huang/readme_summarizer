@@ -1,1 +1,1 @@
-question answering corpus this repository contains a script to generate questionanswer pairs using cnn and daily mail articles downloaded from the wayback machine
+question answering corpus this repository contains a script to generate questionanswer pairs using cnn and daily mail articles downloaded from the wayback machine. for a

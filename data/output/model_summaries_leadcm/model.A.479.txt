@@ -1,1 +1,1 @@
-nkakouros
+nkakouros.taskserver ansible role to setup a taskservertaskd for taskwarrior. this role follows closely the tutorial at httpsgitpitch.comgothenburgbitfactorytaskserversetup it will install taskd as per the tutorial

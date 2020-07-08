@@ -1,1 +1,1 @@
-ociquickstarth2o this is a terraform module that deploys h2o
+ociquickstarth2o this is a terraform module that deploys h2o.ai driverless ai on oracle cloud infrastructure oci. it is developed jointly by oracle and h2o.ai. instructions

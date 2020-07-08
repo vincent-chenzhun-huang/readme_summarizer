@@ -1,1 +1,1 @@
-this repo is to host content for the building virtual machine labs training
+this repo is to host content for the building virtual machine labs training. it contains a slide deck in pptx and pdf format. this material

@@ -1,1 +1,1 @@
-phpmf2 phpmf2 is a pure generic microformats2 parser
+phpmf2 phpmf2 is a pure generic microformats2 parser. it makes html as easy to consume as json. instead of having a hardcoded list of all

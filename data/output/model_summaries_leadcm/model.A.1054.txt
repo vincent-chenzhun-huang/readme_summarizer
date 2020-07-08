@@ -1,1 +1,1 @@
-jsoncpp json is a lightweight datainterchange format
+jsoncpp json is a lightweight datainterchange format. it can represent numbers strings ordered sequences of values and collections of namevalue pairs. jsoncpp is a c

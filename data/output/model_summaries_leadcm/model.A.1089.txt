@@ -1,1 +1,1 @@
-xiaomi mi flora plant sensor mqtt clientdaemon a simple linux python script to query arbitrary mi flora plant sensor devices and send the data to an mqtt broker e
+xiaomi mi flora plant sensor mqtt clientdaemon a simple linux python script to query arbitrary mi flora plant sensor devices and send the data to

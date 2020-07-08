@@ -1,1 +1,1 @@
-f language design rfcs rfcs requests for comments and docs related to the f language design process
+f language design rfcs rfcs requests for comments and docs related to the f language design process. open f language rfcs including candidates for f

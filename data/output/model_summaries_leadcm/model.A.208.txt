@@ -1,1 +1,1 @@
-imgorgchef
+imgorgchef.png introduction orgchef is a package for managing recipes in orgmode. one of the main features is that it can automatically extract recipes from websites

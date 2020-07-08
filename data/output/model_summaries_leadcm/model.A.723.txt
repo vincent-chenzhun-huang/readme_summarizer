@@ -1,1 +1,1 @@
-gatsbysourcegoogledocs is a gatsby plugin to use google docs as a data source
+gatsbysourcegoogledocs is a gatsby plugin to use google docs as a data source. ðÿ”¥ no need for a cms anymore. ðÿ–‹ write your blog posts

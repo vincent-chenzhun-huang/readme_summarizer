@@ -1,1 +1,1 @@
-sailfishos android signature spoofing for xa2 devices or other devices using lxc containers for the android runtime compatibility this only works with sailfish devices that uses the android 8
+sailfishos android signature spoofing for xa2 devices or other devices using lxc containers for the android runtime compatibility this only works with sailfish devices that

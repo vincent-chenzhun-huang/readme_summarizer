@@ -1,1 +1,1 @@
-imagegridview help you to create a flexible image grid easily
+imagegridview help you to create a flexible image grid easily. 帮助你轻松的创建一个灵活的图片 grid 布局 中文说明（作者英文比较渣，建议国人直接阅读中文版） how to use first introduce the core library module to your

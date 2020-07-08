@@ -1,1 +1,1 @@
-vulnerable node vulnerable node a very vulnerable web site written in nodejs codename psea version 1
+vulnerable node vulnerable node a very vulnerable web site written in nodejs codename psea version 1.0 code httpsgithub.comcr0hnvulnerablenode issues httpsgithub.comcr0hnvulnerablenodeissues author daniel garcia cr0hn ggdaniel

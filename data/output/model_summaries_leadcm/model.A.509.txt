@@ -1,1 +1,1 @@
-mysense last update of the readme on 25th febr 2019 description software infrastructure or framework for managing environmental sensors and data aquisition mysense raspberry pi controller mysense is able to act as air quality measurement kit or node broker
+mysense last update of the readme on 25th febr 2019 description software infrastructure or framework for managing environmental sensors and data aquisition mysense raspberry pi

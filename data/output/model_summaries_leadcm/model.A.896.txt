@@ -1,1 +1,1 @@
-hayasaka suite of discord bots
+hayasaka suite of discord bots. hayasaka takes song suggestions and adds them to google sheet. other features tbd. manager manages redeployment of bots when code

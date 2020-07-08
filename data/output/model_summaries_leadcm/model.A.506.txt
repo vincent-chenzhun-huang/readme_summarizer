@@ -1,1 +1,1 @@
-yellowcake an opinionated starter project for creating lightningfast websites with gatsby v2 and netlify cms v2
+yellowcake an opinionated starter project for creating lightningfast websites with gatsby v2 and netlify cms v2. gatsby static site generator netlify cms for content management

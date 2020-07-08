@@ -1,1 +1,1 @@
-git pull request tools everyone abstractly likes pull requests but they can be a lot of keystrokes making new branches pushing them and especially keeping track of what can be deleted
+git pull request tools everyone abstractly likes pull requests but they can be a lot of keystrokes making new branches pushing them and especially keeping

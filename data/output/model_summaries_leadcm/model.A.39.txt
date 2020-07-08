@@ -1,1 +1,1 @@
-leaflet
+leaflet.distortableimage a leaflet extension to distort images rubbersheeting for the mapknitter.org src image georectification service by public lab. leaflet.distortableimage allows for perspectival distortions of images

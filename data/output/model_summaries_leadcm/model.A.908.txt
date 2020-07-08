@@ -1,1 +1,1 @@
-rubeus rubeus is a c toolset for raw kerberos interaction and abuses
+rubeus rubeus is a c toolset for raw kerberos interaction and abuses. it is heavily adapted from benjamin delpys kekeo project cc byncsa 4.0 license

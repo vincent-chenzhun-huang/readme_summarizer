@@ -1,1 +1,1 @@
-projectexodus currently supported versions currently supported versions are 2018
+projectexodus currently supported versions currently supported versions are 2018.3 for unity and 4.22.1 for unreal 4 currently it is still possible to compile the plugin

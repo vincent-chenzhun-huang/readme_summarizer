@@ -1,1 +1,1 @@
-nomad aws module this repo contains a set of modules in the modules folder for deploying a nomad cluster on aws using terraform
+nomad aws module this repo contains a set of modules in the modules folder for deploying a nomad cluster on aws using terraform. nomad is

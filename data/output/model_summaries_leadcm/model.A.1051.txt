@@ -1,1 +1,1 @@
-use your existed mongoose schema to generate graphql types
+use your existed mongoose schema to generate graphql types. date fields supported they get serialized to iso date string full support of all graphql definitions

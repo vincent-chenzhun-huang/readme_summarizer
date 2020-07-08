@@ -1,1 +1,1 @@
-fseam python script to generate cpp mock for fseam what is a link seam mock a seam is a term introduced by michael feathers in his book working effectively with legacy code
+fseam python script to generate cpp mock for fseam what is a link seam mock a seam is a term introduced by michael feathers in

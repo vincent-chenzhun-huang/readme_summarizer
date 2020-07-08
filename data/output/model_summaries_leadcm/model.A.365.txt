@@ -1,1 +1,1 @@
-dotnetcrawler dotnetcrawler is a straightforward lightweight web crawlingscrapying library for entity framework core output based on dotnet core
+dotnetcrawler dotnetcrawler is a straightforward lightweight web crawlingscrapying library for entity framework core output based on dotnet core. this library designed like other strong crawler

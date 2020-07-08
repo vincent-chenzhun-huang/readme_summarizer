@@ -1,1 +1,1 @@
-rspec mocks rspecmocks is a testdouble framework for rspec with support for method stubs fakes and message expectations on generated testdoubles and real objects alike
+rspec mocks rspecmocks is a testdouble framework for rspec with support for method stubs fakes and message expectations on generated testdoubles and real objects alike.

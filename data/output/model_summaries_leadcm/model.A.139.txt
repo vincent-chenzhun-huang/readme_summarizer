@@ -1,1 +1,1 @@
-gatsbypluginpreconnect quickly add a tag for every specified domain
+gatsbypluginpreconnect quickly add a tag for every specified domain. install what this plugin does it simply adds a to the page see the resource prioritization

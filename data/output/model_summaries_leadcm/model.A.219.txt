@@ -1,1 +1,1 @@
-spinnies node
+spinnies node.js module to create and manage multiple spinners in commandline interface programs installation usage example api this library follows a nonerrorthrowing philosophy. if you

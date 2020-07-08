@@ -1,1 +1,1 @@
-angular style guide versions there are multiple versions of angular and thus there are multiple versions of the guide
+angular style guide versions there are multiple versions of angular and thus there are multiple versions of the guide. choose your guide appropriately. angular 1

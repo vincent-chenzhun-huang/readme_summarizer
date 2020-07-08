@@ -1,1 +1,1 @@
-indoor3d this is a javascript lib based on three
+indoor3d this is a javascript lib based on three.js to show an indoor map. this was an experimental project when i was learning javascript and

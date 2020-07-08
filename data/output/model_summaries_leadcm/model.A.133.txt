@@ -1,1 +1,1 @@
-realm is a mobile database that runs directly inside phones tablets or wearables
+realm is a mobile database that runs directly inside phones tablets or wearables. this repository holds adapters for combining realm java with android ui components

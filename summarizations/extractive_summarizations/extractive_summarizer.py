@@ -36,7 +36,7 @@ class ExtractiveSummarizer:
                 results.append(str(sentence))
             return results[0]
         else:
-            return source.split('.')[0]
+            return ' '.join(source.split()[:25])
 
     def bulk_summarize(self):
         print('Bulk Summarizing...')

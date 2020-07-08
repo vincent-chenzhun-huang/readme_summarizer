@@ -1,1 +1,1 @@
-swipebacklayout an android library that help you to build app with swipe back gesture
+swipebacklayout an android library that help you to build app with swipe back gesture. demo apk googleplay requirement the latest androidsupportv4.jar should be referenced by

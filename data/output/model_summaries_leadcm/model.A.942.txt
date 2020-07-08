@@ -1,1 +1,1 @@
-area estimation accuracy assessment area2 toolbox link to earth engine code documentation this repository provides tools and guidance for estimating map accuracy and area on the google earth engine
+area estimation accuracy assessment area2 toolbox link to earth engine code documentation this repository provides tools and guidance for estimating map accuracy and area on

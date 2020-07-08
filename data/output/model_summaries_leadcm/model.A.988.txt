@@ -1,1 +1,1 @@
-peepdf is a python tool to explore pdf files in order to find out if the file can be harmful or not
+peepdf is a python tool to explore pdf files in order to find out if the file can be harmful or not. the aim of

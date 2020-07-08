@@ -1,1 +1,1 @@
-ampache web interface ampache web interface to make browsing and playing your music a simple task note this is still a workinprogress only tested on chrome uses html5 audio probably wont work on any other browser httpbahamas10
+ampache web interface ampache web interface to make browsing and playing your music a simple task note this is still a workinprogress only tested on

@@ -1,1 +1,1 @@
-rebar3 what is rebar3 why rebar3 should i use rebar3 getting started documentation features migrating from rebar2 additional resources what is rebar3 rebar3 is an erlang tool that makes it easy to create develop and release erlang libraries applications and systems in a repeatable manner
+rebar3 what is rebar3 why rebar3 should i use rebar3 getting started documentation features migrating from rebar2 additional resources what is rebar3 rebar3 is an

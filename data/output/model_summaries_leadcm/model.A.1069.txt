@@ -1,1 +1,1 @@
-jabbas crypto converter a commandline application for converting currencies crypto and fiat
+jabbas crypto converter a commandline application for converting currencies crypto and fiat. examples supported platforms the program was tested under linux and windows. api key

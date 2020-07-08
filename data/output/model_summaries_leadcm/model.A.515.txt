@@ -1,1 +1,1 @@
-this repository introduces the fundamental concepts of pytorch through selfcontained examples
+this repository introduces the fundamental concepts of pytorch through selfcontained examples. at its core pytorch provides two main features an ndimensional tensor similar to numpy

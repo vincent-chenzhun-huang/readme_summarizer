@@ -1,1 +1,1 @@
-trading simulatorbacktesting this project is to check your trading predictions and for checking diffrent strategies
+trading simulatorbacktesting this project is to check your trading predictions and for checking diffrent strategies. it was built for our cryptocurrency ml predictions but it

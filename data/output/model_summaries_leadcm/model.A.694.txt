@@ -1,1 +1,1 @@
-sunomono the new version of csbdd gem
+sunomono the new version of csbdd gem. csbdd was deprecated and will be yanked in the future. always refer to sunomono from now on. a

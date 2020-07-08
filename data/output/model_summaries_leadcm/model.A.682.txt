@@ -1,1 +1,1 @@
-locksmith a powerful protocoloriented library for working with the keychain in swift
+locksmith a powerful protocoloriented library for working with the keychain in swift. x 📱 ios 8.0 x 💻 mac os x 10.10 x ⌚️ watchos

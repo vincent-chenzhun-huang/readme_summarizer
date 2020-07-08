@@ -1,1 +1,1 @@
-hckalmanfilter is a delightful library for ios written in swift
+hckalmanfilter is a delightful library for ios written in swift. hckalmanfilter library was created for the implementation of kalman filter algorithm for the problem of

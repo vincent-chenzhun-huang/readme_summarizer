@@ -1,1 +1,1 @@
-intro realtime object detection and classification
+intro realtime object detection and classification. paper version 1 version 2. read more about yolo in darknet and download weight files here. in case the

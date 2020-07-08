@@ -1,1 +1,1 @@
-coremlinarkit this simple project detects objects in augmented reality and displays 3d labels on top of them
+coremlinarkit this simple project detects objects in augmented reality and displays 3d labels on top of them. this serves as a basic template for an

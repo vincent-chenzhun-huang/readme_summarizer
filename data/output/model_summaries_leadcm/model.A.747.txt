@@ -1,1 +1,1 @@
-loan default prediction this is the markdown version of the jupyter notebook for easy read online
+loan default prediction this is the markdown version of the jupyter notebook for easy read online. please find the for the executable code. and for

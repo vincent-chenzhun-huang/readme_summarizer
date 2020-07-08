@@ -1,1 +1,1 @@
-metroframework winforms on steroids
+metroframework winforms on steroids. brings the new modern ui alias metro ui of windows 8 to .net windows forms applications. install via nuget installpackage metromodernui

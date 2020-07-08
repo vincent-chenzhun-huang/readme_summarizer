@@ -1,1 +1,1 @@
-flashrdbox
+flashrdbox.sh rdbox command tool to write sd image files to sd card this command performs two processes of creating the configuration file of rdbox and

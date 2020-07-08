@@ -1,1 +1,1 @@
-spn learning affinity via spatial propagation network license copyright c 2018 nvidia corporation
+spn learning affinity via spatial propagation network license copyright c 2018 nvidia corporation. all rights reserved. licensed under the cc byncsa 4.0 license httpscreativecommons.orglicensesbyncsa4.0legalcode. installation

@@ -1,1 +1,1 @@
-facebook sdk for android this opensource library allows you to integrate facebook into your android app
+facebook sdk for android this opensource library allows you to integrate facebook into your android app. learn more about the provided samples documentation integrating the

@@ -1,1 +1,1 @@
-camunda bpm examples looking for the invoice example contained in the distribution you can find it here httpsgithub
+camunda bpm examples looking for the invoice example contained in the distribution you can find it here httpsgithub.comcamundacamundabpmplatformtreemasterexamplesinvoice camunda bpm examples is a collection of

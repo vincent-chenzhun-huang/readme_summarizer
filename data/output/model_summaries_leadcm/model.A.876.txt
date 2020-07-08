@@ -1,1 +1,1 @@
-jsxdom use jsx for creating dom elements
+jsxdom use jsx for creating dom elements. installation usage note if you previously use as pragma there is nothing you need to change. syntax is

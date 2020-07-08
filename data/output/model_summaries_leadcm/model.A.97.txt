@@ -1,1 +1,1 @@
-haxe change proposals this project is for maintaining formal change proposals for haxe language
+haxe change proposals this project is for maintaining formal change proposals for haxe language. about proposals haxe proposals hxp can be submitted by any haxe

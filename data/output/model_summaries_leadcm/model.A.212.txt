@@ -1,1 +1,1 @@
-pwa studio magento pwa studio is a collection of tools that lets developers build complex progressive web applications on top of magento 2 stores
+pwa studio magento pwa studio is a collection of tools that lets developers build complex progressive web applications on top of magento 2 stores. documentation

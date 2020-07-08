@@ -1,1 +1,1 @@
-vk sdk for android library for working with vk api authorization through vk app using vk functions
+vk sdk for android library for working with vk api authorization through vk app using vk functions. minimal version of android is 4.1 prepare for

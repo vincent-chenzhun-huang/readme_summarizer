@@ -1,1 +1,1 @@
-jwtauthentication this application is created to understand how we can secure our api using token based authentication
+jwtauthentication this application is created to understand how we can secure our api using token based authentication. features node js express typescript base cors bodyparser

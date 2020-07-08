@@ -1,1 +1,1 @@
-searching for activation functions this project attempts to implement nips 2017 paper searching for activation function zoph le 2017
+searching for activation functions this project attempts to implement nips 2017 paper searching for activation function zoph le 2017. although neural networks are powerful and

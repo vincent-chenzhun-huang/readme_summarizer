@@ -1,1 +1,1 @@
-web3
+web3.py a python implementation of web3.js python 3.6 support read more in the documentation on readthedocs. view the change log on github. developer setup please

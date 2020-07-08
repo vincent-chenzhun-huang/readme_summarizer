@@ -1,1 +1,1 @@
-tj wave control the arm of your tj bot using the embedded servo video demo here
+tj wave control the arm of your tj bot using the embedded servo video demo here. this module provides node.js code to get control the

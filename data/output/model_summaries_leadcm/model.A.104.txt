@@ -1,1 +1,1 @@
-arduino external eeprom library v3 httpgithub
+arduino external eeprom library v3 httpgithub.comjchristensenexteeprom readme file jack christensen jul 2014 introduction arduino external eeprom library this library will work with most i2c serial

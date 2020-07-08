@@ -1,1 +1,1 @@
-loremipsum this readme is for version 2
+loremipsum this readme is for version 2. switch to branch for the version 1 documentation. if you need compatibility with older versions of nodejs please

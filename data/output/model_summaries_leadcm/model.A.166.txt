@@ -1,1 +1,1 @@
-nsfw data scrapper description this is a set of scripts that allows for an automatic collection of 10s of thousands of images for the following loosely defined categories to be later used for training an image classifier pornography images hentai images but also includes pornographic drawings sexually explicit images but not pornography
+nsfw data scrapper description this is a set of scripts that allows for an automatic collection of 10s of thousands of images for the following

@@ -1,1 +1,1 @@
-jquery print plugin jquery
+jquery print plugin jquery.print is a plugin for printing specific parts of a page usage include it in your html after importing jquery like use

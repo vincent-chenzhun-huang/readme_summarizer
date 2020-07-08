@@ -1,1 +1,1 @@
-moneybalance an androidbased calculator for tracking and balancing group expenses
+moneybalance an androidbased calculator for tracking and balancing group expenses. use case youre travelling with friends and as usual there are many bills to pay

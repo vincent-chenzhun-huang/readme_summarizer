@@ -1,1 +1,1 @@
-laravellaradockphpstorm note this project has been deprecated
+laravellaradockphpstorm note this project has been deprecated. i am refactoring these docs into a phpstorm debugging guide which is currently a pull request. wiring up

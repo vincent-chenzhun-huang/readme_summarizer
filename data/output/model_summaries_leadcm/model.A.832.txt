@@ -1,1 +1,1 @@
-xamapod a tool to generate all the binding files needed in a xamarin binding library from a cocoapods library
+xamapod a tool to generate all the binding files needed in a xamarin binding library from a cocoapods library. the generated binding files are both

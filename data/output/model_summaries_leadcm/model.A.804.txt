@@ -1,1 +1,1 @@
-multer multer is a node
+multer multer is a node.js middleware for handling which is primarily used for uploading files. it is written on top of busboy for maximum efficiency.

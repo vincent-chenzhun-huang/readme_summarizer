@@ -1,1 +1,1 @@
-open data schema map this module provides a flexible way to expose your drupal content via apis following specific open data schemas
+open data schema map this module provides a flexible way to expose your drupal content via apis following specific open data schemas. currently the ckan

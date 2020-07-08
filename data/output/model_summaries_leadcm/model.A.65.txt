@@ -1,1 +1,1 @@
-yytext powerful text framework for ios to display and edit rich text
+yytext powerful text framework for ios to display and edit rich text. its a component of yykit features uilabel and uitextview api compatible high performance

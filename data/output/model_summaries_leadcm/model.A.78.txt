@@ -1,1 +1,1 @@
-woeusb a linux program to create a windows usb stick installer from a real windows dvd or image
+woeusb a linux program to create a windows usb stick installer from a real windows dvd or image. this package contains two programs woeusb a

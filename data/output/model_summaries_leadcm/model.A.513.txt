@@ -1,1 +1,1 @@
-announcement 20190429 unidoc aquires gooxml
+announcement 20190429 unidoc aquires gooxml. unidoc httpsunidoc.io and httpsgithub.comunidoc has aquired gooxml from baliance and we plan to add it to our suite of document

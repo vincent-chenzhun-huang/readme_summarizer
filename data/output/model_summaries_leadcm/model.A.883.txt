@@ -1,1 +1,1 @@
-android pagerslidingtabstrip default material design interactive paging indicator widget compatible with the from the android support library
+android pagerslidingtabstrip default material design interactive paging indicator widget compatible with the from the android support library. usage for a working implementation of this project

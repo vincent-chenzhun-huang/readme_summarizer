@@ -1,1 +1,1 @@
-staticgtfsmanager a browserbased user interface for creating editing exporting of static gtfs general transit feed specification reference feeds for a public transit authority
+staticgtfsmanager a browserbased user interface for creating editing exporting of static gtfs general transit feed specification reference feeds for a public transit authority. release status

@@ -1,1 +1,1 @@
-matlab code for training deep belief networks
+matlab code for training deep belief networks. implementation is based on the following references hinton g. osindero s. teh y.w. 2006. a fast learning algorithm

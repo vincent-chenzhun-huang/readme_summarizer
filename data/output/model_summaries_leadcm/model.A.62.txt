@@ -1,1 +1,1 @@
-netbillpaymentcalcservice this service is used for calculating the net bill amount by implementing certain discounts reference documentation 1
+netbillpaymentcalcservice this service is used for calculating the net bill amount by implementing certain discounts reference documentation 1. executing the service please follow below steps

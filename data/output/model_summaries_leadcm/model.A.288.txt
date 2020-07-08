@@ -1,1 +1,1 @@
-the official docusign python client pypi module that wraps the docusign api documentation about the docusign api requirements python 2
+the official docusign python client pypi module that wraps the docusign api documentation about the docusign api requirements python 2.7 3.6 recommended free developer sandbox

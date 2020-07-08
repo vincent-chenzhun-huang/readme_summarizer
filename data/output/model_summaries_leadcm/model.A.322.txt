@@ -1,1 +1,1 @@
-colorize ruby gem for colorizing text using ansi escape sequences
+colorize ruby gem for colorizing text using ansi escape sequences. extends class or add a with methods to set text color background color and text

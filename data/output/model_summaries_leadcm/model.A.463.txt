@@ -1,1 +1,1 @@
-bitcoinrelated dockerfiles and configurations this is the public repository of dockerfiles used in production by satoshi portal for the bitcoin applications it develops and operates including bylls and bitcoin outlet
+bitcoinrelated dockerfiles and configurations this is the public repository of dockerfiles used in production by satoshi portal for the bitcoin applications it develops and operates

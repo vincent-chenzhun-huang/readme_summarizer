@@ -1,1 +1,1 @@
-msptandv library this energia library provides simple easytouse functions to return the calibrated internal temperature and vcc level on supported msp430 processor types
+msptandv library this energia library provides simple easytouse functions to return the calibrated internal temperature and vcc level on supported msp430 processor types. this library

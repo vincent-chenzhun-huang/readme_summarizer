@@ -1,1 +1,1 @@
-raspgm installation of conversion to wrfv3 decide on a and make the directory if necessary
+raspgm installation of conversion to wrfv3 decide on a and make the directory if necessary. it is strongly recommended that you do not use an

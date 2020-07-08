@@ -1,1 +1,1 @@
-ociquickstartmemcached terraform module to deploy memcached on oracle cloud infrastructure oci memcached memcached is a simple inmemory keyvalue store for small data chunks
+ociquickstartmemcached terraform module to deploy memcached on oracle cloud infrastructure oci memcached memcached is a simple inmemory keyvalue store for small data chunks. it can

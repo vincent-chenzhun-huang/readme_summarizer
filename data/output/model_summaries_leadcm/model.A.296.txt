@@ -1,1 +1,1 @@
-h1
+h1. mplayerxlocalization instruction h2. intro welcome to mplayerxlocalization project. this is a subproject of mplayerx which is a opensource media player project on mac os

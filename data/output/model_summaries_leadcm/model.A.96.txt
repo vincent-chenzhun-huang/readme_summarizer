@@ -1,1 +1,1 @@
-leaflet
+leaflet.locate a useful control to geolocate the user with many options. official leaflet and mapbox plugin. tested with leaflet 1.3 in firefox chrome and safari.

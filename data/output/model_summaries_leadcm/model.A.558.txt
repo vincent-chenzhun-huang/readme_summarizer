@@ -1,1 +1,1 @@
-aem project archetype this archetype creates a minimal adobe experience manager project as a starting point for your own projects
+aem project archetype this archetype creates a minimal adobe experience manager project as a starting point for your own projects. the properties that must be

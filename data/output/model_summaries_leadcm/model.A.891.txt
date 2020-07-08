@@ -1,1 +1,1 @@
-packerpostprocessorvhd packer postprocessor plugin to produce virtual hard disk vhd files
+packerpostprocessorvhd packer postprocessor plugin to produce virtual hard disk vhd files. vhd files can be used with the following hypervisors hyperv vmware virtualbox xenserver packerpostprocessorvhd

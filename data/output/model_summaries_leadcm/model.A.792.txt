@@ -1,1 +1,1 @@
-mjextension a fast convenient and nonintrusive conversion framework between json and model
+mjextension a fast convenient and nonintrusive conversion framework between json and model. 转换速度快、使用简单方便的字典转模型框架 github：codermjlee ｜ blog：mjioschinese ｜ pr is welcome，or feedback 关于 swift ‼️ ‼️

@@ -1,1 +1,1 @@
-pandoc markdown lecture template this project defines a skeleton repo for creating lecture material i
+pandoc markdown lecture template this project defines a skeleton repo for creating lecture material i.e. slides and handouts including lecture notes homework sheets plus the

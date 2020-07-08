@@ -1,1 +1,1 @@
-kubernetes scripts opinionated scripts for managing application development and deployment lifecycle using kubernetes
+kubernetes scripts opinionated scripts for managing application development and deployment lifecycle using kubernetes. how to install then in your toplevel project directory config file k8sscripts

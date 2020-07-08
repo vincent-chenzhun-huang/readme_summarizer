@@ -1,1 +1,1 @@
-description sharepoint patchify apply cu patch to entire farm from one powershell console
+description sharepoint patchify apply cu patch to entire farm from one powershell console. sweet note may need to run and on all farm servers to

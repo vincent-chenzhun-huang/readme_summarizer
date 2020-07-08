@@ -1,1 +1,1 @@
-youtube download a simple application written in python3 to download youtube videos
+youtube download a simple application written in python3 to download youtube videos. these videos can also be downloaded as audio. download prebuilt binaries unless you

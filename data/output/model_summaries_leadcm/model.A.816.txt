@@ -1,1 +1,1 @@
-bb8 starter kit starter kit for automating tasks in everyday frontend development
+bb8 starter kit starter kit for automating tasks in everyday frontend development. 👨🏻‍💻 ⚡️ 🛠 ✨ 🤖 installation ⬇️ 1. make sure you have a

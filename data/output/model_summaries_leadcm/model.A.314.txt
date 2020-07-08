@@ -1,1 +1,1 @@
-xml schemalightener one tool 3 functions
+xml schemalightener one tool 3 functions. 1. schema lightener 2. schema flattener 3. wsdl flattener the xml schemalightener is a tool designed to help you

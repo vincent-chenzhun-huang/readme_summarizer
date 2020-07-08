@@ -1,1 +1,1 @@
-nativepayloaddns c code for backdoor payloads transfer by dns traffic and bypassing antiviruses published by damon mohammadbagher warning this code published to explaining antiviruses vulnerability for pentesters and security researchers for more information and step by step please visit these links bypassing antiviruses with transfer backdoor payloads by dns traffic httpswww
+nativepayloaddns c code for backdoor payloads transfer by dns traffic and bypassing antiviruses published by damon mohammadbagher warning this code published to explaining antiviruses vulnerability

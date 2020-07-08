@@ -1,1 +1,1 @@
-cordovaphonegap wrapper for paystack sdk for android ios by arttitude 360 with reference from httpsgithub
+cordovaphonegap wrapper for paystack sdk for android ios by arttitude 360 with reference from httpsgithub.comtolu360cordovapluginpaystack index description installation automatically cli plugman manually phonegap build usage

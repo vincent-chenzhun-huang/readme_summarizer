@@ -1,1 +1,1 @@
-malimbe a collection of tools to simplify writing public api components for the unity software
+malimbe a collection of tools to simplify writing public api components for the unity software. introduction malimbe for the unity software aims to reduce repetitive

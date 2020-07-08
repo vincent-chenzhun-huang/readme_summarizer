@@ -1,1 +1,1 @@
-crontab ui editing the plain text crontab is error prone for managing jobs e
+crontab ui editing the plain text crontab is error prone for managing jobs e.g. adding jobs deleting jobs or pausing jobs. a small mistake can

@@ -1,1 +1,1 @@
-pulsinghalo pulsinghalo has been discontinued and is no longer being maintained
+pulsinghalo pulsinghalo has been discontinued and is no longer being maintained. please check out pulsator which is the new version of this written with swift.

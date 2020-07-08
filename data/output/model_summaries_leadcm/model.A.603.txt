@@ -1,1 +1,1 @@
-contactsservice a flutter plugin to access and manage the devices contacts
+contactsservice a flutter plugin to access and manage the devices contacts. usage to use this plugin add as a dependency in your file. for example

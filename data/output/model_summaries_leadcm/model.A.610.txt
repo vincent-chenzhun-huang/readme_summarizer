@@ -1,1 +1,1 @@
-ng2dndlist this library is a remake of angulardraganddroplists in angular v2 and upper
+ng2dndlist this library is a remake of angulardraganddroplists in angular v2 and upper. angular directives that allow you to build sortable lists with the native

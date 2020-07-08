@@ -1,1 +1,1 @@
-heroku minecraft buildpack this is a heroku buildpack for running a minecraft server in a dyno
+heroku minecraft buildpack this is a heroku buildpack for running a minecraft server in a dyno. usage create a free ngrok account and copy your

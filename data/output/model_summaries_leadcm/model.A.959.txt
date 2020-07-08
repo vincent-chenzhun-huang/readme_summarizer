@@ -1,1 +1,1 @@
-derainzoo derainzoo a list of deraining methods
+derainzoo derainzoo a list of deraining methods. papers codes and datasets are maintained. other sources about deraining can be observed here. deraining datasets are available

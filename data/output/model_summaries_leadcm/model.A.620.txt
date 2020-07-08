@@ -1,1 +1,1 @@
-neverwinteractplugin an plugin for act advanced combat tracker to parse combat log file from neverwinter by perfect world
+neverwinteractplugin an plugin for act advanced combat tracker to parse combat log file from neverwinter by perfect world. act is found at httpadvancedcombattracker.com dd neverwinter

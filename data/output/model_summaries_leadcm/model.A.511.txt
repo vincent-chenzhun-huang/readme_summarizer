@@ -1,1 +1,1 @@
-adviserplugindependencies plugin for adviser that contains rules related to dependencies in the package
+adviserplugindependencies plugin for adviser that contains rules related to dependencies in the package.json installation youll first need to install adviser next install note if you

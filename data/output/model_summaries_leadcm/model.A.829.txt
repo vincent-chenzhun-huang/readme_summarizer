@@ -1,1 +1,1 @@
-a this is a very simple c implementation of the a algorithm for pathfinding on a twodimensional grid
+a this is a very simple c implementation of the a algorithm for pathfinding on a twodimensional grid. the compiled file is callable from python.

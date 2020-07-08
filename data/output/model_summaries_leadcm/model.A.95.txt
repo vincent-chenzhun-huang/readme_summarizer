@@ -1,1 +1,1 @@
-redom develop web apps with 100 javascript and web standards
+redom develop web apps with 100 javascript and web standards. 🚀 httpsredom.js.org introduction redom is a tiny 2 kb ui library by juha lindstedt and

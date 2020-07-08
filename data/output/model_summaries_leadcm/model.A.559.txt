@@ -1,1 +1,1 @@
-about ebooklib ebooklib is a python library for managing epub2epub3 and kindle files
+about ebooklib ebooklib is a python library for managing epub2epub3 and kindle files. its capable of reading and writing epub files programmatically kindle support is

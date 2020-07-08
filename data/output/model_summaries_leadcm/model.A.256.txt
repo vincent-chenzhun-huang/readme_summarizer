@@ -1,1 +1,1 @@
-easy to use ready to go fully customizable awesome card collection for react native
+easy to use ready to go fully customizable awesome card collection for react native. card installation add the dependency react native peer dependencies important you

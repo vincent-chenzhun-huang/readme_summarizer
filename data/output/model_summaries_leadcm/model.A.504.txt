@@ -1,1 +1,1 @@
-glokka global akka glokka is a scala library that allows you to register and lookup actors by names in an akka cluster
+glokka global akka glokka is a scala library that allows you to register and lookup actors by names in an akka cluster. see glokka is

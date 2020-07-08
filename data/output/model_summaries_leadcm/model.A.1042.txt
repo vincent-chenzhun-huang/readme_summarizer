@@ -1,1 +1,1 @@
-flinkk8soperator flinkk8soperator is a kubernetes operator that manages flink applications on kubernetes
+flinkk8soperator flinkk8soperator is a kubernetes operator that manages flink applications on kubernetes. the operator acts as control plane to manage the complete deployment lifecycle of

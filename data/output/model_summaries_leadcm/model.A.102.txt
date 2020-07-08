@@ -1,1 +1,1 @@
-react data sort a simple react component that helps you sort and paginate a list of data
+react data sort a simple react component that helps you sort and paginate a list of data. the problem you want to display a custom

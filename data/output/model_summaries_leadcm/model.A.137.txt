@@ -1,1 +1,1 @@
-coslam coslam is a visual slam software that aims to use multiple freely moving cameras to simultaneously compute their egomotion and the 3d map of the surrounding scenes in a highly dynamic environment
+coslam coslam is a visual slam software that aims to use multiple freely moving cameras to simultaneously compute their egomotion and the 3d map of

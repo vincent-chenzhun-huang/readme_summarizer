@@ -1,1 +1,1 @@
-leaflet
+leaflet.label note starting with leaflet 1.0 is added to leaflet core as and this plugin is deprecrated. upgrade path to l.tooltip and so should be

@@ -1,1 +1,1 @@
-collective
+collective.behavior.localdiazo .. contents table of contents life the universe and everything dexterity behavior to enable a local diazo theme. this package aims to make easier

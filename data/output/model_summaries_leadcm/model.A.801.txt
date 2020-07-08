@@ -1,1 +1,1 @@
-a symfony 4 website for summarizing bzflag replay files and aggregating matchplayer analytics
+a symfony 4 website for summarizing bzflag replay files and aggregating matchplayer analytics. project setup this project follows the standard symfony 4 way of doing

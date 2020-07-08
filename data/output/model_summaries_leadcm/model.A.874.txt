@@ -1,1 +1,1 @@
-wordpress modular plugin core of wordpress modular plugin or wpm
+wordpress modular plugin core of wordpress modular plugin or wpm. requirements this is a composer library and you need to include it into a plugin

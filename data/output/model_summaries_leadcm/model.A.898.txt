@@ -1,1 +1,1 @@
-cypressskipandonlyui clientside buttons to run a single test or skip it for cypress test runner install and use require from your require and register task from note if you have other tasks already just merge the objects before registering small print author gleb bahmutov gleb
+cypressskipandonlyui clientside buttons to run a single test or skip it for cypress test runner install and use require from your require and register task

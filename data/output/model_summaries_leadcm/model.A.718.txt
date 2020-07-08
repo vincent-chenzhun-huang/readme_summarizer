@@ -1,1 +1,1 @@
-laravel mentions traviscoveragestable versiondownloadslaravellicense a package to parse from a text and mention the user with a notification
+laravel mentions traviscoveragestable versiondownloadslaravellicense a package to parse from a text and mention the user with a notification. by default this package is configured to

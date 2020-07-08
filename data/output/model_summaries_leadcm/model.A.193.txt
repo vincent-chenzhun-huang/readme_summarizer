@@ -1,1 +1,1 @@
- wp user manager user profile builder membership author uri httpswpusermanager
+wp user manager user profile builder membership author uri httpswpusermanager.com plugin uri httpswpusermanager.com contributors alessandro.tesoro wpusermanager tags members profile community user profile user registration requires

@@ -1,1 +1,1 @@
-babelfire a universal translator this is a firebase and google cloud powered app used for demo purposes
+babelfire a universal translator this is a firebase and google cloud powered app used for demo purposes. it implements a universal translator where an android

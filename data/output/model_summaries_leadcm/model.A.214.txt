@@ -1,1 +1,1 @@
-loglevel minimal lightweight simple logging for javascript
+loglevel minimal lightweight simple logging for javascript. loglevel replaces console.log and friends with levelbased logging and filtering with none of consoles downsides. this is a

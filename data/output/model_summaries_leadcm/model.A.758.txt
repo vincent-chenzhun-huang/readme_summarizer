@@ -1,1 +1,1 @@
-is a small utility to track and control your ssh telnet web and custom shells and tunnels demo
+is a small utility to track and control your ssh telnet web and custom shells and tunnels demo. installation a precompiled version is available for

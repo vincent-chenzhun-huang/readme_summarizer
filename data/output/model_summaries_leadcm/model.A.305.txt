@@ -1,1 +1,1 @@
-dockerize utility to simplify running applications in docker containers
+dockerize utility to simplify running applications in docker containers. dockerize is a utility to simplify running applications in docker containers. it allows you to generate

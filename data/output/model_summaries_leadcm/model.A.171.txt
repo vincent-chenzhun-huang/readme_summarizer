@@ -1,1 +1,1 @@
-goworkerpool pool of workers pool of concurrent workers with the ability of increment decrement pause resume workers on demand
+goworkerpool pool of workers pool of concurrent workers with the ability of increment decrement pause resume workers on demand. features enqueue jobs on demand multiple

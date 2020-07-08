@@ -1,1 +1,1 @@
-sameersbnpostgresql9
+sameersbnpostgresql9.412 introduction contributing issues getting started installation quickstart persistence trusting local connections setting user password creating database user creating databases enabling unaccent extension granting user

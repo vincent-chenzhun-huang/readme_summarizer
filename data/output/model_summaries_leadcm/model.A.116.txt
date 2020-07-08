@@ -1,1 +1,1 @@
-you might dont need jquery frontend environments evolve rapidly nowadays and modern browsers have already implemented a great deal of dombom apis which are good enough for production use
+you might dont need jquery frontend environments evolve rapidly nowadays and modern browsers have already implemented a great deal of dombom apis which are good

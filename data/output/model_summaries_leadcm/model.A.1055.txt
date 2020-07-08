@@ -1,1 +1,1 @@
-depnotify starter for jamf pro template bash script to start depnotify and run policies during enrollment with jamf
+depnotify starter for jamf pro template bash script to start depnotify and run policies during enrollment with jamf. app installer source code and full product

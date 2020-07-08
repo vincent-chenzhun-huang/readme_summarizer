@@ -1,1 +1,1 @@
-awesit another website tool awesit is a tool to manage website deploy backup and update workflows
+awesit another website tool awesit is a tool to manage website deploy backup and update workflows. awesit can help developers content workers webmasters and users

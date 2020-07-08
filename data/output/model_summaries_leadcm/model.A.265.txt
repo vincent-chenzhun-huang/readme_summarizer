@@ -1,1 +1,1 @@
-itpmatlab the ice tethered profiler itp is an autonomous instrument that vertically profiles the water column under sea ice
+itpmatlab the ice tethered profiler itp is an autonomous instrument that vertically profiles the water column under sea ice. the itp collects measurements of conductivity

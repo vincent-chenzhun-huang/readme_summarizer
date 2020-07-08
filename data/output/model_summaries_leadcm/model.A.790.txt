@@ -1,1 +1,1 @@
-project introduction this project is based on cnnblstmctc to realize verification code identification
+project introduction this project is based on cnnblstmctc to realize verification code identification. this project is only for deployment models if you need to train

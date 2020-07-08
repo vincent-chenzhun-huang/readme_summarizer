@@ -1,1 +1,1 @@
-siafpgaminer this project is a vhdl fpga core that implements an optimized blake2b pipeline to mine siacoin
+siafpgaminer this project is a vhdl fpga core that implements an optimized blake2b pipeline to mine siacoin. motivation when cpu mining got crowded in the

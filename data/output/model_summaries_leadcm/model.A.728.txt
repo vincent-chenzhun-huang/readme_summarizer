@@ -1,1 +1,1 @@
-clinvar deprecated this code is out of date and no longer being maintained
+clinvar deprecated this code is out of date and no longer being maintained. clinvar has fixed the issues that originally motivated creating this project so

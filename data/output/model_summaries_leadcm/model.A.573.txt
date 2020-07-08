@@ -1,1 +1,1 @@
-unistbuilderblueprint unist utility to transform trees to notation
+unistbuilderblueprint unist utility to transform trees to notation. install npm use yields api transform the given tree to notation. parameters — unist tree to transform

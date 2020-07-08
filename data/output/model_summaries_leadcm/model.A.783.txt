@@ -1,1 +1,1 @@
-thanos helm chart helm chart that install and configure prometheusoperator and thanos
+thanos helm chart helm chart that install and configure prometheusoperator and thanos. goal make it as easy and reproducible as possible to setup a highavailable

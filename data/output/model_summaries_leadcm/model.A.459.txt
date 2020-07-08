@@ -1,1 +1,1 @@
-effective android ui sample project created to reinforce some of the main concepts described in the tech talk effective android ui
+effective android ui sample project created to reinforce some of the main concepts described in the tech talk effective android ui. in this repository you

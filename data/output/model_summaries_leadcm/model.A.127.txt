@@ -1,1 +1,1 @@
-cucumber boilerplate boilerplate project to run webdriverio tests with cucumber and brings true bdd to javascript
+cucumber boilerplate boilerplate project to run webdriverio tests with cucumber and brings true bdd to javascript. instead of writing complicated test code that only developers

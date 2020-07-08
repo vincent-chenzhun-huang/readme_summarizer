@@ -1,1 +1,1 @@
-please consider citing the jmlrmloss manuscript if youve used pomegranate in your academic work pomegranate is a package for probabilistic models in python that is implemented in cython for speed
+please consider citing the jmlrmloss manuscript if youve used pomegranate in your academic work pomegranate is a package for probabilistic models in python that is

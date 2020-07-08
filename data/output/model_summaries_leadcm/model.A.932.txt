@@ -1,1 +1,1 @@
-中文介绍 estabbarcontroller is a highly customizable tabbarcontroller component which is inherited from uitabbarcontroller
+中文介绍 estabbarcontroller is a highly customizable tabbarcontroller component which is inherited from uitabbarcontroller. why in realworld development we may encounter the situation that customizing the

@@ -1,1 +1,1 @@
-open311client this is a java client to submit issues to open311 georeport v2 compliant systems
+open311client this is a java client to submit issues to open311 georeport v2 compliant systems. features rest api design image submission compatible platforms java applications

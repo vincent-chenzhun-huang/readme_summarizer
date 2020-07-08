@@ -1,1 +1,1 @@
-apache zookeeper terraform module a terraform module to create and manage an apache zookeeper cluster on aws
+apache zookeeper terraform module a terraform module to create and manage an apache zookeeper cluster on aws. prerequisites terraform and aws command line interface tools

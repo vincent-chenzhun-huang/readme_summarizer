@@ -1,1 +1,1 @@
-handson meta learning with python learning to learn using oneshot learning maml reptile metasgd and more about the book meta learning is an exciting research trend in machine learning which enables a model to understand the learning process
+handson meta learning with python learning to learn using oneshot learning maml reptile metasgd and more about the book meta learning is an exciting research

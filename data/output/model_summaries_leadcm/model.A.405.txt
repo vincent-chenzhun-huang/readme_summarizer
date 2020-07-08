@@ -1,1 +1,1 @@
-dotnetoutdated overview when using an ide such as visual studio it is easy to find out whether newer versions of the nuget packages used by your project is available by using the nuget package manager
+dotnetoutdated overview when using an ide such as visual studio it is easy to find out whether newer versions of the nuget packages used by

@@ -1,1 +1,1 @@
-phoenix ecto encryption example why encrypting userpersonal data stored by your web app is essential for securityprivacy
+phoenix ecto encryption example why encrypting userpersonal data stored by your web app is essential for securityprivacy. if your app offers any personalised content or

@@ -1,1 +1,1 @@
-rails locale data repository centralization of locale data collection for ruby on rails
+rails locale data repository centralization of locale data collection for ruby on rails. gem installation include the gem to your gemfile alternatively execute the following

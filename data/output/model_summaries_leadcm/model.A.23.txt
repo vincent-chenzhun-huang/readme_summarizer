@@ -1,1 +1,1 @@
-anki progress stats this is a plugin for anki that adds the following graphs
+anki progress stats this is a plugin for anki that adds the following graphs. you can find it listed under anki addons here. graphs learned

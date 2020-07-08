@@ -1,1 +1,1 @@
- eli5 
+eli5 .. image httpsimg.shields.iopypiveli5.svg target httpspypi.python.orgpypieli5 alt pypi version .. image httpstravisci.orgteamhgmemexeli5.svgbranchmaster target httpstravisci.orgteamhgmemexeli5 alt build status .. image httpscodecov.iogithubteamhgmemexeli5coverage.svgbranchmaster target httpscodecov.iogithubteamhgmemexeli5branchmaster alt code coverage

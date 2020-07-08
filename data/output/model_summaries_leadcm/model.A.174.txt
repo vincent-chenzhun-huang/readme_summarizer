@@ -1,1 +1,1 @@
-using localstack for development localstack lets you to easily develop and more importantly contineously test aws services based applications all on your local docker without needing access to the aws cloud infrastructure
+using localstack for development localstack lets you to easily develop and more importantly contineously test aws services based applications all on your local docker without

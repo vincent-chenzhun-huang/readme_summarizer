@@ -1,1 +1,1 @@
-labelbox labelbox is the fastest way to annotate data to build and ship artificial intelligence applications
+labelbox labelbox is the fastest way to annotate data to build and ship artificial intelligence applications. this github repository is about building custom interfaces on

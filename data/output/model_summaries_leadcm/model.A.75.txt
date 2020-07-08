@@ -1,1 +1,1 @@
-kubernetes testing this repository is the containerizeddeployable test suite that may be utilized to validate a kubernetes deployment
+kubernetes testing this repository is the containerizeddeployable test suite that may be utilized to validate a kubernetes deployment. this repo allows the execution of bats

@@ -1,1 +1,1 @@
-touchgfx is a c graphics framework for limitedresource embedded systems based on arm cortexm3 m4 and m7
+touchgfx is a c graphics framework for limitedresource embedded systems based on arm cortexm3 m4 and m7. you can use touchgfx to create modern user

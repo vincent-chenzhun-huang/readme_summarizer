@@ -1,1 +1,1 @@
-these are json result of stepbystep adding nlp component into watson assistant
+these are json result of stepbystep adding nlp component into watson assistant. definitions intent an intent represents the purpose of a users input. you define

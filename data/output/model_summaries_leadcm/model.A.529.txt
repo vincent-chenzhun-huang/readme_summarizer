@@ -1,1 +1,1 @@
-kubewg kubewg is a kubernetes controller that allows you to configure and manage wireguard vpn configuration using a kubernetes api server
+kubewg kubewg is a kubernetes controller that allows you to configure and manage wireguard vpn configuration using a kubernetes api server. it introduces the following

@@ -1,1 +1,1 @@
-redisfullcheck is used to compare whether two redis have the same data
+redisfullcheck is used to compare whether two redis have the same data. we also offer a data synchronization tool called redisshake to syncing data from

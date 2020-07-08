@@ -1,1 +1,1 @@
-audioservice play audio in the background
+audioservice play audio in the background. continues playing while the screen is off or the app is in the background control playback from your flutter

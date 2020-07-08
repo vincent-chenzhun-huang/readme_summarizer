@@ -1,1 +1,1 @@
-expopixi tools to use pixi
+expopixi tools to use pixi.js in expo to get started in your expo project and import it with . sideeffects to use pixi.js with expo

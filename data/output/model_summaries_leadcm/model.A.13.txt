@@ -1,1 +1,1 @@
-polystores polystores is an abstraction and a collection of clients to interact with cloud storages
+polystores polystores is an abstraction and a collection of clients to interact with cloud storages. install n.b. this module does not include by default the

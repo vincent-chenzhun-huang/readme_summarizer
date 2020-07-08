@@ -1,1 +1,1 @@
- yahoofinancials a python module that returns stock cryptocurrency forex mutual fund commodity futures etf and us treasury financial data from yahoo finance
+yahoofinancials a python module that returns stock cryptocurrency forex mutual fund commodity futures etf and us treasury financial data from yahoo finance. .. image httpstravisci.orgjecsandyahoofinancials.svgbranchmaster

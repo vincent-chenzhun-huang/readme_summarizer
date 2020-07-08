@@ -1,1 +1,1 @@
-terraform config to launch rancher 2 note requires terraform v0
+terraform config to launch rancher 2 note requires terraform v0.12 summary this terraform setup will start a droplet running version specified in create a custom

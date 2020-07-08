@@ -1,1 +1,1 @@
-ndepend
+ndepend.path support for absolute file and directory path drive letter and absolute var absolutefilepath cdirfile.txt.toabsolutefilepath assert.istrueabsolutefilepath.filename file.txt assert.istrueabsolutefilepath.kind absolutepathkind.driveletter assert.istrueabsolutefilepath.driveletter.letter c var absoluteuncdirectorypath serversharedir.toabsolutedirectorypath assert.istrueabsoluteuncdirectorypath.directoryname

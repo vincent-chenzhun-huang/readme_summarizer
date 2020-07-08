@@ -1,1 +1,1 @@
- image httpsimg
+image httpsimg.shields.iopypivkmodes.svg target httpspypi.python.orgpypikmodes alt version .. image httpstravisci.orgnicodvkmodes.svgbranchmaster target httpstravisci.orgnicodvkmodes alt test status .. image httpscoveralls.ioreposnicodvkmodesbadge.svg target httpscoveralls.iornicodvkmodes alt test coverage .. image httpsapi.codacy.comprojectbadgegradecb19f1f1093a44fa845ebfdaf76975f6

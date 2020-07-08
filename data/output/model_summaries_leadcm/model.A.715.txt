@@ -1,1 +1,1 @@
-aws iot device sdk for python the aws iot device sdk for python allows developers to write python script to use their devices to access the aws iot platform through 
+aws iot device sdk for python the aws iot device sdk for python allows developers to write python script to use their devices to access

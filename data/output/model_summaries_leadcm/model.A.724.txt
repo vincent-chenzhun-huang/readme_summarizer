@@ -1,1 +1,1 @@
-ldialog 中文 suppor android x a library based on googles recommended dialogfragment package according to its own business extraction package the library is written using can also be called can meet most project needs can used in activity and fragment
+ldialog 中文 suppor android x a library based on googles recommended dialogfragment package according to its own business extraction package the library is written using

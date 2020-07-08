@@ -1,1 +1,1 @@
-microsoft graph office ui fabric js peoplepicker sample table of contents introduction prerequisites register the application run the sample questions and comments contributing additional resources introduction this sample demonstrates how to populate an office ui fabric js peoplepicker component with data retrieved from microsoft graph
+microsoft graph office ui fabric js peoplepicker sample table of contents introduction prerequisites register the application run the sample questions and comments contributing additional resources

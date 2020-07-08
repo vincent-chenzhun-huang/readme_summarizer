@@ -1,1 +1,1 @@
-gravizo how to include graphviz graphs in github readme
+gravizo how to include graphviz graphs in github readme.md new. the indirect way you can use indirect way to refer a source file as graph

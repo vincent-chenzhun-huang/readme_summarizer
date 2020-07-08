@@ -1,1 +1,1 @@
-cloudfrunt cloudfrunt is a tool for identifying misconfigured cloudfront domains
+cloudfrunt cloudfrunt is a tool for identifying misconfigured cloudfront domains. background cloudfront is a content delivery network cdn provided by amazon web services aws. cloudfront

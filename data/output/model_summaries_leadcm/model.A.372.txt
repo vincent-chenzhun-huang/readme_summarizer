@@ -1,1 +1,1 @@
-holoros ros integration with hololens this project aimed the integration between ros and the microsoft augmented reality glass hololens
+holoros ros integration with hololens this project aimed the integration between ros and the microsoft augmented reality glass hololens. the goal was to be able

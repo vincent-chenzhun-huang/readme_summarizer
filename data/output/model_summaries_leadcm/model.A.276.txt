@@ -1,1 +1,1 @@
-esri leaflet leaflet plugins for working with a handful of the most popular arcgis service types
+esri leaflet leaflet plugins for working with a handful of the most popular arcgis service types. this includes esri basemaps and feature services as well

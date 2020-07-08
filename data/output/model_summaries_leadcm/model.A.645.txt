@@ -1,1 +1,1 @@
-jekylltimeago a ruby library to compute distance of dates in words with localization support
+jekylltimeago a ruby library to compute distance of dates in words with localization support. originally built for jekyll. main features compute distance of dates in

@@ -1,1 +1,1 @@
-pandas dataframe gui a minimalistic gui for analyzing pandas dataframes based on wxpython
+pandas dataframe gui a minimalistic gui for analyzing pandas dataframes based on wxpython. usage features tabular view of data frame columns are sortable by clicking

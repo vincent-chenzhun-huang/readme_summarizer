@@ -1,1 +1,1 @@
-researchstack researchstack is an sdk and ux framework for building research study apps on android
+researchstack researchstack is an sdk and ux framework for building research study apps on android. be sure to check out researchstack.org and the researchstack forum

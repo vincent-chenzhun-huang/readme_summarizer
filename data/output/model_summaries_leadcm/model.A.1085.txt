@@ -1,1 +1,1 @@
-android tooltips simple to use customizable android tooltips library based on popupwindow
+android tooltips simple to use customizable android tooltips library based on popupwindow. this tooltips does not require any custom layout. it works as popupwindow. getting

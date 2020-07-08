@@ -1,1 +1,1 @@
-trellohub microservice for synchronising a trellobased workflow with github issues
+trellohub microservice for synchronising a trellobased workflow with github issues. board setup activate github power up by yourself because it needs permissions. you can do

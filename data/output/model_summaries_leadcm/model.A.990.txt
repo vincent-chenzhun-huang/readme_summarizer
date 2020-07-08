@@ -1,1 +1,1 @@
-awesome wp developer tools a collection of plugins starter themes and tools to make wordpress development easier
+awesome wp developer tools a collection of plugins starter themes and tools to make wordpress development easier. table of contents wordpress api libraries wordpress plugins

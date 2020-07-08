@@ -1,1 +1,1 @@
-wordpress exploit framework a ruby framework designed to aid in the penetration testing of wordpress systems
+wordpress exploit framework a ruby framework designed to aid in the penetration testing of wordpress systems. installation to install the latest stable build run .

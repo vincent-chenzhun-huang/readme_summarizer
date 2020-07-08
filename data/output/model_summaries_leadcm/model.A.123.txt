@@ -1,1 +1,1 @@
-demos to be converted to unity dots dataoriented tech stack directions clone this repository make a new branch for your demo then create a new directory under preecsdemosported with your name
+demos to be converted to unity dots dataoriented tech stack directions clone this repository make a new branch for your demo then create a new

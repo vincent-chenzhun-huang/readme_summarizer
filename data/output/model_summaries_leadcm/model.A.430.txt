@@ -1,1 +1,1 @@
-galeforce galeforce is a project to customise the google wifi router
+galeforce galeforce is a project to customise the google wifi router. this enables you to obtain root ssh access setup any extra features you want

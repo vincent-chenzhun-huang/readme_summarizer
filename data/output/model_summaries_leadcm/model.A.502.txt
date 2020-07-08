@@ -1,1 +1,1 @@
-matic sdk this repository contains the client library
+matic sdk this repository contains the client library. makes it easy for developers who may not be deeply familiar with smart contract development to interact

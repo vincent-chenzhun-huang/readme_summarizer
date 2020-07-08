@@ -1,1 +1,1 @@
-vipermonkey vipermonkey is a vba emulation engine written in python designed to analyze and deobfuscate malicious vba macros contained in microsoft office files word excel powerpoint publisher etc
+vipermonkey vipermonkey is a vba emulation engine written in python designed to analyze and deobfuscate malicious vba macros contained in microsoft office files word excel

@@ -1,1 +1,1 @@
-reactbreakpoints this library solves the problem that css media queries alone could not solve
+reactbreakpoints this library solves the problem that css media queries alone could not solve. sometimes you want to create an application that looks a certain

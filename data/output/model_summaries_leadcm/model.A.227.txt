@@ -1,1 +1,1 @@
-telemanom branch info for use with data containing labeled anomalies and recreating kdd paper experiments for use with unlabeled data a set of timeseries streams anomaly detection in time series data using lstms and automatic thresholding telemanom employs vanilla lstms using kerastensorflow to identify anomalies in multivariate sensor data
+telemanom branch info for use with data containing labeled anomalies and recreating kdd paper experiments for use with unlabeled data a set of timeseries streams

@@ -1,1 +1,1 @@
-quilt3distribute people commonly work with tabular datasets people want to share their data this makes that easier through quilt3
+quilt3distribute people commonly work with tabular datasets people want to share their data this makes that easier through quilt3. features automatically determines which files to

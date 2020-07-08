@@ -1,1 +1,1 @@
-astranet is a package for managing highly concurrent independent network streams
+astranet is a package for managing highly concurrent independent network streams. how did we get here while dealing with everyday issues we have approached a

@@ -1,1 +1,1 @@
-yydispatchqueuepool ios utility class to manage global dispatch queue
+yydispatchqueuepool ios utility class to manage global dispatch queue. its a component of yykit when use a concurrent queue to execute lots of blocks i

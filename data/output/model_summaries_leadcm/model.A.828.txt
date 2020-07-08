@@ -1,1 +1,1 @@
-harmon a middleware component for nodehttpproxy using trumpet to parse and transform the response from the proxied server
+harmon a middleware component for nodehttpproxy using trumpet to parse and transform the response from the proxied server. install examples overview in this example the

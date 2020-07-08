@@ -1,1 +1,1 @@
-reactredux shopping cart exercise this repository is an exercise of a shopping cart
+reactredux shopping cart exercise this repository is an exercise of a shopping cart. it simulates a small catalog that is shown in the main view

@@ -1,1 +1,1 @@
-syncproxy quick start guide for windev mobile for android this quick start tutorial will show you to how to setup a windev mobile application for android embedding its own database together with syncproxy client
+syncproxy quick start guide for windev mobile for android this quick start tutorial will show you to how to setup a windev mobile application for

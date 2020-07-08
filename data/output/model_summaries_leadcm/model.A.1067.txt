@@ -1,1 +1,1 @@
-mentorship system android branch travis codacy master develop mentorship system is an application that allows women in tech to mentor each other on career development topics through 11 relations for a certain period
+mentorship system android branch travis codacy master develop mentorship system is an application that allows women in tech to mentor each other on career development

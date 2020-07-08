@@ -1,1 +1,1 @@
-an unopinionated authentication library for building node
+an unopinionated authentication library for building node.js apis. usage • why • principles • examples • documentation permit makes it easy to add an authentication

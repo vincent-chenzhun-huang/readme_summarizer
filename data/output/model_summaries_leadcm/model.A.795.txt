@@ -1,1 +1,1 @@
-the questrade ruby api gem a ruby interface to use the questrade api
+the questrade ruby api gem a ruby interface to use the questrade api. quick start create a questrade demo account on add the following line

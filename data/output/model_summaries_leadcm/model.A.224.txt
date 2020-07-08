@@ -1,1 +1,1 @@
-lyricstoaudioalignment this project aims at creating an automatic alignment between the textual lyrics and monophonic singing vocals audio
+lyricstoaudioalignment this project aims at creating an automatic alignment between the textual lyrics and monophonic singing vocals audio. this system shall be very useful in

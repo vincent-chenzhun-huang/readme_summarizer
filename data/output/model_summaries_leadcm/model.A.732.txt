@@ -1,1 +1,1 @@
-youtubedl download videos from youtube
+youtubedl download videos from youtube.com or other video platforms installation description options configuration output template format selection video selection faq developer instructions embedding youtubedl bugs

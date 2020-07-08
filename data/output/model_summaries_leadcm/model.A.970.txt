@@ -1,1 +1,1 @@
-islandora defaults introduction islandora defaults is a drupal feature intended to showcase all of the functionality of a full islandora install
+islandora defaults introduction islandora defaults is a drupal feature intended to showcase all of the functionality of a full islandora install. it provides custom content

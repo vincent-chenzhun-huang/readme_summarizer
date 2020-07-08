@@ -1,1 +1,1 @@
-overview add uml diagrams using plantuml to javadocs
+overview add uml diagrams using plantuml to javadocs. extends the standard java doclet. background the inspiration for this project is better communication between the developers

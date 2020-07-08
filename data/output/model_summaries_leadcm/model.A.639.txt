@@ -1,1 +1,1 @@
-workforce scripts a set of python scripts and notebooks to help administer and configure workforce projects
+workforce scripts a set of python scripts and notebooks to help administer and configure workforce projects. notebooks several example jupyter notebooks are provided to demonstrate

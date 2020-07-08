@@ -1,1 +1,1 @@
-overview botexpress is a chatbot development framework to build tailermade chatbot lightning fast
+overview botexpress is a chatbot development framework to build tailermade chatbot lightning fast. developers can extend the chatbot capability just by adding skills. features nlu

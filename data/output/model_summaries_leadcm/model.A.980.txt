@@ -1,1 +1,1 @@
-gridworldrl qlearning with python welcome to gridworld suppose that an agent wishes to navigate gridworld the agent who begins at the starting state s cannot pass through the shaded squares an obstacle and succeeds by reaching the goal state g where a reward is given
+gridworldrl qlearning with python welcome to gridworld suppose that an agent wishes to navigate gridworld the agent who begins at the starting state s cannot

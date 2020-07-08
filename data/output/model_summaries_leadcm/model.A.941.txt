@@ -1,1 +1,1 @@
-trinitycore master build status introduction requirements install reporting issues submitting fixes copyright authors contributors links build status master 3
+trinitycore master build status introduction requirements install reporting issues submitting fixes copyright authors contributors links build status master 3.3.5 introduction trinitycore is a mmorpg framework

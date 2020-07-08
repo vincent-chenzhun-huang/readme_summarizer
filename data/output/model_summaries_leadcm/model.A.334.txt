@@ -1,1 +1,1 @@
-terraform aws log bucket blueprint a terraform module to create hardened log s3 bucket for aws services
+terraform aws log bucket blueprint a terraform module to create hardened log s3 bucket for aws services. this is part of the pro terraform blueprints

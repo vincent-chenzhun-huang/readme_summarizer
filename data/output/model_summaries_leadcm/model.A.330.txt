@@ -1,1 +1,1 @@
-azurekubernetescouchbase this is a walkthrough of setting the couchbase operator up on azure container service aks
+azurekubernetescouchbase this is a walkthrough of setting the couchbase operator up on azure container service aks. deploy an aks cluster aks is currently in public

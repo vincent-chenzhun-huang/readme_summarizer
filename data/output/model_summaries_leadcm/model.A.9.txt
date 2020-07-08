@@ -1,1 +1,1 @@
-todo cli commandline tool to manage the todo lists of your projects built with python3 with unix systems in mind
+todo cli commandline tool to manage the todo lists of your projects built with python3 with unix systems in mind. elevator pitch todo exists to

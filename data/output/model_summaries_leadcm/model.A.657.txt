@@ -1,1 +1,1 @@
-trust cloudflares proxies for laravel add cloudflare ip addresses to trusted proxies for laravel
+trust cloudflares proxies for laravel add cloudflare ip addresses to trusted proxies for laravel. installation install using composer you dont need to add this package

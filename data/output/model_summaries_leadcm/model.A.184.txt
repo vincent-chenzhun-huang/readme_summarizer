@@ -1,1 +1,1 @@
-fixes
+fixes.inc community patches for buggy samp functions. introduction samp is beta software written by a small team in their spare time thus it has bugs

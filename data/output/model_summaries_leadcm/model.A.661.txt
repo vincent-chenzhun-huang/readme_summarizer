@@ -1,1 +1,1 @@
-pdflayouttextstripper converts a pdf file into a text file while keeping the layout of the original pdf
+pdflayouttextstripper converts a pdf file into a text file while keeping the layout of the original pdf. useful to extract the content from a table

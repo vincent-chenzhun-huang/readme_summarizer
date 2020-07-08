@@ -1,1 +1,1 @@
-this is repo for the main application
+this is repo for the main application. if you are looking for the images and scripts used in this app please visit here anlinux run

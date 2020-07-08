@@ -1,1 +1,1 @@
-spamfilterbot discord bot for filtering messages and display only relevant messages
+spamfilterbot discord bot for filtering messages and display only relevant messages. the bot will read the discord conversation and according to its criterias machine learning

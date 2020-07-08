@@ -1,1 +1,1 @@
-mobcalmpi parallelization of the commonly used mobcal suite to calculate ion mobilities and collision cross sections
+mobcalmpi parallelization of the commonly used mobcal suite to calculate ion mobilities and collision cross sections. from the readme.txt introduction this python3 script is used

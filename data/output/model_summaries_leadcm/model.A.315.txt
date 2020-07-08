@@ -1,1 +1,1 @@
-aws streams to kinesis firehose forwarder please note that this project is now deprecated for kinesis streams sources
+aws streams to kinesis firehose forwarder please note that this project is now deprecated for kinesis streams sources. for forwarding kinesis streams data to kinesis

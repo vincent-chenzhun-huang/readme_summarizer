@@ -1,1 +1,1 @@
- description melkor an elf file format fuzzer melkor a fictional character from j
+description melkor an elf file format fuzzer melkor a fictional character from j. r. r. tolkiens middleearth legendarium was the first dark lord and master

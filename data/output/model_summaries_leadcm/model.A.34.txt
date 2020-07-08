@@ -1,1 +1,1 @@
-getting and building qmcpack obtain the latest release or development copy from httpwww
+getting and building qmcpack obtain the latest release or development copy from httpwww.qmcpack.org prerequisites c 14 and c99 capable compilers. e.g. gcc 5.0 intel 2018

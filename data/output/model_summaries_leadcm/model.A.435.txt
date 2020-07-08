@@ -1,1 +1,1 @@
-heatpump arduino library to control mitsubishi heat pumps via connector cn105
+heatpump arduino library to control mitsubishi heat pumps via connector cn105. quick start controlling the heat pump see heatpumptest.ino getting updates from the heat pump

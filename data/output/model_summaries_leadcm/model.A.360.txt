@@ -1,1 +1,1 @@
-ociquickstartdatastax these are terraform modules that deploy datastax enterprise dse on oracle cloud infrastructure oci
+ociquickstartdatastax these are terraform modules that deploy datastax enterprise dse on oracle cloud infrastructure oci. they are developed jointly by oracle and datastax. prerequisites first

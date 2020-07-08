@@ -1,1 +1,1 @@
- python broqer 
+python broqer .. image httpsimg.shields.iopypivbroqer.svg target httpspypi.python.orgpypibroqer .. image httpsimg.shields.iotravissemiversuspythonbroqermaster.svg target httpstravisci.orgsemiversuspythonbroqer .. image httpsreadthedocs.orgprojectspythonbroqerbadgeversionlatest target httpspythonbroqer.readthedocs.ioenlatest .. image httpscodecov.ioghsemiversuspythonbroqerbranchmastergraphbadge.svg target httpscodecov.ioghsemiversuspythonbroqer .. image httpsimg.shields.iogithublicensesemiversuspythonbroqer.svg

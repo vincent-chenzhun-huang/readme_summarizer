@@ -1,1 +1,1 @@
-tripkit tripkit is a swiftport of httpsgithub
+tripkit tripkit is a swiftport of httpsgithub.comschildbachpublictransportenabler with some additional enhancements. this library allows you to get data from public transport providers. look into networkprovider.swift

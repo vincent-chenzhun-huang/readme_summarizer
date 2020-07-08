@@ -1,1 +1,1 @@
-🌠 kuantic app 🌠 mevn web application to support ecommerce
+🌠 kuantic app 🌠 mevn web application to support ecommerce. contents demo tech stack features installation seeding data running tests configuration setup contribute demo view

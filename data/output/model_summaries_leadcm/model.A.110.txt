@@ -1,1 +1,1 @@
-introduction 
+introduction .. image httpsreadthedocs.orgprojectsadafruitcircuitpythonboardtestbadgeversionlatest target httpscircuitpython.readthedocs.ioprojectsboardtestenlatest alt documentation status .. image httpsimg.shields.iodiscord327254708534116352.svg target httpsdiscord.ggnbqh6qu alt discord .. image httpstravisci.comadafruitadafruitcircuitpythonboardtest.svgbranchmaster target httpstravisci.comadafruitadafruitcircuitpythonboardtest alt build status board

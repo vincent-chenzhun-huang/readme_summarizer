@@ -1,1 +1,1 @@
- badgepythonversions image httpsimg
+badgepythonversions image httpsimg.shields.iopypipyversionswhalesong.svg alt python versions .. badgeversion image httpsimg.shields.iopypivwhalesong.svg alt last version target httpspypi.orgprojectwhalesong .. badgelicense image httpsimg.shields.iopypilwhalesong.svg alt license .. badgestatus image httpsimg.shields.iopypistatuswhalesong.svg

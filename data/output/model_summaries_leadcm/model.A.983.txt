@@ -1,1 +1,1 @@
-lstmlyrics lstm text generation by word
+lstmlyrics lstm text generation by word. used to generate lyrics from a corpus of a music genre. httpsmedium.commonocaserowordlevellstmtextgeneratorcreatingautomaticsonglyricswithneuralnetworksb8a1617104fb and the update working with word embeddings

@@ -1,1 +1,1 @@
-devise security extension an enterprise security extension for devise trying to meet industrial standard security demands for web applications
+devise security extension an enterprise security extension for devise trying to meet industrial standard security demands for web applications. it is composed of 7 additional

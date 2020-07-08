@@ -1,1 +1,1 @@
-noderedcontribopcua a nodered nodes to communicate or serve via opc ua
+noderedcontribopcua a nodered nodes to communicate or serve via opc ua. based on nodeopcua install run command on nodered installation directory. npm install noderedcontribopcua or

@@ -1,1 +1,1 @@
-mixhtmlbuilder a quick laravel mix extension to build up html templates from partials
+mixhtmlbuilder a quick laravel mix extension to build up html templates from partials. installation usage in your just use . if you want to use

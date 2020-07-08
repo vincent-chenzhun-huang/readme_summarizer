@@ -1,1 +1,1 @@
-syncfusion uwp samples this repository contains the demos of syncfusion uwp ui controls
+syncfusion uwp samples this repository contains the demos of syncfusion uwp ui controls. this is the best place to check our controls to get more

@@ -1,1 +1,1 @@
-pickout cool and powerful effect to select fields
+pickout cool and powerful effect to select fields. javascript vanilla and 2kb gzipped. demo page for syntax of the previous version click here how to

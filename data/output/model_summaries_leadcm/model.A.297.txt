@@ -1,1 +1,1 @@
-welcome fedhipster fedhipster is a fork of jhipster with support for u
+welcome fedhipster fedhipster is a fork of jhipster with support for u.s. web design system steps to build and test locally install fedhipster as a

@@ -1,1 +1,1 @@
-visolate is an application for calculating machining toolpaths gcode for manufacturing printed circuit boards pcbs by isolation milling
+visolate is an application for calculating machining toolpaths gcode for manufacturing printed circuit boards pcbs by isolation milling. as an outstanding feature this calculation is

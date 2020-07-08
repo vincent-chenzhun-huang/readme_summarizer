@@ -1,1 +1,1 @@
-tcgarnaml an r package for analyzing gene expression data from the cancer genome atlas about tcgarnaml tcgarnaml is a collection of functions used to explore the relationship between clinical features and gene expression data from the cancer genome atlas tcga database
+tcgarnaml an r package for analyzing gene expression data from the cancer genome atlas about tcgarnaml tcgarnaml is a collection of functions used to explore

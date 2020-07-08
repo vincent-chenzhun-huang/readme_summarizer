@@ -1,1 +1,1 @@
-analysis of the cooccurrence between tf dna binding motifs and ehancer rna origins hello this github rep contains two things 1 a jupyter notebook that takes you step by step through methods and capabilities in the package directory 2 and of course the actual python package the jupyter notebook along with this code is in large part meant to complement the azofeifa et al
+analysis of the cooccurrence between tf dna binding motifs and ehancer rna origins hello this github rep contains two things 1 a jupyter notebook that

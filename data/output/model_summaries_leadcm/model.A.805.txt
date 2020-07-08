@@ -1,1 +1,1 @@
-licensesdialog licensesdialog is an open source library to display licenses of thirdparty libraries in an android app
+licensesdialog licensesdialog is an open source library to display licenses of thirdparty libraries in an android app. download download the latest release or grab via

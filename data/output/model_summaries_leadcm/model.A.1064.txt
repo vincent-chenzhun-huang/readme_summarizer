@@ -1,1 +1,1 @@
-note this repo is currently looking for maintainers httpsgithub
+note this repo is currently looking for maintainers httpsgithub.comjquerybackstretchjquerybackstretchissues464 backstretch backstretch is a simple jquery plugin that allows you to add a dynamicallyresized slideshowcapable background

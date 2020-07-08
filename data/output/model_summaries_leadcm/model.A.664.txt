@@ -1,1 +1,1 @@
-bulmatoast bulmas pure javascript extension to display toasts
+bulmatoast bulmas pure javascript extension to display toasts. basically a bulmas notification implemented as a toast plugin. demo options the plugin comes with 5 options

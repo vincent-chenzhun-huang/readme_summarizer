@@ -1,1 +1,1 @@
-openweathermap php api a php api to retrieve and parse global weather data from openweathermap
+openweathermap php api a php api to retrieve and parse global weather data from openweathermap.org. this library aims to normalise the provided data and remove

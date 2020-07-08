@@ -1,1 +1,1 @@
-is an easy to use interface to thetvdb
+is an easy to use interface to thetvdb.com it supports python 2.6 2.7 and 3.3 onwards has moved to a separate repository github.comdbrtvnamer it is

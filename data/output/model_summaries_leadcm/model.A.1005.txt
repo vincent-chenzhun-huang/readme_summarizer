@@ -1,1 +1,1 @@
-settings toggle settings in android device or emulator
+settings toggle settings in android device or emulator. a small and simple android application that deals with the system settings. then the application shuts down.

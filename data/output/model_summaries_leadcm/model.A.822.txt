@@ -1,1 +1,1 @@
-nginx module for puppet this module was migrated from james fryman to vox pupuli
+nginx module for puppet this module was migrated from james fryman to vox pupuli. installing or upgrading please note this module is undergoing some structural

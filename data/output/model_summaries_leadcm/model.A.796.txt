@@ -1,1 +1,1 @@
-shap shapley additive explanations is a unified approach to explain the output of any machine learning model
+shap shapley additive explanations is a unified approach to explain the output of any machine learning model. shap connects game theory with local explanations uniting

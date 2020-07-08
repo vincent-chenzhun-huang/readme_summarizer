@@ -1,1 +1,1 @@
-exabyte parser exaparser exabyte parser is a python package to extract and convert materials modeling data eg
+exabyte parser exaparser exabyte parser is a python package to extract and convert materials modeling data eg. density functional theory molecular dynamics on disk to

@@ -1,1 +1,1 @@
-createdmg a shell script to build fancy dmgs
+createdmg a shell script to build fancy dmgs. status and contribution policy this project is maintained thanks to the contributors who send pull requests and

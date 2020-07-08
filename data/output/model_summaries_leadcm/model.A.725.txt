@@ -1,1 +1,1 @@
-towersoft htmltoexcel currently in beta
+towersoft htmltoexcel currently in beta. small nuget package that uses htmlagilitypack to read a html table and generate an excel file using epplus usage single

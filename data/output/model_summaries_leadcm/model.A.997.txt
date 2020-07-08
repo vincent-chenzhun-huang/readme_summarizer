@@ -1,1 +1,1 @@
-conductance analysis vmt based on the publication martin pospischil zuzanna piwkowska thierry bal and alain destexhe extracting synaptic conductances from single membrane potential traces neuroscience 158 545552 2009
+conductance analysis vmt based on the publication martin pospischil zuzanna piwkowska thierry bal and alain destexhe extracting synaptic conductances from single membrane potential traces neuroscience

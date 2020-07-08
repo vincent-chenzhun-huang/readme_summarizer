@@ -1,1 +1,1 @@
-stm32 bootloader customizable bootloader for stm32 microcontrollers
+stm32 bootloader customizable bootloader for stm32 microcontrollers. this example demonstrates how to perform inapplicationprogramming of a firmware located on external sd card with fat32 file

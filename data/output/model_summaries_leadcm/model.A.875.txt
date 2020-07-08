@@ -1,1 +1,1 @@
-git extensions git extensions is a standalone ui tool for managing git repositories
+git extensions git extensions is a standalone ui tool for managing git repositories. it also integrates with windows explorer and microsoft visual studio 20152017. have

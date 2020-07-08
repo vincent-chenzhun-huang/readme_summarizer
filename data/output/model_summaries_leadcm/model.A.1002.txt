@@ -1,1 +1,1 @@
-codicefiscale a php library to calculate and check the italian tax code codice fiscale
+codicefiscale a php library to calculate and check the italian tax code codice fiscale. read this in italian. install you can install the library using

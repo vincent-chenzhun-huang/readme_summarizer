@@ -1,1 +1,1 @@
-artisanhash adds artisan tasks to laravel to work with password hashes from the cli
+artisanhash adds artisan tasks to laravel to work with password hashes from the cli. installation usage bugs suggestions and contributions copyright and license installation first

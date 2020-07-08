@@ -1,1 +1,1 @@
-samples for ai samples for ai is a deep learning samples and projects collection
+samples for ai samples for ai is a deep learning samples and projects collection. it contains a lot of classic deep learning algorithms and applications

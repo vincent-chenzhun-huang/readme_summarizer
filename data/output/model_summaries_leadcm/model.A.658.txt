@@ -1,1 +1,1 @@
-fgdtools fgdtools is a python library for parsing 
+fgdtools fgdtools is a python library for parsing .fgd files for the source engine level editor hammer. it provides entity schemas and other level editor

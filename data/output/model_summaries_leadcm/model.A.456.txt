@@ -1,1 +1,1 @@
-php sdk for viber api library to develop a bot for the viber platform
+php sdk for viber api library to develop a bot for the viber platform. create you first viber bot step by step see demo at

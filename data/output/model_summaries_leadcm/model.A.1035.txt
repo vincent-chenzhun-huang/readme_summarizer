@@ -1,1 +1,1 @@
-a boilerplate for scalable crossplatform desktop apps based on electron react redux react router webpack and react hot loader for rapid application development hmr
+a boilerplate for scalable crossplatform desktop apps based on electron react redux react router webpack and react hot loader for rapid application development hmr. install

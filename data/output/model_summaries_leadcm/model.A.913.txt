@@ -1,1 +1,1 @@
-flink on kubernetes very much influenced by spark example sources the docker images are based on httpsgithub
+flink on kubernetes very much influenced by spark example sources the docker images are based on httpsgithub.commelentyeflinkdocker setup step zero prerequisites you have a kubernetes

@@ -1,1 +1,1 @@
-phaser 3 controls plugin a simple plugin to assist with creating control schemes and combos with keyboard inputs for phaser 3 demo httpsretrovx
+phaser 3 controls plugin a simple plugin to assist with creating control schemes and combos with keyboard inputs for phaser 3 demo httpsretrovx.github.iophaser3controlsplugin getting started

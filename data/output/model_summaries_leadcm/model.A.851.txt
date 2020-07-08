@@ -1,1 +1,1 @@
-about laravel laravel is a web application framework with expressive elegant syntax
+about laravel laravel is a web application framework with expressive elegant syntax. we believe development must be an enjoyable and creative experience to be truly

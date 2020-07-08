@@ -1,1 +1,1 @@
-markdown editor and dbfield adds a field and a data type that allows for markdown editing uses a supported renderer default is the github api to render the html requirements silverstripe 3
+markdown editor and dbfield adds a field and a data type that allows for markdown editing uses a supported renderer default is the github api

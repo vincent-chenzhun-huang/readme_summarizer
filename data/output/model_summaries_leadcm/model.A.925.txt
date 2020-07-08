@@ -1,1 +1,1 @@
-running dataverse on kubernetes this communitysupported project aims to provide a simple to reuse example on how to run dataverse on a kubernetes cluster
+running dataverse on kubernetes this communitysupported project aims to provide a simple to reuse example on how to run dataverse on a kubernetes cluster. note

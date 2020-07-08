@@ -1,1 +1,1 @@
-ann visualizer a great visualization python library used to work with keras
+ann visualizer a great visualization python library used to work with keras. it uses pythons graphviz library to create a presentable graph of the neural

@@ -1,1 +1,1 @@
-pusher channels http php library php library for interacting with the pusher channels http api
+pusher channels http php library php library for interacting with the pusher channels http api. register at and use the application credentials within your app

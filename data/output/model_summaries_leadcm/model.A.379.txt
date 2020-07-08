@@ -1,1 +1,1 @@
-1
+1.4 billion text credentials analysis nlp using deep learning and nlp to analyze a large corpus of clear text passwords. objectives train a generative model.

@@ -1,1 +1,1 @@
-rest980 rest980 create a http server to map all dorita980 methods in a rest api to control your irobot roomba 900 series 980 i7 i7 via http requests
+rest980 rest980 create a http server to map all dorita980 methods in a rest api to control your irobot roomba 900 series 980 i7 i7

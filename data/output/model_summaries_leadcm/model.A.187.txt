@@ -1,1 +1,1 @@
-zf http cache introduction is a zf2 module for automating httpcache tasks within a zend framework 2 application
+zf http cache introduction is a zf2 module for automating httpcache tasks within a zend framework 2 application. installation run the following command alternately manually

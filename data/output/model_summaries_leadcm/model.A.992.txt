@@ -1,1 +1,1 @@
-setting up visual studio code for esp32 idf freertos esp32 iot idf xtensa iot framework
+setting up visual studio code for esp32 idf freertos esp32 iot idf xtensa iot framework. steps download and install vsc install vsc extensions setup toolchain

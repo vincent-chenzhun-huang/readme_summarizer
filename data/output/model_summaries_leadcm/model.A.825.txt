@@ -1,1 +1,1 @@
-mailboxer this project is based on the need for a private message system for ging socialstream
+mailboxer this project is based on the need for a private message system for ging socialstream. instead of creating our core message system heavily dependent

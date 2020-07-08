@@ -1,1 +1,1 @@
-the easiest way to use any coding standard used by features use phpcodesniffer phpcsfixer anything you like 2nd run under few seconds with caching skipping files for specific checkers prepared checker sets psr2 symfony common symplify and more
+the easiest way to use any coding standard used by features use phpcodesniffer phpcsfixer anything you like 2nd run under few seconds with caching skipping

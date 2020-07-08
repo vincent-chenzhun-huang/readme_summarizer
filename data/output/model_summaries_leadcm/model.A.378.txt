@@ -1,1 +1,1 @@
-ye olde readethme this is a little app that generates dad jokes based on markov chains
+ye olde readethme this is a little app that generates dad jokes based on markov chains. source text is taken from once it is running

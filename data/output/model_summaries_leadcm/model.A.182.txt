@@ -1,1 +1,1 @@
-lazydatepicker this is an android project to offer an alternative to the native android date picker
+lazydatepicker this is an android project to offer an alternative to the native android date picker. usage to make a lazy date picker add lazydatepicker

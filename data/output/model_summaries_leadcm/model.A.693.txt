@@ -1,1 +1,1 @@
-test lab guide tlg arm template repository the tlg repository contains arm templates used to deploy test lab guide tlg environments
+test lab guide tlg arm template repository the tlg repository contains arm templates used to deploy test lab guide tlg environments. tlgs help you quickly

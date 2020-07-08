@@ -1,1 +1,1 @@
-ssm parameter store description this is a simple python wrapper for getting values from aws systems manager parameter store
+ssm parameter store description this is a simple python wrapper for getting values from aws systems manager parameter store. the module supports getting a single

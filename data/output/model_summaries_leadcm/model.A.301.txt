@@ -1,1 +1,1 @@
-pgpcore a 
+pgpcore a .net core class library for using pgp. this is based on chopgp but updated to .net core framework and to add in a

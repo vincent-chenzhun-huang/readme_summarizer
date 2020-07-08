@@ -1,1 +1,1 @@
-command line video splitter simple command line python script that splits video into multi chunks
+command line video splitter simple command line python script that splits video into multi chunks. under the hood script uses ffmpeg so you will need

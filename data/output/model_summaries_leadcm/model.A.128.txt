@@ -1,1 +1,1 @@
-moviegeek the moviegeeks is a movie site implemented to accompany my book practical recommender systems
+moviegeek the moviegeeks is a movie site implemented to accompany my book practical recommender systems. it is used in the book to show how recommender

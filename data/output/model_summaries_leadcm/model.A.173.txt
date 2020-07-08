@@ -1,1 +1,1 @@
-perspectivevue designing a 2d game for a 2d screen is pretty simple to us
+perspectivevue designing a 2d game for a 2d screen is pretty simple to us. but it comes to design a 3d environment for a 2d

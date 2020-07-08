@@ -1,1 +1,1 @@
-gpd pocket 2 dual boot arch windows 10 install guide this guide overviews how to do a full wipe of the gpd pocket 2 followed by a dual boot of arch linux and windows 10
+gpd pocket 2 dual boot arch windows 10 install guide this guide overviews how to do a full wipe of the gpd pocket 2 followed

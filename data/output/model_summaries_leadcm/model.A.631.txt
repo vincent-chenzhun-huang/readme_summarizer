@@ -1,1 +1,1 @@
-gopanos a go package that interacts with palo alto devices using their xml api
+gopanos a go package that interacts with palo alto devices using their xml api. for official and detailed package documentation please visit the godoc page.

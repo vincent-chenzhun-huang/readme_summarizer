@@ -1,1 +1,1 @@
-ociquickstartnginx these are terraform modules that deploy nginx on oracle cloud infrastructure oci
+ociquickstartnginx these are terraform modules that deploy nginx on oracle cloud infrastructure oci. about the oracle cloud infrastructure nginx terraform module provides an easy way

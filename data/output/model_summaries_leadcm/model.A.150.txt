@@ -1,1 +1,1 @@
-skelly terminated an unreal engine 4 plugin for creating semiprocedural character animations
+skelly terminated an unreal engine 4 plugin for creating semiprocedural character animations. overview creating keyframed animations is tedious and time consuming for me anyway. the

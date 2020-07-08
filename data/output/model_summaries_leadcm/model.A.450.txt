@@ -1,1 +1,1 @@
-predicting breast cancer proliferation scores with tensorflow keras and apache spark note this project is still a work in progress
+predicting breast cancer proliferation scores with tensorflow keras and apache spark note this project is still a work in progress. there is also an experimental

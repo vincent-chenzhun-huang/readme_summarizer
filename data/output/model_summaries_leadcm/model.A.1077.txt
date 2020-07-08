@@ -1,1 +1,1 @@
-osproj server for the chat with ability to send encrypted messages and images
+osproj server for the chat with ability to send encrypted messages and images. os final project and concurrency exercise. basic overview of the server code

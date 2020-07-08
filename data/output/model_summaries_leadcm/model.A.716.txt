@@ -1,1 +1,1 @@
-extension api example this repo contains examples of the symphony extension api
+extension api example this repo contains examples of the symphony extension api. this api allows you to write applications which users can install. additionally with

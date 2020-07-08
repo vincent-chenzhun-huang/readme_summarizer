@@ -1,1 +1,1 @@
-seostats seo metrics library for php seostats is the open source php library to get seorelevant website metrics
+seostats seo metrics library for php seostats is the open source php library to get seorelevant website metrics. seostats is used to gather metrics such

@@ -1,1 +1,1 @@
-fortinet fortigate monitoring introduction this is a zenpack for fortinet fortigate firewalls
+fortinet fortigate monitoring introduction this is a zenpack for fortinet fortigate firewalls. the existing zenpack by fabio paracchini seems to be abandoned and use obsolete

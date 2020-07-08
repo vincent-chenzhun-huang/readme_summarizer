@@ -1,1 +1,1 @@
-drawsignatureview drawsignatureview is a simple lightweight drawing framework written in swift
+drawsignatureview drawsignatureview is a simple lightweight drawing framework written in swift. its very easy to implement. drawsignatureview signaturedrawing component for ios written in swift requirements

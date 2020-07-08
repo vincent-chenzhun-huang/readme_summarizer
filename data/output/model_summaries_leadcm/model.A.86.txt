@@ -1,1 +1,1 @@
-multistreamselect friendly protocol multiplexing
+multistreamselect friendly protocol multiplexing. it enables a multicodec to be negotiated between two entities. table of contents motivation protocol listing example ls example in detail

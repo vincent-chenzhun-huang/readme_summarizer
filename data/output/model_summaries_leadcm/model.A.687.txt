@@ -1,1 +1,1 @@
-dhi matlab toolbox the dhi matlab toolbox provides a number of tools and examples for working with dhi related data files within matlab
+dhi matlab toolbox the dhi matlab toolbox provides a number of tools and examples for working with dhi related data files within matlab. the dhi

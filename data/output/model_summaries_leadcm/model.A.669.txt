@@ -1,1 +1,1 @@
-userscript show current site all userjs，the easier way to install userjs for tampermonkey
+userscript show current site all userjs，the easier way to install userjs for tampermonkey. userscript is a user script the role is when you browse the

@@ -1,1 +1,1 @@
-keyhacks shows ways in which particular api keys found on a bug bounty program can be used to check if they are valid
+keyhacks shows ways in which particular api keys found on a bug bounty program can be used to check if they are valid. table of

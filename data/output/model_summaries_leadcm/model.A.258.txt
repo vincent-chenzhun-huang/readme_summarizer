@@ -1,1 +1,1 @@
-what is eurekacoin eurekacoin is a decentralized blockchain project built on bitcoins utxo model with support for ethereum virtual machine based smart contracts and secured by a proof of stake consensus model
+what is eurekacoin eurekacoin is a decentralized blockchain project built on bitcoins utxo model with support for ethereum virtual machine based smart contracts and secured

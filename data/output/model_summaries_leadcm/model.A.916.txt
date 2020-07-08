@@ -1,1 +1,1 @@
-touchlight simple wifi touch lights that synchronize their colors from across the globe
+touchlight simple wifi touch lights that synchronize their colors from across the globe. what this is a particle project for linking wifi touch lights together

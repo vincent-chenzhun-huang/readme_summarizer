@@ -1,1 +1,1 @@
-sas viya programming examples overview a collection of repositories contain code samples and other materials to help you learn to access sas viya services by writing programs in python sas and other languages
+sas viya programming examples overview a collection of repositories contain code samples and other materials to help you learn to access sas viya services by

@@ -1,1 +1,1 @@
-tinycareterminal this is a little dashboard that tries to take care of you when youre using your terminal
+tinycareterminal this is a little dashboard that tries to take care of you when youre using your terminal. it tells you cute self care things

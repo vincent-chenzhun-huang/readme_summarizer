@@ -1,1 +1,1 @@
-mysqlbackup back up mysql databases to
+mysqlbackup back up mysql databases to... anywhere overview mysqlbackup is a simple way to do mysql database backups and restores when the database is running

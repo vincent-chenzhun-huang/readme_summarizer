@@ -1,1 +1,1 @@
-simple jwt auth with api platform introduction as the title says we will create together so simple jwt authentication using api platform and lexikjwtauthenticationbundle
+simple jwt auth with api platform introduction as the title says we will create together so simple jwt authentication using api platform and lexikjwtauthenticationbundle. using

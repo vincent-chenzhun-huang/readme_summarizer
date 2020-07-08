@@ -1,1 +1,1 @@
-weight standardization weight standardization ws is a normalization method to accelerate microbatch training
+weight standardization weight standardization ws is a normalization method to accelerate microbatch training. microbatch training is hard because small batch sizes are not enough for

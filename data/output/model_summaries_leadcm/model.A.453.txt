@@ -1,1 +1,1 @@
-weakauras 2 weakauras is a powerful and flexible framework that allows the display of highly customizable graphics on world of warcrafts user interface to indicate buffs debuffs and other relevant information
+weakauras 2 weakauras is a powerful and flexible framework that allows the display of highly customizable graphics on world of warcrafts user interface to indicate

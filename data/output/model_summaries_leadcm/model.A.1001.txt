@@ -1,1 +1,1 @@
-aws samserverless application model python lambda api application this is the code for the serverless backend i have created for my project on aws lambda aws konsole
+aws samserverless application model python lambda api application this is the code for the serverless backend i have created for my project on aws lambda

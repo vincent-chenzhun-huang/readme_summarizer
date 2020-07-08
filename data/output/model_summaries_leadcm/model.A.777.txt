@@ -1,1 +1,1 @@
-nconsolerstandard library for parsing console arguments in c this is forked from the original nconsoler to update it to be a 
+nconsolerstandard library for parsing console arguments in c this is forked from the original nconsoler to update it to be a .net standard library. this

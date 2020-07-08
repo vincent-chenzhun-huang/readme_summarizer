@@ -1,1 +1,1 @@
-boom filters boom filters are probabilistic data structures for processing continuous unbounded streams
+boom filters boom filters are probabilistic data structures for processing continuous unbounded streams. this includes stable bloom filters scalable bloom filters counting bloom filters inverse

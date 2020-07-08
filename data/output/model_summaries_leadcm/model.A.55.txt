@@ -1,1 +1,1 @@
-recipe for using create react app with ssr supporting react router and redux and typescript
+recipe for using create react app with ssr supporting react router and redux and typescript. this project is wip. this project was bootstrapped with create

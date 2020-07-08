@@ -1,1 +1,1 @@
-ansiblemonitoring ansible playbook to manage some monitoring tools tested on debian 9 stretch servers kibana elasticsearch rsyslog rsnapshot checkmk requirements ansible tested with ansible v2
+ansiblemonitoring ansible playbook to manage some monitoring tools tested on debian 9 stretch servers kibana elasticsearch rsyslog rsnapshot checkmk requirements ansible tested with ansible v2.4.0.0

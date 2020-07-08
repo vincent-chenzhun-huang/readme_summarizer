@@ -1,1 +1,1 @@
-testmynids
+testmynids.org a website and framework for testing nids detection what is it a simple project that aims to centralize testing for detection of malicious events

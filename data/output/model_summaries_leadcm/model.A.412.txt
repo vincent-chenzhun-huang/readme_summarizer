@@ -1,1 +1,1 @@
-this repo is no longer actively maintained please see newer version available using azure machine learning here
+this repo is no longer actively maintained please see newer version available using azure machine learning here. authors mathew salvaris and fidan boylu uz deploy

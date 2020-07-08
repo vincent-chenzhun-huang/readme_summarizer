@@ -1,1 +1,1 @@
-swiftytexttable a lightweight swift library for generating text tables
+swiftytexttable a lightweight swift library for generating text tables. swift language support swiftytexttable is now swift 4.0 compatible the last release to support swift 3.1

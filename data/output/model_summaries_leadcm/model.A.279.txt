@@ -1,1 +1,1 @@
- pythonrecsys a python library for implementing a recommender system
+pythonrecsys a python library for implementing a recommender system. installation dependencies pythonrecsys is build on top of with cscpysparse divisi2 also requires and uses networkx.

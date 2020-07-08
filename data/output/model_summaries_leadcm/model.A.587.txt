@@ -1,1 +1,1 @@
-hacktoberfest this repository is mainly open to those who are looking to make some pr for the hacktoberfest event and to get started with github and the opensource world
+hacktoberfest this repository is mainly open to those who are looking to make some pr for the hacktoberfest event and to get started with github

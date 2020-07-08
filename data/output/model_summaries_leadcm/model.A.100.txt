@@ -1,1 +1,1 @@
-manage vpns this module provides functions which allow you to manage vpn connections through powershell
+manage vpns this module provides functions which allow you to manage vpn connections through powershell. the reason i wrote this is because the vpn management

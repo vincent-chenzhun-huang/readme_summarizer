@@ -1,1 +1,1 @@
-overbloggraphqlbundle this symfony bundle provides integration of graphql using webonyxgraphqlphp and graphql relay
+overbloggraphqlbundle this symfony bundle provides integration of graphql using webonyxgraphqlphp and graphql relay. it also supports batching with reactrelaynetworklayer batching with apollo graphql upload and

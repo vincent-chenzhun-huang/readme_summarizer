@@ -1,1 +1,1 @@
-intro to knppaginatorbundle seo friendly symfony paginator to paginate everything generally this bundle is based on knp pager component
+intro to knppaginatorbundle seo friendly symfony paginator to paginate everything generally this bundle is based on knp pager component. this component introduces a different way

@@ -1,1 +1,1 @@
-filterdropdown extension for jquery plugin datatables adding drop down filter elements for selected columns description adds a dropdown element for selected columns to a datatable allowing the user to filter the table to only show rows containing a certain value
+filterdropdown extension for jquery plugin datatables adding drop down filter elements for selected columns description adds a dropdown element for selected columns to a datatable

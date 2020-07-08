@@ -1,1 +1,1 @@
-ociquickstartjenkins these are terraform modules that deploy jenkins on oracle cloud infrastructure oci
+ociquickstartjenkins these are terraform modules that deploy jenkins on oracle cloud infrastructure oci. about the jenkins oracle cloud infrastructure module provides a terraformbased jenkins cluster

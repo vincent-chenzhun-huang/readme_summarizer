@@ -1,1 +1,1 @@
-neural photo editor a simple interface for editing natural photos with generative neural networks
+neural photo editor a simple interface for editing natural photos with generative neural networks. this repository contains code for the paper neural photo editing with

@@ -1,1 +1,1 @@
-croodle croodle is an endtoend encrypted web application to schedule a date or to do a poll on a any topic
+croodle croodle is an endtoend encrypted web application to schedule a date or to do a poll on a any topic. all data like title

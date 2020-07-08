@@ -1,1 +1,1 @@
-grafana sdk sdk for go language offers a library for interacting with grafana server from go applications
+grafana sdk sdk for go language offers a library for interacting with grafana server from go applications. it realizes many of http rest api calls

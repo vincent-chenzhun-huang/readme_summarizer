@@ -1,1 +1,1 @@
-aws cost explorer report generator python sam lambda module for generating an excel cost report with graphs including month on month cost changes
+aws cost explorer report generator python sam lambda module for generating an excel cost report with graphs including month on month cost changes. uses the

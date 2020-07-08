@@ -1,1 +1,1 @@
-svg
+svg.draggable.js a plugin for the svgdotjs.github.io library to make elements draggable. svg.draggable.js is licensed under the terms of the mit license. usage install the plugin

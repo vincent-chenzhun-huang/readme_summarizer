@@ -1,1 +1,1 @@
-an utility that allows you to listen for incoming sms messages
+an utility that allows you to listen for incoming sms messages. example the contents of object will be returns a so if you want to

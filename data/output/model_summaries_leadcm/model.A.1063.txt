@@ -1,1 +1,1 @@
-lldb a collection of lldb aliasesregexes and python scripts to aid in my debugging sessions
+lldb a collection of lldb aliasesregexes and python scripts to aid in my debugging sessions. these scripts are built only for my own amusement but

@@ -1,1 +1,1 @@
-perfkit benchmarker perfkit benchmarker is an open effort to define a canonical set of benchmarks to measure and compare cloud offerings
+perfkit benchmarker perfkit benchmarker is an open effort to define a canonical set of benchmarks to measure and compare cloud offerings. its designed to operate

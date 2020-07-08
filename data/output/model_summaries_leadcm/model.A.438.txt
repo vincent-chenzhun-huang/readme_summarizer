@@ -1,1 +1,1 @@
-pysmartgardena description this library aims to provide python way to communicate with gardena smart systems and all gardena smart equipments
+pysmartgardena description this library aims to provide python way to communicate with gardena smart systems and all gardena smart equipments. configuration of the equipement and

@@ -1,1 +1,1 @@
-domain storytelling modeler a tool to visualize domain stories in your browser
+domain storytelling modeler a tool to visualize domain stories in your browser. about httpdomainstorytelling.org run the modeler you can try the modeler online at httpswww.wps.demodeler.

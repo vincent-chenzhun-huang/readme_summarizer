@@ -1,1 +1,1 @@
-laravel excel exporting and importing excel csv and openoffice stylesheets using eloquent collections and query builders in laravel 5
+laravel excel exporting and importing excel csv and openoffice stylesheets using eloquent collections and query builders in laravel 5. and 4.. its based on boxspout.

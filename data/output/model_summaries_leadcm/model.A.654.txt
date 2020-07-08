@@ -1,1 +1,1 @@
-simple json datasource a generic backend datasource more documentation about datasource plugins can be found in the docs
+simple json datasource a generic backend datasource more documentation about datasource plugins can be found in the docs. this also serves as a living example
