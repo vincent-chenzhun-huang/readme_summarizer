@@ -254,3 +254,5 @@ fabric.properties
 .idea/remote-mappings.xml
 readme-no-code-stepthrough.py
 **/.ipynb_checkpoints/
+
+.vscode/
