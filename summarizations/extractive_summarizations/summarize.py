@@ -6,7 +6,7 @@ from summarizations.extractive_summarizations.extractive_summarizer import SENTE
 
 if __name__ == '__main__':
     data_reader = DataReader(
-        '/Users/vincenthuang/Development/Summer-2020/readme_summarizer/data/cleaned_data_extractive/test.cleaned_readme_data.csv')
+        '/Users/vincenthuang/Development/Summer-2020/readme_summarizer/data/cleaned_data_extractive/test.cleaned_readme_data_with_purpose.csv')
     test_df = data_reader.read()
     lex_rank = ExtractiveSummarizer('LexRank', test_df['readme'])
     edmunson = ExtractiveSummarizer('Edmunson', test_df['readme'])
