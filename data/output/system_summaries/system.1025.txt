@@ -1,1 +1,1 @@
-Image framework for iOS to display/encode/decode animated WebP, APNG, GIF, and more.
+building robust productionready data and analytics pipelines

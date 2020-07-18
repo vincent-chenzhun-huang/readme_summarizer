@@ -1,1 +1,1 @@
-Use Kubernetes to manage & distribute Wireguard configuration
+consume the generated API in the backendappbase project 

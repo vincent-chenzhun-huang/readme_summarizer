@@ -1,1 +1,1 @@
-A Python cookiecutter template to help you start a Click project.
+predicting stock price movements Follow along and we will achieve some pretty good results For that purpose we will use a Generative Adversarial Network GAN with LSTM a type of Recurrent N

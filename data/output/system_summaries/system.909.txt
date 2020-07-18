@@ -1,1 +1,1 @@
-Jarslink is a sofa ark plugin used to manage multi-application deployment 
+encoding and decoding lightning network payment requests as defined in BOLT 11 

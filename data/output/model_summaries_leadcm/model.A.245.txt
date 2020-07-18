@@ -1,1 +1,1 @@
-pytorchfcn pytorch implementation of fully convolutional networks. requirements pytorch 0.2.0 torchvision 0.1.8 fcn 6.1.5 pillow scipy tqdm installation training see voc example. accuracy at .
+rebylon reactive programming library designed to use with babylonjs effects parameters components component is just an object with and effects. minimal component is . component

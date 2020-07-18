@@ -1,1 +1,1 @@
-libtestrtc turns testrtc into a library to make tests embeddable in any page.
+with this script we can create change settings or remove of virtual displays.

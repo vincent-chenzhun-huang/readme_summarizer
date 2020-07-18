@@ -1,1 +1,1 @@
-An app to help you to add frame to your favorite screenshots from Nintendo Switch.
+remote control Vim from telnet or netcat without XWindows nor vimserver

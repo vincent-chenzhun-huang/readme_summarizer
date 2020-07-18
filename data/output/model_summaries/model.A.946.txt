@@ -1,1 +1,1 @@
-aws cloudformation role this is an ansible role for generating cloudformation templates and deploying cloudformation stacks to amazon web services.
+pointright see more slack events api partial definition of the slack events api.

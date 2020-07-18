@@ -1,1 +1,1 @@
-An example illustrating how to use Python to deploy an Azure Resource Manager Template
+chromosomal contact maps produced by genomewide genome architecture assays such as HiC 

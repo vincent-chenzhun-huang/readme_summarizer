@@ -1,1 +1,1 @@
-gpd pocket 2 dual boot arch windows 10 install guide this guide overviews how to do a full wipe of the gpd pocket 2 followed
+crowd 2 plugin for jenkins crowd2plugin this plugin allows using atlassian crowd or jira as an authentication and authorization provider for jenkins crowd version 2

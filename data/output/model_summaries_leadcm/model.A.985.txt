@@ -1,1 +1,1 @@
-easy to configure development environment for vue cli 3. installation node.js is available on npm or yarn. npm install vueenvconfig savedev yarn add vueenvconfig dev
+jsonrpcxmlrpc server for rack applications this is a rack middleware that facilitates the creation of protocolagnostic rpc servers. the current implementation provides support for jsonrpc

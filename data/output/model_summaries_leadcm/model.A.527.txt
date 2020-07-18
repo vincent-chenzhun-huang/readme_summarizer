@@ -1,1 +1,1 @@
-automatic text scheduler have you ever wanted to automatically send text messages to your friends on their birthdays or maybe you wanted to randomly send
+warcdownloader this project is a python script that archiveit partners can use to download their warc files and associated metadata. overview this script uses archiveits

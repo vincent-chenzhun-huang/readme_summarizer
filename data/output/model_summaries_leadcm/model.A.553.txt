@@ -1,1 +1,1 @@
-nodebindings helper module for loading your native modules file this is a helper module for authors of node.js native addon modules. it is basically the
+this is a sample project called codebuddy. this is to demonstrate using cloudformation how to create and configure cloudwatch metric filters alarms and a dashboard

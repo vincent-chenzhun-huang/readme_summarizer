@@ -1,1 +1,1 @@
-REST Query parser for searching and filtering
+producing handouts papers and books

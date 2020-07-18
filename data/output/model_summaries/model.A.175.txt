@@ -1,1 +1,1 @@
-if both are specified the range is run and the file with the last run date lastdayharv.txtlastdaycata.txt is not read or written.
+thats very useful if you have various names for your chats but if you write several times the same tag or tags that point to the same group you will have several forwardings to that chat.

@@ -1,1 +1,1 @@
-image httpsupload.wikimedia.orgwikipediacommonsthumbbb4mapboxlogo.svg1280pxmapboxlogo.svg.png width 500 target httpsmapbox.com location data visualization library for jupyter notebooks .. image httpstravisci.orgmapboxmapboxgljupyter.svgbranchmaster target httpstravisci.orgmapboxmapboxgljupyter alt build status .. image httpscoveralls.ioreposgithubmapboxmapboxgljupyterbadge.svgbranchmaster target
+requirements xcode 9.0 ios 9.0 or greater installation cocoapods install cocoapods add this repo to your run open up the new that cocoapods generated whenever

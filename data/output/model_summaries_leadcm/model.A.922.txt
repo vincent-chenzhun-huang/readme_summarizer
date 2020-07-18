@@ -1,1 +1,1 @@
-composernormalize provides a composer plugin for normalizing . motivation if you have been working with on more than one project you might have noticed that
+jstojava easy way to wrap js object to java object. in hessian.js we need to write java classname with js object so make it encode

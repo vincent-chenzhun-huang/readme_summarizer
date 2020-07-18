@@ -1,1 +1,1 @@
-example solar water pump night spotlight this example is the design of a solar water pumping station with a small night light.
+then devonthink can crawl those urls and convert them into searchable web archives.

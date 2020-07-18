@@ -1,1 +1,1 @@
-one of these is required for each group but you can have many clients.
+intro to sprinting this project is designed to help beginners learn and practice the basic skills necessary to contribute to open source projects.

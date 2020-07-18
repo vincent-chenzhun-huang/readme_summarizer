@@ -1,1 +1,1 @@
-swiftytexttable a lightweight swift library for generating text tables.
+hypergraphsplot hypergraphsplot is a js library to visualize hypergraphs.

@@ -1,1 +1,1 @@
-installcert.java java program written by andreas sterbenz and posted on a blog in oct 2006 httpsblogs.oracle.comgcentryunabletofindvalidcertification link to java program in andreas blog no longer
+pyocd pyocd is an open source python package for programming and debugging arm cortexm microcontrollers using multiple supported types of usb debug probes. it is

@@ -1,1 +1,1 @@
-angular style guide versions there are multiple versions of angular and thus there are multiple versions of the guide. choose your guide appropriately. angular 1
+pxacid パッケージ latex：aj1 フォントの従属欧文の tfm 生成 adobejapan1 の cid 対応の opentype フォントの欧文部分の字形を latex で 用いるために必要な一連のファイル（メトリックファイル、フォント定義 ファイル、マップファイル、等） を xetex を利用して自動生成するための perl スクリプトである（使用に関しては xetex である必要はない）。 ot1・t1・ly1・ts1 エンコーディングに対応、また

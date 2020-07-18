@@ -1,1 +1,1 @@
-python toolkit for energy load time series pyversion license versionstatus buildstatus docs enlopy is an open source python library with methods to generate process analyze and plot energy related timeseries.
+after you type you can select an instance and see the estimated hourly cost.

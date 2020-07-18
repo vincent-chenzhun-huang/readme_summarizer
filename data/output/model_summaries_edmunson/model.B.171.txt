@@ -1,1 +1,1 @@
-goworkerpool pool of workers pool of concurrent workers with the ability of increment decrement pause resume workers on demand.
+cassandraexporter cassandraexporter is a java agent with optional standalone mode that exports cassandra metrics to prometheus.

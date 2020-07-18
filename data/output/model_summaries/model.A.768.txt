@@ -1,1 +1,1 @@
-ultimate web scraper toolkit a php library of tools designed to handle all of your web scraping needs under a mit or lgpl license.
+r prior rnorm1000 mean 0 sd 1 posterior rnorm1000 mean 1 sd 0.7 bayesfactorsavagedickeyposterior prior direction twosided hypothesis 0 mapbased pvalue pmap computes a bayesian equivalent of the pvalue related to the odds that a parameter described by its posterior distribution has against the null hypothesis h0 using mills’ 2014 2017 objective bayesian hypothesis testing framework.

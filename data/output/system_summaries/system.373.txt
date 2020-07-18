@@ -1,1 +1,1 @@
-Fast isomorphic lightweight framework to build pipelines for request/response, stream/response, request/response and stream/stream use-cases
+Use ESP8266 DDNS Update Client Library 

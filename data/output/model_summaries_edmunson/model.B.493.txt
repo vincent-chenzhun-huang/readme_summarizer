@@ -1,1 +1,1 @@
-simple discord bot bot is written using jda library and common sense.
+cozmo explorer tool v0.5 interface exposing functionality of the robot cozmo from anki this tool gives control over cozmo.

@@ -1,1 +1,1 @@
-to check this run the following command in the terminal after inserting your yubikey if you have an existing key you want to import the key must be a rsa 2048 bit key.
+then create a file etcudevrules.dusbtmc.rules with the following content usbtmc instruments agilent mso7104 subsystemsusb actionadd attrsidvendor0957 attrsidproduct1755 groupusbtmc mode0660 substituting the correct idvendor and idproduct from lsusb.

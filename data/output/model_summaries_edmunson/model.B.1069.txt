@@ -1,1 +1,1 @@
-jabbas crypto converter a commandline application for converting currencies crypto and fiat.
+commoncrawl index client cdx index api client a simple python command line tool for retrieving a list of urls in bulk using the commoncrawl index api at httpindex.commoncrawl.org or any other web archive cdx server api.

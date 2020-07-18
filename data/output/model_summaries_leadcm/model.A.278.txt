@@ -1,1 +1,1 @@
-requirecss requirejs css requiring and optimization with almond support. useful for writing modular css dependencies alongside scripts. for less inclusion use requireless which behaves and
+irohahelpers some functions which will help you to interact with hyperledger iroha from your js program. trying an example clone this repository run iroha httpiroha.readthedocs.ioenlatestgettingstarted

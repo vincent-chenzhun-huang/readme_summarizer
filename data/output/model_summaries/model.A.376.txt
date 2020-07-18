@@ -1,1 +1,1 @@
-this plugin supports checking and requesting of android runtime permissions.
+contents deployment configuration api authentication logging tests deployment see the onboarding guide for running the service locally.

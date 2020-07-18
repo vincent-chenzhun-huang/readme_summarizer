@@ -1,1 +1,1 @@
-also dont forget to test test and test again configuration within jamf pro while each organization will use a setup tool like depnotify differently this script is designed with an end user provisioning model in mind.
+to start with assignment 1 open the notebook .exercise1exercise1.ipynb.

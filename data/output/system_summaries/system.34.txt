@@ -1,1 +1,1 @@
-Main repository for QMCPACK, an open-source production level many-body ab initio Quantum Monte Carlo code for computing the electronic structure of atoms, molecules, and solids.
+Rule Them All

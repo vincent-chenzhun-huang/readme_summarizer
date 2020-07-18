@@ -1,1 +1,1 @@
-you only need to do these steps once.
+for example you can view training data one by one or export the drivable area in segmentation maps this exporting process will take a while so we also provide in the downloading page which will be bdd100kdrivablemaps after decompressing.

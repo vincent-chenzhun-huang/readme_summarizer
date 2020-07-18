@@ -1,1 +1,1 @@
-its capable of reading and writing epub files programmatically kindle support is under development.
+if you still couldnt believe in me you can install version 0.8.7 virustotal reports this version as safe.

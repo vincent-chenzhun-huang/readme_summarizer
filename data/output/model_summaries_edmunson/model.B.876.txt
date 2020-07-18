@@ -1,1 +1,1 @@
-jsxdom use jsx for creating dom elements.
+awesome hacking resources a collection of hacking penetration testing resources to make you better lets make it the biggest resource repository for our community.

@@ -1,1 +1,1 @@
-imputeprepsanger this pipeline takes plink genotype files and adjusts the strand the positions the reference alleles performs quality control steps and output a vcf file that satisfies the requirement for submission to the sanger imputation service httpsimputation.sanger.ac.uk for imputation using the haplotype reference consortium reference panel.
+democracyos democracyos is an online space for deliberation and voting on political proposals.

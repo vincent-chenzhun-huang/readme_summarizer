@@ -1,1 +1,1 @@
-supported channels getting started how it works messages formats getting started with sap conversational ai 💬 questions comments join the discussion on our community slack
+about marketplacekit marketplacekit is a platform for building different types of online marketplaces. marketplacekit attempts to reduce the development effort required to build product rental

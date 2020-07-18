@@ -1,1 +1,1 @@
-running a first benchmark has created two files and localrun.py in lucenebenchhomeutilsrcpython.
+copies of these files are included with this repository but if you need updated installation files then you need to build them with that fork of blockbook.

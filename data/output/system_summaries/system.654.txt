@@ -1,1 +1,1 @@
-Datasource that sends generic http requests to give url
+clustering sentences extracting topics counting words ngrams extracting text from html or URL computing similarity between texts and more 

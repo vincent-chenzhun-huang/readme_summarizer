@@ -1,1 +1,1 @@
-just make sure to change the code to javascript es6.
+using django the following commands allow you to installuninstall packages create a super user account and access the admin page.

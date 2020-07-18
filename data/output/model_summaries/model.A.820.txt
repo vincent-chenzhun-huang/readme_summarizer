@@ -1,1 +1,1 @@
-is a powerful library that helps you to develop autocad plugins using the autocad .net api.
+please have a look at the documentation for a more detailed explanation of why you might need tether for your next project.

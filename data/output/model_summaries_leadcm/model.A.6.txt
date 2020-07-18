@@ -1,1 +1,1 @@
-custom component for lovelace which can be used as a card or an element on a pictureelements card. note when including this file in your
+cryengine converter cryengine converter is a c program to help convert cryengine assets into a more portable format. currently it supports and collada to some

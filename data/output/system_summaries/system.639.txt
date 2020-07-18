@@ -1,1 +1,1 @@
-A set of scripts to help administer Workforce projects. 
+merge the cucumber rerun report with the original cucumber report

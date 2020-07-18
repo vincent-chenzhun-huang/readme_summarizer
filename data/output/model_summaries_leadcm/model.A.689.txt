@@ -1,1 +1,1 @@
-restated an ambitiously tiny gizp 900b fluxlike progressive state management library inpired by redux and vuex. features x flux pattern x immutable state x action
+note never upload payloads to online checkers graffiti is a tool to generate obfuscated oneliners to aid in penetration testing situations. graffiti accepts the following

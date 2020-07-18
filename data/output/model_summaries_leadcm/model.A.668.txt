@@ -1,1 +1,1 @@
-about laravel laravel is a web application framework with expressive elegant syntax. we believe development must be an enjoyable and creative experience to be truly
+table of contents installation checking out the repository setting up symlinks mappings init.vim ftpluginchef.vim ftpluginvim.vim plugins third party plugins custom plugins gittools websearch focus terminal

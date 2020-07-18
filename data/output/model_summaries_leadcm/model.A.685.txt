@@ -1,1 +1,1 @@
-pyprotect pyprotect is a lightweight python code protector makes your python project harder to reverse engineer. features cross platform no need to install any extra
+wpcamoosms plugin camoo sms a simple and powerful texting plugin for wordpress you can add to wordpress the ability to send sms to a group

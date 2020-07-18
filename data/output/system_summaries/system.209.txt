@@ -1,1 +1,1 @@
-A d3 plugin for visualizing NBA and other basketball shot data
+display tree based on D3js layout 

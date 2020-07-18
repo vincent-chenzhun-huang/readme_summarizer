@@ -1,1 +1,1 @@
-blender wavefront sensor small project aimed to demonstrate the principles of adaptive optics using blender and matlab. in this project we explore a new use
+gatsbysourcegoogledocs is a gatsby plugin to use google docs as a data source. ðÿ”¥ no need for a cms anymore. ðÿ–‹ write your blog posts

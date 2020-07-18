@@ -1,1 +1,1 @@
-winetricks homepage of winetricks previously hosted at . winetricks is an easy way to work around problems in wine. it has a menu of supported
+this project was bootstrapped with create react app. available scripts in the project directory you can run runs the app in the development mode. open

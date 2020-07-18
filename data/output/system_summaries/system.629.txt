@@ -1,1 +1,1 @@
-Node js twitter bot to send auto welcome message for your new followers 
+interacting with the Apple Push Notification service APNs via HTTP2 protocol

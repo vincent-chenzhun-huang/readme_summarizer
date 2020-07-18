@@ -1,1 +1,1 @@
-the raspberrymatic project is a collaborate effort to provide a lightweight linuxbuildrootbased homematic compatible operating system for embedded single board computers sbc like the raspberrypi
+jsprit jsprit is a java based open source toolkit for solving rich traveling salesman problemstsp and vehicle routing problemsvrp. it is lightweight flexible and easytouse

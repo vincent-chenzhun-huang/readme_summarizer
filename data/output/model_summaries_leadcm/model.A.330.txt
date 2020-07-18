@@ -1,1 +1,1 @@
-azurekubernetescouchbase this is a walkthrough of setting the couchbase operator up on azure container service aks. deploy an aks cluster aks is currently in public
+deploy ibm cloud private instructions deploy in local vms using vagrant deploy in softlayer vms using ansible deploy in softlayer vms using terraform deploy in

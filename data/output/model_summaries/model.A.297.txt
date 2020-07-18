@@ -1,1 +1,1 @@
-in clifedhipster.js line 55 from your source code in your local generatorfedhipster remove the code that search in the nodemodules for the subgenerator.
+select each bucket and select delete bucket.

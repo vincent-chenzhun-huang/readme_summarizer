@@ -1,1 +1,1 @@
-clinvar deprecated this code is out of date and no longer being maintained. clinvar has fixed the issues that originally motivated creating this project so
+fastadapter the recyclerview is one of the most used widgets in the android world and with it you have to implement an adapter which provides

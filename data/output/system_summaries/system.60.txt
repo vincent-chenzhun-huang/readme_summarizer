@@ -1,1 +1,1 @@
-A Terraform Module for how to run Nomad on AWS using Terraform and Packer
+be as close as possible of XmlWriter usage behaviour with most common settings no prettyprint no xml declaration etc 

@@ -1,1 +1,1 @@
-the following example filters the data frame to rows which have the value 669944 in column userid and value between 20160101 and 20160301. histogram view scatter plot view requirements since wxpython is not pipinstallable dfgui does not handle dependencies automatically.
+this code will read the hbase snapshot filter records based on rowkey range 80001 to 90000 and based on a timestamp threshold which is set in the props file then write the results back to hdfs in hbase format hfileskeyvalue.

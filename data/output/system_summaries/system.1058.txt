@@ -1,1 +1,1 @@
-A React component that sends current breakpoint via context based on viewport width, allowing you to load different components in different breakpoints.
+drawing a 3D interactive SVG based and fully customizable sphere tag cloud from an array of html links 

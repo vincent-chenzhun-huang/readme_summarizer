@@ -1,1 +1,1 @@
-exor masternode install guide this tutorial details the steps required to setup a masternode wallet in ubuntu linux with a local cold wallet.
+amazonscraperpython description this package allows you to search for products on amazon and extract some useful information ratings number of comments.

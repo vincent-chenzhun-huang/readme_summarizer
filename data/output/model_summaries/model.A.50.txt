@@ -1,1 +1,1 @@
-purpose config detail description this skillet will be used to connect your palo alto network device physical or vmseries to any gcp vpn gateway to establish an ipsec connection.
+links home page documentation blog latest production release forums license contributor info contributor mailing list report a bug shifter for building yui source info this is the active working source tree for yui 3. it contains work in progress toward the next yui 3 releases and may be unstable.

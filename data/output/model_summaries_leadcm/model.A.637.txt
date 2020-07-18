@@ -1,1 +1,1 @@
-bashfuscator documentation what is bashfuscator bashfuscator is a modular and extendable bash obfuscation framework written in python 3. it provides numerous different ways of making
+模型设计的指导 修改采样的方案，通过每隔几轮的更新候选集合进行采样 采样中当选择了xa xp之后，如何确定选择的xn是一个可以提升结果的点 细化case方案，重新定制损失函数，把损失函数可视化出来 设计xa xp xn之间的矢量信息，求出夹角方向值，重新设计损失函数 通过增大的batch信息，将类内误差和类间误差添加到损失函数中去 问题以及解决？ 所有的训练样本都是根据随机选择的，其中存在部分数据是很难被直接选择到的，导致10分类的分类器的分类性能下降 改进样本构造的方案，使得所有的样本都可以进入分类器进行训练 实验结果 todolist x 使用res50提取图像的特征 x 编写孪生网络进行测试 x 编写triple loss网络，并进行测试 重新设计triple loss网络训练样本的构造 x 添加了基于聚类中心的anchor选择和在给定半径之外的正负样本的选择

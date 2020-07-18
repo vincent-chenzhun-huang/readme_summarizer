@@ -1,1 +1,1 @@
-code to look for evoked potentials in variable spacing stimulation data as well as fit analytic models to the volume conducted signals this repository contains
+ssoled small simple oled library project started 1152017 copyright c 2017 bitbank software inc. written by larry bank bitbankpobox.com the purpose of this code is

@@ -1,1 +1,1 @@
-Walkthrough application for using the Event Gateway. -- https://www.serverless.com
+pull content from DatoCMS

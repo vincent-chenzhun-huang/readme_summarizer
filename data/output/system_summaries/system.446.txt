@@ -1,1 +1,1 @@
-GUI and command-line utility for converting audiobooks to m4b format
+learning from labeled sequences of examples 

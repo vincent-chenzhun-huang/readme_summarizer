@@ -1,1 +1,1 @@
-awesome indie resources to help independent developers make money. making money from your own code has never been easier but its still hard. here i
+masstextextractor library used for extracting text. its composed by 2 classes fieldparser textsparser fieldparser class used for extracting parts from a single text. required fields

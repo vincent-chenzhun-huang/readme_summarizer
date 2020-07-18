@@ -1,1 +1,1 @@
-openweathermap php api a php api to retrieve and parse global weather data from openweathermap.org. this library aims to normalise the provided data and remove
+google play unofficial python api an unofficial python api that let you search browse and download android apps from google play formerly android market. this

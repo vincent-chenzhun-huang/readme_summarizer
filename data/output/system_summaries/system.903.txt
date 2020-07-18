@@ -1,1 +1,1 @@
-The sample application to accompany my conference talk on UICollectionView.
+Learn using OneShot Learning MAML Reptile MetaSGD and more with Tensorflow

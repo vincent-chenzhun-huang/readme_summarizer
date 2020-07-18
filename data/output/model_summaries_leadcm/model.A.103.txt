@@ -1,1 +1,1 @@
-introduction .. image httpstravisci.orgschwehrlibais.svgbranchmaster target httpstravisci.orgschwehrlibais .. image httpsscan.coverity.comprojects5519badge.svg target httpsscan.coverity.comprojects5519 .. image httpscodeclimate.comgithubschwehrlibaisbadgesgpa.svg target httpscodeclimate.comgithubschwehrlibais .. image httpsbadge.fury.iopylibais.svg target httpbadge.fury.iopylibais library for decoding maritime
+hopscotch hopscotch is a framework to make it easy for developers to add product tours to their pages. hopscotch accepts a tour json object as

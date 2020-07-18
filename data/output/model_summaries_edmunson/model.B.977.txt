@@ -1,1 +1,1 @@
-horizontal line state card for home assistant used to separate entities in a home assistant group features highly customizable width thickness borders images color dashes double lines etc.
+pandaral·lel without parallelisation with parallelisation latest release license installation requirements linux or macos windows is not supported at the moment warnings parallelization has a cost instanciating new processes sending data via shared memory etc ... so parallelization is efficiant only if the amount of calculation to parallelize is high enough.

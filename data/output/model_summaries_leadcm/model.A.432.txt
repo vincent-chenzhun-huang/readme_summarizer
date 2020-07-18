@@ -1,1 +1,1 @@
-mobcalmpi parallelization of the commonly used mobcal suite to calculate ion mobilities and collision cross sections. from the readme.txt introduction this python3 script is used
+unless you absolutely need apiserveraggregation you are recommended to use kubebuilder instead of apiserverbuilder for building kubernetes apis. kubebuilder builds apis using crds and addresses

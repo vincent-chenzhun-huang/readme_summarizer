@@ -1,1 +1,1 @@
-react starter kit for firebase   a.k.a.
+simplecsvmanager a small java library to read and write csv files easier.

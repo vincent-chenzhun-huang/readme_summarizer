@@ -1,1 +1,1 @@
-Given an existing docker container, prints the command line necessary to run a copy of it.
+monitor appliances that vibrate such as clothes dryers or garage door openers

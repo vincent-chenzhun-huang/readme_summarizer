@@ -1,1 +1,1 @@
-android tooltips simple to use customizable android tooltips library based on popupwindow.
+amp11lib c 19972001 niklas beisert alen ladavac amp11lib is an audiompeg decoder and player library distributed under the gnu library general public license version 2 see file copying.

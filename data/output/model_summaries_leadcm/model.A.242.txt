@@ -1,1 +1,1 @@
-filterdropdown extension for jquery plugin datatables adding drop down filter elements for selected columns description adds a dropdown element for selected columns to a datatable
+reactor tools experimental ⚠️ this project is in incubating phase and may or may not become a standalone project or a module of httpsgithub.comreactorreactorcore in

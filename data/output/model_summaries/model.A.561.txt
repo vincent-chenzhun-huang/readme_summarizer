@@ -1,1 +1,1 @@
-usage cumulusservice cumulusservice executable includes the following argument launch options for developement and installation usage registerservice register the application as a service.
+changes to other files will be ignored though you should add the contents of your index.js from assignment 3 to publicindex.js to get the full effect of the assignment your index.js wont actually be graded.

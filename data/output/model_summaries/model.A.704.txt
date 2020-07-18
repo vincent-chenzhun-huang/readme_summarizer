@@ -1,1 +1,1 @@
-flash a boot partition .img or recovery partition .img on a supported device.
+overview goals features installation changelog frequently asked questions best practices who uses b3bp authors license overview when hacking up bash scripts there are often things such as logging or commandline argument parsing that you need every time come with a number of pitfalls you want to avoid keep you from your actual work heres an attempt to bundle those things in a generalized way so that they are reusable asis in most scripts.

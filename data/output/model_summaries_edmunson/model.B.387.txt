@@ -1,1 +1,1 @@
-vulkan ecosystem components this project provides vktrace capturereplay tool the layer factory and other layer tools and driver tests.
+jquery guillotine plugin demo description guillotine is a jquery plugin that allows to drag zoom or rotate an image to select a cropping area.

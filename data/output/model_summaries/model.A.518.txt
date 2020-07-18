@@ -1,1 +1,1 @@
-use preferences to set lang week time post y get in firmware 1. only get in firmware 2 preferences carpetboostauto only post.
+all of unitys own coroutine yield instructions are supported so you can should you wish pretend that async routines are simply unity coroutines.

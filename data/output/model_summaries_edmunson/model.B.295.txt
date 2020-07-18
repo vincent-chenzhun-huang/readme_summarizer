@@ -1,1 +1,1 @@
-remp apps each of the remp services provides its own description and integration documentation you can access it by clicking one of the headings below.
+bandcamp downloader description bandcampdownloader is a windows application that helps downloading albums from bandcamp.com by retrieving the 128 kbps mp3 files streamed on the website.

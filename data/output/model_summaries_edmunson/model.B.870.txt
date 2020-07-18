@@ -1,1 +1,1 @@
-welcome to this set of openfoam® programming tutorials these are intented to provide a beginner c programmer with handson examples of how to develop code within the openfoam® framework.
+php data sanitizer often when receiving data from a client in an api or from a form request youll find yourself running the same data cleaning operations such as transforming to the boolean converting to etc.

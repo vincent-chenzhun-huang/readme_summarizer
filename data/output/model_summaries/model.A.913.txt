@@ -1,1 +1,1 @@
-step three start your flink task managers use the taskmanagercontroller.yaml file to create a replication controller that manages the task manager pods.
+the lambda function that authenticates to your kubernetes api endpoint is assigned an iam role that has permission to access those keys.

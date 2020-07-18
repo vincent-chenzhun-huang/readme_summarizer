@@ -1,1 +1,1 @@
-A PHP API to parse weather data and weather history from OpenWeatherMap.org.
+fork it and improve it in any way 

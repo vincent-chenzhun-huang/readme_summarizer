@@ -1,1 +1,1 @@
-Python implementations of the k-modes and k-prototypes clustering algorithms, for clustering categorical data
+dealing with slices and maps that focuses on type safety and performance 

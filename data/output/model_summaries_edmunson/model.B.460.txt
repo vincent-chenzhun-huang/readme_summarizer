@@ -1,1 +1,1 @@
-introduction this project does not contain any source code or files.
+welcome to pyldapi the python linked data api pyldapi is a very small module to add linked data api functionality to a python flask installation.

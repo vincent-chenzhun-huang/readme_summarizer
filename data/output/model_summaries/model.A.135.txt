@@ -1,1 +1,1 @@
-these are my home assistant configuration files.
+instruction and get the output like below where the normal ping output is like prerequisite and are required.

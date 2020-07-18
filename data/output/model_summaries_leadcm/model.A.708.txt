@@ -1,1 +1,1 @@
-playlistimporter npm package to parse playlist links from common music platforms to json. motivation i created this as more of a general use extension of
+macadminscripts some scripts that might be of use to macos admins. might be related to munki might not. createbootvolfromautonbi.py a tool to make bootable disk

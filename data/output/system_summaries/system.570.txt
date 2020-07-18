@@ -1,1 +1,1 @@
-Evolving set of instructional guides for using GerryChain
+give developers a boost in understanding the concepts of Data Science and Artificial Intelligence other topics are also included but main highlights are these two 

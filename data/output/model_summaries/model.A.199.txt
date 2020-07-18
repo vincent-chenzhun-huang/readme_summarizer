@@ -1,1 +1,1 @@
-considerations for licensors our public licenses are intended for use by those authorized to give the public permission to use material in ways otherwise restricted by copyright and certain other rights.
+plotting and comparing adaoja to other algorithms datasets we run adaoja against several other streaming algorithms on three different kinds of datasets.

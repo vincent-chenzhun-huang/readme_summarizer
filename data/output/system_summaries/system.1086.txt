@@ -1,1 +1,1 @@
-An extension for the svg.js library to make elements draggable
+use in your Nova apps

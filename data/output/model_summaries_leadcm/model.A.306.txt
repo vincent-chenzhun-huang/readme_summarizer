@@ -1,1 +1,1 @@
-nuxeo multitenant blob dispatcher multitenant blob dispatcher to store blobs by tenant identifier. build and install build with maven at least 3.3 package built here
+hlsl tools for visual studio a visual studio 2015 2017 extension that provides enhanced support for editing high level shading language hlsl files. download the

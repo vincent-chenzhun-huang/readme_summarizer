@@ -1,1 +1,1 @@
-anki progress stats this is a plugin for anki that adds the following graphs.
+selenium automation bundle selenium automation bundle is a seed project for quality assurance engineers to help them start designing writing and running automated datadriven tests with selenide testng and allure.

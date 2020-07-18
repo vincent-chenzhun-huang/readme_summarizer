@@ -1,1 +1,1 @@
-A collection of small exercises in the form of unit tests, designed to get Java developers up to speed on Groovy
+building redisprotocol compatible TCP serversservices

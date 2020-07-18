@@ -1,1 +1,1 @@
-This program remaps its image to prevent the page protection of pages contained in the image from being modified via NtProtectVirtualMemory.
+boot a full Android system on a regular GNULinux system

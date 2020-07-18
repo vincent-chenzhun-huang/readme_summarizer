@@ -1,1 +1,1 @@
-sdcdotmanifestgenerator this lambda function runs every 5 mins and creates a manifest file for each batch whose readyforprocessing is set to true. there are two
+appstreamglib this library provides gobjects and helper methods to make it easy to read and write appstream metadata. it also provides a simple dom implementation

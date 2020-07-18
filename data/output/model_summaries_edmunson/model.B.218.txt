@@ -1,1 +1,1 @@
-goal task goal details can be found in developer exercise wordfinder.pdf located in the root of this repo.
+qha a powerful python toolkit for quasiharmonic approximation toc contributors this repository is now maintained by tian qin and qi zhang.

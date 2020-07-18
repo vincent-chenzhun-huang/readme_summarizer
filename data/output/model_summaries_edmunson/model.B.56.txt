@@ -1,1 +1,1 @@
-nsgif is an ios library for converting your videos into beautiful animated gifs.
+padgames pad games is a collection of games that can played via webapp on your phone using an ipad or laptop as the central screen.

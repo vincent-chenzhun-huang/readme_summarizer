@@ -1,1 +1,1 @@
-scrolllock crossbrowser javascript library to disable scrolling page live demo readme на русском new features 2.0 more advanced touch event handling algorithm horizontal scrolling support
+expressive skeleton and installer begin developing psr15 middleware applications in seconds zendexpressive builds on zendstratigility to provide a minimalist psr15 middleware framework for php with

@@ -1,1 +1,1 @@
-the official docusign python client pypi module that wraps the docusign api documentation about the docusign api requirements python 2.7 3.6 recommended free developer sandbox
+features this drupal module provides a tool to build a chat bot to work on facebooks messenger platform. requirements drupal 8 php 5.6 or greater

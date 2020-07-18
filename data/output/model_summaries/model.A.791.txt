@@ -1,1 +1,1 @@
-can be supplied multiple times mini mini url of the speedtest mini server source source source ip address to bind to timeout timeout http timeout in seconds.
+glokka global akka glokka is a scala library that allows you to register and lookup actors by names in an akka cluster.

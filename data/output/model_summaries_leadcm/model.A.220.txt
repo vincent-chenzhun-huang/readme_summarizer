@@ -1,1 +1,1 @@
-bayestestr become a bayesian master you will is a lightweight package providing utilities to describe posterior distributions and bayesian models. installation run the following documentation
+gulp boilerplate a boilerplate for building web projects with gulp. uses gulp 4.x. features concatenate minify and lint javascript. compile minify autoprefix and lint sass.

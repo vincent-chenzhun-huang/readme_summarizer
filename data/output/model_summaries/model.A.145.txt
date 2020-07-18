@@ -1,1 +1,1 @@
-go to tools port and select which port the device is connected to.
+machine learning basics machine learning is the art and science of teaching computers based on data.

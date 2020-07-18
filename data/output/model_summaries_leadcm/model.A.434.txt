@@ -1,1 +1,1 @@
-tripkit tripkit is a swiftport of httpsgithub.comschildbachpublictransportenabler with some additional enhancements. this library allows you to get data from public transport providers. look into networkprovider.swift
+pylandstats overview opensource pythonic library to compute landscape metrics within the pydata stack numpy pandas matplotlib... features read geotiff files of land usecover compute pandas

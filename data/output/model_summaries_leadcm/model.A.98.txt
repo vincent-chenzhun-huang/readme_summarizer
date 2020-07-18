@@ -1,1 +1,1 @@
-profilopy code repo for ae2223i group cd13 contains all the processing code to analyze raw profilometer data and reproduce the graphs found in the paper.
+scrapy with selenium scrapy middleware to handle javascript pages using selenium. installation you should use python3.6. you will also need one of the selenium compatible

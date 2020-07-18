@@ -1,1 +1,1 @@
-pathfinder playtest encounter creator overview this is a python based tool for dms to design encounters for the pathfinder playtest rulset. the goal is to
+open control linter is a linter for the opencontrol standard of security controls. use it to check the correctness of opencontrols components standards and certifications

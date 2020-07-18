@@ -1,1 +1,1 @@
-mutualfunds the objective of this project is to extract latest data on indian mutual funds from public sources for analysis and recommend top 5 funds
+calcite maps a theme for bootstrap for designing styling and creating modern map apps. this project contains css classes that can be used with bootstrap

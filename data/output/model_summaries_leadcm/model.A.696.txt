@@ -1,1 +1,1 @@
-an awesome websocket client claws websockets have been on the rise for a long time but there is no good command line client that allows
+kubetail bash script that enables you to aggregate tailfollow logs from multiple pods into one stream. this is the same as running kubectl logs f

@@ -1,1 +1,1 @@
-rustlings 🦀❤️ greetings and welcome to .
+for generating a module you dont want to define your php class or xml file for basic module concepts like observers plugins or controllers.

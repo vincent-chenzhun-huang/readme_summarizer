@@ -1,1 +1,1 @@
-include partials with this package you can include other template files in your root html file.
+others are optional prop name type description value number string number that will be animated duration number the duration of animation delay number the delay of animation easing string you can found all valid values here callbacks props execute a function at the beginning during or when an animation or timeline is completed.

@@ -1,1 +1,1 @@
-flexibility you could use different feature extractors trained on different dataset and add knobs to the welltrained gan 1. instructions on the online demo 1.1 why hosting the model on kaggle i host the demo as a kaggle notebook instead of a more convenient web app due to cost considerations.
+under no circumstances should these files be used in relation to any critical systems.

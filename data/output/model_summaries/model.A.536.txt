@@ -1,1 +1,1 @@
-it is one of the videos used for the project.
+features of fixeddatatable fixed headers and footer both fixed and scrollable columns handling huge amounts of data variable row heights with adaptive scroll positions column resizing performant scrolling customizable styling jumping to a row or column controlled scroll api allows touch support things the fixeddatatable doesnt do fixeddatatable does not provide a layout reflow mechanism or calculate content layout information such as width and height of the cell contents.

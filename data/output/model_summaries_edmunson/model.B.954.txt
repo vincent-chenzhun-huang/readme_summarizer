@@ -1,1 +1,1 @@
-treetables plugin for jquery treetables is a jquery plugin that enhances the functionality of the popular datatables plugin.
+filestack vue this is a vue component for filestack api and content management system that makes it easy to add powerful file uploading and transformation capabilities to any web or mobile application.

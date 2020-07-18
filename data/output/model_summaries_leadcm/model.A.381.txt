@@ -1,1 +1,1 @@
-geojsonsharemaps a responsive web mapping utility for viewing and sharing geojson files. designed to be an incredibly simple and lightweight tool for quickly standing up
+learning resources an initiaitve by gdg ahmedabad for community and by community we at gdg ahmedabad are getting different queries like i want to learn

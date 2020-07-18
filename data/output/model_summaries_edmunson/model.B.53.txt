@@ -1,1 +1,1 @@
-moneybuttonpaymailclient description javascript client to interact with bsv paymail protocol.
+image classifier i have implemeted image classifier reconizing images of flowers using pytorch image classification model and further converted into command line application.

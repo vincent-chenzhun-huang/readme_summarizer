@@ -1,1 +1,1 @@
-description sharepoint patchify apply cu patch to entire farm from one powershell console.
+froalaoembed a simple plugin for froala wysiwyg editor that allows users to insert and customise a wide variety of external web content.

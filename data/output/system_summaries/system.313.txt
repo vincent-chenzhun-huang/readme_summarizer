@@ -1,1 +1,1 @@
-An App that keeps track of your sleep to measure how good sleep you are having
+deploying managing and automating Ceph 

@@ -1,1 +1,1 @@
-create a new websocket connection.
+to find out the available versions to install you can run the following command zsh plugin if youre using a zsh plugin manager you can install as a plugin.

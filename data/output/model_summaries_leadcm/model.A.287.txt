@@ -1,1 +1,1 @@
-welcome to pyattcks documentation a python package to interact with the mitre attck framework pyattck is a lightweight framework for the mitre attck framework. this
+httpdiffbot httpdiffbot is django powered application to compare and alert on changes in http and html responses. simple insert url or domain to monitor and

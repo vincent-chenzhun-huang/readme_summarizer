@@ -1,1 +1,1 @@
-reactwithmoxy opinionated boilerplate to create isomorphic react applications.
+apruvdv4php lightweight php sdk for integrating with the apruvd api v4 services apiservice the main primary service containing 11 method mapping on available api endpoints.

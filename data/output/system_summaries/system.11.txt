@@ -1,1 +1,1 @@
-Simple Vuex module to handle form fields and validations
+your applications service providers 

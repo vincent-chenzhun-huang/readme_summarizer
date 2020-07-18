@@ -1,1 +1,1 @@
-atf whats new authoring tools framework atf is a set of c.net components for making tools on windows®.
+emisquestionnaire a representation of indicators questions and questionnaires used to assess need and situation of an emergencyor disaster event.

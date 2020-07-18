@@ -1,1 +1,1 @@
-php sdk for viber api library to develop a bot for the viber platform.
+developers building zanata from source prerequisites you will need java sdk 8 openjdk recommended zsh for the build script npm optional mysql or mariadb optional jboss eap 7 or wildfly 10 optional linux or mac osx.

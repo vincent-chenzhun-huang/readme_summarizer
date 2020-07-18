@@ -1,1 +1,1 @@
-simmy sample app this repo presents an intentionally simple example .net core webapi app demonstrating simmy.
+jss recipes a collection of autopkg recipes that helps jamf pro administrators use jssimporter to automate their software testing workflow.

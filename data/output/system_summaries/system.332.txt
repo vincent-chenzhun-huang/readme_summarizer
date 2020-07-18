@@ -1,1 +1,1 @@
-An easy to use self-hosted SCRUM burndown chart for Trello boards. (Docker or binary)
+the community kitchen 

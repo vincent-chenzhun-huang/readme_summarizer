@@ -1,1 +1,1 @@
-project summary in this project well provide practice javascript problems to help you better understand .
+4c predictive analytics for overbooking optimization submission to homeaway homeaway hackathon project.

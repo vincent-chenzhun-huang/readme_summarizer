@@ -1,1 +1,1 @@
-video buildanimatecut tools in blender a collection of scripts to automate various parts of the production process behind my animations.
+项目介绍 验证码识别 该项目是基于 cnn5resnetblstmlstmgrusrubsructc 来实现验证码识别.

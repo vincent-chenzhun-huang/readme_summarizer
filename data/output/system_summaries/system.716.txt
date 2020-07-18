@@ -1,1 +1,1 @@
-Examples on how to use the extension API
+creating GIF screencasts of a terminal with key presses overlaid 

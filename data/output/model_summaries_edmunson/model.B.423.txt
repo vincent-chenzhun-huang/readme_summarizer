@@ -1,1 +1,1 @@
-this project was bootstrapped with create react app.
+lisp in small pieces for modern schemes this repository contains source code from the book lisp in small pieces by christian queinnec updated to work with modern versions of bigloo gambit mit scheme and guile.

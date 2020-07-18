@@ -1,1 +1,1 @@
-example js matic .gettx0x9fc76417374aa880d4449a1f7f31ec597f00b1f6f3dd2d66f4c9c6c445836d8b .thentxobject console.logtxobject matic.getreceipttxid get receipt object using txid from matic chain.
+openaerialmap oam what is openaerialmap imagery from satellites unmanned aerial vehicles uavs and other aircraft is becoming increasingly available after a disaster.

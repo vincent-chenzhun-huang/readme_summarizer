@@ -1,1 +1,1 @@
-for example connect your bastion host and smoke test both memcached servers option 2 use memcached module as a part of your infrastructure this repository contains a standalone memcached module you can incorporate into your existing terraformbased infrastructure in oracle cloud.
+spring data cassandra spring data for apache cassandra adds object mapping schema generation and repository support to the feature set.

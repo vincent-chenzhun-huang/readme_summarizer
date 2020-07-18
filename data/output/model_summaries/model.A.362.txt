@@ -1,1 +1,1 @@
-acquaint a simple xamarin app named acquaint.
+default auditcustomprovider audittools audittools.audit.middleware.customprovider audittranslateurls translate audit urls default audittranslateurls false .. readthedocs httpdjangoaudittools.readthedocs.org .. ebury httpwww.ebury.com

@@ -1,1 +1,1 @@
-stylegan — encoder for official tensorflow implementation the generated image is not a real person a latent representation of two game of thrones characters was
+dockercleanupvolumes warning use at your own risk always test with the parameter first. if its not compatible with your system or docker version it will

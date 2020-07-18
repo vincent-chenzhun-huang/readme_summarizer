@@ -1,1 +1,1 @@
-predicting breast cancer proliferation scores with tensorflow keras and apache spark note this project is still a work in progress.
+d3 deconstructor first release october 2014 the d3 deconstructor is a google chrome extension for extracting data from d3.js visualizations.

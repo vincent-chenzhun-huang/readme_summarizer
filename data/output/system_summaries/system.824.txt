@@ -1,1 +1,1 @@
-Discord bot to filter useless messages and display only relevant messages
+constructing JSON and JSONlike text and binary data formats with JSON Pointer JSON Patch JSONPath CSV MessagePack CBOR BSON UBJSON

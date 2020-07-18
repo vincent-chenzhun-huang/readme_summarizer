@@ -1,1 +1,1 @@
-development information when the script in managedosvr is run by the ci or a human it generates a tree with as the root directory.
+find out more about the boilerplate here.

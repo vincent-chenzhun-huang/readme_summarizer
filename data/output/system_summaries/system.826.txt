@@ -1,1 +1,1 @@
-Slim is a template language whose goal is to reduce the syntax to the essential parts without becoming cryptic.
+interacting with a RADIX Distributed Ledger 

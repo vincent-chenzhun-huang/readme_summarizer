@@ -1,1 +1,1 @@
-rabbitmqadvanced â a generic library for messaging with rabbitmq an extension of spring boot amqp.
+simplifygraph 3rd place winner of the 2017 hexrays ida pro plugin contest background my personal preference is to use ida’s graph mode when doing the majority of my reverse engineering.

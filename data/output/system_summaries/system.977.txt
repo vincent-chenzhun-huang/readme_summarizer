@@ -1,1 +1,1 @@
-Used to separate entities in a Home Assistant group 
+parallelize your pandas operations on all your CPUs On Linux macOS 

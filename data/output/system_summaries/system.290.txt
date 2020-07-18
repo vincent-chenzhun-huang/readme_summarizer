@@ -1,1 +1,1 @@
-SharePoint Patchify - centralized tool to apply CU patch to entire farm from one console
+embedding external content accessible through oEmbed into the Froala WYSIWYG Editor

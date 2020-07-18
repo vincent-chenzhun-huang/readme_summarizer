@@ -1,1 +1,1 @@
-A lightweight set of tools for working with ArcGIS services in Leaflet. :rocket:
+develop a WordPress theme from scratch with this basic skeleton and accompanying tutorial 

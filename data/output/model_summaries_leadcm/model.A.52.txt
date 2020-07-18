@@ -1,1 +1,1 @@
-caffe segnet cudnn5 this is a modified version of caffe which supports the segnet architecture as described in segnet a deep convolutional encoderdecoder architecture for
+arduino library for isfet board this library is used to read info from isfet board pcb. this requires the isfet board hardware which was developed

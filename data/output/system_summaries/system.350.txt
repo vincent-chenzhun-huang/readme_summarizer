@@ -1,1 +1,1 @@
-Raspberry Pi project to support piano player using MIDI interface
+send a map object inside Siddhi stream definitions and use it within queries

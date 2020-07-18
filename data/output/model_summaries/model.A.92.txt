@@ -1,1 +1,1 @@
-your app is ready to be deployed see the section about deployment for more information.
+navigate to the directory where you will run the pipeline and where the results of this run will be saved activate the conda environment conda activate pirnapipeline copy the config file to the current directory cp projpirnaseqpipelinepipelineconfig.yml .

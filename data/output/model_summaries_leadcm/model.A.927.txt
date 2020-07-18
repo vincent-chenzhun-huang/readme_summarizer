@@ -1,1 +1,1 @@
-rebar3 what is rebar3 why rebar3 should i use rebar3 getting started documentation features migrating from rebar2 additional resources what is rebar3 rebar3 is an
+4rnaseq a slurm based schema for rnaseq analysis to execute on linux clusters. a pipeline4rnaseq and a minimal rnaseq cook book to explain each step

@@ -1,1 +1,1 @@
-yyimage image framework for ios to displayencodedecode animated webp apng gif and more.
+you can also run from your cli and open the documentation for your current version of kedro in a browser.

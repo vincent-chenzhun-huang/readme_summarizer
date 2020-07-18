@@ -1,1 +1,1 @@
-this project was bootstrapped with create react app.
+digistories generator link this project was bootstrapped with create react app.

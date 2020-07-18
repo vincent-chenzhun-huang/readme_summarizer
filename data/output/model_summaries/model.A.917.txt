@@ -1,1 +1,1 @@
-deploy your service create a new user by hitting the createuser endpoint you can now retrieve your user by using the getuser endpoint in your createuser code it emits a user.created event to the event gateway which triggers the emailuser function which then emits a email.sent event.
+you can query model nodes created from datocms like the following your site global settings can be queried like this accessing records nonstandard data types i.e. models you define in datocms will also be available in gatsby.

@@ -1,1 +1,1 @@
-yubiswitch overview is an osx status bar application to enabledisable a yubikey nano or neo from yubico. yubico is the producer of the yubikeys an
+zebra dialog a small compact and highly configurable jquery plugin for creating responsive modal dialog boxes a modal window is a child window that requires

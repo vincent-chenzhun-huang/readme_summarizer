@@ -1,1 +1,1 @@
-microsoft restier odata made simple releases documentation odata v4.01 documentation what is restier restier is an api development framework for building standardized odata v4 based
+abashtemplate abashtemplate is a bash script that really does nothing at all. its a template. but it does make scripting much easier... whats a bash

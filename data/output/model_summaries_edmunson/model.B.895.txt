@@ -1,1 +1,1 @@
-phpmf2 phpmf2 is a pure generic microformats2 parser.
+prometheus rsocket proxy this is a collection of resources to help you get application metrics to prometheus when you cannot open ingress into your application while still preserving the pull model using rsocket bidirectional persistent rpc.

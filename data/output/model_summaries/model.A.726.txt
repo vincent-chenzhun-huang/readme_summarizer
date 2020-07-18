@@ -1,1 +1,1 @@
-citybikeanalysistableau background as lead analyst for the new york citi bike program you are now responsible for overseeing the largest bike sharing program in the united states.
+in order to get a rev shell we will type again in the console box of mygroovy addon the following script assuming your netcat listener is 192.168.2.100 on port 4444 click on the execute button and see if you get a reverse shell in your netcat.

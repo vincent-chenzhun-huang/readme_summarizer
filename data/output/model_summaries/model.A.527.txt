@@ -1,1 +1,1 @@
-once you have generated the file return to the python console and type y without the quotes this will load each scheduled job onto your compputers crontab.
+warcdownloader this project is a python script that archiveit partners can use to download their warc files and associated metadata.

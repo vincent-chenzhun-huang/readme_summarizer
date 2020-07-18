@@ -1,1 +1,1 @@
-branch overview stable stable is the branch you should use if you want to clone and run convos instead of just running the install command above.
+contribute back is there a feature missing that youd like to see or have you found a bug that you have a fix for or do you have an idea or just interest in helping out in building the library let us know and wed love to work with you.

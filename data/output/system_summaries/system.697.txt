@@ -1,1 +1,1 @@
-A python app to help explore the facebook graphql api.
+work with jToker and ngtokenauth 

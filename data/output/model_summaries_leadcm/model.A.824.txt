@@ -1,1 +1,1 @@
-spamfilterbot discord bot for filtering messages and display only relevant messages. the bot will read the discord conversation and according to its criterias machine learning
+jsoncons jsoncons is a c headeronly library for constructing json and jsonlike data formats such as cbor. it supports parsing jsonlike text or binary formats

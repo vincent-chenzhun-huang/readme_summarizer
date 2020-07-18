@@ -1,1 +1,1 @@
-obpkit for osx and ios tesobe ltd. overview installation installation with carthage installation with cocoapods classes obpserverinfo obpsession obpwebviewprovider obpmarshal obpdateformatter how to use callback
+backgrounddownload plugins for mobile platforms to enable file downloads in background allows to launch file downloads that will continue even if the app goes into

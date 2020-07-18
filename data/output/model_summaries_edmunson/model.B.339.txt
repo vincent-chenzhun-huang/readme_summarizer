@@ -1,1 +1,1 @@
-babelfire a universal translator this is a firebase and google cloud powered app used for demo purposes.
+trainocr this repository provides code and data that can be used to train custom license plate fonts in support of the openalpr library.

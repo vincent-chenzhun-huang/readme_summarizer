@@ -1,1 +1,1 @@
-easy to use ready to go fully customizable awesome card collection for react native. card installation add the dependency react native peer dependencies important you
+swiftsocket swiftsocket library provides as easy to use interface for socket based connections on server or client side. supports both tcp and udp sockets. installation

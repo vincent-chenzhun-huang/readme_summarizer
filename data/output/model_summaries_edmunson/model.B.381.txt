@@ -1,1 +1,1 @@
-geojsonsharemaps a responsive web mapping utility for viewing and sharing geojson files.
+learning resources an initiaitve by gdg ahmedabad for community and by community we at gdg ahmedabad are getting different queries like i want to learn android development where to start i want to integrate app engine how can start with it from our community members so here we want to prepare a repository with all the useful resourcesmaterials for every technologies that there are in market.

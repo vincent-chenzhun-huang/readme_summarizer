@@ -1,1 +1,1 @@
-pandoc markdown lecture template this project defines a skeleton repo for creating lecture material i.e. slides and handouts including lecture notes homework sheets plus the
+ambaribootstrap collection of tools for bootstrapping apache ambari deploying clusters there are several tools ambaribootstrap.sh script which installs configures ambari along with its prerequisites. .deploy

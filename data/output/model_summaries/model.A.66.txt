@@ -1,1 +1,1 @@
-your app is ready to be deployed see the section about deployment for more information.
+open the file and enter the following script .. code python import matplotlib.pyplot as plt import numpy as np x np.arange10200.1 y x2 plt.plotxyr plt.show after running this script we should get the following figure .. image httpspypdfplot.readthedocs.ioenlatestimagesplot.png next we will use pypdfplot to publish this plot as a pypdf file.

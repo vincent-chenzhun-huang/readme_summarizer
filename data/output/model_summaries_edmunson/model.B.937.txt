@@ -1,1 +1,1 @@
-swipebacklayout an android library that help you to build app with swipe back gesture.
+david kolfs json module for lua 5.15.2 version 2.5 in the default configuration this module writes no global values not even the module table.

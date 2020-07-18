@@ -1,1 +1,1 @@
-import them as follows create a to create a new chart first you have to create one or more person objects.
+table of contents backstory structure file api and xhr l2 pollyfills plupload api ui widget queue widget demos building instructions getting started options events methods plupload in your language file filters image resizing on clientside chunking upload to amazon s3 faq support create a fiddle contributing license contact us backstory plupload started in a time when uploading a file in a responsive and customizable manner was a real pain.

@@ -1,1 +1,1 @@
-building a static ios framework is a pain.
+raobget this repository contains scripts to download raobs from the university of wyoming radiosonde archive by building urls like for accessing textlist data for accessing gifskewt images usage to run on windows 10 or create a shortcut to windows10raobget.bat and move it to the desktop and just click on it to run on a mac ncareol users to run on barolo you need to use optlocalanaconda3binpython3.7 as this is the only place pyqt5 and other needed packages are installed.

@@ -1,1 +1,1 @@
-this crate provides basic building blocks for writing async gui code with gtkrs 1. an executor for executing futures that may manipulate gui widgets 2. an implementation of futuresfuture that is often useful for gui code is a future that can be completed or failed with or methods.
+version 1.4.2 and 1.4.4 have a new configuration file structure for database backup settings.

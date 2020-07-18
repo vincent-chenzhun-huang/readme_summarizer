@@ -1,1 +1,1 @@
-one option is to delete the containers using the docker rm command though by doing this youll lose any updates you made to the container and will need to restart at step 4. fortunately docker provides us with an easy method to bring our existing containers back online by running docker start postfix dovecot rainloop the base command here is docker start and the arguments we are passing are the names we assigned to each container when we created them with docker run.
+check latest documentation.

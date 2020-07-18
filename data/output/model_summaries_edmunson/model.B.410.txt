@@ -1,1 +1,1 @@
-dualscreenmousetools version 1.2.6 author keyofblues repository httpsgithub.comkeyofbluesdualscreenmousetools license gnu general public license v3.0 httpsopensource.orglicensesgpl3.0 description this bash script uses xdotool to easly enabledisable crossing the mousepointer between two really separated xscreens screen 0 and screen 1 when it reach a side edge of screen it can even teleport the mouse pointer from one screen to the other.
+welcome to monogame.forms monogame.forms is the easiest way of integrating a monogame render window into your windows forms project.

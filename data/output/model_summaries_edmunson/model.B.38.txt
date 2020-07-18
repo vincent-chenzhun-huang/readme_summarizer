@@ -1,1 +1,1 @@
-this project was bootstrapped with create react app.
+goshapes using rdf shapes to define the schema of gene ontology causal activity models the schema here is intended to be synced with the corresponding google doc but there may be cases of things being out of sync for now.

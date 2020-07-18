@@ -1,1 +1,1 @@
-Small project aimed to demonstrate the principles of adaptive optics using blender and Matlab
+use Google Docs as a data source

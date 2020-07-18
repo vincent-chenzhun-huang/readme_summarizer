@@ -1,1 +1,1 @@
-A Xamarin demo app featuring both Xamarin.Forms and native approaches to Xamarin development
+auditing requests and models and improve logging

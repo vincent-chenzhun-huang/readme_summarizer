@@ -1,1 +1,1 @@
-fingerprint receiving via keytool 1 you need to find the keystore location for your app.
+uri query parameter see rfc6750 section 2.1 for example basic authentication with any username and token see github basic authentication via oauth tokens for example or the wwwauthenticate response header field when a protected resource is requested but request does not include authentication credentials or does not contain an access token that enables access it includes the http wwwauthenticate response header field.

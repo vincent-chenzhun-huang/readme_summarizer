@@ -1,1 +1,1 @@
-A document management system api that enables a user to manage docs.
+inclusion in their official BApp Store 

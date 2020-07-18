@@ -1,1 +1,1 @@
-readme.md asmclickdebounce it is a gradle plugin that uses bytecode weaving technology to solve the click debounce problem of android applications. safe efficient easy to
+jnihelpers jnihelpers is a library designed to facilitate writing jni code with c. it provides the following features registry for cached class info ie jclass

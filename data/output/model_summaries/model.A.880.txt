@@ -1,1 +1,1 @@
-datasets should be placed in as below if you do not train the model you can just download the icdar2013 or icdar2015 datasets for testing.
+the results demonstrate how a deep learning model trained on text in earnings releases and other sources could provide a valuable signal to the investment decision maker.

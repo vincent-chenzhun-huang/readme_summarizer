@@ -1,1 +1,1 @@
-custom drag behavior constraints snap to grid remove the draggable functionality can be removed calling draggable again with false as argument javascript rect.draggablefalse restrictions if your rootsvg is transformed this plugin wont work properly in firefox.
+a tags field for nova apps this package contains a nova field to add tags to resources.

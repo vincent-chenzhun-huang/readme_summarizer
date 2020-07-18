@@ -1,1 +1,1 @@
-A flexible python library for building your own cron-like system, with REST APIs and a Web UI.
+learning event embedding and using a deep convolutional neural netwo

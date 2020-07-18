@@ -1,1 +1,1 @@
-rgbdformatter this repository holds matlab codes to convert various rgbd datasets into the easytouse unified format including dir structure and file naming when we utilize existing rgbd datasets it is annoying that all the datasets have different formats.
+if reactive data is passed into it will return a list of properties store components these will all refresh if this reactive data is modified.

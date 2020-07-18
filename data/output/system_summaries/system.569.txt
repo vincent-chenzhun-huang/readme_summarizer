@@ -1,1 +1,1 @@
-A cookiecutter template for creating Django projects and deploying them quickly using Ansible
+tracking the work of the Observability Working Group

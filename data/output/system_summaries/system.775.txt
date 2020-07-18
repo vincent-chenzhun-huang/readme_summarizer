@@ -1,1 +1,1 @@
-Utility to convert Visual Studio Code Snippets to VS Code and Rider.
+micro jobs tasks errands etc

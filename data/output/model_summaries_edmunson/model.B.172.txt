@@ -1,1 +1,1 @@
-solar energy budget calculator jump down to examples this is a python code that implements a simple power budget model for the sizing and analysis of groundbased photovoltaic energy systems included battery storage.
+import pinboard archives into devonthink as web archives pinboard is a webbased bookmarking service that can optionally crawl the websites you bookmark and store a complete copy of how they appeared at that time.

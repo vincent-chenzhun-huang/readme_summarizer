@@ -1,1 +1,1 @@
-question answering corpus this repository contains a script to generate questionanswer pairs using cnn and daily mail articles downloaded from the wayback machine.
+xmlrpc for scala this is a scala library to talk to servers and clients via xmlrpc originally created to connect to my university servers.

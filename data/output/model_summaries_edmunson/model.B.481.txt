@@ -1,1 +1,1 @@
-labelbox labelbox is the fastest way to annotate data to build and ship artificial intelligence applications.
+torchfusion a modern deep learning framework built to accelerate research and development of ai systems.

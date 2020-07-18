@@ -1,1 +1,1 @@
-videoplayermanager this is a project designed to help controlling android mediaplayer class.
+wip godotbombermatchmakingserver a simple game client and nodejs server to create matches between random players for godot bomber demo poc.

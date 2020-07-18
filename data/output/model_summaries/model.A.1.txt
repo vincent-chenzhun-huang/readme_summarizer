@@ -1,1 +1,1 @@
-install binwalk note alternatively you could also do a setting up firmadyne edit and make the point to the current location of firmadyne folder.
+cli usage extract translatable strings to extract translatable strings from modules for a particular fedora release e.g. f29 this will read all of the module metadata from the koji buildsystem and convert the translatable strings to a portable object template document.

@@ -1,1 +1,1 @@
-pull in the theme from the pxdocstooling repo using below command now launch the website locally using you can then view the site in your browser at httplocalhost1313.
+pire adversarial queries for blocking contentbased image retrieval cbir.

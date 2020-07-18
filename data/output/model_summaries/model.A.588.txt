@@ -1,1 +1,1 @@
-behavior returns true if the debounced value for button has changed from released to pressed myinstance.onrelease myinstance.onreleasebool refreshpindata refreshpindata value should be set to one if and only if there has been a significant delay between calling this function and the last time listen was called.
+vueorgchart a vue component that wraps orgchart.js and supports scoped slots to customize nodes in chart.

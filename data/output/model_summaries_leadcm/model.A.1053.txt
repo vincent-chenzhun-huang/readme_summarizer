@@ -1,1 +1,1 @@
-cisco devnet learning labs sample code for restconf these scripts use restconf to demonstrate various configurations you can run as examples in the devnet sandbox.
+aws sts role this ansible role allows a user to assume a given role generating temporary security credentials that can be used to assume the

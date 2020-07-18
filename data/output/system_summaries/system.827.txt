@@ -1,1 +1,1 @@
-A mixin for adding methods to your Ember components that help you manage the currently focused element.
+dashboarding stack using InfluxDB Grafana and nginx

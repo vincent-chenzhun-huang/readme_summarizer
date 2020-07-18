@@ -1,1 +1,1 @@
-description invertedindex is a java library which allows to build a queryable index from a text corpus. indexer class is designed to solve a particular
+qnanopainter qnanopainter is an opengl accelerated c vector drawing library for qt offering optimal performance productivity and rendering quality allinone. qnanopainter api is a mixture

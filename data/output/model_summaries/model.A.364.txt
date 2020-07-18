@@ -1,1 +1,1 @@
-default is time.
+cloudtrail to slack cloudtrail のログストリームを slack に通知する lambda 関数 開発環境 awscli awssamcli docker ローカル環境のセットアップ 環境変数 変数名説明サンプル slack oauth トークン slack チャンネルid or チャンネル名 パッケージングとデプロイ パッケージングしてs3にアップロード ログに表示されるobject keyか 内のs3 urlを確認してlambdaのソースに指定する。 cloudwatch logs ストリーミングフィルタの例 get list describe は無視 下記を検知 セキュリティグループの変更 iamの変更 ゲートウェイ、vpcの変更 cloudtrailのログ停止 コンソールログインの失敗 設定用にスペースを省いたもの 参考リンク aws cloudformation テンプレートを使用して cloudwatch アラームを作成する aws cloudtrail the most important aws cloudtrail security events you should track gorillastack license the mit license

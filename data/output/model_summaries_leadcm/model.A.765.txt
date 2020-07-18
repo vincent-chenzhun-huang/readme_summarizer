@@ -1,1 +1,1 @@
-swifterswift is a collection of over 500 native swift extensions with handy methods syntactic sugar and performance improvements for wide range of primitive data types
+knowledgedistillationpytorch exploring knowledge distillation of dnns for efficient hardware solutions author haitong li framework pytorch dataset cifar10 features a framework for exploring shallow and deep

@@ -1,1 +1,1 @@
-notifications soundswitch provides five types of notification when a device was changed.
+how does my target run under winafl when you select a target function and fuzz an application the following happens your target runs normally until your target function is reached.

@@ -1,1 +1,1 @@
-about laravel laravel is a web application framework with expressive elegant syntax. we believe development must be an enjoyable and creative experience to be truly
+vehicles status app java application to monitor vehicles connectivity status projects 1 config spring cloud config service to centralize configuration for all services 2 registry

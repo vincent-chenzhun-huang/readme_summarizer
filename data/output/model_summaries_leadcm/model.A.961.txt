@@ -1,1 +1,1 @@
-astranet is a package for managing highly concurrent independent network streams. how did we get here while dealing with everyday issues we have approached a
+freshmvvm for xamarin.forms freshmvvm is a super light mvvm framework designed specifically for xamarin.forms. its designed to be easy simple and flexible. how does it

@@ -1,1 +1,1 @@
-animation duration use or property.
+find the audio source enabling audio accessory creates a new audio source on the computer but how to find it reliably and automatically what if the system does not use pulseaudio it would be great if it were possible to receive audio packets manually so that we could play them with sdl directly.

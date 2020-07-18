@@ -1,1 +1,1 @@
-for example this data also includes presplit test and training data pretrained models predictions and smoothed errors generated using the default settings in config.yaml.
+glut.ts automatically converts and validates the data for the transport via websockets so you have only one entity schema and one controller interface defined for both server and client.

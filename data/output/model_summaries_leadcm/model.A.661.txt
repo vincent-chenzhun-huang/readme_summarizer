@@ -1,1 +1,1 @@
-pdflayouttextstripper converts a pdf file into a text file while keeping the layout of the original pdf. useful to extract the content from a table
+themetest documentation and sketches for testing arduino ide themes. demonstrates all theme settings. packaged as a library in order to define all possible keywords. installation

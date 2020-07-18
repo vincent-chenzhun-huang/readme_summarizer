@@ -1,1 +1,1 @@
-asp.net core detection asp.net core client web browser detection extension to resolve devices platforms engine of the client.
+deepops gpu infrastructure and automation tools overview the deepops project facilitates deployment of gpu servers and multinode gpu clusters for deep learning and hpc environments in an onprem optionally airgapped datacenter or in the cloud.

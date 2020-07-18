@@ -1,1 +1,1 @@
-this project was bootstrapped with create react app.
+trooba truba means pipe in russian and it is not a pipe.

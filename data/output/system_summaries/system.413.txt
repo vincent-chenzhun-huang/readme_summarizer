@@ -1,1 +1,1 @@
-Tweaks necessary for running Linux on the Lenovo Yoga 3-11
+managing application deployment lifecycle in Kubernetes

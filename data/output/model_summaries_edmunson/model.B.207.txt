@@ -1,1 +1,1 @@
-ociquickstarth2o this is a terraform module that deploys h2o.ai driverless ai on oracle cloud infrastructure oci.
+libpq.framework for ios 11 an xcode project to compile your own libpq.framework for ios 11.x libpq is a set of library functions that allow client programs to pass queries to the postgresql backend database server and to receive the results of these sql queries.

@@ -1,1 +1,1 @@
-A command-line application for converting currencies (crypto and fiat).
+using CommonCrawl Index API at http indexcommoncrawlorg

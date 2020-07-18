@@ -1,1 +1,1 @@
-your markup will be used within the nodes element.
+go to terminal and type and change the account with your mist account then it will ask for a password.

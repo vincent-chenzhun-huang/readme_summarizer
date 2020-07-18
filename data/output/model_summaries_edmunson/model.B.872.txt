@@ -1,1 +1,1 @@
-mrcnpdlkurlsearchparser contents this boundle has been created for parsing advanced queries to easytouse objects.
+hi welcome to the beginnings of tufte latex package to help you produce tuftestyle handouts reports and notes.

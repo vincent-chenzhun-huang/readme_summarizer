@@ -1,1 +1,1 @@
-Node.js app that uses the private Tinder API to authenticate, spoof app location, and then crawl/download all profiles in the vicinity. (From 2015)
+create radial progress bars on the canvas 

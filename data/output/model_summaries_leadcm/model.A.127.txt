@@ -1,1 +1,1 @@
-cucumber boilerplate boilerplate project to run webdriverio tests with cucumber and brings true bdd to javascript. instead of writing complicated test code that only developers
+中文介绍请戳这里 introduction zmail allows you to send and get emails as possible as it can be in python.there is no need to check server address

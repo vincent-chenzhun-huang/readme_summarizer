@@ -1,1 +1,1 @@
-A python library for implementing a recommender system
+work with media access control MAC addresses 

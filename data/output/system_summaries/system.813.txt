@@ -1,1 +1,1 @@
-A convenient way to store data into Flash memory on the ATSAMD21
+write the Dao by yourself anymore Coding Complexity is O 1 Bee是开发速度快、编码少、简单、高效的ORM框架，它的编码复杂度是O 1 ，即用了Bee，你可以不用另外写dao代码。

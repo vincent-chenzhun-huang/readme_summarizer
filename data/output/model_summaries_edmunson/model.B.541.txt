@@ -1,1 +1,1 @@
-awesome woocommerce plugins and code snippets for your woocommerce store.
+ecommerce 2 api tutorial series ecommerce 2 api is a stepbystep guide to implementing an restful api into your ecommerce 2 project using the django rest framework django rest framework jwt django cors headers and more.

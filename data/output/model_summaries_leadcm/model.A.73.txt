@@ -1,1 +1,1 @@
-awsaccountautomation tools to automate your aws account deploybuckettemplate will create a bucket for lambda or other package deployments. it can be configured to allow access
+vulkan memory allocator easy to integrate vulkan memory allocation library. documentation see vulkan memory allocator generated from doxygenstyle comments in srcvkmemalloc.h license mit. see license.txt

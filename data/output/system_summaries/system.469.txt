@@ -1,1 +1,1 @@
-A Node.js module for generating lorem ipsum placeholder text
+training at WCS Nantes

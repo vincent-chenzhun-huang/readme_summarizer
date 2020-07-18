@@ -1,1 +1,1 @@
-GUI to choose the grub default boot entry.
+managing git repositories It also integrates with Windows Explorer and Microsoft Visual Studio 20102012201320152017 

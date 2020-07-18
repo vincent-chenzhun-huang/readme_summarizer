@@ -1,1 +1,1 @@
-git pull request tools everyone abstractly likes pull requests but they can be a lot of keystrokes making new branches pushing them and especially keeping
+helminstallinitgkeerror helm install in gke leads to an error. article explains how to resolve it. how this document helps you when you use helm to

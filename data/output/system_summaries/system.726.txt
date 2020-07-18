@@ -1,1 +1,1 @@
-Aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard, story, or report and uncover trends
+get a reverse shell from JIRA application server

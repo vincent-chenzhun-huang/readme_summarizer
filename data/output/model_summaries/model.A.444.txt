@@ -1,1 +1,1 @@
-the flag allows you to specify the companys name.
+matomo sdk for android welcome to the matomo tracking sdk for android.

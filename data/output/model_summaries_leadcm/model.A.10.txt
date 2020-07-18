@@ -1,1 +1,1 @@
-mtgatracker mtga tracker is an electronbased app that helps you track your mtga decks im not reading anything else until you tell me how to
+this project was bootstrapped with create react app. available scripts in the project directory you can run runs the app in the development mode. open

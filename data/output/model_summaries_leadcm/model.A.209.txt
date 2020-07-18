@@ -1,1 +1,1 @@
-d3shotchart basketball fans are paying attention to stats and advanced metrics more than ever. there exists few open source tools to help facilitate the display
+vue.d3.tree update documentationvue components to display graphics based on d3.js layout. tree usage properties name required typevalue default description data no null data representing tree

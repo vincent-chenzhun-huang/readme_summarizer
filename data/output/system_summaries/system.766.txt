@@ -1,1 +1,1 @@
-Rocket Plugins to set easily skillsets with permissions
+managing Amazon S3 and CloudFront services

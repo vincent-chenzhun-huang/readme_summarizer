@@ -1,1 +1,1 @@
-A nice little Android app that helps developers to discover and query content providers.
+install any of the open sourced hashicorp packages

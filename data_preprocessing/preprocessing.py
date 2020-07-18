@@ -10,6 +10,7 @@ from constants.default import OUTPUT_FILE_TRAIN, OUTPUT_FILE_VALID, OUTPUT_FILE_
 
 from bs4 import BeautifulSoup
 from interruptingcow import timeout
+import ast
 
 COUNT = 0
 
@@ -125,6 +126,17 @@ class Preprocessor:
         print('removing faulty rows...')
         self.df.drop(self.faulty_indices, inplace=True)
 
+    def convert_purpose_to_sentence(self, purpose):
+        words = ast.literal_eval(purpose)
+        sentence = ' '.join(words)
+        return sentence.translate(str.maketrans('', '', string.punctuation))
+
+    
+    def bulk_convert_purpose_to_sentence(self, column_to_clean='purpose'):
+        self.df[column_to_clean] = self.df[column_to_clean].apply(self.convert_purpose_to_sentence)
+        self.df[column_to_clean] = self.df[column_to_clean].apply(self.delete_redundent_spaces)
+        
+
     # def get_wordnet_pos(self, word):
     #     """Map POS tag to first character lemmatize() accepts"""
     #     tag = nltk.pos_tag([word])[0][1][0].upper()
@@ -154,7 +166,7 @@ class Preprocessor:
 
 
 
-    def preprocess(self, column_to_clean='readme'):
+    def preprocess(self):
         print('preprocessing data...')
         try:
             self.bulk_delete_code_blocks() # delete code blocks
@@ -164,6 +176,7 @@ class Preprocessor:
             self.bulk_to_lower_case() # convert to lower case
             self.write_faulty_index_to_txt_file()
             self.remove_faulty_rows()
+            self.bulk_convert_purpose_to_sentence()
 
         except FileNotFoundError:
             logging.error(FileNotFoundError)

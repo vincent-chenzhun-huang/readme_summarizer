@@ -1,1 +1,1 @@
-Winetricks is an easy way to work around problems in Wine
+learn concepts likn Higher Order Components and testing

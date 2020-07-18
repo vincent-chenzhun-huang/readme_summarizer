@@ -1,1 +1,1 @@
-Go package to interact with Palo Alto devices.
+compile the opencv module Qt 

@@ -1,1 +1,1 @@
-quality measure engine this project is a library designed to calculate clinical quality measures over a given population.
+a maven plugin to process compile time annotation for jdk6 and above.

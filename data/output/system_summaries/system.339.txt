@@ -1,1 +1,1 @@
-Demo app using Firebase and Google Cloud products to implement a \universal translator\""
+train the license plate OCR

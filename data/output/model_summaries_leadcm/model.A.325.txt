@@ -1,1 +1,1 @@
-an ongoing project for benchmarking different python approaches ideally one per day i would be happy to hear your comments and suggestions. please feel free
+hakchi2 this is a gui for hakchi by madmonkey. this application can add more games game roms to your nessnes classic mini or famicom mini.

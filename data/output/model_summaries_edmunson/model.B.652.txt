@@ -1,1 +1,1 @@
-brisk a crossplatform set of tools for building native uis with reasonocaml.
+hugo live search using fuse.js and mark.js this is not a standalone theme.

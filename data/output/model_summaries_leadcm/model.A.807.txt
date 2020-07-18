@@ -1,1 +1,1 @@
-mvccore extension router modules with localization mvccore router extension to manage multiple websites in single project and to manage website localizations language or language and
+adhrit is an open source android apk reversing and analysis tool that can help security researchers and ctf enthusiasts alike. the tool is an effort

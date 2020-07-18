@@ -1,1 +1,1 @@
-This is a custom HTML render to support multi templates
+manage Terminals Lets you add multiple optional terminals and easily switch through them 

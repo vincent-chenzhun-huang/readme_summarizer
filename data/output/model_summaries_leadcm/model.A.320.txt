@@ -1,1 +1,1 @@
-densepose dense human pose estimation in the wild rıza alp güler natalia neverova iasonas kokkinos dense human pose estimation aims at mapping all human pixels
+deprecated the ansiblecontainer project is now officially deprecated. we will no longer be maintaining this repo or accepting any issues or pull requests. the ansiblecontainer

@@ -1,1 +1,1 @@
-from the command line verify that maven has been installed correctly mvn version aws credentials a prerequisite to running any of the test cases above is setting up aws credentials.
+momscarepythonscriptsfinalproductchanges python scripts used for wrangling vaccination coverage and park dataset 1. vaccination coverage input file code predictive analytics linear regression output csv file code output json file 2.parksupdated input csv file code reverse geocoding code ouput csv file code output json file

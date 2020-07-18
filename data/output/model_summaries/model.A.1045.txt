@@ -1,1 +1,1 @@
-the focus of this project is on demonstrating how to structure your code design your architecture and the eventual impact of adopting these patterns on testing and maintaining your app.
+react markdown peerdependency statusbadgedepspeerurldepspeer webpack loader that parses markdown files and converts them to a react stateless component.

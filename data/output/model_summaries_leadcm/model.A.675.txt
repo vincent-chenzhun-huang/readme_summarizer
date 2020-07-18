@@ -1,1 +1,1 @@
-repo for testing binder deployment w recent packages modify files in binder folder and relaunch a scalable pangeo jupyter hub with this button
+· bootpack is a boilerplate template for getting a web page set up quickly using webpack for task running and bootstrap for development. bootstrap webpack

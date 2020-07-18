@@ -1,1 +1,1 @@
-selective hierarchical interpolation for speedup the lightmapper can do several passes traversing the geometry to render to the lightmap.
+outro fator é que isto permite que não tenhase de ficar repensando constantemente ou prédiariamente nas varias coisas que restam realizar esforço continuo.

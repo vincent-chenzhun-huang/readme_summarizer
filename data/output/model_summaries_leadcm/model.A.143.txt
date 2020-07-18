@@ -1,1 +1,1 @@
-pulsinghalo pulsinghalo has been discontinued and is no longer being maintained. please check out pulsator which is the new version of this written with swift.
+aoa audio the purpose of this poc is to find a solution to forward audio in scrcpy. build install the following packages on debian sudo

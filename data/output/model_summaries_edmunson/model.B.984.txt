@@ -1,1 +1,1 @@
-researchstack researchstack is an sdk and ux framework for building research study apps on android.
+luksencryptraspbianstretch scripts to luks encrypt the root partition of a raspbian raspbian stretch luks encrypt quote mon aug 06 2018 1014 pm hello i was searching for a way to luks encrypt my root folder but all the tutorials i found were for jessie and werent very noob friendly so i decided to bundle them into a few automated scripts to make the job easier.

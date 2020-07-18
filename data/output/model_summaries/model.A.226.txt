@@ -1,1 +1,1 @@
-ann visualizer a great visualization python library used to work with keras.
+testing rspec is the testing tool of choice and you can kick off the test suite by running the following ruby versions are supported and tested against ruby 2.0 ruby 2.1 ruby 2.2 using vcr to ensure the test suite runs nice and fast we use vcr which generates our mocks but using a real request that is stored inside of .

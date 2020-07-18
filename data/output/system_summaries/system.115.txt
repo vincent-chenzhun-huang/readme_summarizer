@@ -1,1 +1,1 @@
-A command line tool to automate import/export of apps for Qlik Sense
+hotfix iOS App 

@@ -1,1 +1,1 @@
-supported channels getting started how it works messages formats getting started with sap conversational ai 💬 questions comments join the discussion on our community slack channel bot connector bot connector allows you to connect your bot to multiple messaging channels.
+create a facebook app via httpsdevelopers.facebook.comapps.

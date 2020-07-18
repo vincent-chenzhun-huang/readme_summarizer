@@ -1,1 +1,1 @@
-starter theme starter theme and slate v1 are currently in beta you should expect potentially breaking changes between updates and more bugs than a finalized
+aem project archetype this archetype creates a minimal adobe experience manager project as a starting point for your own projects. the properties that must be

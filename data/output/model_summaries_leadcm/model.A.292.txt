@@ -1,1 +1,1 @@
-perfkit benchmarker perfkit benchmarker is an open effort to define a canonical set of benchmarks to measure and compare cloud offerings. its designed to operate
+this project was bootstrapped with create react app. available scripts in the project directory you can run runs the app in the development mode. open

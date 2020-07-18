@@ -1,1 +1,1 @@
-build an alexa feed reader skill build a feed reader skill for alexa this tutorial will walk firsttime alexa skills developers through all the required
+dependentdropdown a multi level dependent dropdown jquery plugin that allows nested dependencies. the plugin allows you to convert normal select inputs whose options are derived

@@ -1,1 +1,1 @@
-loremipsum this readme is for version 2. switch to branch for the version 1 documentation. if you need compatibility with older versions of nodejs please
+this project was bootstrapped with create react app. available scripts in the project directory you can run runs the app in the development mode. open

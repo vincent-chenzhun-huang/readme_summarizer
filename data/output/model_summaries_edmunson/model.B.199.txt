@@ -1,1 +1,1 @@
-automatedrepair a collection of automated scripts for technicians to repair computers see bottom for md5 hash how to install download the whole repository as a compressed .zip file and then run deploy.bat as administrator.
+adaoja this repository contains the python code that produces all of the experimental results from the paper adaoja adaptive learning rates for streaming pca.

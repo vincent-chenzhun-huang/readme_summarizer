@@ -1,1 +1,1 @@
-google tts script for asterisk this script makes use of googles translate text to speech service in order to render text to speech and play
+build a portfolio website with all of the projects you will be working on here at lambda school you will need somewhere to house them

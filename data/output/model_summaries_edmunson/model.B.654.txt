@@ -1,1 +1,1 @@
-simple json datasource a generic backend datasource more documentation about datasource plugins can be found in the docs.
+text mining and nlp apis rxnlps text mining and nlp apis provide access to some basic and advanced text analytics functionality over the cloud.

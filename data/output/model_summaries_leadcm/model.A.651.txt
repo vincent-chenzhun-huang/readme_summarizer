@@ -1,1 +1,1 @@
-imgcolr imgcolr is a jquery plugin for grabbing the dominant color of a given images borders. you can programmably adapt the elements color on the
+smthsmthv2baselinewithmodels contains code and pretrained models to get you started with a baseline on version 2 of somethingsomething dataset paper httpsarxiv.orgabs1706.04261 data and leaderboard https20bn.comdatasetssomethingsomethingv2

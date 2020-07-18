@@ -1,1 +1,1 @@
-inferencetrainingtesting after installation please see for examples of inference and training and testing.
+original readme below ansible container ansible container is a tool for building docker images and orchestrating containers using ansible playbooks.

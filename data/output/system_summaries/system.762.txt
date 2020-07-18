@@ -1,1 +1,1 @@
-Ease access to servers offering the Open Bank Project API. OBPKit is quick to integrate into your iOS app or OSX application, and makes authorisation of sessions and marshalling of resources through the Open Bank Project API simple and easy.
+enable file downloads in background

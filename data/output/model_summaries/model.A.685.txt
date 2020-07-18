@@ -1,1 +1,1 @@
-encrypt your python project command scriptsdir is your python project root directory.
+wpcamoosms plugin camoo sms a simple and powerful texting plugin for wordpress you can add to wordpress the ability to send sms to a group to a user to a number or just to members of sms newsletter.

@@ -1,1 +1,1 @@
-well start with the place target script it turns out there are several monobehaviors built into unity that can help.
+how use after compiling this project from source there will be released in the future load an apk open up any class rightclick within a method and then click edit method java.

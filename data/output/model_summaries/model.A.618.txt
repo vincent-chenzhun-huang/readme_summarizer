@@ -1,1 +1,1 @@
-by this way you could define which standard route could be used for which module.
+it also provides the subcommand that generates an inventory file for use on your vagrant host machine.

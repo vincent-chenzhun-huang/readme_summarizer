@@ -1,1 +1,1 @@
-Server for the chat with ability to send encrypted messages and images. OS final project and concurrency exercise.
+help you get started with your IDEO interview coding task

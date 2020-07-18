@@ -1,1 +1,1 @@
-for example parameters the important sets of parameters in scdblfinder refer respectively to the expected proportion of doublets to the clustering and to the number of artificial doublets used.
+note dont set this to true with the search view in the normal position task buttons buttons can also be configured to start tasks.

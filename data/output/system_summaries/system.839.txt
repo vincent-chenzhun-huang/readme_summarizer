@@ -1,1 +1,1 @@
-An unopinionated authentication library for building Node.js APIs.
+converting geotagged photos into maps and booklets of where you ve been

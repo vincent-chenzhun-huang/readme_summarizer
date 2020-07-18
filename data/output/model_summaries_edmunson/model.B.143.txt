@@ -1,1 +1,1 @@
-pulsinghalo pulsinghalo has been discontinued and is no longer being maintained.
+aoa audio the purpose of this poc is to find a solution to forward audio in scrcpy.

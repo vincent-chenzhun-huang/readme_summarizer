@@ -1,1 +1,1 @@
-to get started check out flyve mdm table of contents synopsis build status installation code example documentation contribute contact professional services copying synopsis this library helps you to create a complete inventory of your ios devices both hardware and software informations are collected.
+openpnm depends on several other packages widely known as the scipy stack.

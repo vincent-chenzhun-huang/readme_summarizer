@@ -1,1 +1,1 @@
-the columns of the grid correspond to the datasets besides fashionmnist the rows correspond to the models in order standard vae βvaeh βvaeb factorvae βtcvae for more examples all of the plots for the predefined experiments are found in their respective directories created using .binplotall.sh.
+easygrpc a futurebased grpc api for c. this project is an attempt to create a wrapper around grpc to make writing asynchronous servers and clients as straightforward as possible.

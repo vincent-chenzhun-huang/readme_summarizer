@@ -1,1 +1,1 @@
-available operators between property and value are and .
+if you want to contribute gnarly source files which push hlsl to its limit that would be great syntax visualizer inspired by roslyn hlsl tools includes a syntax visualizer.

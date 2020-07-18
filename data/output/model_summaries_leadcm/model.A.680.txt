@@ -1,1 +1,1 @@
-hueset a node module to set phillips hue bulb parameters installation hueset can be used as a global or local package. to install it locally
+leopard 60 fps pages made easy. performant heuristic scheduler for building user interface just 4 kb gzipped. leopard eliminates jank from websites by scheduling page

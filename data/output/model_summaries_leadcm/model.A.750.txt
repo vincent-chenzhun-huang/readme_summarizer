@@ -1,1 +1,1 @@
-pleasejs www.checkman.ioplease please.js is a polite companion that wants to help you make your projects beautiful. it uses hsv color space to create random pleasing
+go language development and learning environment this is a docker container to learn and develop in go language without the need to install go in

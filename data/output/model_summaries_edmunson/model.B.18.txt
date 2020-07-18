@@ -1,1 +1,1 @@
-convolutional recurrent neural network update 20190521 i rewrite this repo base on fairseq refer to my implementation here.
+phpmysqli connector phpmysqli connector is php class to manage crud operations in mysqli using mysqli php connection.it provides basic crud operations including select insert update delete drop changedatabase.

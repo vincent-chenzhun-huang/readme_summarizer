@@ -1,1 +1,1 @@
-dynamodb update streams are always routed to the delivery stream with the same name as the base table.
+expressprometheusmetrics express middleware for collecting metrics with prometheus install usage metrics example view metrics example running prometheus grafana this step assumes you have and set up.

@@ -1,1 +1,1 @@
-recorder.js introduction recorder.js is a javascript library to simply record audio in the browser.
+ysoserial a proofofconcept tool for generating payloads that exploit unsafe java object deserialization.

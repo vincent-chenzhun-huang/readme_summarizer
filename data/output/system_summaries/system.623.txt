@@ -1,1 +1,1 @@
-Terraform Module to define a generic Bastion host with parameterized user_data
+deploy Memcached on Oracle Cloud Infrastructure OCI 

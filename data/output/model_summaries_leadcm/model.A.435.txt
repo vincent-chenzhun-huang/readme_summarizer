@@ -1,1 +1,1 @@
-heatpump arduino library to control mitsubishi heat pumps via connector cn105. quick start controlling the heat pump see heatpumptest.ino getting updates from the heat pump
+mobile buy sdk the mobile buy sdk makes it easy to create custom storefronts in your mobile app where users can buy products using google

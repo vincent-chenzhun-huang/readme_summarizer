@@ -1,1 +1,1 @@
-effective android ui sample project created to reinforce some of the main concepts described in the tech talk effective android ui. in this repository you
+bigballr is an r package for working with ncaa basketball data. this package primarily revolves around the use of schedule roster and playbyplay data via

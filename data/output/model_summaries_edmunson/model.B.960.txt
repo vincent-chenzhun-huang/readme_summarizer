@@ -1,1 +1,1 @@
-phpsmarthints note on status for this extension at the end of 2014 i was making significant progress towards phase 2 functionality outlined below.
+wso2 carbon kernel wso2 carbon redefines middleware by providing an integrated and componentized middleware platform that adapts to the specific needs of any enterprise it project on premise or in the cloud.

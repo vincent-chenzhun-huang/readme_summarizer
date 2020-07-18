@@ -1,1 +1,1 @@
-list of components used in this project component description cf. centos 7 operating system saltstack infrastructure orchestration docker container management the shell script ↴ sourceme.sh
+f prime development via vagrant vms tutorial and configuration for developing fsw projects in a vm. note this repository uses for github. if you use

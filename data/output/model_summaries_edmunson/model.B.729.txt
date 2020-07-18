@@ -1,1 +1,1 @@
-iosrestrictionscrackerlinux this program is designed to crack ios 711 restrictions passcodes as quickly as possible.
+is an ios lightweight library that can displays adverts or boardcast e.g. with an custom view.

@@ -1,1 +1,1 @@
-touchlight simple wifi touch lights that synchronize their colors from across the globe. what this is a particle project for linking wifi touch lights together
+wordpress github plugin updater this class is meant to be used with your github hosted wordpress plugins. the purpose of the class is to allow

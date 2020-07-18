@@ -1,1 +1,1 @@
-this project was bootstrapped with create react app.
+olinuxino singleboard linux computer copyright c 20122019 olimex ltd the project olinuxino is an open source software and open source hardware project aiming to produce low cost starting from eur 24 linux and android single board computers sbc in both commercial and industrial temperature range.

@@ -1,1 +1,1 @@
-awesome indie resources to help independent developers make money.
+masstextextractor library used for extracting text.

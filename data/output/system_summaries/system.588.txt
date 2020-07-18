@@ -1,1 +1,1 @@
-This is a library for adding buttons to Arduino projects. It supports events like OnPress and OnRelease.
+customize nodes in chart

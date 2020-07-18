@@ -1,1 +1,1 @@
-Mike's Powershell Profile (and how to set up Windows console if you've been using *nix for 20 years)
+the classification task of fashion article images obtained from the FashionMNIST datase

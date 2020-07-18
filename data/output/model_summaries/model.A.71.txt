@@ -1,1 +1,1 @@
-solid principles the definitive guide dependency injection and dagger basics what is dependency injection dagger 2 beginner tutorial youtube playlist one of the best tutorials explaining dependency injection and all the annotations involved with live examples from an android app from scratch.
+if you want also to fit the simulated data set then this third step is required data fit assessment standdm provides several ways to check how well data has been fitted plots for visual inspection r2 and rmse.

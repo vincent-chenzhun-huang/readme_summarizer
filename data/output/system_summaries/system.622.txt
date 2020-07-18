@@ -1,1 +1,1 @@
-Sometimes while programming in NetBeans you want to explore a particular file that you are editing on the file system browser, or maybe launch a command in a terminal to do something with it.
+check source code by explicit call plpgsqlcheckfunction 

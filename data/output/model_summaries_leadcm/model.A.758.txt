@@ -1,1 +1,1 @@
-is a small utility to track and control your ssh telnet web and custom shells and tunnels demo. installation a precompiled version is available for
+hivis hivis is a java library for importing manipulating shaping processing and otherwise working with various kinds of data. it is designed to be simple

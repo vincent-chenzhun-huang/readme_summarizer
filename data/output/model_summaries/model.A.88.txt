@@ -1,1 +1,1 @@
-redisfullcheck is used to compare whether two redis have the same data.
+by this way you could define which standard route could be used for which module.

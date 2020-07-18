@@ -1,1 +1,1 @@
-aws iot sdk for javascript the awsiotdevicesdk.js package allows developers to write javascript applications which access the aws iot platform via mqtt or mqtt over
+exqui exqui provides a ui dashboard for exq a job processing library compatible with resque sidekiq for the elixir language. exqui allow you to see

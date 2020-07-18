@@ -1,1 +1,1 @@
-multer multer is a node.js middleware for handling which is primarily used for uploading files.
+liger linked inference of genomic experimental relationships liger is a package for integrating and analyzing multiple singlecell datasets developed and maintained by the macosko lab.

@@ -1,1 +1,1 @@
-project 3 3d perception in a cluttered space udacity robotics nanodegree october 2017 overview the goal of this project is to program a pr2 to
+introduction kohas plugin system available in koha 3.12 allows for you to add additional tools and reports to koha that are specific to your library.

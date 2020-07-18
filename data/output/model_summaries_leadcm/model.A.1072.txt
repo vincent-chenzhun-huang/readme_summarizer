@@ -1,1 +1,1 @@
-services azureresourcemanager platforms python author lmazuel deploy an ssh enabled vm with a template in python this sample explains how to use azure resource manager
+fithic was initially developed by ferhat ay timothy bailey and william noble january 19th 2014. it is currently maintained and updated by ferhat ay ferhataylji.org

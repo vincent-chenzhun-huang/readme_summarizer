@@ -1,1 +1,1 @@
-Normalize GraphQL responses for persisting in the client cache/state
+your app Based on the iOS project https githubcompoolqfFillableLoaders

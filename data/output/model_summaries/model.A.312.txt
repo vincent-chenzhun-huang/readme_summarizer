@@ -1,1 +1,1 @@
-creating a token do for every user once you have a token you will be able to authenticate yourself via egnyter to allow file transfers.
+note also that the expected code coverage of ducks is 100. solving the exercise step 2 react in this step you have to create the visual components and their connections to redux create the tests to verify that everything works create the application that works in the browser.

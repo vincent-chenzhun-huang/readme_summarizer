@@ -1,1 +1,1 @@
-soundswitch offers you the opportunity to switch your playback devices andor recording devices using simple hotkeys.
+winafl background afl is a popular fuzzing tool for coverageguided fuzzing.

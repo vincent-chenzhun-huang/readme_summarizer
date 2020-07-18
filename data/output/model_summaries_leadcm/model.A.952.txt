@@ -1,1 +1,1 @@
-gwastemplateservices application to provide template related services for the deposition interface requires python 3.6 installation using docker for information on docker see docker documentation clone
+b2gttrees info filter and convert b2g edm ntuples to ttree ntuples n.b v8.0.xv3.1may10 only this is a private tag for incporporating the latest met corrections

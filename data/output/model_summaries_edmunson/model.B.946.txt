@@ -1,1 +1,1 @@
-aws cloudformation role this is an ansible role for generating cloudformation templates and deploying cloudformation stacks to amazon web services.
+asyncapi create machinereadable definitions of your messagedriven apis were on a mission to standardize messagebased communication and increase interoperability of the different systems out there.

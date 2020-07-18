@@ -1,1 +1,1 @@
-visual studio snippet converter this is a small project to convert visual studios code snippets xml .snippet files to vs code code snippets rider live templates experimental this tool is available as a .net global tool that is easily installable as a command line utility using the .net core sdk 2.1 or later.
+if the job is offlinethe seller can travelvisit to buyer location to perform his job or ask buyer for come to his location to perform that job.

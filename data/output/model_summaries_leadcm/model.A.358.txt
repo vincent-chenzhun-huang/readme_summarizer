@@ -1,1 +1,1 @@
-真香警告：即使不用饿了么订餐，也请务必收藏好该库！ here is the english guide 由来 linkagerecyclerview 是一款基于 mvp 架构开发的二级联动列表控件。它是因 “rxjava 魔法师” 这个项目的需求而存在。 在最初寻遍了 github 也没有找到合适的开源库（高度解耦、可远程依赖）之后，我决心研究参考现有开源项目关于二级联动的逻辑，并自己动手编写一个 高度解耦、轻松配置、可通过 maven 仓库远程依赖 的真正的第三方库。 linkagerecyclerview 的个性化配置十分简单，依托于 mvp 的
+content player contentplayer which is used to playrender the contents in both device and web. supported content mime types content type mime type ecml applicationvnd.ekstep.ecmlarchive

@@ -1,1 +1,1 @@
-Provides a USBTMC driver for controlling instruments over USB
+implement a classic action recognition method on UCF101 dataset

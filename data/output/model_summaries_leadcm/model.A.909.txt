@@ -1,1 +1,1 @@
-简介 jarslink 2.0 是 sofaboot 官方基于 sofaark 开发的功能插件，负责管理多应用在 sofaark 容器之上的合并部署，具备如下特性： 支持运行时动态安装和卸载应用。 支持运行时应用热替换能力，保证服务的连续性。 跨应用内部通信，支持应用发布引用 jvm 服务，跨应用既可以使用 rpc 框架，也可以走内部 jvm 服务进行通信。 支持应用健康检查。 背景 在蚂蚁金服内部，在同一个 jvm 之上部署多个应用，是一件常见的事情。这样带来的主要优势如下： 无关应用合并部署：有些应用在独立部署时，相互之间没有服务依赖，而且这些应用承担业务体量都偏小，单独启动
+bolt11 a library for encoding and decoding lightning network payment requests as defined in bolt 11. installation setup node.js examples decoding encoding minimum need and

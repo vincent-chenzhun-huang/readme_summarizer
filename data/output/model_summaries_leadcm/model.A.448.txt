@@ -1,1 +1,1 @@
-nftables overview role variables os specific variables rules dictionaries example playbook known issue configuration development license author information overview a role to manage nftables rules
+react.cordovanavigationcontroller plugin for react its manager for your pages like mobile app. i dedicate a considerable amount of my free time to developing and maintaining

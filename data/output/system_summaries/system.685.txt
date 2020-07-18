@@ -1,1 +1,1 @@
-A lightweight python code protector, makes your python project harder to reverse engineer
+send sms with a high capability 

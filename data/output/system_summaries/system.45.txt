@@ -1,1 +1,1 @@
-Help you to create a flexible image grid easily.
+dynamic columns progressive image loading device rotation onpress handlers and headerscaptions 

@@ -1,1 +1,1 @@
-sick_scan is an open-source project to support the laser scanner of the company SICK using the ROS-framework   
+see how life would be like nowadays 

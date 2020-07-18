@@ -1,1 +1,1 @@
-awesomecfp a collection of call for papers to never miss to speak anymore ðÿ—£ opened registrations cfp end cfp link location event dates 20190525 devfest
+javaautoupdate java autoupdate wrapper to automatically upgrade a java application. install on windows download zip file from httpsmvnrepo.cantara.nocontentrepositoriesreleasesnocantarajaujavaautoupdate0.10.5javaautoupdate0.10.5.zip unzip update configserviceurl in configoverridejau.properties execute downloadjava.bat.

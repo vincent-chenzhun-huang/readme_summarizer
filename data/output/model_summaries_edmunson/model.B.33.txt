@@ -1,1 +1,1 @@
-eslint website configuring rules contributing reporting bugs code of conduct twitter mailing list chat room eslint is a tool for identifying and reporting on patterns found in ecmascriptjavascript code.
+spacewhale aerialtrained deep learning networks for surveying cetaceans from satellite imagery plos one this repo houses the code and resources for this paper borowicz a le h humphries g nehls g höschle c kosarev v et al. 2019 aerialtrained deep learning networks for surveying cetaceans from satellite imagery.

@@ -1,1 +1,1 @@
-this project contains a verilator fft to screen spectrogram demonstration. to build type make in the main directory. this will build a file maintb in
+trex pam module a pam module that enables pam to authenticate a user using a gpg keypair. the module will present a challenge to the

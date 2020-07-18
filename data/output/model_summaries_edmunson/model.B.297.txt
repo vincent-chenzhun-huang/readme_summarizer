@@ -1,1 +1,1 @@
-welcome fedhipster fedhipster is a fork of jhipster with support for u.s. web design system steps to build and test locally install fedhipster as a global module using the steps httpswww.jhipster.techjhipsterurl if installed successfully you should be able to run from the command lin clone this repository change directory to the project root checkout the uwsds branch run .
+license this sample code is made available under the mit0 license.

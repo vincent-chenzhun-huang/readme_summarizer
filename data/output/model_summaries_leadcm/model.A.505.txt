@@ -1,1 +1,1 @@
-this project was bootstrapped with create react app. available scripts in the project directory you can run runs the app in the development mode. open
+microsoft restier odata made simple releases documentation odata v4.01 documentation what is restier restier is an api development framework for building standardized odata v4 based

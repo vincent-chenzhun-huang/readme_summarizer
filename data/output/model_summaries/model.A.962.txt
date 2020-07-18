@@ -1,1 +1,1 @@
-labutils utilities to aid in lab administration editing the people page on the lab website much of the html on the people page of the lab website is automatically generated so as to keep formatting consistent.
+installation nixes bsds and possibly others to install the cursor theme simply copy the compiled theme to your icons directory.

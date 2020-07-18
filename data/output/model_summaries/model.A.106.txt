@@ -1,1 +1,1 @@
-glove cove and elmo many of our models make use of glove pretrained word embeddings in particular the 300dimensional 840b version.
+if youre looking for the latest code e.g. to contribute changes the following steps needs to be taken instead of unpacking the archive clone the repository into the installation directory change modules versions in file to devmaster adjust configuration file so that sources are preferred download from start the composer installation process by running the following from the command line nb it is strongly advised to run composer as nonroot user.

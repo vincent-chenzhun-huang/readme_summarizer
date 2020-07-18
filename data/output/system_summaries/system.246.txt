@@ -1,1 +1,1 @@
-A react component to draw on canvas
+building componentbased interfaces on top of UITableView and UICollectionView 

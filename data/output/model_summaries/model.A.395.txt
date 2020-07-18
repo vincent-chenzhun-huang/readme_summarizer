@@ -1,1 +1,1 @@
-trex app config setup trex app needs even number of network interfaces inside the container.
+running example app install flutter and validate its installation with clone this repository with run the app with mapbox access token this project uses mapbox vector tiles which requires a mapbox account and a mapbox access token.

@@ -1,1 +1,1 @@
-sponsorship this framework is free and can be used for free open source and commercial applications.
+browser support object playground has been tested against the browsers listed at the top of .

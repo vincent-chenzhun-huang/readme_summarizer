@@ -1,1 +1,1 @@
-deepreinforcementlearningrecords explicitly show the relationships between various techniques of deep reinforcement learning methods.
+this project was bootstrapped with create react app.

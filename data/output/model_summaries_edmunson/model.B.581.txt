@@ -1,1 +1,1 @@
-how to stream a movie to a html 5 video tag using nodejs this is a very quick and easy article explaining how to stream movies to an html 5 video tag using nodejs.
+lxd mosaic this is an application you can use to do basic management for multiple instances of lxd why most of the other lxd managers i saw are only used to manage one lxd instance which is no good as i have many they also dont really touch on profiles or cloud config which i make heavy use of.

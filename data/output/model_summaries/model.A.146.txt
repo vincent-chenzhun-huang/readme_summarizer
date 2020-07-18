@@ -1,1 +1,1 @@
-the default compiler options are described in cmakecompileroptionselector.cmake file.
+a function used within another function can access the parent functions variables since its scope extends to its parent.

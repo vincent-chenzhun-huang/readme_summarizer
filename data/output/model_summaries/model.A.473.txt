@@ -1,1 +1,1 @@
-defaults to optional set cognitocreateunknownusers to true or false depending on if you wish local django users to be created upon successful login.
+net performance public build status internal build status publicbuildicon internalbuildicon this repo contains benchmarks used for testing the performance of all .net runtimes .net core full .net framework mono and corert.

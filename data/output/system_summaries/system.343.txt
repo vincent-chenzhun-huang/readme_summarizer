@@ -1,1 +1,1 @@
-Instructions and scripts to help you configure RStudio Server for use in CDS 101.
+help you manage your icons seamlessly

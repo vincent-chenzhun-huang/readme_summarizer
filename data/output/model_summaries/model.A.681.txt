@@ -1,1 +1,1 @@
-if everything is set up properly you can use the containers run command to try connecting to your gitlab server via ssh.
+you can configure when the alias name and its value will be displayed in the dashboard panel by changing the fields display alias display value string threshold option makes equality check to the values number threshold and date threshold options make range check with the values.

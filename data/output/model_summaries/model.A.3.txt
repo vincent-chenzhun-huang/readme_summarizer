@@ -1,1 +1,1 @@
-sideeffects to use pixi.js with expo react native you will want to import a modified version of pixi.js like so now you can create a new application the way you would on the web but be sure to pass in a .
+if the number of colors does not match the number of levels then the first and the last color from the colors array will be selected and the arcs will get colors that are interpolated between those.

@@ -1,1 +1,1 @@
-ansiblemonitoring ansible playbook to manage some monitoring tools tested on debian 9 stretch servers kibana elasticsearch rsyslog rsnapshot checkmk requirements ansible tested with ansible v2.4.0.0 howto configure the monitoring servers with this ansible playbook note in our production environment we provide elasticsearchrsyslog servers with a persistent storage device to store all we need.
+pulsatile vocoder what is the pulsatile vocoder the pulsatile vocoder ist a tool for conducting cochlear implant ci listening experiments with normal hearing subjects.

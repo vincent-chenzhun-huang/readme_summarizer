@@ -1,1 +1,1 @@
-dlib c library dlib is a modern c toolkit containing machine learning algorithms and tools for creating complex software in c to solve real world
+gitlabmirrors for docker this is samrocketmangitlabmirrors packaged inside a docker container based on alpine linux. quickstart automated builds are available from quay.io the volume serves

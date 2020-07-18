@@ -1,1 +1,1 @@
-A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
+building virtual reality experiences 

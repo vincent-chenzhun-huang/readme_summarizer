@@ -1,1 +1,1 @@
-rubeus rubeus is a c toolset for raw kerberos interaction and abuses.
+apparatus apparatus is a hybrid graphics editor programming environment for creating interactive diagrams.

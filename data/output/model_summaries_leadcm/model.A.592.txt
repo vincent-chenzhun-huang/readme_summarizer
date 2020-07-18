@@ -1,1 +1,1 @@
-cockney rhymer a script to generate cockney rhyming slangstyle phrase constructions just for fun. rhyming slang rhyming slang cockney rhyming slang most famously is a
+jekylltimeago a ruby library to compute distance of dates in words with localization support. originally built for jekyll. main features compute distance of dates in

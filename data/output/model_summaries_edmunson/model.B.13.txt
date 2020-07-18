@@ -1,1 +1,1 @@
-polystores polystores is an abstraction and a collection of clients to interact with cloud storages.
+youtubedlbatch these batch files are just made to simplify the usage of windows .exe releases of httprg3.github.ioyoutubedl source httpsgithub.comrg3youtubedl for people who want to just simply use as a tool to download highquality videos from youtube without using thirdparty services or software clients since these usually come with video quality restrictions rather than use it for development purposes.

@@ -1,1 +1,1 @@
-graal sandbox a secure sandbox for executing javascript in java apps using the graal js engine.
+spring batch spring batch is a lightweight comprehensive batch framework designed to enable the development of robust batch applications vital for the daily operations of enterprise systems.

@@ -1,1 +1,1 @@
-solutions are separated by different deep learning frameworks they use cntk both brainscript and python languages tensorflow pytorch caffe2 keras mxnet chainer theano getting started 1. prerequisites using a oneclick installer to setup deep learning frameworks has been moved to here please visit it for details.
+then we can execute it in go imported function a webassembly module can export functions this is how to run a webassembly function like we did in the previous example with .

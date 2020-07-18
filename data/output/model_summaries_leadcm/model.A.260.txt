@@ -1,1 +1,1 @@
-cnn for image classification nicholas heise may 2019 objective the objective of this task is to train a neural network to classify images of roads
+todos let it finish a dynamic private todo list app developed using react native. a simple todo list app to help you accomplish your tasks.

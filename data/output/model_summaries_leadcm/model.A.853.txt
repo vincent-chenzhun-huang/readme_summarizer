@@ -1,1 +1,1 @@
-deepreinforcementlearningrecords explicitly show the relationships between various techniques of deep reinforcement learning methods. dedicated for learning and researching on drl. policy gradient methods equivalence between
+this project was bootstrapped with create react app. available scripts in the project directory you can run runs the app in the development mode. open

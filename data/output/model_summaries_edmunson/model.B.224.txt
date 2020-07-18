@@ -1,1 +1,1 @@
-lyricstoaudioalignment this project aims at creating an automatic alignment between the textual lyrics and monophonic singing vocals audio.
+cloud foundry tomee buildpack the is a cloud foundry buildpack for running jvmbased applications.

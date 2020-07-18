@@ -1,1 +1,1 @@
-gatsbysourcegoogledocs is a gatsby plugin to use google docs as a data source. ðÿ”¥ no need for a cms anymore. ðÿ–‹ write your blog posts
+ready to use log management solution for kubernetes. efficiently store big amounts of your logs in clickhouse database process them using a simple query language

@@ -1,1 +1,1 @@
-crowdmarkdl 📝commandline program to download assignments and exam papers from crowdmark an online grading software demo pdf prerequisites python3 install dependencies pillow requests tqdm arrow
+onebox onebox is a library for turning media urls into simple html previews of the resource. onebox currently has support for page image and video

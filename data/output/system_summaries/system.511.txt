@@ -1,1 +1,1 @@
-Adviser plugin with rules to ensure the use of healthy dependencies
+deploy and update your applications — automate in a language that approaches plain English using SSH 

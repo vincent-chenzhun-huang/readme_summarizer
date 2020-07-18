@@ -1,1 +1,1 @@
-why from api 25 android added a new param for and it brought an exception.
+the phyloprofiledata package provides a collection of datasets to accompany the r package phyloprofile pakage tran et al. 2018 where they are used to illustrate how to run phyloprofile and analyse its results.

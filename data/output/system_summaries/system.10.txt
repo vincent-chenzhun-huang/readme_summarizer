@@ -1,1 +1,1 @@
-MTGATracker is a deck tracker for MTG Arena, offering an in-game overlay that shows real time info about your deck in MTGA. It can also record & analyze your past matches to show personal aggregated gameplay history information, like lifetime wins/losses 
+testing the different functionality of the technology 

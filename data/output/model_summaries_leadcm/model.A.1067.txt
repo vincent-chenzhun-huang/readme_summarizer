@@ -1,1 +1,1 @@
-mentorship system android branch travis codacy master develop mentorship system is an application that allows women in tech to mentor each other on career development
+this project provides support for using spring security with oauth 1a and oauth2. it provides features for implementing both consumers and providers of these protocols

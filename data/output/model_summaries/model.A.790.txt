@@ -1,1 +1,1 @@
-the model folder folder is used to store model configuration files such as model.yaml.
+view entire changelog tested on version moodle canvas 3.6 ✔️ 3.5 ✔️ ✔️ 3.1 ✔️ ✔️ 3.0 ✔️ ✔️ 2.5 ✔️ ✔️ previous versions are no longer officially supported table of contents introduction features installation usage tutorial documentation contributing license introduction according to the ims global learning consortium the learning tools interoperability lti protocol is an ims standard for integration of rich learning applications within educational environments.

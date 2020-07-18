@@ -1,1 +1,1 @@
-table of contents existing solutions how to create a static framework for ios overview create the static library target create the framework distribution target resources and bundles adding the framework to a thirdparty application developing the framework as a dependent project faq license existing solutions presented below are a few of the most popular solutions for building static ios frameworks and the reasons why they should be avoided.
+run .exe file to install.

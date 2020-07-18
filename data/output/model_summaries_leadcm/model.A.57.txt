@@ -1,1 +1,1 @@
-camunda bpm examples looking for the invoice example contained in the distribution you can find it here httpsgithub.comcamundacamundabpmplatformtreemasterexamplesinvoice camunda bpm examples is a collection of
+a patched hidapple kernel module update apr 2017 works on arch too for useful information on this proceed here update may 2016 dkms support added

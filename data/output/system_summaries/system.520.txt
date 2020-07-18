@@ -1,1 +1,1 @@
-A toolkit for making real world machine learning and data analysis applications in C++
+gitlab inside Docker

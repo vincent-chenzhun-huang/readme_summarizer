@@ -1,1 +1,1 @@
-Maven Plug-in to launch OSGi-Applications
+work with SAP Cloud HTML5 Applications Repository

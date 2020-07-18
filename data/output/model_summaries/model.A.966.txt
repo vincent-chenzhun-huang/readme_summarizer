@@ -1,1 +1,1 @@
-makeipinyoudata this project is to formalise the ipinyou rtb data into a standard format for further researches.
+the personal app has both a tab and a bot.

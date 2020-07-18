@@ -1,1 +1,1 @@
-overview 3d tiles is an open specification for sharing visualizing fusing and interacting with massive heterogenous 3d geospatial content across desktop web and mobile applications.
+documentation and official builds the latest stable binaries are available for download.

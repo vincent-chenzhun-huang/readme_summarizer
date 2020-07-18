@@ -1,1 +1,1 @@
-by default a scope and a scope per locale is created locale scopes inherits values of the default scope.
+gatsby static site generator netlify cms for content management see also netlify cms docs netlify cms repo get going hit the deploy to netlify button.

@@ -1,1 +1,1 @@
-artisanhash adds artisan tasks to laravel to work with password hashes from the cli. installation usage bugs suggestions and contributions copyright and license installation first
+hdinsightstormexamples this repository contains complete and easy to use examples that demonstrate the power of apache storm on microsoft azure hdinsight. the .net examples are

@@ -1,1 +1,1 @@
-if you want to use existing certificates you can adapt the following variables to the correct locations for your setup to download the certificate files together with configuration to use in your taskwarrior then you can set in your file and taskwarrior should be ready to sync with taskserver.
+separators and precision specify custom decimal and thousand separators specify a specific precision currency optionally set a currency symbol as a prefix or suffix negative signs come before the prefix all other attributes are applied to the input element.

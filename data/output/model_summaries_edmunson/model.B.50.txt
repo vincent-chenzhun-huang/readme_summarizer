@@ -1,1 +1,1 @@
-gcpvgwpanos configure ikeipsec bgp for panos and connect to gcp vpn gateway brief description this skillet will configure ikeipsec parameters and bgp in order to connect panos to gcp vpn gateway.
+yui 3 the yahoo user interface library yui is a free open source javascript and css framework for building richly interactive web applications.

@@ -1,1 +1,1 @@
-appstreamglib this library provides gobjects and helper methods to make it easy to read and write appstream metadata.
+trimesh is a pure python 2.7 3.3 library for loading and using triangular meshes with an emphasis on watertight surfaces.

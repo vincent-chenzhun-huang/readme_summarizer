@@ -1,1 +1,1 @@
-laravellaradockphpstorm note this project has been deprecated. i am refactoring these docs into a phpstorm debugging guide which is currently a pull request. wiring up
+ubuntu server setup software installed apache2 pythondev modwsgi pip python3 psycopg2 postgresql git flask 3rd party resources httpswww.codementor.iodevopstutorialgettingstartedpostgresqlservermacosx httpswww.digitalocean.comcommunitytutorialshowtodeployaflaskapplicationonanubuntuvps httpsaskubuntu.comquestions138423howdoichangemytimezonetoutcgmt configurations made updateupgrade sudo aptget

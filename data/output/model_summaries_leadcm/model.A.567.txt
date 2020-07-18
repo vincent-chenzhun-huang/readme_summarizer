@@ -1,1 +1,1 @@
-metroframework winforms on steroids. brings the new modern ui alias metro ui of windows 8 to .net windows forms applications. install via nuget installpackage metromodernui
+footable v3 this is a complete rewrite of the plugin. there is no upgrade path from v2 to v3 at present as the options and

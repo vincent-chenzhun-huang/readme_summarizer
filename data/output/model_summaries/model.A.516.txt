@@ -1,1 +1,1 @@
-we write these labs for display within the cisco devnet learning labs system.
+the nonstd parameter of fromaddress when set to true will turn on support for the basic icap format generating an invalid iban but encoding the entire 160 bits of a puffscoin wallet address.

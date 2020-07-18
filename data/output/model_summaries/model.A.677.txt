@@ -1,1 +1,1 @@
-for more details about how to install this sdk into an existing project or how to download a preconfigured seed project see table of contents documentation installation getting started contributing support feedback vulnerability reporting what is auth0 license documentation documentation basic php application quickstart php api quickstart installation we recommend installing the sdk with composer more details on this process as well as a manual option can be found on the main documentation page.
+any model can be used as 1st level model or 2nd level model.

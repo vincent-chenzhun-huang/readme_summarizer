@@ -1,1 +1,1 @@
-preside cookie consent extension extension to add functionality for displaying a cookie consent notification to site visitors. installation install the extension to your application via
+sparkrtutorials description code snippets and tutorials for working with sparkr. spark social science manual the tutorials included in this repository are geared towards social scientists

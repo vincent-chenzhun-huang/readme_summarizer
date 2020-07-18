@@ -1,1 +1,1 @@
-datasciencebowl2018 find the nuclei in divergent images to advance medical discovery spot nuclei. speed cures. imagine speeding up research for almost every disease from lung
+show control and tell this repository contains the reference code for the paper show control and tell a framework for generating controllable and grounded captions

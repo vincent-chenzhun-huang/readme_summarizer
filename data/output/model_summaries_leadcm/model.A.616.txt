@@ -1,1 +1,1 @@
-codenav visual studio extension to show the code structure of your current document features quickly see all the important methods and properties in your document.
+travis says this is a ruby on rails app made by the rubymonstas a railsgirls study group based in berlin to make diversifying conferences easier.

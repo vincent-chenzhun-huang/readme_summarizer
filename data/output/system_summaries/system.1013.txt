@@ -1,1 +1,1 @@
-dockerfile to run mkdocs build command
+tackle sequence labeling tasks such as POS Tagging Chunking NER Punctuation Restoration and etc 

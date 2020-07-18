@@ -1,1 +1,1 @@
-Ansible role to manage Nftables rules and packages.
+manage your pages history in the app and change pages with animation 

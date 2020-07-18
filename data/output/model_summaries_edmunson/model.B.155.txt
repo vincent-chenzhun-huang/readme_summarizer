@@ -1,1 +1,1 @@
-lowlevel programming university what is it what is the low level theory languages assembly c language applications hardware firmware linux kernel and device driver follow carefully references other applications future of lowlevel programming how to start translation who am i lowlevel programming university what is it im inspired by googleinterviewuniversity.
+fluentpluginsplunkhec fluentd output plugin to send events and metrics to splunk over the hec http event collector api.

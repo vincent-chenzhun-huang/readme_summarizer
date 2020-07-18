@@ -1,1 +1,1 @@
-Customizable Bootloader for STM32 microcontrollers. This example demonstrates how to perform in-application-programming of a firmware located on an external SD card with FAT32 file system.
+ORM but not fully featured

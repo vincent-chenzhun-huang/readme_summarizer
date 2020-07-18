@@ -1,1 +1,1 @@
-gerrychaintemplates this repo provides an evolving set of instructional guides for using the gerrychain package for generating dual graph partitions.
+essentialbooks this repository contains books from different topics and perfect enough to give developers a boost in understanding the concepts of data science and artificial intelligenceother topics are also included but main highlights are these two.

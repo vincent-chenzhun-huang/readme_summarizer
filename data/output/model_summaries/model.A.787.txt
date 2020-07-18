@@ -1,1 +1,1 @@
-this defaults to 200. defines the color of the progress arc.
+because the browser already hosts its own shadow dom for those elements.

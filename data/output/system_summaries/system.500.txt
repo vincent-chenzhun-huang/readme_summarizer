@@ -1,1 +1,1 @@
-Generative Adversarial Text to Image Synthesis / Please Star -->
+use laravel pusher vuetify json web token Restful API on this single page app 

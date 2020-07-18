@@ -1,1 +1,1 @@
-telemanom branch info for use with data containing labeled anomalies and recreating kdd paper experiments for use with unlabeled data a set of timeseries streams
+glut.ts glust.ts is a reactive data streaming distribution realtime app framework for modern clientserver architectures based on rxjs. its suited for streaming data and entities

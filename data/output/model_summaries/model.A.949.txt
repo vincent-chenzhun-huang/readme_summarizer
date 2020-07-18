@@ -1,1 +1,1 @@
-you use cloudflarescrape exactly the same way you use requests.
+extract the sdk source files you will need to visit the openui5 releases page to download the current version of the sdk.

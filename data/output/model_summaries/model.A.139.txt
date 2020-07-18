@@ -1,1 +1,1 @@
-gatsbypluginpreconnect quickly add a tag for every specified domain.
+stages instruction allows to set up stages of the train process where for each stage it is possible to set some specific training options like the number of epochs learning rate loss callbacks etc.

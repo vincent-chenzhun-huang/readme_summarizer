@@ -1,1 +1,1 @@
-A python library for visualizing Artificial Neural Networks (ANN)
+interacting with the Envato API

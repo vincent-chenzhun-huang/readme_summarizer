@@ -1,1 +1,1 @@
-A parser for parsing .ipa or .apk files.
+store small sensitive bits of data securely 

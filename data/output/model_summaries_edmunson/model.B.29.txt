@@ -1,1 +1,1 @@
-f language design rfcs rfcs requests for comments and docs related to the f language design process.
+tjbotplayground swift playground for interacting with tjbot 🤖 interact with tjbot from your ipad in this swift playground book this project showcases how swift can be used to interact with iot devices such as tjbot.

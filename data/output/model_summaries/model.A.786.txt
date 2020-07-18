@@ -1,1 +1,1 @@
-please see license file for more information.
+getting started rolecommand includecommonincludesgitclone.adoc for this guide use zipkin as your distributed tracing system.

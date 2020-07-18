@@ -1,1 +1,1 @@
-wordpress modular plugin core of wordpress modular plugin or wpm. requirements this is a composer library and you need to include it into a plugin
+script tracker the goal of this tool is to expose the scripts of a binary stack in a fashion that allows them to be tracked

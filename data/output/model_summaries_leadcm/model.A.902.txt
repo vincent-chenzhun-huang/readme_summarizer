@@ -1,1 +1,1 @@
-do you have jki state machine questions ideas or challenges youd like discuss join the conversation happening in the jki state machine community forum. the
+pocketflow pocketflow is an opensource framework for compressing and accelerating deep learning models with minimal human effort. deep learning is widely used in various areas

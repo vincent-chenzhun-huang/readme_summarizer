@@ -1,1 +1,1 @@
-grafana sdk sdk for go language offers a library for interacting with grafana server from go applications.
+build an alexa gamebook skill this alexa sample skill is a template for a basic gamebook skill.

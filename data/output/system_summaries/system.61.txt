@@ -1,1 +1,1 @@
-A web-friendly way for anyone to build unusual displays
+making animated tutorials inside your app

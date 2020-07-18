@@ -1,1 +1,1 @@
-general rebar community resources and links rebar mailing list rebar on irc.freenode.net issues documentation to contribute to rebar3 please refer to contributing.
+input good execution output sortmerna the folder contains many different types of file.

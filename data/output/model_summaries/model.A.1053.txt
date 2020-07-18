@@ -1,1 +1,1 @@
-create markdown files named 1.md 2.md and so on refer to those files in the folder json file.
+installing using ansible galaxy to set this role up as an ansible galaxy requirement first create a file in a subfolder called and add an entry for this role.

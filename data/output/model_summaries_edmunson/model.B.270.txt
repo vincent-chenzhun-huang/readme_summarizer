@@ -1,1 +1,1 @@
-mailgun with go go library for interacting with the mailgun api.
+openssh server this role configures the openssh daemon.

@@ -1,1 +1,1 @@
-anki progress stats this is a plugin for anki that adds the following graphs. you can find it listed under anki addons here. graphs learned
+selenium automation bundle selenium automation bundle is a seed project for quality assurance engineers to help them start designing writing and running automated datadriven tests

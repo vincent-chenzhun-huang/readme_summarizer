@@ -1,1 +1,1 @@
-cakephp shopify plugin this is a plugin that allows you to authenticate and make api calls with shopify.
+awsvgwpanos configure ikeipsec bgp for panos and connect to aws virtual private gateway brief description this skillet will configure ikeipsec parameters and bgp in order to connect panos to aws vpn gateway.

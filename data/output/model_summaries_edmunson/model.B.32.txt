@@ -1,1 +1,1 @@
-webchat a simple webchat widget to connect with a chatbot.
+key transparency key transparency provides a lookup service for generic records and a public tamperproof audit log of all record changes.

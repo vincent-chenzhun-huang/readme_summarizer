@@ -1,1 +1,1 @@
-Official Swift SDK for Filestack - API and content management system that makes it easy to add powerful file uploading and transformation capabilities to any web or mobile application.
+produce complex multiline console output in javascript 

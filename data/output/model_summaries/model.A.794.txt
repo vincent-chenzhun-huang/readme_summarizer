@@ -1,1 +1,1 @@
-you can set sliding length acording to you 4.animation are already in diffrent thread so you dont have to add threads ...just simply add a single line of code and animation is done d how to import this library in your android studio project step1 click on first gradle file build.gradle highlighted in yellow.
+installation methods chef cookbook package managers docker unavailable manuel instructions manuel instructions install dependencies for cesi api install cesi install cesi as a service running cesi with uwsgi you may want to run cesi using uwsgi or any other wsgi deamon.

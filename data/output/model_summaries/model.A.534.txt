@@ -1,1 +1,1 @@
-cd homeuserantergosisoconfigsantergos check text configuration file config with your favourite text editor build the iso sudo .build.sh build if you want to try to build the iso again please remember to clean all generated files first sudo .build.sh clean
+this is required to support parsing data from prime soundcloud and youtube music as simple get requests will not do.

@@ -1,1 +1,1 @@
-to do so run the command from within the repositorys root directory docker run rm p 88888888 v pwdnotebookshomejovyannotebooks mtsw3elatest requirements if you just to run the sample code on your own machine outside of any docker container you will need to install all the requirements yourself.
+the plugin adds support for kubernetes applications as well as support for various google cloud platform products.

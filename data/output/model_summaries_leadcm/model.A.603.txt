@@ -1,1 +1,1 @@
-contactsservice a flutter plugin to access and manage the devices contacts. usage to use this plugin add as a dependency in your file. for example
+libubsub libubsub provides a common set of functionality to connect and consume ubsubs api and pubsub events. its primary goals are to simplify making api

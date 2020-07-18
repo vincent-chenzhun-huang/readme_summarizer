@@ -1,1 +1,1 @@
-power bi theme templates snippets for assembling power bi themes get them here or view the visual list below are you working with themes in
+how to use the module deploys and aks cluster using advanced networking azure cni with custom vnet and deploys using helm nginxingress and certmanager to

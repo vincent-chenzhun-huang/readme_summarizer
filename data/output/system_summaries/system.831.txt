@@ -1,1 +1,1 @@
-Use supervised learning to illuminate the latent space of GAN for controlled generation and edit
+support STM32 boards on Arduino IDE 18x including LeafLabs Maple and other generic STM32F103 boards

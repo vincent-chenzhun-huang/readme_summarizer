@@ -1,1 +1,1 @@
-rspec mocks rspecmocks is a testdouble framework for rspec with support for method stubs fakes and message expectations on generated testdoubles and real objects alike.
+referencepl referencepl to repozytorium polskiej dokumentacji języka programowania arduino. wszystkie pliki niniejszej dokumentacji są w formacie asciidoc. dziękujemy że poświęcasz czas na pracę przy zawartości

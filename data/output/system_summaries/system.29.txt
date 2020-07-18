@@ -1,1 +1,1 @@
-RFCs and docs related to the F# language design process, see https://github.com/fsharp/fslang-suggestions to submit ideas 
+interacting with TJBot

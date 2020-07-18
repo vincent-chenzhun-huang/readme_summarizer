@@ -1,1 +1,1 @@
-ansibleex407 some notes to help prepare for the ex407 exam ansibleex407 introduction chapters in this repo 0. setup vagrant 1. core components 99. further reading
+amber maestro proteinlipid tutorial this tutorial has been updated for amber 16 and maestro 2016.1 this tutorial provides a stepbystep protocol to build proteinlipid systems

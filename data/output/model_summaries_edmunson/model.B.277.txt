@@ -1,1 +1,1 @@
-a neural algorithm of artistic style a neural algorithm of artistic style gatys et al. 2015 is the source to this project idea.
+javascript cookie a simple lightweight javascript api for handling cookies works in all browsers accepts any character heavily tested no dependency unobtrusive json support supports amdcommonjs rfc 6265 compliant useful wiki enable custom encodingdecoding 900 bytes gzipped if youre viewing this at httpsgithub.comjscookiejscookie youre reading the documentation for the master branch.

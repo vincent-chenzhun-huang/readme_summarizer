@@ -1,1 +1,1 @@
-the value will be the new list value after drop.
+clangmetatoolpropagationconstantpropagator and clangmetatoolpropagationpropagationvisitor these two classes provide the boilerplate to create infrastructure to propagate constants of arbitrary types through the control flow graph of the program in such a way that anywhere the constant value of a variable would be deterministic one may query its value at that point.

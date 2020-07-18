@@ -1,1 +1,1 @@
-cypressskipandonlyui clientside buttons to run a single test or skip it for cypress test runner install and use require from your require and register task
+scroll django cheat sheet a cheatsheet for creating web apps with the django framework using the python language. most of the summaries and examples are

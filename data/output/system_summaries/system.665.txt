@@ -1,1 +1,1 @@
-Terraform config to launch Rancher 2
+be expendend from within the package or from another package Please read more about it further down 

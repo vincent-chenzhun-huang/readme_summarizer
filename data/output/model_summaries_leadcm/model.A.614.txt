@@ -1,1 +1,1 @@
-analytic hierarchy process solver the analytic hierarchy process ahp is a structured technique for organizing and analyzing complex decisions based on mathematics and psychology. it
+this project was bootstrapped with create react app. available scripts in the project directory you can run runs the app in the development mode. open

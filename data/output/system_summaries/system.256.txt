@@ -1,1 +1,1 @@
-Easy to use & Ready to Go Fully Customizable Awesome Card Collection for React Native.
+use sockets on Apple platforms

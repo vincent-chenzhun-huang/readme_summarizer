@@ -1,1 +1,1 @@
-userscript show current site all userjs，the easier way to install userjs for tampermonkey.
+messenger.default.registercontext token global message broadcast carry data to receiver java messenger.getdefault.senddata token context token data.class type of deliver data.

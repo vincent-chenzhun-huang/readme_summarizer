@@ -1,1 +1,1 @@
-if you support multiple url schemes in your app you can register routes specific to those schemes as follows an incoming url of schemeonetimeline objc matches the url.
+all in all the web server offers a web gui allowing you to print your labels at labeldesigner an api at apiprinttexttextyourtextfontsize100fontfamilyminion20pro2020semibold20 to print a label containing your text with the specified font properties.

@@ -1,1 +1,1 @@
-aws samserverless application model python lambda api application this is the code for the serverless backend i have created for my project on aws lambda aws konsole.
+when running binnavi simply configure the right path for ida click on the install plugin button if necessary you should now be able to import disassemblies.

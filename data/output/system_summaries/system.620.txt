@@ -1,1 +1,1 @@
-An plugin for ACT (Advanced Combat Tracker) to parse combat log file from Neverwinter by Perfect World
+improve the performance in your NVIDIA Jetson Nano Xavier TX2i TX2 TX1 TK1 

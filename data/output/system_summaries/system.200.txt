@@ -1,1 +1,1 @@
-Rust library for working with Google Bigtable Data API
+use with the Hedera public network

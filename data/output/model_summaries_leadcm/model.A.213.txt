@@ -1,1 +1,1 @@
-asciidoctor gradle plugin andres almiray version 2.2.0 versionpublished 2.2.0 asciidocurl httpasciidoc.org asciidoctorurl httpasciidoctor.org issues httpsgithub.comasciidoctorasciidoctormavenpluginissues gradleurl httpgradle.org asciidoctormavenplugin httpsgithub.comasciidoctorasciidoctormavenplugin kotlindsl httpsgithub.comgradlekotlindslgradle kotlin dsl lightguard httpsgithub.comlightguard
+overview exchangesharp is a c console app and framework for trading and communicating with various exchange api end points for cryptocurrency assets. many exchanges are

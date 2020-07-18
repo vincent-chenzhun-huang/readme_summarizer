@@ -1,1 +1,1 @@
-A module to provide SQS message handling for SilverStripe
+an ebextensions file

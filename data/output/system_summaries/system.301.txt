@@ -1,1 +1,1 @@
-.NET Core class library for using PGP
+search and book lodging filtered by location dates type and price 

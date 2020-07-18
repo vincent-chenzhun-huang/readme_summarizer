@@ -1,1 +1,1 @@
-A plugin for Anki that adds progress stats for learned and matured cards
+help focus on writing tests with Selenide and TestNG using the best test design patterns 

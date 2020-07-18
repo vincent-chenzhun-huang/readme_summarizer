@@ -1,1 +1,1 @@
-Aligns text (lyrics) with monophonic singing voice (audio). The algorithm uses structural segmentation to segment the audio into structures and then uses hidden markov models to obtain alignment within segments. The final alignment is concatenation of tim
+running Java applications using TomEE

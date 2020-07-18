@@ -1,1 +1,1 @@
-falldetectionwithcnnsandopticalflow this repository contains the code for our paper if you find the code useful for your research please cite our paper updates 4119 a
+page contents introduction features contributing synopsis version downloading and installing installing using homebrew on mac install uninstall installing the debian package on ubuntudebianraspberry pi inspect

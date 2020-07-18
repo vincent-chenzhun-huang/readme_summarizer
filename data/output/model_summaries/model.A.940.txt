@@ -1,1 +1,1 @@
-panelslidelistener has a new format multiple of them can be set now fixed the settouchenabled bug 3.2.1 add support for umanoscrollinterpolator add support for percentagebased sliding panel height using layoutweight attribute add scrollableviewhelper to allow users extend support for new types of scrollable views.
+a block can be the full page or you can create as many blocks as you want to build the page.

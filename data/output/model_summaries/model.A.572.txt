@@ -1,1 +1,1 @@
-contributions thanks to aerisam for his help understanding the animation data.
+redistributions in binary form must reproduce the above copyright notice this list of conditions and the following disclaimer in the documentation andor other materials provided with the distribution.

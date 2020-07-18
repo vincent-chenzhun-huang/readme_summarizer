@@ -1,1 +1,1 @@
-kashgari simple and powerful nlp framework build your stateofart model in 5 minutes for named entity recognition ner partofspeech tagging pos and text classification tasks.
+visual odometry with the zed stereo camera this tutorial briefly describes the zed stereo camera and the concept of visual odometry. it also provides a

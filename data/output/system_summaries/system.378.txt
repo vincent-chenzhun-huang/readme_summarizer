@@ -1,1 +1,1 @@
-Sinatra app that uses markov chains to give you new dad jokes
+be used with Razor Components 

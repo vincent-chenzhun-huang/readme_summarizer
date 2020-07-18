@@ -1,1 +1,1 @@
-groovy koans project the groovy koans project is a collection of small exercises in the form of unit tests designed to get java developers up
+redeo the highperformance swiss army knife for building redisprotocol compatible serversservices. parts this repository is organised into multiple components root package contains the framework for

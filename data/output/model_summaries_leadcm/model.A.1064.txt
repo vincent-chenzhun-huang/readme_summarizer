@@ -1,1 +1,1 @@
-note this repo is currently looking for maintainers httpsgithub.comjquerybackstretchjquerybackstretchissues464 backstretch backstretch is a simple jquery plugin that allows you to add a dynamicallyresized slideshowcapable background
+priority kafka client kafka client that allows records to produce to and consume from kafka on configured priority levels releases release date description version 1.0.0

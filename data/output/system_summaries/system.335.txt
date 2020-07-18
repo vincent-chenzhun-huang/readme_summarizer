@@ -1,1 +1,1 @@
-How to create a challenge on EvalAI?
+start Spotify playback on an idle chromecast device

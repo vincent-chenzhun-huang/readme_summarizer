@@ -1,1 +1,1 @@
-this project was bootstrapped with create react app. available scripts in the project directory you can run runs the app in the development mode. open
+ingressconsulregister a tool to register the hostnames that are specified as rules in an ingress resource with the ingress controller in consul. description typically ingress

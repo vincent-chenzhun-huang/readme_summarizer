@@ -1,1 +1,1 @@
-leaflet.distortableimage a leaflet extension to distort images rubbersheeting for the mapknitter.org src image georectification service by public lab.
+pixitween pixitween is a plugin for pixi.js v3.0.8 or higher to create tween animations.

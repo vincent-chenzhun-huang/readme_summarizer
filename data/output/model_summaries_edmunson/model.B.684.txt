@@ -1,1 +1,1 @@
-scaffold this readme is for macos only.
+tbicontransitionkit tbicontransitionkit is an easy to use icon transition kit that allows to smoothly change from one shape to another.

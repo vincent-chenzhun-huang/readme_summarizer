@@ -1,1 +1,1 @@
-vision api teleporthq vision api is a computer vision api specifically trained for detecting atomic ui elements in pictures of handdrawn wireframes as seen in
+algos collection of different algorithms used for programming competitions like acm icpc. algorithms are divided by topic. most algorithms are runnable from the file as

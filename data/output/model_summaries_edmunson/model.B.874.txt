@@ -1,1 +1,1 @@
-wordpress modular plugin core of wordpress modular plugin or wpm.
+script tracker the goal of this tool is to expose the scripts of a binary stack in a fashion that allows them to be tracked via a version control system like github.

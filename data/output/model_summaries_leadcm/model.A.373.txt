@@ -1,1 +1,1 @@
-trooba truba means pipe in russian and it is not a pipe. what is it trooba a fast isomorphic lightweight pipeline framework from ebay. trooba
+easyddns an easy to use esp8266 ddns update client library. this library is created to update your ddns domains with your esp8266 or esp32. the

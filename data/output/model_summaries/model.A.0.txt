@@ -1,1 +1,1 @@
-ai magazine 2008. other useful datasets link citation dataset httpslinqs.soe.ucsc.edudata heteregeneous graph datasets imdb datasets movielens latest dataset which consists of 33000 movies.
+the methods of using ezdvpp apis are as follows image format conversion convert yuv data streams obtained by the camera into jpg data streams.

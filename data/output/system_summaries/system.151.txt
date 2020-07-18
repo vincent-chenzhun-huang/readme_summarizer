@@ -1,1 +1,1 @@
-Simple UI tool to build custom machine learning models.
+manage database creation and version management using an application s raw asset files

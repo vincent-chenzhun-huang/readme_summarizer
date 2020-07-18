@@ -1,1 +1,1 @@
-your app is ready to be deployed see the section about deployment for more information.
+people keep comparing olinuxino with raspberry pi and beaglebone project so we would like to state some of the differences here although the projects are similar there are different goals and implementations olinuxino is completely open source including hardware and software this means you have access to all cad files and sources and you can reuse them for your own personal or commercial project.

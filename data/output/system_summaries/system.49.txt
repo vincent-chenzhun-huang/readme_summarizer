@@ -1,1 +1,1 @@
-iOS utility class to manage global dispatch queue.
+use the latest tarball on my website The github code may include code changes that have not been tested as thoroughly and will not necessarily repr

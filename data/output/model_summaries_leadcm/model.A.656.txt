@@ -1,1 +1,1 @@
-terraformazurermvm deploys 1 virtual machines to your provided vnet this terraform module deploys virtual machines in azure with the following characteristics ability to specify a
+nocoin adblock list this is an adblock list to block browserbased crypto mining. currently there are a few websites added into the lists. if you

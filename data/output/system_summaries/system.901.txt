@@ -1,1 +1,1 @@
-A simple way to make functionnal tests using ghenkins and puppeteer
+drive smoothly in minutes

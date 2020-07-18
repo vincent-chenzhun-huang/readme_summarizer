@@ -1,1 +1,1 @@
-an ongoing project for benchmarking different python approaches ideally one per day i would be happy to hear your comments and suggestions.
+hakchi2 this is a gui for hakchi by madmonkey.

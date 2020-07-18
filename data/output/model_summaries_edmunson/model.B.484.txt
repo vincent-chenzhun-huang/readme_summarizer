@@ -1,1 +1,1 @@
-this project contains a verilator fft to screen spectrogram demonstration.
+trex pam module a pam module that enables pam to authenticate a user using a gpg keypair.

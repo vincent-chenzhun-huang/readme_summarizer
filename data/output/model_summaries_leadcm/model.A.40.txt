@@ -1,1 +1,1 @@
-exqui exqui provides a ui dashboard for exq a job processing library compatible with resque sidekiq for the elixir language. exqui allow you to see
+dapperextensions dapper httpsgithub.comstackexchangedapper dapperextensions download httpsgithub.comznyetdapperextensionsreleases open source and zero config simple curd 1、idbconnection 2、table class 2、ready to fly all the method has async extensions

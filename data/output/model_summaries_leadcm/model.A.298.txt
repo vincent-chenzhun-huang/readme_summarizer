@@ -1,1 +1,1 @@
-deduplicator i. documentation project description design and implement an efficient data storage locker that utilizes deduplication. the locker should be able to accept files and
+piripiri is a browser orchestration to enable decentralized browser applications tests. ah and it is hot why does it exist there are a panoply of

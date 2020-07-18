@@ -1,1 +1,1 @@
-poseidon poseidon is a platform to build api applications that have to aggregate data from distributed services in an efficient way.
+jingo this package provides the ability to encode golang structs to a buffer as json.

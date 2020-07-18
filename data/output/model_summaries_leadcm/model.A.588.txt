@@ -1,1 +1,1 @@
-this is an example c library for arduino 0018 by carlyn maw installation to install this library just place this entire folder as a subfolder
+vueorgchart a vue component that wraps orgchart.js and supports scoped slots to customize nodes in chart. support and ajax support are dropped since now you

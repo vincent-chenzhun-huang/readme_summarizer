@@ -1,1 +1,1 @@
-backport a simple cli tool that automates the process of backporting commits what is backporting backporting is the action of taking parts from a newer version of a software system .. and porting them to an older version of the same software.
+the package allows you to query for crude realtime air quality data validated data or manually collected data.

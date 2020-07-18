@@ -1,1 +1,1 @@
-deterministic deployment proxy this is a proxy contract that can be deployed to any chain at the same address and can then in turn deploy any contract at a deterministic location using create2.
+midway midway is a node.js web framework written by typescript which uses the ioc injection mechanism to decouple the business logic of the application and make the development of large node.js application easier and more natural.

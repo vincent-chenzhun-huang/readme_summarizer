@@ -1,1 +1,1 @@
-for the product images i decided to create a new component productimage an idea i got from reviewing the code of triciacodes.
+growthcurve analysis of biological growth the growthcurve package provides tools for analyzing biological growth or growth curves in r. it is designed to integrate into modern workflows based around tidy data allowing it to be used in conjunction with other tools.

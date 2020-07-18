@@ -1,1 +1,1 @@
-siddhi map text the siddhimaptext extension is an extension to siddhi that converts text messages tofrom siddhi events.
+you may even specify a different version of php if your system has various installations of php.

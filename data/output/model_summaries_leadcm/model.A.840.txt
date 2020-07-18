@@ -1,1 +1,1 @@
-starter theme starter theme and slate v1 are currently in beta you should expect potentially breaking changes between updates and more bugs than a finalized
+misultin development has been discontinued. there currently are three main webserver libraries which basically do similar things mochiweb cowboy misultin mochiweb has been around the

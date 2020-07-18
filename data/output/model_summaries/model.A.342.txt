@@ -1,1 +1,1 @@
-otherwise a new key will be generated.
+npm run dbcreate creates the database.

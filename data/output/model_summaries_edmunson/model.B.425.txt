@@ -1,1 +1,1 @@
-redmine time logger plugin for redmine latest tested version of redmine is 3.4.5 time logger is a redmine plugin to ease time tracking when working on an issue.
+rscustomtabbarcontroller this is super flexible custom tab bar controller implementation.

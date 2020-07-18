@@ -1,1 +1,1 @@
-hayasaka suite of discord bots. hayasaka takes song suggestions and adds them to google sheet. other features tbd. manager manages redeployment of bots when code
+gatsbyremarkchecklinks a gatbsy remark plugin that detects broken links to pages and headings among your websites markdown pages. this is useful if your page slugs

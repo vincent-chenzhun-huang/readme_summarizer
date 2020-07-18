@@ -1,1 +1,1 @@
-moneybalance an androidbased calculator for tracking and balancing group expenses. use case youre travelling with friends and as usual there are many bills to pay
+exopite high performance multipurpose wordpress theme author joe szalai version 20190524 theme url httpswww.joeszalai.orgexopite demo url httpswww.joeszalai.orgexopite theme github url httpsgithub.comjoeszexopitemultipurposewordpresstheme author url httpswww.joeszalai.org license

@@ -1,1 +1,1 @@
-How to write Pythonic Filesystems in Userspace (FUSE) in 2019
+storing and retrieving secrets from StoredSafe when using ansiblevault

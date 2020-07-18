@@ -1,1 +1,1 @@
-*UNMAINTAINED* JavaScript library to record audio in browsers  as used in the SoundCloud Javascript SDK.
+generating payloads that exploit unsafe Java object deserialization 

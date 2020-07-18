@@ -1,1 +1,1 @@
-the car doesnt spend more than a 3 second length out side the lane lanes during changing lanes and every other time the car stays inside one of the 3 lanes on the right hand side of the road.
+it then uses those 4 servers to send 10000 requests 250 at a time to attack ournewwebbyhotness.com.

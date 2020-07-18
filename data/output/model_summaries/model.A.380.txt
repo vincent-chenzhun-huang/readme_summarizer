@@ -1,1 +1,1 @@
-returns type void setloopingvalue boolean void sets the looping of the animation.
+jquery textfill this jquery plugin resizes text to make it fit into a container.

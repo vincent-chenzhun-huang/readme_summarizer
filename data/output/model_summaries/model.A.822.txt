@@ -1,1 +1,1 @@
-idempotency with nginx 1.15.0 and later by default this module might configure the deprecated ssl on directive.
+raspberry pi installation requirements raspberry pi 3 rasbian stretch image on 16gb sd card 8gb too small internet access on the raspi pip python raspi camera v2 a button led 220 ohm resistor and breadboard optional thermal printer to suit a raspi 3. i used this printer here.

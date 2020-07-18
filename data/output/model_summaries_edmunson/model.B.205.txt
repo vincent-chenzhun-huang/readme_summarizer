@@ -1,1 +1,1 @@
-python prompt toolkit build status appveyor pypi rtd license codecov .. image httpsgithub.comprompttoolkitpythonprompttoolkitrawmasterdocsimageslogo400px.png prompttoolkit is a library for building powerful interactive command line applications in python.
+openshot video editor is an awardwinning free and opensource video editor for linux mac and windows and is dedicated to delivering high quality video editing and animation solutions to the world.

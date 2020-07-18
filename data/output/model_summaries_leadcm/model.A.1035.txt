@@ -1,1 +1,1 @@
-a boilerplate for scalable crossplatform desktop apps based on electron react redux react router webpack and react hot loader for rapid application development hmr. install
+loggy an opinionated library for developing and testing rust applications that use logging. this is inspired by simplelogging implementation with additional features focusing on development

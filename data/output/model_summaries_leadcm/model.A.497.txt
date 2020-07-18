@@ -1,1 +1,1 @@
-ibm watson ruby sdk ruby gem to quickly get started with the various ibm watson services. table of contents before you begin installation examples running
+yubiswitch overview is an osx status bar application to enabledisable a yubikey nano or neo from yubico. yubico is the producer of the yubikeys an

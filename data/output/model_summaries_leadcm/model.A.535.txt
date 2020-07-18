@@ -1,1 +1,1 @@
-shiftmediaproject x264 shiftmediaproject shift media project aims to provide native windows development libraries for x264 and associated dependencies to support simpler creation and debugging of
+udkgraph udkgraph arbeitstitel ist ein werkzeug zur abbildung der udkorganisation und des universitär verankertenproduzierten wissens in räumlicher graphenform. eine universität ist eine räumlichinstitutionelle bindung vielfältiger

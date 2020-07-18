@@ -1,1 +1,1 @@
-the original heavenms readme contained the following text ...it is meant that anyone is free to install use modify and redistribute the contents as long as there is no kind of commercial trading involved and the credits to the original creators are maintained within the codes.
+the pingview will respond with the number of seconds since the last activity all browser tab included.

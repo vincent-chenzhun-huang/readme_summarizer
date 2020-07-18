@@ -1,1 +1,1 @@
-The goal of this checkpoint is to test HOC. To do that :  Create a Component that renders a loading spinner. Create a Component MovieList that renders a list of movies described by the movie name, the movie image, ...  Create a HOC  withLoading that shows
+parsing ipa or apk files 

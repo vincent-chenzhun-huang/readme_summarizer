@@ -1,1 +1,1 @@
-ultimate web scraper toolkit a php library of tools designed to handle all of your web scraping needs under a mit or lgpl license. this
+bayestestr become a bayesian master you will is a lightweight package providing utilities to describe posterior distributions and bayesian models. installation run the following documentation

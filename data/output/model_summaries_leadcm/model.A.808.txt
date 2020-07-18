@@ -1,1 +1,1 @@
-cli to generate jwt and access tokens for webex teams permanent guest guest issuer applications allow guests aka non webex teams users to persistently use
+archived repo this is an archived project and is no longer supported or updated by facebook. please do not file issues or pullrequests against this

@@ -1,1 +1,1 @@
-broadcastchannel a broadcastchannel to send data between different browsertabs or nodejsprocesses leaderelection over the channels a broadcastchannel that allows you to send data between different
+lwotai is a command line program. you need to have python installed on your system to use it. you can run it from a command

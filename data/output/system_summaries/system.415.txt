@@ -1,1 +1,1 @@
-This is a library to help creating expanding views with animation in Android
+one global state container 

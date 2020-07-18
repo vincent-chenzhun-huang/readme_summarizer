@@ -1,1 +1,1 @@
-aframe a web framework for building virtual reality experiences. site — docs — school — slack — blog examples find more examples on the homepage
+antoraindexerpoc this repo demonstrates how to add linkhttpslunrjs.comlunr.js indexing to antora builds and a search ui to the antora default ui. note this is a

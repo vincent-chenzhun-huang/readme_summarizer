@@ -1,1 +1,1 @@
-datadog agent omnibus project this is an omnibus project to build the datadog agent packages. its using a fork of the official 4.0.0 release of
+rosi training build build tools for the re.je rosi training. note this repo is a wip usage bare metal install and sudo apt update sudo

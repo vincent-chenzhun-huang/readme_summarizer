@@ -1,1 +1,1 @@
-androidskinsupport 中文 in english 介绍 功能 todo 目录结构 demo 框架用法 导入 使用 初始化 皮肤开关 加载插件皮肤库 自定义view换肤 应用内换肤 插件式换肤 新建皮肤工程 添加皮肤资源 生成皮肤插件 加载皮肤插件 自定义加载策略 自定义sdcard路径 zip包中加载资源
+jintellitype read me httpwww.melloware.com licensed under the apache license version 2.0 the license you may not use this file except in compliance with the license.

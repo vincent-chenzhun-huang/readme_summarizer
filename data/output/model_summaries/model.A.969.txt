@@ -1,1 +1,1 @@
-example xml this text size is 20dp drawable description adds an imagespan.
+metacode is code that we write about the maincodes execution.

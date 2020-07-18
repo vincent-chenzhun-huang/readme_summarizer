@@ -1,1 +1,1 @@
-dynamixelsdksharp introduction a .net library for controlling dynamixel actuator products from robotis. this librarys aims easy to use managed and object oriented utilities for common
+helpful common utilities i use across projects. better error handling with sqlx prepared statements package utility when preparing multiple sql statements with error handling can

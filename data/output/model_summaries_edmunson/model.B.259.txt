@@ -1,1 +1,1 @@
-nacos docker this project contains a docker image meant to facilitate the deployment of nacos.
+disclaimer this is a new version of the plugin which uses debuggerxml gem and works only with ruby 1.9. if you want to use rubydebugide gem andor ruby 1.8.7 you should check v1.0 branch httpgithub.comastashovvimrubydebuggertreev1.0 description this vim plugin implements interactive ruby debugger in vim.

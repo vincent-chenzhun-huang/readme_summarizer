@@ -1,1 +1,1 @@
-this project was bootstrapped with create react app.
+overview the pypdfplot package is an extension to matplotlib that generates a pdf file of the plot with the generating python script embedded.

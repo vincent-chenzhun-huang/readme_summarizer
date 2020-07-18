@@ -1,1 +1,1 @@
-ðÿ“¢ 10 steps to become a data scientist clear data.
+service worker precache precache specific resources service worker precache is a module for generating a service worker that precaches resources.

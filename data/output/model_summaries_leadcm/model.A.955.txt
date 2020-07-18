@@ -1,1 +1,1 @@
-force page protection summary this x64dbg plugin sets the page protection for memory mapped views in scenarios which cause ntprotectvirtualmemory to fail. motivation ntprotectvirtualmemory will
+express acl express access control lists expressacl enable you to manage the requests made to your express server. it makes use of acl rules to

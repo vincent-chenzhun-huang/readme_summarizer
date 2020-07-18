@@ -1,1 +1,1 @@
-├── data │   ├── external data from third party sources.
+add revision tagging file pattern make meta name configurable and document service.releasemetaname state it works.

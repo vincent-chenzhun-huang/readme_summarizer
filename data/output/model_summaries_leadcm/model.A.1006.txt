@@ -1,1 +1,1 @@
-ssm parameter store description this is a simple python wrapper for getting values from aws systems manager parameter store. the module supports getting a single
+eosio sdk for java eosio sdk for java is an api for integrating with eosiobased blockchains using the eosio rpc api. to date eosio sdk

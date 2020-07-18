@@ -1,1 +1,1 @@
-reinforcement learning with policy gradient uses a 3 layer neural network as the policy network the idea is to create a deep policy network that
+jest electron runner a custom test runner for jest that runs tests inside an electron main or renderer process providing the following benefits main all

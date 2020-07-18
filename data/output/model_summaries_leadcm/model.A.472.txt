@@ -1,1 +1,1 @@
-services appservicemobile appserviceweb appservice platforms dotnet xamarin author lindydonna syntaxc4 contoso moments what is contoso moments contoso moments is a photo sharing application that demonstrates
+table of contents overview module description what the module does and why it is useful setup the basics of getting started with mailhog what mailhog

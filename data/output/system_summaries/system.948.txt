@@ -1,1 +1,1 @@
-How to include graphviz graphs in github README
+build out a reallife IoT scenario by capturing IoT data and ingesting it into the Azure Cloud 

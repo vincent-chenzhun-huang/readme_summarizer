@@ -1,1 +1,1 @@
-unithread allows you to spin up threads that execute callbacks on the main thread once they are finished.
+login to a broker instance ssh opc now create a topic by running the command usrbinkafkatopics zookeeper zookeeper02181 create topic demo partitions 1 replicationfactor 3 alternatively if you installed enterprise edition you can create a topic through the confluent control center web console.

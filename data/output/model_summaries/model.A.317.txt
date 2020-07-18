@@ -1,1 +1,1 @@
-what is it beta test this script is used to extract data from your private repo.
+create an iot hub and a new device identity set credentials on your mxchip upload code to your mxchip add iot hub connection string to your environment variables start the server 1. create an iot hub and a new device identity were going to use iot hub to communicate from our website to our mxchip device.

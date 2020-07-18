@@ -1,1 +1,1 @@
-A tool to keep passwords and other secrets out of automation scripts.
+log trafficssystem info

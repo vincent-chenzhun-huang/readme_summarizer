@@ -1,1 +1,1 @@
-woeusb a linux program to create a windows usb stick installer from a real windows dvd or image. this package contains two programs woeusb a
+phphtmldiff phphtmldiff is a library for comparing two html filessnippets and highlighting the differences using simple html. this html diff implementation was forked from rashid2538phphtmldiff

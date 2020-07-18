@@ -1,1 +1,1 @@
-Sometimes, we need to show a label above an ImageView or any other views. Well, LabelView will be able to help you. It's easy to implement as well!
+manage SELinux policy enforcement state

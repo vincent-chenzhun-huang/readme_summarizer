@@ -1,1 +1,1 @@
-haxe change proposals this project is for maintaining formal change proposals for haxe language.
+the a11y project the accessibility a11y project is a communitydriven effort to make web accessibility easier.

@@ -1,1 +1,1 @@
-dakiya डाकिया dakiya डाकिया means postman. dakiya collects postman collections sorts and delivers transformed scripts. note this is an attempt to provide conversion utility for
+downloadcelebahq python script to download and create the celebahq dataset. to get the celebahq dataset you need to a download the celeba dataset b download

@@ -1,1 +1,1 @@
-e4 pure maven build support this is a reactor project contains plugins and maven extensions which are needed to build a eclipse e4 application with pure maven.
+html5 applications repository cli plugin httpssap.github.iocfhtml5appsrepocliplugin description html5 applications repository cli plugin is a plugin for cloud foundry cli tool that aims to provide easy command line access to apis exposed by html5 application repository service.

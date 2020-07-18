@@ -1,1 +1,1 @@
-this project was bootstrapped with create react app. available scripts in the project directory you can run runs the app in the development mode. open
+awesome keycloak carefully curated list of awesome keycloak resources. a curated list of resources for learning about the open source identity and access management solution

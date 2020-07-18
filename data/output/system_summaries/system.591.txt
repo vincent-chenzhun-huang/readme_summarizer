@@ -1,1 +1,1 @@
-Ipython Notebooks for solving problems like classification, segmentation, generation using latest Deep learning algorithms on different publicly available text and image data-sets. 
+dumping the bytes of a file or stream in hexadecimal octal or binary 

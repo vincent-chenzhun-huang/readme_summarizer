@@ -1,1 +1,1 @@
-react data sort a simple react component that helps you sort and paginate a list of data.
+simplevisor simplevisor is a simple portable intel x64em64t vtx specific hypervisor with two specific goals using the least amount of assembly code 10 lines and having the smallest amount of vmxrelated code to support dynamic hyperjacking and unhyperjacking that is virtualizing the host state from within the host while also supporting advanced features such as ept and vpid.

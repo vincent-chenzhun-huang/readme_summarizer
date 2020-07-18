@@ -1,1 +1,1 @@
-Functions for representing plain objects as typesafe immutable dictionaries
+play MOD WAV FLAC MIDI RTTTL MP3 and AAC files on I2S DACs or with a software emulated deltasigma DAC on the ESP8266 and ESP32

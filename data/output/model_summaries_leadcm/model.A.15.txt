@@ -1,1 +1,1 @@
-tmg2sql a utility to convert a the master genealogist database into a sqlsqlite database this is a small python utility to convert a tmg database
+awscommandlineinterface the aws command line interface aws cli is a unified tool that provides a consistent interface for interacting with all parts of aws. aws

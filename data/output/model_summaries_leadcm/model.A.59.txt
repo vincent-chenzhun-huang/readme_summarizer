@@ -1,1 +1,1 @@
-intro realtime object detection and classification. paper version 1 version 2. read more about yolo in darknet and download weight files here. in case the
+this is a pytorch tutorial to image captioning. this is the first in a series of tutorials im writing about implementing cool models on your

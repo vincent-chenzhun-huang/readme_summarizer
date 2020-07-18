@@ -1,1 +1,1 @@
-Powerful Python tool to analyze PDF documents
+defining cloud infrastructure in code

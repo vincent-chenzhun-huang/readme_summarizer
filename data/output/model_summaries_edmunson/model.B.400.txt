@@ -1,1 +1,1 @@
-sparkknngraphs spark algorithms for building and processing knn graphs.
+sunburst chart an interactive sunburst chart for representing hierarchical data where each data node of a tree is represented by an annular segment within multilayered rings.

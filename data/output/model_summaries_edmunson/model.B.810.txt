@@ -1,1 +1,1 @@
-kubernetes vault integration the kubernetesvault project allows pods to automatically receive a vault token using vaults approle auth backend.
+moddetective disclaimer this tool is still in very early stages of development.

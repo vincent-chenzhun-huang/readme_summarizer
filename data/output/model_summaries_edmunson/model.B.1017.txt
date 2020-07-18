@@ -1,1 +1,1 @@
-hairsalon this repository contains my java application hair salon that enables the user to add update and delete hair stylists and clients hair salon application this is a repo containing a basic appication that has been deployed to heroku.
+engineering computations module 1 engineering computations is a collection of stackable learning modules flexible for adoption in different situations.

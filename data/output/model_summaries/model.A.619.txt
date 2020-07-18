@@ -1,1 +1,1 @@
-implemented are kmodes huang97 huang98 kmodes with initialization based on density cao09 kprototypes huang97 the code is modeled after the clustering algorithms in code and has the same familiar interface.
+zero is returned if there are no elements in the slice.

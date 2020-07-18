@@ -1,1 +1,1 @@
-if you need compatibility with older versions of nodejs please use v1.0.6 which is compatible back to node 0.4. is a javascript module for generating passages of lorem ipsum text.
+your app is ready to be deployed see the section about deployment for more information.

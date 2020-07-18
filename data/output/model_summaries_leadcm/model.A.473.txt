@@ -1,1 +1,1 @@
-django warrant install django auth backend using the cognitobackend in your django project settings file add the dotted path of to your list of .
+net performance public build status internal build status publicbuildicon internalbuildicon this repo contains benchmarks used for testing the performance of all .net runtimes .net core

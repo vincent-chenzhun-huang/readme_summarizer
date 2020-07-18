@@ -1,1 +1,1 @@
-A fork of http://git.sesse.net/movit/ that I use to make automated builds more reliable and from which I can share my changes.
+creating circular slider radiobutton 

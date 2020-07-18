@@ -1,1 +1,1 @@
-a Zenoss zenpack to monitor Fortinet FortiGate firewalls
+manage AWS EC2 Instances

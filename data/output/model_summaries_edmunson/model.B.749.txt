@@ -1,1 +1,1 @@
-filetype.py build status pypi api small and dependency free package to infer file type and mime type checking the signature of a file or buffer.
+wellington this project is meant to provide a base for spring boot development.

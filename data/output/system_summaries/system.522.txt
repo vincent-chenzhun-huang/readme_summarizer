@@ -1,1 +1,1 @@
-A simple tool to help building stacking models.
+help you download large files on iOS and Android both in the foreground and most importantly in the background 

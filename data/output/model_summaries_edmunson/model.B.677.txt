@@ -1,1 +1,1 @@
-auth0 php sdk the auth0 php sdk provides straightforward and tested methods for accessing authentication and management api endpoints.
+vecstack python package for stacking stacked generalization featuring lightweight functional api and fully compatible scikitlearn api convenient way to automate oof computation prediction and bagging using any number of models functional api minimalistic.

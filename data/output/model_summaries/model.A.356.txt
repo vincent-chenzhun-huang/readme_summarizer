@@ -1,1 +1,1 @@
-making json requests json requests allow you to inline construct json at the request side as well as access json objects in the response.
+your app is ready to be deployed see the section about deployment for more information.

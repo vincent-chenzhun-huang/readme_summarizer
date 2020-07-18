@@ -1,1 +1,1 @@
-ete is currently developed as a tool for researchers working in phylogenetics and genomics.
+or python3.5 rocm driver rocmtensorflow1.12 easy installer recommend make sure opencl amd gpu devices make sure tensorflow amd gpu devices optionals amd radeon gpu driver computing enginerocm 1.9.224 installation for python3.5 or python3 version rocmtensorflow for python3.5 installation via pypi you need to install rocmdriver before tensorflow.

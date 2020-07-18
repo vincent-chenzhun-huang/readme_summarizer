@@ -1,1 +1,1 @@
-mcci arduino lorawan library userfriendly library for using the arduino lmic library with the things network and lorawanâ„¢ networks.
+cytoscapecanvas description an extension to create a canvas over or under a cytoscape graph.

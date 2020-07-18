@@ -1,1 +1,1 @@
-micro usb used both to upload the firmware to the board as to use it to control the servo directly from the pc without involving other microcontrollers.
+basic usage resources official site whitepaper downloads developer proposal of ulord community what is ulordchain ulordchain is a infrastructure chain layer and adopts the mixed consensus mechanism of pow and pos.it supports the intermediate layer and top application layer of the ulord.

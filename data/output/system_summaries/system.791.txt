@@ -1,1 +1,1 @@
-Command line interface for testing internet bandwidth using speedtest.net
+register and lookup actors by names in an Akka cluster

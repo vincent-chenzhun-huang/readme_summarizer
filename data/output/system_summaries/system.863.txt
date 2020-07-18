@@ -1,1 +1,1 @@
-I'm thrilled to announce that I just (August 8, 2018) received my Google Associate Android Developer certficate after taking the exam. See the README for more info on my practice app.
+generate morse code sound files from text or stdin

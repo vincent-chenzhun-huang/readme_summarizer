@@ -1,1 +1,1 @@
-convos multiuser chat application convos is a multiuser chat application that runs in your web browser.
+welcome libhttpclient provides a platform abstraction layer for http and websocket and is designed for use by the microsoft xbox live service api xsapi and game devs.

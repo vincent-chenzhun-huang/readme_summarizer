@@ -1,1 +1,1 @@
-4 создать историю последних ответов так что бы ответы запоминались на указанный срок и не повторялись.
+pip3 install user flasksocketio if you know how to run an example file from the cozmo sdk you should be able to run this script.

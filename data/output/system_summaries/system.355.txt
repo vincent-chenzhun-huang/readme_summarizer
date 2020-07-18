@@ -1,1 +1,1 @@
-Microservice for synchronising a Trello-based workflow with GitHub issues. 
+example a store is currently open 

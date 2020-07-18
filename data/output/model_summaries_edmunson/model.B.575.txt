@@ -1,1 +1,1 @@
-md360player4android it is a lite library to render 360 degree panorama video for android.
+download package for unity 2018.1 and later spritedicing.unitypackage.

@@ -1,1 +1,1 @@
-rustlings 🦀❤️ greetings and welcome to . this project contains small exercises to get you used to reading and writing rust code. this includes reading
+image httpstravisci.orgkrukasmage2gen.svgbranchmaster target httpstravisci.orgkrukasmage2gen mage2gen mage2gen is a python library for generating magento 2 modules. it is build to be extendable with snippets for creating

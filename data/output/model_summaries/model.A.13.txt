@@ -1,1 +1,1 @@
-install s3 install gcs install azure storage stores this module includes clients and stores abstraction that can be used to interact with aws s3 azure storage and google cloud storage.
+videos with video quality above 720p will have to download the video and audio files seperately and then merge them into one file thats just how youtube works for some reason.

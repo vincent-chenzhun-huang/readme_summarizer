@@ -1,1 +1,1 @@
-some templates may have additional requirements specified in the templates readme.
+in this project you will store your resume data in four javascript objects according to the schema given below.

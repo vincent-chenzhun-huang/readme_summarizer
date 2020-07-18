@@ -1,1 +1,1 @@
-rubeus rubeus is a c toolset for raw kerberos interaction and abuses. it is heavily adapted from benjamin delpys kekeo project cc byncsa 4.0 license
+apparatus apparatus is a hybrid graphics editor programming environment for creating interactive diagrams. an interactive diagram can be an effective way to communicate a mental

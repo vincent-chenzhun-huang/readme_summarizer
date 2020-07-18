@@ -1,1 +1,1 @@
-your app is ready to be deployed see the section about deployment for more information.
+inner working lets take an example imagine there are 2 services and s2 the following ingress resource is used to define the rules lets assume an ingresscontroller is deployed and it runs with following ip address 10.104.244.148 lets assume cluster ip for now ingressconsulregister will watch for this and do the following put request to consul use cases use an internal ingresscontroller for all internal interservice communication.

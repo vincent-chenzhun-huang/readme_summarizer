@@ -1,1 +1,1 @@
-jsoncpp json is a lightweight datainterchange format.
+kinect finger tracking the most accurate way to track fingers using kinect v2.

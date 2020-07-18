@@ -1,1 +1,1 @@
-use none to turn off automatic maxwidth columns.titlestringnoheader text of respective column or just column x if column has no header labelthis is useful if you want to filter by the contents of an invisible column that usually would not have any header label styling the extension will generate classes for each filter that you can use to apply css styling.
+a set of tools to improve project reactors debugging and development experience.

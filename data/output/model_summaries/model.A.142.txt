@@ -1,1 +1,1 @@
-the default zoom level filter array is js zoomfilter 040 572 8114 12185 style parameter 1. style heatmap shows only heatmap on map 2. style markers shows only markers on map 3. style both shows both heatmap and markers on map markers color coding parameter we can switch on the markers color coding feature which colors the markers according to the precision of its coordinates using colorcodemarkers parameter which is by default false.
+on clicking the chat window you can see what the end user product will look like based on the tree.

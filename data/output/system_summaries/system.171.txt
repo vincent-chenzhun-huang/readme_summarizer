@@ -1,1 +1,1 @@
-go pool of concurrent workers with the ability to add / kill / pause / resume workers on demand
+Prometheus

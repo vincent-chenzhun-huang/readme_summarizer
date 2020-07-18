@@ -1,1 +1,1 @@
-azure speech sdk web html demo this project is a demonstration of implementing a voice based search. users can click a microphone button and speak
+numpystl .. image httpstravisci.orgwolphnumpystl.svgbranchmaster alt numpystl test status target httpstravisci.orgwolphnumpystl .. image httpsbadge.fury.iopymt940.svg alt numpystl pypi version target httpspypi.python.orgpypimt940 .. image httpscoveralls.ioreposwolphnumpystlbadge.svgbranchmaster alt numpystl code

@@ -1,1 +1,1 @@
-laser cut box openscad module this is an openscad module for creating boxes to be lasercut out of flat panels e.g. plywood or acrylic.
+cooler a cool place to store your hic cooler is a support library for a sparse compressed binary persistent storage format called cooler used to store genomic interaction data such as hic contact matrices.

@@ -1,1 +1,1 @@
-Tutorial on how to deploy Deep Learning models on GPU enabled Kubernetes cluster
+displaying customizable toast notifications via Bootstrap alerts

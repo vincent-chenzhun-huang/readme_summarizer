@@ -1,1 +1,1 @@
-facebook template library fatal facebook template library is a library for fast prototyping software in modern c. it provides facilities heavily based on template metaprogramming
+cqp4rdf cqp4rdf is a tool which can be used to easily query from a corpus which has multiple layers of annotations. for querying either the

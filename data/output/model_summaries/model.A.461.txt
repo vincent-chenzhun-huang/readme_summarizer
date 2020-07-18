@@ -1,1 +1,1 @@
-this project was bootstrapped with create react app.
+appinfoparser appinfoparser is a parser for parsing or files.

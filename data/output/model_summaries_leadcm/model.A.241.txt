@@ -1,1 +1,1 @@
-badgepythonversions image httpsimg.shields.iopypipyversionswhalesong.svg alt python versions .. badgeversion image httpsimg.shields.iopypivwhalesong.svg alt last version target httpspypi.orgprojectwhalesong .. badgelicense image httpsimg.shields.iopypilwhalesong.svg alt license .. badgestatus image httpsimg.shields.iopypistatuswhalesong.svg
+ace stream player tested with vlc version 2.1.4 2.1.5 2.1.6 2.1.6git depends acestreamengine libgcrypt 1.6 ffmpeg 2.0 optimal acestreamengine3.1.35 libgcrypt1.5.456 ffmpeg1.2.12 compile for linux install

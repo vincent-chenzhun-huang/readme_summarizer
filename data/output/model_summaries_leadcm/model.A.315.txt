@@ -1,1 +1,1 @@
-aws streams to kinesis firehose forwarder please note that this project is now deprecated for kinesis streams sources. for forwarding kinesis streams data to kinesis
+expressprometheusmetrics express middleware for collecting metrics with prometheus install usage metrics example view metrics example running prometheus grafana this step assumes you have and set

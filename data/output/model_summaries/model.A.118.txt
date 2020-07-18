@@ -1,1 +1,1 @@
-inventory when a pi first boots it usually receives a dhcp assigned ip address which the lockdown playbook changes to a static ip.
+what is wall street wall street is a virtual stock trading web application made using react.

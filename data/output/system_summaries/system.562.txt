@@ -1,1 +1,1 @@
-A tagging plugin for Rails applications, modified to work with acts_as_tenant gem.
+reading frames from a video source

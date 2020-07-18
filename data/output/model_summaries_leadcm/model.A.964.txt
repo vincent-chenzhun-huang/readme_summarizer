@@ -1,1 +1,1 @@
-learning selfiefriendly abstraction from artistic style images yicun liu jimmy ren jianbo liu jiawei zhang xiaohao chen acml 2018 this repository contains code for the
+a gositemapgenerator is the easiest way to generate sitemaps in go. as of version 2.0.0 this repo is available as a go module. then installation

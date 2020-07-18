@@ -1,1 +1,1 @@
-parses readme for any referenced files and packages them up as well.
+by default the pin arrangement is pin 2 floppy 0 step pin 3 floppy 0 direction pin 4 floppy 0 enable pin 5 floppy 1 step pin 6 floppy 1 direction etc.

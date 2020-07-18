@@ -1,1 +1,1 @@
-Terraform module to lookup network resources within a Kops cluster
+compiling templates on the fly using a vhtml like API

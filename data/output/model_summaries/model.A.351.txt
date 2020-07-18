@@ -1,1 +1,1 @@
-for details see multiple angular apps x support angular aot builds how to run this project clone this project jump into each app folder and do then start the portal with open up httplocalhost9000 in a web browser.
+note if you install elm globally you will be able to type elmreactor without the nodemodules.bin relative path if youre curious why youre running a server to view the output of your code its because is compiled to javascript and its fiddly to have to compile your code manually every time you want to see the output.

@@ -1,1 +1,1 @@
-pyppettheater using puppeteer docker and pythongherkinparser you can easilly write functionnal tests using gherkin syntax. use as binary script install it and use it use
+learning to drive smoothly in minutes learning to drive smoothly in minutes using a reinforcement learning algorithm soft actorcritic sac and a variational autoencoder vae

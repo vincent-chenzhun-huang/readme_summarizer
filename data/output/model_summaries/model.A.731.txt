@@ -1,1 +1,1 @@
-forward kinematics pickle files are stored in the directory fkeqns.
+try the getting started samples in one or more languages by navigating to the subdirectory in this repository for the desired language rmarkdown r all languages will require a project id from a project that has the bigquery api enabled.

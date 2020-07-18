@@ -1,1 +1,1 @@
-this project was bootstrapped with create react app.
+cci tagger overview this package provides a command line tool molesesgftag to generate dataset tags for both moles and esgf.

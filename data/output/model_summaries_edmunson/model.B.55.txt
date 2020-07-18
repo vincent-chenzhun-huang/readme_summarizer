@@ -1,1 +1,1 @@
-recipe for using create react app with ssr supporting react router and redux and typescript.
+getting started a simple createreactapp like cli tool to create python package file structure.

@@ -1,1 +1,1 @@
-list of resources to learn about dagger 2 why you need dependency injection d is for the dependency inversion principle all solid principles are essential
+standdm what is this package this r package implements a framework for fitting perceptual decisionmaking data with bayesian multilevel drift diffusion models. to this end

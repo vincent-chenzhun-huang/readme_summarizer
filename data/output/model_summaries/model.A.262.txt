@@ -1,1 +1,1 @@
-scriptability it is obvious that the ability to be scripted gives more flexibility to a tool but it also enables automation and gives the possibility to extend features genericity the project tries to remain operating system agnostic.
+run spike sorting algorithms to run spike sorting algorithm a object needs to be instantiated using the package in this example from the examples repo we show how to run several spike sorters on a toy dataset.

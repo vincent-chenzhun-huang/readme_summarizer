@@ -1,1 +1,1 @@
-A fully configurable and extendable Bash obfuscation framework. This tool is intended to help both red team and blue team.
+solve the task of massive image retrieval 

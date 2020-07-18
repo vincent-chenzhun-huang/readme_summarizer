@@ -1,1 +1,1 @@
-StyleGAN Encoder - converts real images to latent space
+delete orphaned docker volumes

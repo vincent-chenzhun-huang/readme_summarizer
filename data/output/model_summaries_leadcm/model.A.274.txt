@@ -1,1 +1,1 @@
-meta author cask data inc. copyright copyright © 20152019 cask data inc. .. image httpscdapusers.herokuapp.combadge.svgt1 target httpscdapusers.herokuapp.com .. image httpsimg.shields.iobadgelicenseapache202.0blue.svg target httpsopensource.orglicensesapache2.0 .. image httpstravisci.orgcaskdatacdap.svgbranchrelease4.1
+alsaloopbackmpdandicecast2 setting up an alsa loopback pipelining it to mpd.service and then relaying it to icecast2.service just a howto for now setting up an alsa

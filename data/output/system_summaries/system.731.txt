@@ -1,1 +1,1 @@
-A python package to solve robot arm inverse kinematics in symbolic form
+get started with genomics data in BigQuery in many languages 

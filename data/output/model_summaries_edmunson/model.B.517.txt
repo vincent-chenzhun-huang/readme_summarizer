@@ -1,1 +1,1 @@
-cross platform controller using ionic magic develop once and export to ios or android with angular.
+leetcodeeditor english document 中文文档 introduction do leetcode exercises in ide support and to meet the basic needs of doing exercises.

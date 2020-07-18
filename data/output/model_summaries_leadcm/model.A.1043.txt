@@ -1,1 +1,1 @@
-ociquickstartnginx these are terraform modules that deploy nginx on oracle cloud infrastructure oci. about the oracle cloud infrastructure nginx terraform module provides an easy way
+transform360 transform360 is a videoimage filter that transforms a 360 video from one projection to another. usually the input projection is equirectangular and the output

@@ -1,1 +1,1 @@
-fgdtools fgdtools is a python library for parsing .fgd files for the source engine level editor hammer. it provides entity schemas and other level editor
+project summary in this project we will create an application that can change the theme of a paragraph realtime using elements on the frontend. we

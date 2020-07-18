@@ -1,1 +1,1 @@
-geometryapijava this fork of the esri geometry api for java exists in order to run the geogrpc geometryoperatorsservice.
+linux kernel module cheat description the perfect emulation setup to study and develop the v5.2.1 kernel modules and x8664 armv7 and armv8 and assembly and .

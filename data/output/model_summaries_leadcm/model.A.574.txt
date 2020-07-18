@@ -1,1 +1,1 @@
-fortinet fortigate monitoring introduction this is a zenpack for fortinet fortigate firewalls. the existing zenpack by fabio paracchini seems to be abandoned and use obsolete
+howto setup chef to manage your servers. this tutorial will assist you in setting up a hosted at chef.io running on aws as ec2 instances.

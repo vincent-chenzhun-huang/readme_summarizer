@@ -1,1 +1,1 @@
-Plugins for mobile platforms to enable file downloads in background
+setup their own coding dojo based on Berkeley JavaScript Dojo BJD 

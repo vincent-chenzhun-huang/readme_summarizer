@@ -1,1 +1,1 @@
-slides pretrained models you can get the models by running sample results the greedy lexicon search and beam search outputs present similar and reasonable predictions for the selected examples.
+the items in the long tail usually do not have enough interactions to accurately be recommended using userbased recommender systems like collaborative filtering due to inherent popularity bias in these models and data sparsity.

@@ -1,1 +1,1 @@
-mqttcarpresense this project utilizes a wemos d1 mini pro u.fl to sma antenna whip and an external antenna in a 3dprinted enclosure to indicate presense when powered on and attached to mqtt.
+introducing collection views the sample application to accompany my conference talk on yes you guessed it uicollectionview.

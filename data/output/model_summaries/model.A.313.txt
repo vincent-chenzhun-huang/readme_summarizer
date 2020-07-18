@@ -1,1 +1,1 @@
-you can clone a repository from github in a folder of your choice with the command step 2 check out the step branch as you go through different steps in the code youll be told which step youre on as well as a link to the corresponding branch.
+otherwise you have to continue with stage 4. stage 4 the last step of the ceph cluster deployment is the services stage.

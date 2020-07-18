@@ -1,1 +1,1 @@
-coremlinarkit this simple project detects objects in augmented reality and displays 3d labels on top of them.
+azuracast a selfhosted web radio manager azuracast is a selfhosted allinone web radio management suite.

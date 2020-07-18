@@ -1,1 +1,1 @@
-keyhacks shows ways in which particular api keys found on a bug bounty program can be used to check if they are valid.
+rackattack rack middleware for blocking throttling abusive requests protect your rails and rack apps from bad clients.

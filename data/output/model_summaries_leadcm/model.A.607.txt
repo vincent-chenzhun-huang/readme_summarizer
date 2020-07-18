@@ -1,1 +1,1 @@
-new maintainers and repository location this repository no longer is the main location of reactnativefetchblob. the owners of this fork have agreed to maintain this
+nibview tiny swift framework to reference nibs from anywhere code other nibs or storyboards sparkles capabilities ✨ true rendering inside interface builder with and 📏

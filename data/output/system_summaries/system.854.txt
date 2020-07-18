@@ -1,1 +1,1 @@
-Terraform to deploy Memcached on Oracle Cloud Infrastructure (OCI)
+core API usage and lightweight repository style data access 

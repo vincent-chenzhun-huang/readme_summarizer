@@ -1,1 +1,1 @@
-iOS Component for creating a pulsing animation.
+computer

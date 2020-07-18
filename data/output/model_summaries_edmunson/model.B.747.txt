@@ -1,1 +1,1 @@
-loan default prediction this is the markdown version of the jupyter notebook for easy read online.
+vulnerable node vulnerable node a very vulnerable web site written in nodejs codename psea version 1.0 code httpsgithub.comcr0hnvulnerablenode issues httpsgithub.comcr0hnvulnerablenodeissues author daniel garcia cr0hn ggdaniel whats this project the goal of this project is to be a project with really vulnerable code in nodejs not simulated.

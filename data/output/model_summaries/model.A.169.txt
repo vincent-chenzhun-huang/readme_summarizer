@@ -1,1 +1,1 @@
-run the solution and sign in with your office 365 account.
+mapsmanagerservice angular cesium extends cesium api and expose additional features but if you want to use pure cesium api you can use mapsmanagerservice to receive cesium viewer or any other util service that was created by acmap.

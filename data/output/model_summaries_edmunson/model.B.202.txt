@@ -1,1 +1,1 @@
-you should enable this project on travisci.org and coveralls.io to make these badges work.
+we are trying to reborn nomp.

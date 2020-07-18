@@ -1,1 +1,1 @@
-createdmg a shell script to build fancy dmgs.
+deletes any task scheduler job named spbestwarmup sit back and enjoy screenshots install farm wide manual run manual run with custom url parameter admin tip after reboot run this command to manually trigger the job and warm up iis custom urls use the paramter to add custom urls from the command line.

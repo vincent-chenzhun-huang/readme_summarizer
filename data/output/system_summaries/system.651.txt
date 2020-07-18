@@ -1,1 +1,1 @@
-imgcolr is a jQuery plugin for grabbing the dominant color of a given image's borders. 
+get you started with a baseline on version 2 of somethingsomething dataset 

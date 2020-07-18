@@ -1,1 +1,1 @@
-filestack swift sdk this is the official swift sdk for filestack api and content management system that makes it easy to add powerful file uploading and transformation capabilities to any web or mobile application.
+cthruconsolewriter a simple utility to make it easier and more visually appealing to produce complex multiline console output in javascript.

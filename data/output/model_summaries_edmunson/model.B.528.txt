@@ -1,1 +1,1 @@
-grapeapiary auto generates an apiary blueprint from the docuementation that is created by your grape api.
+contentdownloader contentdownloader a.k.a ctdl is a python package with command line utility and desktop gui to download files on any topic in bulk features ctdl can be used as a command line utility as well as a desktop gui.

@@ -1,1 +1,1 @@
-sql driver mock for golang sqlmock is a mock library implementing sqldriver.
+huersapi the module was created as a simple example of the new way to create a custom type and provider using the resource api.

@@ -1,1 +1,1 @@
-A custom component for displaying sensor values as cards or elements
+obj and Collada formats

@@ -1,1 +1,1 @@
-this project was bootstrapped with create react app. available scripts in the project directory you can run runs the app in the development mode. open
+cci tagger overview this package provides a command line tool molesesgftag to generate dataset tags for both moles and esgf. installation create a python virtual

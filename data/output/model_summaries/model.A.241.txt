@@ -1,1 +1,1 @@
-whalesong whalesong is an asyncio python library to manage webapps remotely.
+ace stream player tested with vlc version 2.1.4 2.1.5 2.1.6 2.1.6git depends acestreamengine libgcrypt 1.6 ffmpeg 2.0 optimal acestreamengine3.1.35 libgcrypt1.5.456 ffmpeg1.2.12 compile for linux install build tools libtool buildessential pkgconfig autoconf checkout all required libraries to build vlc also install libqt4webkit openssl sqlite3 edit config.sh set vlcversion2.1.4 2.1.5.

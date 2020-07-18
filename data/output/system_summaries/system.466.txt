@@ -1,1 +1,1 @@
-Queries to monitor postgresql
+Prometheus without changing app s metrics

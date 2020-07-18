@@ -1,1 +1,1 @@
-ZF2 module for automating http cache tasks within a Zend Framework 2 application.
+JSON

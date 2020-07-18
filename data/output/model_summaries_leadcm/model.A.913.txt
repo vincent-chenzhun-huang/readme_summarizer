@@ -1,1 +1,1 @@
-flink on kubernetes very much influenced by spark example sources the docker images are based on httpsgithub.commelentyeflinkdocker setup step zero prerequisites you have a kubernetes
+icons linkcss imagesdir .images codesuite continuous deployment reference architecture for kubernetes the codesuite continuous deployment reference architecture demonstrates how to achieve continuous deployment of an

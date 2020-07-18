@@ -1,1 +1,1 @@
-the additional configuration array for the inversecalculator has the keys already described for the validator.
+if edge.arrows is true and no value is provided this defaults to 0.2 edge.dash size of dashed edges.

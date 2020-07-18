@@ -1,1 +1,1 @@
-iosrestrictionscrackerlinux this program is designed to crack ios 711 restrictions passcodes as quickly as possible. it can use an unlimited number of threads to complete
+is an ios lightweight library that can displays adverts or boardcast e.g. with an custom view. 中文介绍 support what kinds of scrolltype txscrolllabelviewtypeleftright scrolling from

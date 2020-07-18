@@ -1,1 +1,1 @@
-linux unattended installation this project provides all you need to create an unattended installation of a minimal setup of linux whereas minimal translates to the
+subsaharan africa nutrient maps at 250 m resolution summary this repository contains r code and some outputs of spatial predictions related with the production of

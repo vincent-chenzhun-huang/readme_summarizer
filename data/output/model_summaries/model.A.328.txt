@@ -1,1 +1,1 @@
-in the temporalneturfd.py temporalnetfdd.py temporalnetmulticam.py and temporalnetgeneral.py scripts there is a variable called vgg16weights to set the paths to this weights file.
+features add a mail body support multiple attachments supports esmtp authentication supports starttls and ssl send mail to a list of users show smtp server info fixes issues of mailsend contributing please send a pull request if you add features fix bugs or update the documentation.

@@ -1,1 +1,1 @@
-palo alto networks device framework the device framework is a mechanism for interacting with palo alto networks devices including physical and virtualized nextgeneration firewalls and
+pyrdp pyrdp is a python 3 remote desktop protocol rdp maninthemiddle mitm and library. it features a few tools rdp maninthemiddle logs credentials used to

@@ -1,1 +1,1 @@
-lazy importer a simple and easy to use header only library to make the life of a reverse engineer much harder. small example ida output
+ublox arduino library for communicating with ublox gps receivers. developing with the teensy 3.2 or lc consider buying our teensy gnss backpack which integrates the

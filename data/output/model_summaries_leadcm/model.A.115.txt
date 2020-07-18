@@ -1,1 +1,1 @@
-qlikcli a command line tool to importexport apps from qlik sense desktop or server introduction the qlikcli is a tool that enables qlik sense applications
+jspatch 中文介绍 文档 jspatch平台 请大家不要自行接入 jspatch，统一接入 jspatch 平台，让热修复在一个安全和可控的环境下使用。原因详见 这里 jspatch bridges objectivec and javascript using the objectivec runtime. you can call any objectivec class and

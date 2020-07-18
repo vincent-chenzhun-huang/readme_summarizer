@@ -1,1 +1,1 @@
-google cloud bigtable hbase client for java google cloud bigtable is googles nosql big data database service. its the same database that powers many core
+this project was bootstrapped with create react app. available scripts in the project directory you can run runs the app in the development mode. open

@@ -1,1 +1,1 @@
-announcing movit movit is the modern video toolkit notwithstanding that anything thats called “modern” usually isnt and its really not a toolkit. movit aims to
+reactnativecircularslider radiobutton react native component for creating circular slider. example app – inspired by apples bedtime alarmclock its just an example what you can achieve

@@ -1,1 +1,1 @@
-azurekubernetescouchbase this is a walkthrough of setting the couchbase operator up on azure container service aks.
+deploy ibm cloud private instructions deploy in local vms using vagrant deploy in softlayer vms using ansible deploy in softlayer vms using terraform deploy in openstack using terraform optional add nfs dynamic provsioner to your cluster accessing ibm cloud private access the url using the username password provided in last few lines of the icp deployment.

@@ -1,1 +1,1 @@
-Android library for working with VK API, authorization through VK app, using VK functions.
+an appropriated ISecurityTokenValidator and generate and AuthenticationTicket 

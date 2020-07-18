@@ -1,1 +1,1 @@
-visidata v1.5.2 a terminal interface for exploring and arranging tabular data.
+trafficsourcetracker.js a replacement for google analytics last non direct click tracking done by utmz cookie.

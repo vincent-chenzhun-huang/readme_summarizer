@@ -1,1 +1,1 @@
-ofcbootstrap oneclick cli to install openfaas cloud on kubernetes what is this and who is it for you can use this tool to configure a
+rustlings 🦀❤️ greetings and welcome to . this project contains small exercises to get you used to reading and writing rust code. this includes reading

@@ -1,1 +1,1 @@
-hetnets in python background hetnets hetnets also called heterogeneous information networks are graphs with multiple node and edge types.
+so lets say we want to add a nice debian torrent to seed beginsrc lisp exports both cltransmissiontransmissionadd conn filename httpcdimage.debian.orgdebiancdcurrentamd64btdvddebian8.7.1amd64dvd2.iso.torrent endsrc results torrentadded we get a hashtable of our new torrent with an id name and hashstring and the second return value is indicating this is a new torrent.

@@ -1,1 +1,1 @@
-A utility for downloading TV and radio programmes from BBC iPlayer
+distributing and managing secrets

@@ -1,1 +1,1 @@
-Reinforcement Learning using Policy Gradient to solve OpenAI Gym games
+be run in Electron environment

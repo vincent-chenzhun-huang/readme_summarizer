@@ -1,1 +1,1 @@
-openomni this repository contains all the discovered protocols commands error types and other messages used to communicate with an omnipod pump described in the wiki
+extend amqpconnectionmanager connection management for amqplib to support remote procedure call rpc. amqpconnectionmanagerrpc features time to live for rpc requests. exceptions transmitted from rpc server

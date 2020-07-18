@@ -1,1 +1,1 @@
-An elegant Ruby gem to interact with Questrade API
+your Jekyll blog

@@ -1,1 +1,1 @@
-aws amplify cli the aws amplify cli is a toolchain which includes a robust feature set for simplifying mobile and web application development.
+clover sdk for android this repo contains two android studio projects cloverandroidsdk and cloverandroidsdkexamples.

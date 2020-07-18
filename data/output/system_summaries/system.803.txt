@@ -1,1 +1,1 @@
-Easy and safe way to manage your crontab file
+perform create read update and delete operations on lists and list items from a SharePoint Addin 

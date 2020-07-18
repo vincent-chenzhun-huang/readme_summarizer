@@ -1,1 +1,1 @@
-or the version using word embedding words to vectors where corporacorpusreggeaton.txt points to the corpus you want to train from examplesreggeaton.txt is the file where the example text is going to be written after every epoch to generate text from a trained model the model and weights will be saved in the directory .
+etherscan api patch5 patch4 master patch5 master master a way to access the etherscan.io api using promises.

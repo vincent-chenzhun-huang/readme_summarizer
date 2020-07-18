@@ -1,1 +1,1 @@
-the easiest way to install 5. go to the downloaded folder.
+talk aboutget involved in duniter project if you wish to participatedebate on duniter you can visit duniter forum join xmpp chatroom dunitermuc.duniter.org contact us directly at contactduniter.org subscribe to a mailing list for duniter nodes administrators developement duniter is using modules on different git repositories wotb compute web of trust.

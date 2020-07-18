@@ -1,1 +1,1 @@
-add lookup files in splunk click settings then lookups.
+download the workflow features control the state of lights and rooms set brightness for lights or groups set color for lights or groups using css color names or hex codes set colorloop effect on lights or groups set reminders set groups to custom scenes youve configured in the philips hue app rename lights light control group control note as seen above is autocompleted by the workflow after selecting room name or in this case all lights.

@@ -1,1 +1,1 @@
-a listener can get registered with currently supported events viewerready slidermoved sliderreleased dependencies jquery v. 1.7.2 jquery svg v. 1.4.5 bootstrapslider v. 4.10.0 license gpl 3.0 httpwww.gnu.orglicensesgpl.html how to cite at the present there is no primary citation yet however protein feature view got mentioned in the most recent rcsb pdb nucleic acid research database issue paper.
+contributions and continuous integration for ci pangolin uses travisci.org for ubuntu osx and ci.appveyor.com for windows.

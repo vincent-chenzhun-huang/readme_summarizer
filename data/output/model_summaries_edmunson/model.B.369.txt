@@ -1,1 +1,1 @@
-name cryptopensslrandom openssllibressl pseudorandom number generator access synopsis use cryptopensslrandom cryptopensslrandomrandomseedgoodrandomdata cryptopensslrandomrandomegdtmpentropy cryptopensslrandomrandomstatus or die unable to sufficiently seed the random number generator.
+jalpc.

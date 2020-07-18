@@ -1,1 +1,1 @@
-Paranamer - access to parameter names in Java5, 6, 7, 8
+rename variables used by a Cortex flow or subtask 

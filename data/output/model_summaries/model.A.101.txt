@@ -1,1 +1,1 @@
-your app is ready to be deployed see the section about deployment for more information.
+this option is used for tagging one or more datasets.

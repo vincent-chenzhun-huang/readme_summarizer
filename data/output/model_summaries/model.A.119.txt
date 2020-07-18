@@ -1,1 +1,1 @@
-visualize the data on the file.
+the gui only works via the command.

@@ -1,1 +1,1 @@
-openapi swagger connected service is a visual studio extension to generate code for formerly web service with nswag simply put it is like for or
+actions on google interactive canvas sample this sample demonstrates how to create an interactive canvas experience using actions on google for the google assistant using

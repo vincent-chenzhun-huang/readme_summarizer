@@ -1,1 +1,1 @@
-awesome wp developer tools a collection of plugins starter themes and tools to make wordpress development easier. table of contents wordpress api libraries wordpress plugins
+domain storytelling modeler a tool to visualize domain stories in your browser. about httpdomainstorytelling.org run the modeler you can try the modeler online at httpswww.wps.demodeler.

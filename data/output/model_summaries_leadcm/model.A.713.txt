@@ -1,1 +1,1 @@
-dialogflow agent to human handoff sample this sample consists of a simple dialogflow agent a node.js server and a web interface that together demonstrate an
+reactnativecalendarselect a date picker component like airbnb. you can select a date period from the calendar modal. examples ios examples android examples usage this component

@@ -1,1 +1,1 @@
-lights that are already on will be set to the new color.
+leopard will batch update and avoid too many page repaint.

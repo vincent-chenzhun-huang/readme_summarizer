@@ -1,1 +1,1 @@
-ankidrivepythonsdk this is a python wrapper to readsend message fromto anki overdrive bluetooth vehicles. the project was designed for the a.i. blog series selfdriving very
+autoedaresources a list of software and papers related to automated exploratory data analysis including fast data exploration and visualization augmented analytics visualization recommendation and other

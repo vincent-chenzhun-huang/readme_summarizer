@@ -1,1 +1,1 @@
-How to get at R source. I am sick of Googling this. I am writing it down this time.
+avoid XSS attacks

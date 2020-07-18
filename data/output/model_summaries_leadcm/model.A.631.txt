@@ -1,1 +1,1 @@
-gopanos a go package that interacts with palo alto devices using their xml api. for official and detailed package documentation please visit the godoc page.
+opencvmodulebuild use different tools to compile the opencv module opencv模块裁剪编译 email kevinlq0912163.com qq 2313828706 oschina httpgit.oschina.netkevinlq0912 github httpsgithub.comkevinlq 环境说明 oswindows7 64b qt 5.7.0 mingw53032 cmake3.10.0rc3w64

@@ -1,1 +1,1 @@
-i have a big which i need to scroll up and down. i do this by copying a part of the bitmap to a different
+gnomeshellextensiontaskwhisperer is a simple extension for displaying pending tasks created by taskwarrior in gnome shell. the data is fetched from export function of taskwarrior taskwarrior

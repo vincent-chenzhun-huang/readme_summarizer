@@ -1,1 +1,1 @@
-parameter description default value the ssh public key to be placed in authorizedkeys home.sshidrsa.pub the path of the iso image created by this script ubuntunetbootamd64unattended.iso boot the created iso image on the target vm or physical machine.
+mamo t. et al. 2017 soil nutrient maps of subsaharan africa assessment of soil nutrient content at 250 m spatial resolution using machine learning.

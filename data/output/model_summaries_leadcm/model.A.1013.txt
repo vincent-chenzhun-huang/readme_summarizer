@@ -1,1 +1,1 @@
-stevegroommkdocsbuildlatest dockerfile to run mkdocs build command usage to mount the required external directories and build the content if you have any issue then add
+neural sequence labeling a tensorflow implementation of neural sequence labeling model which is able to tackle sequence labeling tasks such as partofspeech pos tagging chunking

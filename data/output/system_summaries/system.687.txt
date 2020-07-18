@@ -1,1 +1,1 @@
-DHI MATLAB Toolbox containing MATLAB scripts for working with DHI files
+scrape the details of Top 250 Indian movies at https wwwimdbcomindiatopratedindianmovies refnvmv250in and performed different analysis based on year decade genres director language and cast 

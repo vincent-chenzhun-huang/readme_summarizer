@@ -1,1 +1,1 @@
-metroframework winforms on steroids.
+added in three new methods for the sorting component footable.sortingtoggleallowedstate footable.sortinghaschanged and footable.sortingreset.

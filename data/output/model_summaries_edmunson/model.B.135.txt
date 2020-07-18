@@ -1,1 +1,1 @@
-homeassistantconfiguration home assistant configuration files yamls.
+instruction and get the output like below where the normal ping output is like prerequisite and are required.

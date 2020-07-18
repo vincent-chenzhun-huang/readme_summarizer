@@ -1,1 +1,1 @@
-In this mini series we are going to Design and Build a chat application using Socket.io. We will first discuss basic design concepts while exploring the design for this application in Sketch. We will then move on to laying out our application in HTML and 
+debugging android databases and shared preferences Make Debugging Great Again

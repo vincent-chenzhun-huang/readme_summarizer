@@ -1,1 +1,1 @@
-the questrade ruby api gem a ruby interface to use the questrade api. quick start create a questrade demo account on add the following line
+jekyll rss feed templates note if youre a fan of this project you should checkout the sister project jekylljsonfeeds. a few liquid templates to use

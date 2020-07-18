@@ -1,1 +1,1 @@
-some features pick your screenshots from gallery extract primary colors from your screenshots select the background color to decorate your screenshots save as highres image to your album build to build this app for both ios and android please refer to the flutter doc.
+if you open several vim editors only the first one will be controlled by the vimpyserver.

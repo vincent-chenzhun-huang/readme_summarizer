@@ -1,1 +1,1 @@
-redom develop web apps with 100 javascript and web standards.
+this will install and which are necessary for us to generate the go and gopherjs files.

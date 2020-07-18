@@ -1,1 +1,1 @@
-arduino websockets a library for writing modern websockets applications with arduino esp8266 and esp32. this project is based on my project tinywebsockets. the library provides
+yr.noforecast wrapper to easily get weather data for a specified location in json format. uses yr.nointerface under the hood. see the api docs at yr.no.

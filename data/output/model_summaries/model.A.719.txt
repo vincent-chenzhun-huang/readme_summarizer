@@ -1,1 +1,1 @@
-i figured out that i wanted to be able to walk and have an app direct me based on whether or not there are objects in my path.
+have a story please share repos historically diamond was a brightcove project and hosted at brightcoveos.

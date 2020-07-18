@@ -1,1 +1,1 @@
-use your existed mongoose schema to generate graphql types. date fields supported they get serialized to iso date string full support of all graphql definitions
+iqkeyboardmanager while developing ios apps we often run into issues where the iphone keyboard slides up and covers the . allows you to prevent this

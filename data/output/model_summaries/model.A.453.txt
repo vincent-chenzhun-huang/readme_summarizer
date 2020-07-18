@@ -1,1 +1,1 @@
-features an intuitive and powerful configuration interface custom textures including all textures from power auras and blizzards spell alerts progress bars and textures that show the exact duration of auras displays based on auras health power mana rage soul shards holy power etc.
+if that option is checked the header url and footer url fields display the urls that should be retrieved by external websites when using your sites header and footer.

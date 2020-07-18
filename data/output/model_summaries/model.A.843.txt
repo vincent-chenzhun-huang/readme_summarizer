@@ -1,1 +1,1 @@
-props name type description authenticated boolean whether the user is authenticated or not redirectto string the route to redirect the user to if not authenticated component react component the component that requires authentication unauthroute use this component if you have a route that a user should only be able to access if they arent already authenticated.
+hidden drawer menu hidden drawer menu is a library for adding a beautiful drawer mode menu feature with perspective animation.

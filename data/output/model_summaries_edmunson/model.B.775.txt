@@ -1,1 +1,1 @@
-visual studio snippet converter this is a small project to convert visual studios code snippets xml .snippet files to vs code code snippets rider live templates experimental this tool is available as a .net global tool that is easily installable as a command line utility using the .net core sdk 2.1 or later.
+fpplatform fpplatform is the fixedprice marketplace software that is capable to launch fiverr clones microworkers etc.

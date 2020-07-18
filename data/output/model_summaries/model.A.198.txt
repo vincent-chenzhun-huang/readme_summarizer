@@ -1,1 +1,1 @@
-pickout cool and powerful effect to select fields.
+if you chose default namespace admin configuration global in details to begin with you may be interested in setting up devise cancancan or papertrail per model details models groups fields support if you have a question please check this readme the wiki and the list of known issues.

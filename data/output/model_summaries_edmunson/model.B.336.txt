@@ -1,1 +1,1 @@
-this is repo for the main application.
+plantuml diagram generator for salesforce orgs salesforceplantuml is a native force.com application that renders uml class diagrams for a given set of apex classes or sobjects.

@@ -1,1 +1,1 @@
-so if there is no params passed to indoormap it will create a fullscreen 3d map by default 3 load the map data and set up its styles.
+in the method dodijkstrastring s implement dijkstras algorithm starting at the city with name s. use the distances associated with the edges.

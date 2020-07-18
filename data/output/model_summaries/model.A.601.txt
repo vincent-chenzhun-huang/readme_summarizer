@@ -1,1 +1,1 @@
-commands build builds the project for production producing the bundled assets at .
+the following properties of the apimodel class are available to all responses with each response binding its own additional properties.

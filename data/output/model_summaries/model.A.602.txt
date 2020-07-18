@@ -1,1 +1,1 @@
-dependencies pomegranate requires to run the tests you also must have installed.
+just make sure to change the code to javascript es6.

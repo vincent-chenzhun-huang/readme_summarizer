@@ -1,1 +1,1 @@
-Fork of Bitcore to work on Qtum - Not as well tested and primarily used for the extra RPC calls needed for the block explorer
+connect 4 discs consecutively in a straight line horizontally vertically or diagonally WINS D

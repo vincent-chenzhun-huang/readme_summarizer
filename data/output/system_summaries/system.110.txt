@@ -1,1 +1,1 @@
-Helper for verifying a board definition works as expected
+detect fetal trisomies and estimate fetal fraction

@@ -1,1 +1,1 @@
-appinfoparser appinfoparser is a parser for parsing or files.
+your project will have to have keychain sharing enabled for lockbox to access the keychain but you can remove any keychain groups that xcode adds.

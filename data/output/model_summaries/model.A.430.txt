@@ -1,1 +1,1 @@
-galeforce galeforce is a project to customise the google wifi router.
+loading screen seed this project is an application skeleton for building a garrys mod loading screen.

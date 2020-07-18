@@ -1,1 +1,1 @@
-i18n.js its a small library to provide the rails i18n translations on the javascript. features pluralization datetime localization number localization locale fallback asset pipeline support
+sidekiqstatus an extension to sidekiq message processing to track your jobs. inspired by resquestatus and mostly copying its features using sidekiqs middleware. fully compatible with

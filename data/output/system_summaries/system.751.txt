@@ -1,1 +1,1 @@
-Java library which allows to build a queryable index from a text corpus
+implementing OpenGL accelerated Qt5 C UI components 

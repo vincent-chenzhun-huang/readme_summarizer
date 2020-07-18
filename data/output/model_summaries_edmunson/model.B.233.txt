@@ -1,1 +1,1 @@
-this project was bootstrapped with create react app.
+awesome keycloak carefully curated list of awesome keycloak resources.

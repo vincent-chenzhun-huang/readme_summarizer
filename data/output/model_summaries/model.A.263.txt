@@ -1,1 +1,1 @@
-create simple queries spring data mongodb focuses on storing data in mongodb.
+rospy is an interface to python inside ros but it also enforces some behaviors that are specific to ros expect the whole ros environment is already setup before start source workspacedevelsetup.bash initializing a node is mandatory to communicate on topics but not services only one node can be initialized once per process some global side effects can break things around.

@@ -1,1 +1,1 @@
-aws fullstack template aws fullstack template is a fullstack sample web application that creates a simple crud create read update delete app and provides the foundational services components and plumbing needed to get a basic web application up and running.
+sdrtrunk a crossplatform java application for decoding monitoring recording and streaming trunked mobile and related radio protocols using software defined radios sdr.

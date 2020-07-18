@@ -1,1 +1,1 @@
-this project was bootstrapped with create react app.
+pirnaseqpipeline a pipeline for processing srnaseq data tailored for pirna discovery and annotation.

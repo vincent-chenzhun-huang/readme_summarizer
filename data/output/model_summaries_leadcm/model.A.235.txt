@@ -1,1 +1,1 @@
-babelesmplugin add this plugin to generate mirrored esm modules for your existing bundles. you may use these bundles in in your webapp and ship less
+plutorospackage this package canbe used to control pluto or plutox using keyboard joystick or rostopic getting started use following instructions on how to use this

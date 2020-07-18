@@ -1,1 +1,1 @@
-yr.noforecast wrapper to easily get weather data for a specified location in json format. uses yr.nointerface under the hood. see the api docs at yr.no.
+tools for analyzing icechipseq datasets this repository contains scripts and tools for analyzing icechipseq data as described by grzybowski et al. 2015 and shah et

@@ -1,1 +1,1 @@
-what well cover html css javascript es6 template strings map arrow functions flexbox and css variables npm node express socket.io web design with sketch in this mini series we are going to design and build a chat application using socket.io.
+android debug database android debug database is a powerful library for debugging databases and shared preferences in android applications android debug database allows you to view databases and shared preferences directly in your browser in a very simple way what can android debug database do see all the databases.

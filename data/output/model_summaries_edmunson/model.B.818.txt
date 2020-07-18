@@ -1,1 +1,1 @@
-blockscout blockchain explorer for inspecting and analyzing evm chains.
+faker this gem is a port of perls datafaker library that generates fake data.

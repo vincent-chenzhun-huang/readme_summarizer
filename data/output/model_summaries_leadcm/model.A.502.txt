@@ -1,1 +1,1 @@
-matic sdk this repository contains the client library. makes it easy for developers who may not be deeply familiar with smart contract development to interact
+openaerialmap oam what is openaerialmap imagery from satellites unmanned aerial vehicles uavs and other aircraft is becoming increasingly available after a disaster. it is often

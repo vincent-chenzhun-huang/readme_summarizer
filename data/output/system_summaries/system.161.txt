@@ -1,1 +1,1 @@
-Cpp header only library to manage compile time mock class generated via Python script
+TypeScript Contains both before an after code with the stepbystep process in the README below 

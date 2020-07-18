@@ -1,1 +1,1 @@
-dakiya collects postman collections sorts and delivers transformed scripts.
+to get the celebahq dataset you need to a download the celeba dataset b download some extra files c do some processing to get the hq images .

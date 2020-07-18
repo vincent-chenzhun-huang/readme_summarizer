@@ -1,1 +1,1 @@
-conjuriamapikey get an iam api key used by conjur or get a sdk client using iam authentication.
+try tensorflow example code to try out tensorflow.

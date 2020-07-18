@@ -1,1 +1,1 @@
-Parallelization of the commonly used MobCal suite to calculate ion mobilities and collision cross sections
+support custom resource types based on APIServer Aggregation

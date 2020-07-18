@@ -1,1 +1,1 @@
-awesome visibility curating the best links to get visibility for your products.
+sbtprotobuf a plugin for sbt that transforms .proto files into gazillionloc java source files and potentially to other languages too.

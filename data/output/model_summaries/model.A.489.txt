@@ -1,1 +1,1 @@
-installation of responsive library will bring in all dependency packages this will include startup.csconfigureservicesadddetectionadddetectioncoreadddeviceaddbrowseraddplatformaddengineadds the engine resolver service to the detection core services builder.
+dgx pod hybrid cluster a hybrid cluster with both kubernetes and slurm can also be deployed.

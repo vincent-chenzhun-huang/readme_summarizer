@@ -1,1 +1,1 @@
-Diaperbase is an inventory system for diaper banks, to aid them in tracking their inventory and providing statistics about their inventory flows.
+slicing within OctoPrint

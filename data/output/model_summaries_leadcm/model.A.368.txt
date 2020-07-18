@@ -1,1 +1,1 @@
-rpiclone version 2 is a complete rewrite with improved capability over the original. see the examples below. rpiclone is a shell script that is for
+deepstream 3.0 360 degree smart parking application this document describes the full end to end smart parking application that is available with deepstream 3.0. the

@@ -1,1 +1,1 @@
-pythran httppythran.readthedocs.io what is it pythran is an ahead of time compiler for a subset of the python language with a focus on scientific computing.
+prisma on heroku example this repository showcases how to deploy prisma to heroku. prerequisites a heroku account. heroku cli installed. docker installed. stepbystep example deployment

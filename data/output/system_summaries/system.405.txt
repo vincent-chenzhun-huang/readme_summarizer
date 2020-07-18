@@ -1,1 +1,1 @@
-A .NET Core global tool to display outdated NuGet packages in a project
+setting up the API and grpc sample codes 

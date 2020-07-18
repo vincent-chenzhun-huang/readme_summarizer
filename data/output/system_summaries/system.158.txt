@@ -1,1 +1,1 @@
-Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
+showcase the Prometheus Monitoring on ActiveMQ Elasticsearch MongoDB

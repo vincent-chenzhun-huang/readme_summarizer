@@ -1,1 +1,1 @@
-vinylcontents utility to read the contents of a vinyl file.
+you should do the same as how to set a value to a row.

@@ -1,1 +1,1 @@
-trellohub microservice for synchronising a trellobased workflow with github issues.
+usage set up a company this app supports multiple companies or your custom model with multiple opening and closing hours.

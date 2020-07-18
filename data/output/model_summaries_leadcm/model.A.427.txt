@@ -1,1 +1,1 @@
-this project was bootstrapped with create react app. available scripts in the project directory you can run runs the app in the development mode. open
+trooba truba means pipe in russian and it is not a pipe. what is it trooba a fast isomorphic lightweight pipeline framework from ebay. trooba

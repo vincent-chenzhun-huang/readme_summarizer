@@ -1,1 +1,1 @@
-machinelearningstocks in python a starter project and guide machinelearningstocks is designed to be an intuitive and highly extensible template project applying machine learning to making stock predictions.
+obfsproxyopenvpn isps in high authorian regimes can easily detect and block standard vpn traffic.this bash script automatically install openvpn and obfsproxy to obsfucate openvpn traffic making it very difficult to detect and block.at the time of this writing this method successfully bypasses current firewalls and internet filters.

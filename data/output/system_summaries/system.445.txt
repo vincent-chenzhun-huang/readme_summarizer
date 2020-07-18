@@ -1,1 +1,1 @@
-a task for building Docker images without a Docker daemon
+manage an Assetto Corsa Server 

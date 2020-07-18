@@ -1,1 +1,1 @@
-A Gradle plugin that uses Asciidoctor via JRuby to process AsciiDoc source files within the project.
+interfacing with many crypto currency exchanges REST and web sockets are supported Fork from

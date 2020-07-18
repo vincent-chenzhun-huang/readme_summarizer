@@ -1,1 +1,1 @@
-here is the list of the current available fields and methods the function location.updatedevices is used to update devices for a location.
+apache fineract cn template this project provides a template layout for all apache fineract cn services.

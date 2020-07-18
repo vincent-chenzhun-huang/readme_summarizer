@@ -1,1 +1,1 @@
-this project contains a verilator fft to screen spectrogram demonstration.
+in case of ssh login it means pulling a mitm attack between the user and the ssh server.

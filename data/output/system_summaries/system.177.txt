@@ -1,1 +1,1 @@
-Independent Project for MC18 week 1 requiring using Angular to create an application where users can create quotes and have those quotes voted on.
+solving secondquantized Hamiltonians

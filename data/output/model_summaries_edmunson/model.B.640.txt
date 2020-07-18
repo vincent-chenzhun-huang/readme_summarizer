@@ -1,1 +1,1 @@
-readme overview follow me wesnolte jquery orgchart is a plugin that allows you to render structures with nested elements in a easytoread tree structure.
+eventereum eventereum is an initiative to create a free and open source platform to facilitate funding of events on the ethereum blockchain.

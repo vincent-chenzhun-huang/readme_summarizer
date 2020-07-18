@@ -1,1 +1,1 @@
-qsemgoimagegrid qlik sense extension to display images for use with qlik sense download a zip of just the v3.16 extension ready to add to server
+about reflective dll injection is a library injection technique in which the concept of reflective programming is employed to perform the loading of a library

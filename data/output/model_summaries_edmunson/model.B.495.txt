@@ -1,1 +1,1 @@
-raspgm installation of conversion to wrfv3 decide on a and make the directory if necessary.
+modbusmaster overview this is an arduino library for communicating with modbus slaves over rs232485 via rtu protocol.

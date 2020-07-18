@@ -1,1 +1,1 @@
-awesometextsummarization a curated list of resources dedicated to text summarization table of contents corpus text summarization software word representations word representations for chinese evaluation of
+ansistack this repository contains tools for running cloud like infrastructure without cloud like apis. the tools themselves are ansible playbooks which interact with hosts to

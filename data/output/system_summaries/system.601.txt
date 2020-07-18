@@ -1,1 +1,1 @@
-MOXY's boilerplate to create isomorphic react applications
+integrating with version 4 of the Apruvd API

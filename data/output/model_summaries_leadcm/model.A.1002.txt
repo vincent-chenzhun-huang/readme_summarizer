@@ -1,1 +1,1 @@
-codicefiscale a php library to calculate and check the italian tax code codice fiscale. read this in italian. install you can install the library using
+net2blend export igraph networks from r and convert them to blender objects. how to use note built under blender 2.8 read the r function into

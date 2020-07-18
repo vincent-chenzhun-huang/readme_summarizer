@@ -1,1 +1,1 @@
-Resources to help you choose a governance system for your project
+Learning React by Alex Banks and Eve Porcello published by OReilly Media

@@ -1,1 +1,1 @@
-A shell script to clone a booted disk.
+end smart parking application that is available with DeepStream 30

@@ -1,1 +1,1 @@
-start after configuring the file routine you can launch the multitest task by startup script .repbenchmark.sh then the test information will show in terminal.
+option is now named option nohide is now named permanent default offset is now 6 6 default direction is now auto default opacity is now 0.9 the css has been fully refactored bonus l.tooltip also works for paths polygons polylines etc.

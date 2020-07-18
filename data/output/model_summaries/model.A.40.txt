@@ -1,1 +1,1 @@
-getting started see exq for using the exq library.
+dapperextensions dapper httpsgithub.comstackexchangedapper dapperextensions download httpsgithub.comznyetdapperextensionsreleases open source and zero config simple curd 1、idbconnection 2、table class 2、ready to fly all the method has async extensions codegenerator if database is oracle or postgresql please use modeldapperextensionsfororacleandpgsql.txt template also java getter and setter razor template template message if you think its very helpful to you you can buy me a cup of coffee.

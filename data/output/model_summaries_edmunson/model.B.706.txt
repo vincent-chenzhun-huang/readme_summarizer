@@ -1,1 +1,1 @@
-this project was bootstrapped with create react app.
+eloquenttaggable easily add the ability to tag your eloquent models in laravel 5. note these instructions are for laravel 5.8. if you are using laravel 5.7 please see the previous versions docs.

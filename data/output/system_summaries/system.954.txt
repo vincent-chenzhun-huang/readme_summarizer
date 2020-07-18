@@ -1,1 +1,1 @@
-jQuery plugin extending jquery-datatables to support tree data
+any web or mobile application via TipeIO

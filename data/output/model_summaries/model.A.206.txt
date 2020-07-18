@@ -1,1 +1,1 @@
-required string password.
+install the project requirements.

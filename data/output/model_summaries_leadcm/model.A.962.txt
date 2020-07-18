@@ -1,1 +1,1 @@
-labutils utilities to aid in lab administration editing the people page on the lab website much of the html on the people page of the
+capitaine cursors this is an xcursor theme inspired by macos and based on kde breeze. the source files were made in inkscape and the theme

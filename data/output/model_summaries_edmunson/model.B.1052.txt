@@ -1,1 +1,1 @@
-multiclass segmentation pipeline about this repo contains a pipeline to train networks for automatic multiclass segmentation of mris nifti files.
+good first issue a cli for finding issues labeled with good first issue to help lower the barrier to contributing to open source projects.

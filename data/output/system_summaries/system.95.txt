@@ -1,1 +1,1 @@
-Tiny (2 KB) turboboosted JavaScript library for creating user interfaces.
+getting started with GopherJS using gRPCWeb

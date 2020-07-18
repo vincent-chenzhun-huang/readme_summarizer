@@ -1,1 +1,1 @@
-hairsalon this repository contains my java application hair salon that enables the user to add update and delete hair stylists and clients hair salon application
+engineering computations module 1 engineering computations is a collection of stackable learning modules flexible for adoption in different situations. it aims to develop computational skills

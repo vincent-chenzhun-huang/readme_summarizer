@@ -1,1 +1,1 @@
-dockerize utility to simplify running applications in docker containers. dockerize is a utility to simplify running applications in docker containers. it allows you to generate
+laravel page speed simple package to minify html output on demand which results in a 35 optimization. installation you can install the package via composer

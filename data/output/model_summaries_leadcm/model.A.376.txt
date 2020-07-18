@@ -1,1 +1,1 @@
-cordova diagnostic plugin overview important notes native environment required building for android installation using the cordovaphonegapionic cli phonegap build android support library specifying modules available
+centraldirectory the central directory is a series of services that allows dfsps to register and retrieve scheme identifiers. the scheme identifier can be leveraged by

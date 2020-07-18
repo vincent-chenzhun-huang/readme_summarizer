@@ -1,1 +1,1 @@
-A repository to accompany select applied session during VADA summer school of June 2019.
+your projects It abstracts away the atrocities of querying by using common methods while still giving you full control of your queries 

@@ -1,1 +1,1 @@
-terraform aws log bucket blueprint a terraform module to create hardened log s3 bucket for aws services.
+gitflowpractise a textfile based thing for practising git flow workflow.

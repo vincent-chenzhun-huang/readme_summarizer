@@ -1,1 +1,1 @@
-citrix app layering powershell sdk beta this is a reversed engineered sdk that emulates the soap calls that al uses to manage the appliance. currently
+shibidpbeat welcome to shibidpbeat. ensure that this folder is at the following location getting started with shibidpbeat requirements golang 1.7 init project to get running

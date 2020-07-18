@@ -1,1 +1,1 @@
-graphqlshield graphql server permissions as another layer of abstraction overview graphql shield helps you create a permission layer for your application. using an intuitive ruleapi
+pyeqcollections old python code to build a collection items inventory page this is tailored to handle using houses to store collectibles. this builds a web

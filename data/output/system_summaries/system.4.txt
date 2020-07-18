@@ -1,1 +1,1 @@
-A library to help construct a graphql-js server supporting react-relay.
+compare 2 csv files with and without data cleanup

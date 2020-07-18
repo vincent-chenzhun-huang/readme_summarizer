@@ -1,1 +1,1 @@
-table of contents before you begin installation examples running in ibm cloud authentication getting credentials iam username and password sending requests asynchronously sending request headers parsing http response info configuring the http client using websockets ruby version contributing license featured projects before you begin you need an ibm cloud account.
+so yubiswitch installs an helper daemon with root privileges which contains the logic to grab the usb hid interface the main application talks to this daemon via xpc calls.

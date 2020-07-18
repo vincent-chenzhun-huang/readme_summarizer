@@ -1,1 +1,1 @@
-How to add badge (eg: Travis-CI & GoReportCard & Coveralls & Codecov ) in Github README.
+have 100 compatibility with JavaScript engines 

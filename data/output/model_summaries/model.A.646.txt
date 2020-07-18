@@ -1,1 +1,1 @@
-gstreamer video analytics plugins this is preview of the product functionality that is being introduced to gain early developer feedback.
+assuming it is in the path it could be run from the command prompt as python.exe filename.py or simply python filename.py if the above instructions doesnt help visit python.org for os specific instructions.

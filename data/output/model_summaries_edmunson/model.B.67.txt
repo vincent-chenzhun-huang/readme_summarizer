@@ -1,1 +1,1 @@
-govdomwasm this package allows to build frontend applications in go targeting webassembly.
+jwtdecode.swift this library will help you check jwt payload this library doesnt validate the token any well formed jwt can be decoded from base64url.

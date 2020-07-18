@@ -1,1 +1,1 @@
-brisk a crossplatform set of tools for building native uis with reasonocaml.
+this is a hugo theme component.

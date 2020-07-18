@@ -1,1 +1,1 @@
-sales pitch ever felt the pain of transferring files to your peers yeah well weve got facebook and email to transfer them.
+sunspot matchers sunspot is a great ruby library for constructing searches against solr.

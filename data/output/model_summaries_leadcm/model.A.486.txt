@@ -1,1 +1,1 @@
-tinycareterminal this is a little dashboard that tries to take care of you when youre using your terminal. it tells you cute self care things
+react mercury overview this package provides reactivity to mercury data using a react high order component. it also dispatchs automatically the read method of the

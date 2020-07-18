@@ -1,1 +1,1 @@
-this project was bootstrapped with create react app. available scripts in the project directory you can run runs the app in the development mode. open
+pirnaseqpipeline a pipeline for processing srnaseq data tailored for pirna discovery and annotation. full version of the pipeline will execute all processing steps and can

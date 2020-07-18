@@ -1,1 +1,1 @@
-labelbox labelbox is the fastest way to annotate data to build and ship artificial intelligence applications. this github repository is about building custom interfaces on
+torchfusion a modern deep learning framework built to accelerate research and development of ai systems. based on pytorch and fully compatible with pure pytorch and

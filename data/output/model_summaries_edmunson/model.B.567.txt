@@ -1,1 +1,1 @@
-metroframework winforms on steroids.
+footable v3 this is a complete rewrite of the plugin.

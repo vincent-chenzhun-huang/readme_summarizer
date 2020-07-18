@@ -1,1 +1,1 @@
-A simple project to learn how to develop using Laravel
+checking my vim and vimrc shizzle

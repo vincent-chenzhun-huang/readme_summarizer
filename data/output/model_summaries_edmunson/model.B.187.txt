@@ -1,1 +1,1 @@
-zf http cache introduction is a zf2 module for automating httpcache tasks within a zend framework 2 application.
+sqlitejson convert sqlite3 tables to json command line interface one can either pass sql directly to sqlite or use the andor options to contrust a query.

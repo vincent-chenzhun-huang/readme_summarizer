@@ -1,1 +1,1 @@
-touchlight simple wifi touch lights that synchronize their colors from across the globe.
+wordpress github plugin updater this class is meant to be used with your github hosted wordpress plugins.

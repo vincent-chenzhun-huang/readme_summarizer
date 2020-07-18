@@ -1,1 +1,1 @@
-markdown editor and dbfield adds a field and a data type that allows for markdown editing uses a supported renderer default is the github api
+wcfluttershare a flutter plugin for sharing file text and subject at the same time with other applications. note for ios your flutters ios code needs

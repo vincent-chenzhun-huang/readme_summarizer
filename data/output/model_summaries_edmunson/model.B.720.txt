@@ -1,1 +1,1 @@
-my process the setup of this assessment was the first challenge for me i have not pushed one repository into another empty repository before.
+growthcurve analysis of biological growth the growthcurve package provides tools for analyzing biological growth or growth curves in r. it is designed to integrate into modern workflows based around tidy data allowing it to be used in conjunction with other tools.

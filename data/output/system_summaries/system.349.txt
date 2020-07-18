@@ -1,1 +1,1 @@
-A react native component used for making multiple choices.
+ease the data modelling experience using Qlik Associative Engine 

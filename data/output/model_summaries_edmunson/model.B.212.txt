@@ -1,1 +1,1 @@
-pwa studio magento pwa studio is a collection of tools that lets developers build complex progressive web applications on top of magento 2 stores.
+gpssdrsim realtime gpssdrsim generates gps baseband signal data streams which can be converted to rf using softwaredefined radio sdr platforms such as bladerf hackrf and usrp.

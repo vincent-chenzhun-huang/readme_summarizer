@@ -1,1 +1,1 @@
-this project was bootstrapped with create react app. available scripts in the project directory you can run runs the app in the development mode. open
+foundations sprint in this sprint youre going to practice your fundamentals by exploring how common javascript methods are actually just abstractions built on basic syntax.

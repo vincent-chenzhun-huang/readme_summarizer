@@ -1,1 +1,1 @@
-singlespaportalexample the goal of this project is to provide an example of how to build a portal like app which consists of multiple single page
+learn why its difficult to introduce elm to someone who has never heard of it before without sounding evangelical ... weve tried our best to

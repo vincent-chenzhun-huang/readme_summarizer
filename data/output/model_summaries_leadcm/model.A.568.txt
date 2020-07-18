@@ -1,1 +1,1 @@
-machine learning resources this is a curated list of resources that i have found useful regarding machine learning in particular deep learning. only books that
+circularanim english 中文 首先来看一个ui动效图。 效果图是是dribbble上看到的，原作品在此。 我所实现的效果如下： watch on youtube compile 最新可用版本 so你可以如下compile该项目，也可以直接把这个类 circularanim 拷贝到项目里去。 add this to the the project level build.gradle file add the

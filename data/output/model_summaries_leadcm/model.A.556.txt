@@ -1,1 +1,1 @@
-dumpreport dumpreport is a console application that creates a report as an html file from a windows usermode dump using windbg or cdb debuggers. it
+bazel watcher note this is not an official google product. a source file watcher for bazel projects ever wanted to save a file and have

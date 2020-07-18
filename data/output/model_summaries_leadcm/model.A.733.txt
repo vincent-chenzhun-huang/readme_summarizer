@@ -1,1 +1,1 @@
-description kill process is an alfred 2 workflow that makes it easy to kill misbehaving processes. it is in essence a way to easily find
+antivmdetection background a script to help you create templates which you can use with virtualbox to make vm detection harder. my first post on the

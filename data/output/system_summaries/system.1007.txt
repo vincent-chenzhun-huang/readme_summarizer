@@ -1,1 +1,1 @@
-An afternoon project to help students solidify Arrays.
+optimizing overbookings by hotel sales managers It relies on historical occupancy data current future reservations variable room costs and walk costs t

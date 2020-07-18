@@ -1,1 +1,1 @@
-syncfusion uwp samples this repository contains the demos of syncfusion uwp ui controls. this is the best place to check our controls to get more
+terraformawscloudtrails3bucket terraform module to provision an s3 bucket with built in policy to allow cloudtrail logs. this is useful if an organization uses a number

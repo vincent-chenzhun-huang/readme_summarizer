@@ -1,1 +1,1 @@
-malimbe a collection of tools to simplify writing public api components for the unity software. introduction malimbe for the unity software aims to reduce repetitive
+this project was bootstrapped with create react app. why does this exist this is an example of how to setup vscode to use eslint on

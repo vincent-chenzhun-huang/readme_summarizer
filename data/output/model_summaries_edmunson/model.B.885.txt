@@ -1,1 +1,1 @@
-liferay an ansible role to install and configure liferay portal.
+behatspec what integration between behat and phpspec.

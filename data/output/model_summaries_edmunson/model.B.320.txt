@@ -1,1 +1,1 @@
-densepose dense human pose estimation in the wild rıza alp güler natalia neverova iasonas kokkinos dense human pose estimation aims at mapping all human pixels of an rgb image to the 3d surface of the human body.
+deprecated the ansiblecontainer project is now officially deprecated.

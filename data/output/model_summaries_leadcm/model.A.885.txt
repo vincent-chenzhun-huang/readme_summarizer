@@ -1,1 +1,1 @@
-liferay an ansible role to install and configure liferay portal. requirements limitations this role was tested only on ansible 1.9.2 but may also work with
+behatspec what integration between behat and phpspec. creates specs for any missing classes encountered when running behat adds examples for any missing methods encountered when

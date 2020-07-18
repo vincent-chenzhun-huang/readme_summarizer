@@ -1,1 +1,1 @@
-maven extension to build the target platform dependencies in order to build and package a eclipse e4 application a target platform is needed.
+html5 applications repository cli plugin httpssap.github.iocfhtml5appsrepocliplugin description html5 applications repository cli plugin is a plugin for cloud foundry cli tool that aims to provide easy command line access to apis exposed by html5 application repository service.

@@ -1,1 +1,1 @@
-findwdk cmake module for building drivers with windows development kit wdk introduction usage kernel driver kernel library linking to wdk libraries samples license version history introduction findwdk makes it possible to build kernel drivers and kernel libraries with windows development kit wdk and cmake.
+if you would be interested in helping to maintain one of the most successful wysiwyg text editors on github let us know see issue 1503 mediumeditor this is a clone of medium.com inline editor toolbar.

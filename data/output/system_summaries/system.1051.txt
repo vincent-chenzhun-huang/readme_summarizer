@@ -1,1 +1,1 @@
-Use Mongoose schema to generate graphQL type.
+write any code nor any setup required and much more 

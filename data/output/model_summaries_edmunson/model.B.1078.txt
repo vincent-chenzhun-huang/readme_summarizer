@@ -1,1 +1,1 @@
-drawsignatureview drawsignatureview is a simple lightweight drawing framework written in swift.
+hand rotation estimation tutorial this repository presents a tutorial that will guide you through the various step needed to implement a complete pipeline for hand rotation estimation.

@@ -1,1 +1,1 @@
-tsmicrodict functions for representing plain objects as typesafe immutable dictionaries getting started usage
+esp8266audio supports esp8266 esp32 arduino library for parsing and decoding mod wav mp3 flac midi aac and rttl files and playing them on an i2s

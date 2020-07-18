@@ -1,1 +1,1 @@
-test lab guide tlg arm template repository the tlg repository contains arm templates used to deploy test lab guide tlg environments. tlgs help you quickly
+project details how do i complete this project review the online resume project rubric. in this project you will store your resume data in four

@@ -1,1 +1,1 @@
-A powerful financial data module used for pulling data from Yahoo Finance. This module can pull fundamental and technical data for stocks, indexes, currencies, cryptos, ETFs, Mutual Funds, U.S. Treasuries, and commodity futures.
+handle flutterdriver via WebDriverURL

@@ -1,1 +1,1 @@
-documentation all controls documentation for the syncfusion uwp controls can be found on syncfusion help.
+check out our other projects follow us on twitter apply for a job or hire us to help with your cloud strategy and implementation.

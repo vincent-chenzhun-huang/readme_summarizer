@@ -1,1 +1,1 @@
-installing console dash on raspberry pi video guide instructions are below but here is a video guide to help guide you through it. if rpi
+this is the reference code for cryptonote cryptocurrency protocol. launch your own cryptonote currency cryptonote starter cryptonote reference implementation cryptonotecoin discussion board and support cryptonote

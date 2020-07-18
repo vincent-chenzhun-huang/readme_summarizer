@@ -1,1 +1,1 @@
-whats sharpai deepcamera this is a unique repository in many ways. it’s a deep learning model open sourced to protect your privacy. the entire deepcamera
+reactnativesendintent react native android module to use androids intent actions for send text to shareable apps or make phone calls or opening third party apps.

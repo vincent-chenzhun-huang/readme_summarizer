@@ -1,1 +1,1 @@
-svg.draggable.js a plugin for the svgdotjs.github.io library to make elements draggable.
+a tags field for nova apps this package contains a nova field to add tags to resources.

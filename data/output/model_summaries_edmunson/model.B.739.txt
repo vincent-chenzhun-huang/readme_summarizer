@@ -1,1 +1,1 @@
-bento 🍱 弁当 is a singleportion takeout or homepacked meal common in japanese cuisine.
+googleplaygameserviceforunity3d google play service for unity is a unity plugin for google service.include google admob unitygoogle game api unity.google firebase unity loginachievementleaderboardeventquestsnapshotrealtimeplaygameturnbasedplaygame api are supported and easy to use with c or js.

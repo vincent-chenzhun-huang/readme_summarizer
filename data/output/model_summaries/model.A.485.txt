@@ -1,1 +1,1 @@
-svg подходит если изображение потом нужно загрузить в векторный графический редактор для доработки.
+to set a callback for attention data the syntax will be other variables attention meditation rawvalue delta theta lowalpha highalpha lowbeta highbeta lowgamma midgamma poorsignal and blinkstrength sample program 1 access via callback sample program 2 access via object python compatibility python v2.7.

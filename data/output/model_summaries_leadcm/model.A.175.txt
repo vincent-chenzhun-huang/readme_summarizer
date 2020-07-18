@@ -1,1 +1,1 @@
-lidar analysis title lidaranalysis options positional arguments location location harv or cata optional arguments h help show this help message and exit s start start
+telegramforwardbot simple telegram bot for forwarding messages easily between various related channels and groups. this bot allows you to automatically forward messages between different channels.

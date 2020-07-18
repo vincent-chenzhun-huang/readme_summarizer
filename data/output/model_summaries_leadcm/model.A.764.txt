@@ -1,1 +1,1 @@
-devise security extension an enterprise security extension for devise trying to meet industrial standard security demands for web applications. it is composed of 7 additional
+isis3 table of contents installation installation this installation guide is for isis3 users interested in installing isis3 3.6.0 through conda. isis3 installation with conda download

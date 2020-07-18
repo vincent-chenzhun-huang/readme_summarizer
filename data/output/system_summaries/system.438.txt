@@ -1,1 +1,1 @@
-Library to interact with gardena smart system
+creating new services Contains best practices examples and documentation

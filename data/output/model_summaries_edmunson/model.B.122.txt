@@ -1,1 +1,1 @@
-the engineering managers booklist books for people who are or aspire to managelead teams of software engineers.
+bashblog a single bash script to create blogs.

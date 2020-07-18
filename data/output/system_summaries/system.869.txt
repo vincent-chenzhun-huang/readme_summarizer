@@ -1,1 +1,1 @@
-A toolbox for submitting WW3 runs on Yellowstone and Cheyenne
+utilize GPU acceleration 

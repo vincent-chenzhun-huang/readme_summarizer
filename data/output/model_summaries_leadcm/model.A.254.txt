@@ -1,1 +1,1 @@
-headgazelib what is the project is a pure swift library to empower ios app control through head gaze without a finger touch. see the story
+easyflash 1、介绍（english） easyflash是一款开源的轻量级嵌入式flash存储器库，方便开发者更加轻松的实现基于flash存储器的常见应用开发。非常适合智能家居、可穿戴、工控、医疗等需要断电存储功能的产品，资源占用极低，支持各种 mcu 片上存储器。该库主要包括 三大实用功能 ： env 快速保存产品参数，支持 写平衡（磨损平衡） 及 掉电保护 功能 easyflash不仅能够实现对产品的 设定参数 或 运行日志 等信息的掉电保存功能，还封装了简洁的 增加、删除、修改及查询 方法， 降低了开发者对产品参数的处理难度，也保证了产品在后期升级时拥有更好的扩展性。让flash变为nosql（非关系型数据库）模型的小型键值（keyvalue）存储数据库。 iap 在线升级再也不是难事儿 该库封装了iapinapplication programming功能常用的接口，支持crc32校验，同时支持bootloader及application的升级。

@@ -1,1 +1,1 @@
-MvcCore Router extension to manage multiple websites in a single project, defined by domain routes, targeted by module property in URL completing.
+building ansible inventory files 

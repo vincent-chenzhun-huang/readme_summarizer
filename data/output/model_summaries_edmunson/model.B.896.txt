@@ -1,1 +1,1 @@
-hayasaka suite of discord bots.
+gatsbyremarkchecklinks a gatbsy remark plugin that detects broken links to pages and headings among your websites markdown pages.

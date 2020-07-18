@@ -1,1 +1,1 @@
-quick cli for exploring the fb graphql api literally tossed together in a few hours to save time inspecting what fields are actually supported since the fb api docs i find super frustrating to read through and understand.
+this gem refreshes the tokens on each request and expires them in a short time so the app is secure.

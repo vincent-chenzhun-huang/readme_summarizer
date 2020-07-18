@@ -1,1 +1,1 @@
-A CLI toolchain for simplifying serverless web and mobile development.
+developing applications on Clover StationMobileMiniFlex

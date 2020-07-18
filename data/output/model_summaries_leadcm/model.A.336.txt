@@ -1,1 +1,1 @@
-this is repo for the main application. if you are looking for the images and scripts used in this app please visit here anlinux run
+plantuml diagram generator for salesforce orgs salesforceplantuml is a native force.com application that renders uml class diagrams for a given set of apex classes or

@@ -1,1 +1,1 @@
-An interface to enhance stability of Digi XBee LTE-M radio with EnviroDIY Mayfly Logger
+support piano player using MIDI interface

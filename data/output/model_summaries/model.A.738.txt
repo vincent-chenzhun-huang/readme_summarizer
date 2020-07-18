@@ -1,1 +1,1 @@
-as in above the elimination of interface method sets and permission to add methods to existing types the replacement for interface methods is the declaration of structs containing methods.
+time lock 1hives time lock app allows an aragon organization to require users to lock tokens by sending them to the time lock app for a configurable period of time in order to forward an intent.

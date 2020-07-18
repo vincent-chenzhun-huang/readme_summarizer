@@ -1,1 +1,1 @@
-runc introduction is a cli tool for spawning and running containers according to the oci specification. releases depends on and tracks the runtimespec repository. we
+cpu scheduler simulator this program simulates a cpu scheduler which runs processes based on a number of input metrics. average arrival rate lambda in processessecond.

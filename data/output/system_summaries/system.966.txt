@@ -1,1 +1,1 @@
-This project is to formalise the iPinYou RTB data into a standard format for further researches.
+invoke custom code from a bot a tab or both C NET version 

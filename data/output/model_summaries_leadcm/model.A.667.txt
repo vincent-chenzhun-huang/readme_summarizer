@@ -1,1 +1,1 @@
-pysumma the pysumma is an objectoriented python wrapper for the manipulation display and analysis of summa model structure for unifying multiple modeling alternatives summa web
+tvh and tvhb applications applications to assist categorising and moving tvheadend recordings into the kodi tv show movie file stores. user install configuration make targets

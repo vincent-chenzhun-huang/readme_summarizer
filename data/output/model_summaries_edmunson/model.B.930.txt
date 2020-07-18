@@ -1,1 +1,1 @@
-tech2xl python script to extract info from cisco devices commands and create an excel file version 1.0 author andrés gonzález usage python tech2xl ... example python tech2xl report.xls showtech.txt requirements and installation requires python 3.5 requires xlwtfuture library download from httpspypi.python.orgpypixlwtfuture how it works tech2xl parses the text of the input files looking for certain information.
+jqcandlestick jquery plugin for creating line bar and candlestick charts.

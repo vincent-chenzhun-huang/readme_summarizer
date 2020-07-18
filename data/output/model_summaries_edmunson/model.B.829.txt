@@ -1,1 +1,1 @@
-a this is a very simple c implementation of the a algorithm for pathfinding on a twodimensional grid.
+box skills samples custom skills for processing images these are community created box skills samples for processing image files on box.

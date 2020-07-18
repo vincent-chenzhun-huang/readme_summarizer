@@ -1,1 +1,1 @@
-This bundle introduces all the necessary logic in order to save admiistrable configuration in the database or in any  other way. 
+creating lightningfast websites with Gatsby v2 and NetlifyCMS v2 Uploadcare intergration 

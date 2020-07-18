@@ -1,1 +1,1 @@
-getting started to run appstreambuilder you either need to install the package containing the binary and data files or you can build a local copy.
+trimesh is a pure python 2.7 3.3 library for loading and using triangular meshes with an emphasis on watertight surfaces.

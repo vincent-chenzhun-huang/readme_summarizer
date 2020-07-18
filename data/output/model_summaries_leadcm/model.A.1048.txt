@@ -1,1 +1,1 @@
-videoplayermanager this is a project designed to help controlling android mediaplayer class. it makes it easier to use mediaplayer listview and recyclerview. also it tracks
+wip godotbombermatchmakingserver a simple game client and nodejs server to create matches between random players for godot bomber demo poc. inspired by godot tcp demo

@@ -1,1 +1,1 @@
-dockernginxrtmp a dockerfile installing nginx nginxrtmpmodule and ffmpeg from source with default settings for hls live streaming.
+grab the nginx source code from nginx.org for example the version 1.8.0 see nginx compatibility and then build the source with this module back to toc author xiaokai wang 王晓开 weibo inc. back to toc copyright and license this readme template copy from agentzh.

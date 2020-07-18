@@ -1,1 +1,1 @@
-google tts script for asterisk this script makes use of googles translate text to speech service in order to render text to speech and play it back to the user.
+you will be building a portfolio website from a template found on httpshtml5up.net.

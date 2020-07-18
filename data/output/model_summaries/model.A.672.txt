@@ -1,1 +1,1 @@
-8. secrets.yml your rails apps may have a configsecrets.yml file that specifies the rails secret key.
+power bi visuals learn how to build power bi visuals developing your first powerbi visual this section is to provide you with a step by step tutorial of developing your first powerbi visual.

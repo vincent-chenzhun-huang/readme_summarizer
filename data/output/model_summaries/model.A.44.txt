@@ -1,1 +1,1 @@
-default value is 0.1. the detection model outputs a confidence score for each detection between 0 and 1 and wont include in the response detections with confidence lower than this threshold.
+segment tree assignsum – segment tree is a powerful data structure which can perform many operations on the intervals in ologn time.

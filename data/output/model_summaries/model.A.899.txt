@@ -1,1 +1,1 @@
-dataretrieval retrieval functions for usgs and epa hydrologic and water quality data.
+oph • is a command line application which does not require installation and can be run from removable disk or truecrypt container • is fully open source developed in pure c at the possible lowest level and carefully commented • statically linked does not require additional thirdparty libraries and uses a minimum of system functions • can be compiled under linux os debian ubuntu etc.

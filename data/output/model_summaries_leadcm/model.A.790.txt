@@ -1,1 +1,1 @@
-project introduction this project is based on cnnblstmctc to realize verification code identification. this project is only for deployment models if you need to train
+turn your application into a fully integratable lti 1.3 tool provider. please ⭐️ us on github it always helps v3.6.0 added serveless mode allows ltijs

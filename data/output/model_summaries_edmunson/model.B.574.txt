@@ -1,1 +1,1 @@
-fortinet fortigate monitoring introduction this is a zenpack for fortinet fortigate firewalls.
+howto setup chef to manage your servers.

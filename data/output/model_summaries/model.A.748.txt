@@ -1,1 +1,1 @@
-the method allow any object but only some of types are handled in an special way.
+default credentials are adminchangeme you will have the option to change them on the next screen navigate to https192.168.38.1058412 in a browser to access the fleet server on logger.

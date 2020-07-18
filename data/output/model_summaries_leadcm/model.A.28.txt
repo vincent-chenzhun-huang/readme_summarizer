@@ -1,1 +1,1 @@
-introduction we do not provide free technical support this project aims to be a collaborative effort to collect under one roof memristor models published to
+datavalidator a tool to validate data in hive tables. usage assemble fat jar example run config file description the datavalidator config file is yaml based

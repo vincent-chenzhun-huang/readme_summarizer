@@ -1,1 +1,1 @@
-is the public validation api key you can get this value from the mailgun security page is the private api key you can get this value from the mailgun security page is the email address used in various sending tests.
+works across a variety of unx like distributions can be configured by dict or simple variables supports match sets supports all sshdconfig options.

@@ -1,1 +1,1 @@
-smart flasher smart flasher is a simple tool mainly aimed to make flashing recovery zips much easier. download requirements root access busybox features smart flasher
+overview goals features installation changelog frequently asked questions best practices who uses b3bp authors license overview when hacking up bash scripts there are often things

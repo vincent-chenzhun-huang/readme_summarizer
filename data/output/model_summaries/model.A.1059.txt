@@ -1,1 +1,1 @@
-before running any test make sure you have run npm install from this scratchgui repositorys top level.
+you can test and debug in chrome from localhost though this doesnt work in safari.

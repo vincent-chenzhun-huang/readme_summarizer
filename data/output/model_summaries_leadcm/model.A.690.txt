@@ -1,1 +1,1 @@
-building a static ios framework is a pain. there are a variety of existing solutions already and each one has its own disadvantages. presented here
+raobget this repository contains scripts to download raobs from the university of wyoming radiosonde archive by building urls like for accessing textlist data for accessing

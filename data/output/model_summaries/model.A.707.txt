@@ -1,1 +1,1 @@
-from this point there are three methods you can call to interact directly with the indexing api updateurl removeurl getstatus all three methods require a url parameter to complete the request.
+provides information about available templates upon synchronization the core will provide information on the available project type framework page and feature templates.

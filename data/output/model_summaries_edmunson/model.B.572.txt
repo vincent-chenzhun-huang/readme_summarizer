@@ -1,1 +1,1 @@
-hkxpack version 0.1.4beta hkxpack is a tool to pack and unpack to and from hkx files which is the havok compressed file format.
+examples for creating android applications with clojure this repository contains the example code to illustrate the techniques described in creating android applications with clojure.

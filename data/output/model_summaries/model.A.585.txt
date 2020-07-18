@@ -1,1 +1,1 @@
-messenger nlu bot instance（node.js app based on botexpress） developers can extend the chatbot capability just by adding skills.
+feel free to add features though i welcome pull requests.

@@ -1,1 +1,1 @@
-how to get at r source.
+in order to facilitate different use cases htmlsanitizer can be customized at several levels configure allowed html tags through the property .

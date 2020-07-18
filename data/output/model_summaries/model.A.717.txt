@@ -1,1 +1,1 @@
-amplify add adds cloud features to your app.
+clover sdk for android this repo contains two android studio projects cloverandroidsdk and cloverandroidsdkexamples.

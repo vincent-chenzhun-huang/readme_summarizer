@@ -1,1 +1,1 @@
-A demo using Azure Speech to execute a Bing Search
+make working with STL files and 3D objects in general fast and easy 

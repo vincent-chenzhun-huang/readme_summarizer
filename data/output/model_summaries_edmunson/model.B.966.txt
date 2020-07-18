@@ -1,1 +1,1 @@
-makeipinyoudata this project is to formalise the ipinyou rtb data into a standard format for further researches.
+topic sample products microsoft teams office 365 languages c extensions contenttype samples createddate 9262018 52757 pm microsoft teams task module c sample a task module allows you to create modal popup experiences in your teams application.

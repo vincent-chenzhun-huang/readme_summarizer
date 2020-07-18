@@ -1,1 +1,1 @@
-net core plugins this project provides api for loading .net core assemblies dynamically executing them as extensions to the main application and finding and isolating the dependencies of the plugin from the main application.
+introduction this repository contains an easytouse and welldocumented .net assembly for communicating with and receiving electronic mail from an internet message access protocol imap server.

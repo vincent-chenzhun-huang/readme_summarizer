@@ -1,1 +1,1 @@
-openhab v2.x mqtt binding with internal broker the following shows an example of a textual configuration using the new mqtt plugin introduced with openhab 2.4. the example also uses the new internal broker.
+it comes with full documentation and some example apps showing how to use it.

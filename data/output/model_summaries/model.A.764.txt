@@ -1,1 +1,1 @@
-enable the modules you wish to use in the initializer you are ready to add devise security extension modules on top of devise modules to any of your devise models for securevalidatable you need to add configuration captchasupport the captcha support depends on easycaptcha.
+to download all isis3 data enter the following commands in the location where you want to install the isis3 data area cd isis3data rsync azv delete partial isisdist.astrogeology.usgs.govisis3datadata.

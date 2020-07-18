@@ -1,1 +1,1 @@
-an utility that allows you to listen for incoming sms messages. example the contents of object will be returns a so if you want to
+clusteringfaces this project provides a high level wrapper for detecting faces in photos generating facenet encodings and clustering faces belonging to recognized individuals using tensorflow

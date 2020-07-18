@@ -1,1 +1,1 @@
-Describes how to use Kubernetes with Couchbase on Azure Container Service (AKS)
+install IBM Cloud Private

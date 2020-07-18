@@ -1,1 +1,1 @@
-Dyanmic Django models allow users to define, edit, and populate their own database schema.
+Get You Started On Competitive Coding 

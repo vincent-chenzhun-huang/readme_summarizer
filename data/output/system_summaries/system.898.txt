@@ -1,1 +1,1 @@
-Client-side buttons to run a single test or skip it for Cypress test runner
+creating web apps with the Django framework 

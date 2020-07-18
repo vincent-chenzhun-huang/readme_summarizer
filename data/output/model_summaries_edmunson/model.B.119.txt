@@ -1,1 +1,1 @@
-cbd dashboard ui a react web application built on mern stack mongodb express react and node.js for visualizing data compiled from assessments by physician observers to enhance the competencybased medical education model.
+qslim ported to compile on mac os x this is a port of the wonderful qslim software by michael garland.

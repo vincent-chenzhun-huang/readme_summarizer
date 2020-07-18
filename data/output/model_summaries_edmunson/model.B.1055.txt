@@ -1,1 +1,1 @@
-depnotify starter for jamf pro template bash script to start depnotify and run policies during enrollment with jamf.
+coursera machine learning mooc by andrew ng python programming assignments this repositry contains the python versions of the programming assignments for the machine learning online class taught by professor andrew ng.

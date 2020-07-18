@@ -1,1 +1,1 @@
-create a paper pr once you are ready to submit your paper make a pull request on github.
+it should say connecting to github enterprise to configure your account.... then it should say linking new account .... then you should see your newly added account listed and the jira dvcs feature should operate normally from here.

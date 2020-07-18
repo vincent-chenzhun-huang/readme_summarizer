@@ -1,1 +1,1 @@
-contact.sh an osint tool to find contacts in order to report security vulnerabilities. installation 🐧 gnulinux make sure you have installed the and packages. 🍎
+matomo sdk for android welcome to the matomo tracking sdk for android. this library helps you send analytics data from android apps to matomo instances.

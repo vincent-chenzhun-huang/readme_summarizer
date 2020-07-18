@@ -1,1 +1,1 @@
-string or undefined get the name of the provices where the municipality belong to.
+the cloudwatch logs customize alarms is a lambda function that helps in reading the logs from cloudwatch logs during an alarm and send a customized email through ses.

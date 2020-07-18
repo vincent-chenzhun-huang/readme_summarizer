@@ -1,1 +1,1 @@
-dockernginxrtmp a dockerfile installing nginx nginxrtmpmodule and ffmpeg from source with default settings for hls live streaming. built on alpine linux. nginx 1.16.0 stable version
+name nginxupconfmodule nginx c module provides an http interface for adding removing and modifying backend servers dynamically and without having to reload the configuration seems

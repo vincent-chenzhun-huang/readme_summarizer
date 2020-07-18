@@ -1,1 +1,1 @@
-twiliophp recent update as of release 5.13.0 beta and developer preview products are now exposed via the main artifact. releases of the branch have been
+laravel excel exporting and importing excel csv and openoffice stylesheets using eloquent collections and query builders in laravel 5. and 4.. its based on boxspout.

@@ -1,1 +1,1 @@
-tactile is a safer and more idiomatic way to respond to gestures and control events.
+ngxdevicedetector an angular 5 powered aot compatible device detector that helps to identify browser os and other useful information regarding the device using the app.

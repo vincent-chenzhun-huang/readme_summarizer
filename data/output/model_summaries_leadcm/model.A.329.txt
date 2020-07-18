@@ -1,1 +1,1 @@
-these are json result of stepbystep adding nlp component into watson assistant. definitions intent an intent represents the purpose of a users input. you define
+contentsync directory copysyncmirror tool that uses file contents not timestamps to avoid touching identical files. download httpsgithub.comkirillosenkovcontentsyncreleasesdownloadv1.5contentsync.exe also available on chocolatey httpschocolatey.orgpackagescontentsync cinst contentsync usage

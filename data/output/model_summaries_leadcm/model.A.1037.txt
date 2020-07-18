@@ -1,1 +1,1 @@
-wowsharp is a .net library for accessing blizzards world of warcraft and diablo community apis on battle.net. the library is written in c and is
+yiimailer yii v1.1.x extension for sending emails with layouts using phpmailer features based on phpmailer supports yii layouts and translation supports web and console applications

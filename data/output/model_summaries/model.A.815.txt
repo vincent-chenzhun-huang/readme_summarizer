@@ -1,1 +1,1 @@
-this will allow constructors and methods to only partly leverage named with other parameters having nonannotated parameter names the via say defaultparanamer or bytecodereadingparanamer.
+variable rename module the cortex variable rename module focuses on the updating of variable names within a flow or subtask both when the variables are declared in the variable store and when they are referred to in block properties.

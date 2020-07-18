@@ -1,1 +1,1 @@
-the patch is sent to each proxy store where it is used to update the proxy stores state.
+see a full list of documented commands by using the command.

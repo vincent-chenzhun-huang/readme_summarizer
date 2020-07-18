@@ -1,1 +1,1 @@
-在kubernetes上部署consul 集群 本教程将帮助你在kubernetes上部署一个拥有3个节点的consul集群 备注：consul教程见consul 预览 consul 集群的三个节点部署方式使用 statefulset consul集群成员之间使用tls进行安全通信 tls and encryption keys 预备知识 本教程利用了kubernetes 1.7.0和更高版本的特性.
+is your solution scalable to handle large corpora as mentioned above for large corporas the indexing time is growing linearly and could be quite high because the solution implemented process and writes data to disk sequentially which could be improved using multithreads ie parallel processing.

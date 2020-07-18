@@ -1,1 +1,1 @@
-overview iotdbbenchmark is a tool for benchmarking iotdb against other databases and time series solutions.
+leaflet.label note starting with leaflet 1.0 is added to leaflet core as and this plugin is deprecrated.

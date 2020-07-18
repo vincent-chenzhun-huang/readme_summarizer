@@ -1,1 +1,1 @@
-you should enable this project on travisci.org and coveralls.io to make these badges work. the necessary travis and coverage config files have been generated for
+we are trying to reborn nomp. need contributors neoscrypt algo fixed node open mining portal consists from 3 main modules main module httpsgithub.comfoxer666nodeopenminingportal stratum pool

@@ -1,1 +1,1 @@
-expopixi tools to use pixi.js in expo to get started in your expo project and import it with .
+reactgaugechart react component for displaying a gauge chart using d3.js usage install it by running .

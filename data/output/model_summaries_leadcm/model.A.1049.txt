@@ -1,1 +1,1 @@
-overview add uml diagrams using plantuml to javadocs. extends the standard java doclet. background the inspiration for this project is better communication between the developers
+dialogtriggerjs some simple javascript code using jquery that lets a dialog be triggered based on some user behavior such as a timeout by scrolling by

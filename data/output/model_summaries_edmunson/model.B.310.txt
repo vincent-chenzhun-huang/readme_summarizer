@@ -1,1 +1,1 @@
-current status as the original creators of are no longer maintaining the module it has been handed over into the care of vox pupuli.
+the datadriven ontology toolkit ddot the datadriven ontology toolkit ddot facilitates the inference analysis and visualization of biological hierarchies using a data structure called an ontology.

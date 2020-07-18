@@ -1,1 +1,1 @@
-deduplicator i. documentation project description design and implement an efficient data storage locker that utilizes deduplication.
+piripiri is a browser orchestration to enable decentralized browser applications tests.

@@ -1,1 +1,1 @@
-kafkastackdockercompose this replicates as well as possible real deployment configurations where you have your zookeeper servers and kafka servers actually all distinct from each other.
+androidjscore androidjscore allows android developers to use javascript natively in their apps. androidjscore is an android java jni wrapper around webkits javascriptcore c library. it

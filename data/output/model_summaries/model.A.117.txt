@@ -1,1 +1,1 @@
-01 hello react display the text hello react.
+function reference deltav2.sh calculates the delta from 2 json files produced by rudataall.sh it writes the deltas to stdout in json format and the missing fields to stderr usage test file and scripts are found in testfiles description basically it loops through file1 to find key numericvalue pairs and store them in an associative array.

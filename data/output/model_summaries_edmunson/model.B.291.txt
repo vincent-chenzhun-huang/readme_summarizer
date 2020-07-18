@@ -1,1 +1,1 @@
-djangotablib tablib for django djangotablib is a helper library for django that allows tablib datasets to be generated from django models.
+mcprotocol mcprotocol is a library that allows communication to mitsubishi plcs currently only fx3u tested using the mc melsec communication ethernet protocol as documented by mitsubishi.

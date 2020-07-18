@@ -1,1 +1,1 @@
-pandoc markdown lecture template this project defines a skeleton repo for creating lecture material i.e. slides and handouts including lecture notes homework sheets plus the corresponding evaluation sheets and exams plus solution sheets out of pandoc markdown using a single source approach.
+i want to install ambari then deploy hdp using blueprints after deploying the server agents you can quickly deploy hdp using ambari blueprints.

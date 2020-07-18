@@ -1,1 +1,1 @@
-markdowncv a curriculum vitae maintained in plain text and rendered to html and pdf using css.
+datapackagepy a library for working with data packages.

@@ -1,1 +1,1 @@
-winsw windows service wrapper in less restrictive license winsw is an executable binary which can be used to wrap and manage a custom process as a windows service.
+savage initiative check it out using the rules from savage worlds rpg by pinnacle entertainment group peg this site stores and tracks characters and monsters through initiative.

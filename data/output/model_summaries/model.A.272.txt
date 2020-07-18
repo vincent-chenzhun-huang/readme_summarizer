@@ -1,1 +1,1 @@
-2. download the jupyter notebooks clone or download this github repository so you have access to all the jupyter notebooks .ipynb extension in the tutorial.
+running normally you can run scenarios either directly .build or using waf .waf run if ns3 is installed in a nonstandard location on some platforms e.g. linux you need to specify ldlibrarypath variable ldlibrarypathusrlocallib .build or ldlibrarypathusrlocallib .waf run to run scenario using debugger use the following command gdb args .build running with visualizer there are several tricks to run scenarios in visualizer.

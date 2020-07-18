@@ -1,1 +1,1 @@
-Python E-book library for handling books in EPUB2/EPUB3  format - 
+use Xposed without root unlock the bootloader or modify system image etc 

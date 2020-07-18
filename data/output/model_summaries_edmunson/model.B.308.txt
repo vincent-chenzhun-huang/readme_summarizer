@@ -1,1 +1,1 @@
-envirodiy lte bee adapter the envirodiy lte bee adapter shield is an interface board designed to enhance the functioning and stability of the digi xbee3 cellular ltemnbiot radio modules with the envirodiy mayfly logger versions 0.5b or earlier.
+piano assistant note this project is a work in progress.

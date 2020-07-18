@@ -1,1 +1,1 @@
-changing these methods will affect the test and runner results.
+wentzcovitch et al. qha a python package for quasiharmonic free energy calculation for multiconfiguration systems computer physics communications 2018 httpsdoi.org10.1016j.cpc.2018.11.003.

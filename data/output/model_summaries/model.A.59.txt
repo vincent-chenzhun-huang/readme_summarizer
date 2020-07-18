@@ -1,1 +1,1 @@
-bash forward all images in sampleimg using tiny yolo and json output.
+this model learns where to look.

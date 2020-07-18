@@ -1,1 +1,1 @@
-skelly terminated an unreal engine 4 plugin for creating semiprocedural character animations. overview creating keyframed animations is tedious and time consuming for me anyway. the
+kotlin data science resources libraries media links and other resources to use kotlin for data science applications this document serves as an awesomelike curation of

@@ -1,1 +1,1 @@
-Strawberry Fields is a full-stack Python library for designing, simulating, and optimizing continuous variable (CV) quantum optical circuits.
+get started with PostgreSQL on the Mac

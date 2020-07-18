@@ -1,1 +1,1 @@
-createdmg a shell script to build fancy dmgs.
+description tired of waiting for sharepoint pages to load want something easy to support that works on all versions this warmup script is for you i used several different warmup scripts.

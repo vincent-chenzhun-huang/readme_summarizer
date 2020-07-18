@@ -1,1 +1,1 @@
-kubernetes maven plugin note this repository has been moved to eclipse jkube.
+criuincontainerdemo this project is an attempt to demostrate use of criu inside docker containers to improve startup time of applications.

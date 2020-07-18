@@ -1,1 +1,1 @@
-netoffice ms office in .net ° .net wrapper assemblies for accessing microsoft office applications.
+vuepress blog boilerplate this is an everchanging and opinionated architecture that uses vuepress to power your blogging platform.

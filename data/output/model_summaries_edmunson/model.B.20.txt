@@ -1,1 +1,1 @@
-supervisionbyregistration an unsupervised approach to improve the precision of facial landmark detectors by xuanyi dong shooui yu xinshuo weng shihen wei yi yang yaser sheikh university of technology sydney facebook reality labs introduction we propose a method to find facial landmarks e.g. corner of eyes corner of mouth tip of nose etc more precisely.
+dlpy sas viya deep learning api for python an efficient way to apply deep learning methods to image text and audio data.

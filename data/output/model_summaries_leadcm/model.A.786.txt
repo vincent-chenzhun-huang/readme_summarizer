@@ -1,1 +1,1 @@
-generate add to calendar links for google ical and other calendar systems using this package you can generate links to add events to calendar systems.
+copyright c 2017 2019 ibm corporation and others. licensed under creative commons attributionnoderivatives 4.0 international cc bynd 4.0 httpscreativecommons.orglicensesbynd4.0 contributors ibm corporation projectid microprofileopentracing pagelayout

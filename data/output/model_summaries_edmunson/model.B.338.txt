@@ -1,1 +1,1 @@
-matplotlib2tikz this is matplotlib2tikz a python tool for converting matplotlib figures into pgfplots pgftikz figures like for native inclusion into latex documents.
+dinputto8 dinputto8 is a dll module that is designed to improve compatibility in games using directinput 17 dinput.dll by converting all api calls to their equivalent directinput 8 dinput8.dll ones.

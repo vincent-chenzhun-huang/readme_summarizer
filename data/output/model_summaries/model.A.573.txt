@@ -1,1 +1,1 @@
-unistbuilderblueprint unist utility to transform trees to notation.
+2. download the python script to your computer and make sure you have python installed.

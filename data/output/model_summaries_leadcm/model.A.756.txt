@@ -1,1 +1,1 @@
-readme about this application is an inventory management system that is built to address the needs of diaper banks as directly and explicitly as possible.
+slic3r plugin for octoprint warning this plugin has been successfully tested for the following cases linux slic3rs stable versions 1.1.7 and 1.2.9 tests done under

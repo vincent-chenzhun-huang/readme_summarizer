@@ -1,1 +1,1 @@
-python toolkit for energy load time series pyversion license versionstatus buildstatus docs enlopy is an open source python library with methods to generate process analyze
+fastaishell a workflow to setup and use fastai on google cloud platfrom here is a set of features gives you use preemptible instances to get

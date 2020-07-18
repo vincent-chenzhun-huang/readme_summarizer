@@ -1,1 +1,1 @@
-looking glass easy to deploy looking glass made in php. requirements webserver such as apache 2 or lighttpd etcâ€¦ php 7.0 module for the webserver
+this repository hosts the instructions and neccessary artifacts for building and publishing python functions as a docker container on linux. for comprehensive information about python

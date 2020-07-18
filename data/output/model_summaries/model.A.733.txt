@@ -1,1 +1,1 @@
-description kill process is an alfred 2 workflow that makes it easy to kill misbehaving processes.
+a windows powershell file to be used inside the guest to handle the settings that is not possible to change from the host.

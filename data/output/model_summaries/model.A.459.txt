@@ -1,1 +1,1 @@
-use resource qualifiers to change the layout in different android version.
+data manipulation functions given playbyplay data retrieved from game scraping functions will calculate a variety of stats for all lineups.

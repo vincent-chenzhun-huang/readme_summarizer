@@ -1,1 +1,1 @@
-autolinktextview autolinktextview is textview that supports hashtags mentions urls http phone and email automatically detecting and ability to handle clicks.
+global hooks are triggered by events and when active they can make changes to kubernetes make changes to global values storage if the global hook changes values in the global storage then the addonoperator starts the reinstallation of all helm charts.

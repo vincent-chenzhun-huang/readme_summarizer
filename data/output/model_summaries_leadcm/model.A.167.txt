@@ -1,1 +1,1 @@
-codeexecutiononwindows as an attacker often your aim is to execute code on a target system while simultaneously avoiding detection. luckily windows provides many built in
+gradlestashplugin a plugin to run stash scm tasks. most of the tasks are run against the stash rest api but some of them also require

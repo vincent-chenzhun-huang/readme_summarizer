@@ -1,1 +1,1 @@
-although the tool is free to use deploying contracts to the ethereum network requires gas in the form of ether.
+usage px4flow version the constructor needs the following parameters in this order focal length in xdirection pixels focal length in ydirection pixels output rate hz optional default 15hz if smaller than frame rate flow gets integrated.

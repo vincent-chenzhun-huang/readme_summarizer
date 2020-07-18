@@ -1,1 +1,1 @@
-this repo is no longer actively maintained please see newer version available using azure machine learning here. authors mathew salvaris and fidan boylu uz deploy
+jquery toaster requires bootstrap 3.0 toaster is a jquery plugin for displaying toast notifications. it comes with a sublime set of defaults that you can

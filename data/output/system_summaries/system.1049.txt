@@ -1,1 +1,1 @@
-Doclet to generate UML diagrams for Javadoc using PlantUML.
+be triggered based on exit intent scrolling or timeouts 

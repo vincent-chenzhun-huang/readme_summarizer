@@ -1,1 +1,1 @@
-sanity checks documentation contributing obtaining fuel ux npm bower volo github using required fuelux class required dependencies whats included amd support bugs and feature requests previous releases community philosophy copyright and license sanity checks fuel ux fuel ux extends bootstrap 3 with additional lightweight javascript controls.
+create a resource controller in springs approach to building restful web services http requests are handled by a controller.

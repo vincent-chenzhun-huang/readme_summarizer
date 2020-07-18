@@ -1,1 +1,1 @@
-other operators muparser has built in support for the if then else operator.
+hack club is a nonprofit network of studentled high school coding clubs.

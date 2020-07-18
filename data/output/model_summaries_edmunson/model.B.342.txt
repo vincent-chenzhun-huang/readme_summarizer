@@ -1,1 +1,1 @@
-ubuntu repo builder with docker prerequisities docker installed.
+expresssequelize tutorial please note i am still working on the code in this repo.

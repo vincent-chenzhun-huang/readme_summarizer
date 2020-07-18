@@ -1,1 +1,1 @@
-Dockerfile to build a PostgreSQL container image which can be linked to other containers.
+define a consistent AWS Route53 hostname

@@ -1,1 +1,1 @@
-mailboxer this project is based on the need for a private message system for ging socialstream.
+welcome to rails rails is a webapplication framework that includes everything needed to create databasebacked web applications according to the modelviewcontrol pattern.

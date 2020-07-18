@@ -1,1 +1,1 @@
-ufs tool ver 1.0 description the tool uses the bsg infrastructure in linux kernel applied to 5.1 rc1 in order to readwrite device flags attributes descriptors.
+the big surprise was that the other methods except the manual copying were all faster than skiacopyup.

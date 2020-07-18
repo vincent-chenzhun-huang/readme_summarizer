@@ -1,1 +1,1 @@
-vk sdk for android library for working with vk api authorization through vk app using vk functions.
+simpletoken authentication middleware this package allows to extract token from authenticated requests and delegate it to an appropriated isecuritytokenvalidator and generate and authenticationticket.

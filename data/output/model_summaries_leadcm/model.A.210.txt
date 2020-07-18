@@ -1,1 +1,1 @@
-side menu side menu with some categories to choose. check this project on dribbble. check this project on behance. god bless ukraine sample sample .aar
+ubiquitoussuccotash code for building various datasets for ldsr unless otherwise noted all of these scripts were built on the msu high performance computing cluster. building

@@ -1,1 +1,1 @@
-prevalencemultimaster .. insertyour badges like that .. image httpstravisci.org40antsprevalencemultimaster.svgbranchmaster target httpstravisci.org40antsprevalencemultimaster .. everything starting from this commit will be inserted into the index page of
+yeogurt generator a generator for creating static sites. helps you harness the power of your favorite tools jade or nunjucks gulp es62015 and much more

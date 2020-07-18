@@ -1,1 +1,1 @@
-Custom component for using Hue sensors & remotes with Home Assistant
+set progress bar type outer contour color center circle color custom percentage unit property

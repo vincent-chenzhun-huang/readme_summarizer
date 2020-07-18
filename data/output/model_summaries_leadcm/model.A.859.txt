@@ -1,1 +1,1 @@
-project summary in this project well create a node backend for devmountains swag shop. well make the backend capable of registering users logging in users
+consistencyresampling.jl consistency resampling of calibrated predictions. overview this package implements consistency resampling in the julia language as described by bröcker and smith 2007. it is

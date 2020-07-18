@@ -1,1 +1,1 @@
-Exercise for hiring backend Scala Devs
+sending notifications on demand and when commands finish 

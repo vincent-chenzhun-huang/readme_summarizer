@@ -1,1 +1,1 @@
-vuexmodulevalidatablestate simple vuex module to handle form fields and validations. you can build a view model for your form which runs valdations easily. you just
+saml 1. overview 2. installation 2.1. from the marketplace 2.2. by coordinates 3. configuration 3.1. keystore 3.1.1. creating keystore 3.2. saml connection 3.3. tenant logging

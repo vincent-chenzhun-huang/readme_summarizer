@@ -1,1 +1,1 @@
-easy to use ready to go fully customizable awesome card collection for react native.
+swiftsocket swiftsocket library provides as easy to use interface for socket based connections on server or client side.

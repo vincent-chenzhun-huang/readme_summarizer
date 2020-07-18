@@ -1,1 +1,1 @@
-Labelbox is the fastest way to annotate data to build and ship computer vision applications.
+accelerate research and development of AI systems

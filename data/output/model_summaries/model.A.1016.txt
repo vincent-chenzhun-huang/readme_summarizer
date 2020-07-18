@@ -1,1 +1,1 @@
-your app is ready to be deployed see the section about deployment for more information.
+all of the commands except will still work but they will point to the copied scripts so you can tweak them.

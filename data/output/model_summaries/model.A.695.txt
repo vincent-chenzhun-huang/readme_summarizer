@@ -1,1 +1,1 @@
-support i. release notes to be updated ii.
+python interiorpoint method pyipm python interiorpoint method pyipm is a class written in python for optimizing nonlinear programs of the form min fx subject to cex 0 and cix 0 x where f is a function that is being minimized with respect to unknown weights x subject to sets of equality constraints ce and inequality constraints ci.

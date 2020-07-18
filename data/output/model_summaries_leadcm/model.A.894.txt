@@ -1,1 +1,1 @@
-pusher channels http php library php library for interacting with the pusher channels http api. register at and use the application credentials within your app
+🚀‍‍ apollo 🧙 enchanted inmemorycache 🚀 apollo 🛠‍ tool represented as inmemorycache 🧙 wrapper for 🗄 storing 🗃 restoring ✅ selected only 🗂️ queries and

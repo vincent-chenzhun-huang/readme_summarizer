@@ -1,1 +1,1 @@
-why do we need yet another mocking framework in other words fseam python script is used to generate cpp files that contains implementation of class this is a what we will call a seam mocked implementation.
+get the type declaration files .d.ts files from types for any library in use.

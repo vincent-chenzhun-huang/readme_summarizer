@@ -1,1 +1,1 @@
-if the user does not have a running time tracker yet but he is displaying an issue then the start action will be displayed.
+rscustomtabbarcontroller this is super flexible custom tab bar controller implementation.

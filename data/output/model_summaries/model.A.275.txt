@@ -1,1 +1,1 @@
-hashtagtracker google apps script connected to spreadsheet that follows trending hashtags hashtags we use on instagram and twitter twitter location trends api this api uses oauth1 to generate the access keys and give access to the api.
+the metscanr package utilizes a continuously growing database see the metscanr database db section below that currently contains metadata for 157676 stations from 219 countriesterritories worldwide fig 2. figure 2 plot of all stations within the metscanr database.

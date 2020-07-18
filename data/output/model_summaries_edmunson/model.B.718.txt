@@ -1,1 +1,1 @@
-laravel mentions traviscoveragestable versiondownloadslaravellicense a package to parse from a text and mention the user with a notification.
+cordova cloud settings plugin a cordova plugin for android ios to persist user settings in cloud storage across devices and installs.

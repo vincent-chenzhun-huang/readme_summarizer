@@ -1,1 +1,1 @@
-for live demo please see httpsmiladbentaiba.github.ioloadinghigherordercomponent.
+appinfoparser appinfoparser is a parser for parsing or files.

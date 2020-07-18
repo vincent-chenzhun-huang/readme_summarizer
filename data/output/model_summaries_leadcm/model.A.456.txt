@@ -1,1 +1,1 @@
-php sdk for viber api library to develop a bot for the viber platform. create you first viber bot step by step see demo at
+zanata zanata is a webbased system for translators to translate documentation and software online using a webbrowser. it is written in java and uses modern

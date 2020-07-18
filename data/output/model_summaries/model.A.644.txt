@@ -1,1 +1,1 @@
-android reactive location small library that wraps google play services api in brilliant rxjava observables reducing boilerplate to minimum.
+yes this string value sets the dns domain that will be used for client installation.

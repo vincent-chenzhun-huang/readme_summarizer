@@ -1,1 +1,1 @@
-ansible playbooks for initial raspberry pi lockdown simple ansible playbooks roles and tasks to lock down and perform initial setup for a new raspberry pi.
+what is wall street wall street is a virtual stock trading web application made using react. this application intends to help future investors learn the

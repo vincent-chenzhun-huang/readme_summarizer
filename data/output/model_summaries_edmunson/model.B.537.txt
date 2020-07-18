@@ -1,1 +1,1 @@
-ansibleselinuxrole allows you to configure selinux.
+onshapexblock validate onshape elements according to a wide range of checks.

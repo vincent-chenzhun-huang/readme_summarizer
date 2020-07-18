@@ -1,1 +1,1 @@
-switchdecor an app to help you adding frame to your favorite screenshots from nintendo switch. this project is written in flutter supporting both ios and
+vimpyserver a fast lightweight embedded python server to control remotely vim from telnet or netcat without xwindows nor vimserver. author victor polo de gyves montero

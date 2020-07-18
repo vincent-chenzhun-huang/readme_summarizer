@@ -1,1 +1,1 @@
-Js client to interact with servers using paymail specification.
+include an image classifier in a smartphone app To do this you d use a deep learning model trained on hundreds o

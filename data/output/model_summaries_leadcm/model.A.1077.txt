@@ -1,1 +1,1 @@
-osproj server for the chat with ability to send encrypted messages and images. os final project and concurrency exercise. basic overview of the server code
+react node.js starter pack skills we want you to show that you are an independent developer who writes clean code that you can come up

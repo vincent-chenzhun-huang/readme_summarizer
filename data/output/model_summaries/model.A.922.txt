@@ -1,1 +1,1 @@
-composernormalize provides a composer plugin for normalizing .
+jstojava easy way to wrap js object to java object.

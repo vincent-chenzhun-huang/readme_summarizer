@@ -1,1 +1,1 @@
-support x view.onclicklistener x adapterview.onitemclicklistener r8 proguard not required pure bytecode weaving without any reflections.
+tested there is a test suite provided which is executed from java that will run the native tests and prove communication across jni works as expected.

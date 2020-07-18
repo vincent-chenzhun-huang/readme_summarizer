@@ -1,1 +1,1 @@
-simple jwt auth with api platform introduction as the title says we will create together so simple jwt authentication using api platform and lexikjwtauthenticationbundle.
+swrevealviewcontroller a uiviewcontroller subclass for revealing a rear left andor right view controller behind a front controller inspired by the facebook app done right note version 2.3 this version fixes an old bug that caused an incorrect initialization of the class on particular scenarios.

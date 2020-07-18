@@ -1,1 +1,1 @@
-troubleshooting check scanner ip in the launch file.
+you can now fire events to your orgs devicesignale to test out the catchers.

@@ -1,1 +1,1 @@
-digital forensics framework dff is an open source computer forensics platform built on top of a dedicated application programming interface api. dff proposes an alternative
+alpha development version 0.2.3 spiketoolkit spiketoolkit is a module that was designed to make running curating evaluating and comparing popular spike sorting algorithms as simple

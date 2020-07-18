@@ -1,1 +1,1 @@
- Intelligent entity controller for Home Assistant for controlling devices with timers, overrides, scripts, custom service parameters and sun-based time restrictions.
+do the basic documents retrieval overwrite delete and permissioning control

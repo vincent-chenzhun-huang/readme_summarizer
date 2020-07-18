@@ -1,1 +1,1 @@
-Example project on how to combine multiple SPA's on a single Website
+build and maintain 

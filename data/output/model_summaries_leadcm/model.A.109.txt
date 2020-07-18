@@ -1,1 +1,1 @@
-awilixroutercore this package is intended for use with http libraries that want to configure routes using esnext decorators or a builder pattern. table of contents
+organisation flapdoodle oss we are now a github organisation. you are invited to participate. starting with version 2 we are going to support only java

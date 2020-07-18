@@ -1,1 +1,1 @@
-teleportHQ Vision API is a computer vision API specifically trained for detecting atomic UI elements in pictures of hand-drawn wireframes
+programming competitions like ACM ICPC 

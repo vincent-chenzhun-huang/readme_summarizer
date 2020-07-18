@@ -1,1 +1,1 @@
-midi instrument project note that this project is ongoing purpose to develop hardware and software that can be used for both live performance and as a teaching aid for beginners.
+ansibleselinuxrole allows you to configure selinux.

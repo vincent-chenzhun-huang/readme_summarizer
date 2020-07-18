@@ -1,1 +1,1 @@
-midi instrument project note that this project is ongoing purpose to develop hardware and software that can be used for both live performance and as
+ansibleselinuxrole allows you to configure selinux. config options policy state booleans ports fcontexts requirements tested on rhel 7 and centos 7 only. ansible 2.0 or

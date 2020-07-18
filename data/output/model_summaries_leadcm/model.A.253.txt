@@ -1,1 +1,1 @@
-neural photo editor a simple interface for editing natural photos with generative neural networks. this repository contains code for the paper neural photo editing with
+image httpsdocs.pytest.orgenlateststaticpytest1.png target httpsdocs.pytest.orgenlatest align center alt pytest .. image httpsimg.shields.iopypivpytest.svg target httpspypi.orgprojectpytest .. image httpsimg.shields.iocondavncondaforgepytest.svg target httpsanaconda.orgcondaforgepytest .. image httpsimg.shields.iopypipyversionspytest.svg target httpspypi.orgprojectpytest .. image

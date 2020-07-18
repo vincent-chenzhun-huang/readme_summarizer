@@ -1,1 +1,1 @@
-intro realtime object detection and classification.
+this is a pytorch tutorial to image captioning.

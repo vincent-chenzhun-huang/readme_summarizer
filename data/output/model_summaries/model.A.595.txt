@@ -1,1 +1,1 @@
-these scripts enable training of sparse cnn models resulting in low complexity models that can be used in embedded platforms.
+copy and paste the code for run.csx create and copy the code to testpage.html make sure to change the endpoint names to the ones of your own function they can be accessed at the top of the code using link

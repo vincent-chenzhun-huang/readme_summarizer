@@ -1,1 +1,1 @@
-RESTconf examples for learning labs and sample code
+assuming roles using the AWS STS service

@@ -1,1 +1,1 @@
-nostos nostos is a greek literary theme about journeying back home.
+indepth question classification using convolutional neural networks prudhvi raj dachapally and srikanth ramanam code execution instructions data separation before starting the training procedure to make things easier we first separate the data based on their classes.

@@ -1,1 +1,1 @@
-relay library for graphql.js this is a library to allow the easy creation of relaycompliant servers using the graphql.js reference implementation of a graphql server.
+this file is written the 23rd of may 2019. this file is organized as below 1.prerequisite 2.compare 2 csv files script 3.compare 2 csv files

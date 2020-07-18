@@ -1,1 +1,1 @@
-Python-Markdown extension to sanitize the output of untrusted Markdown documents.
+notify users about new chat messages something went wrong or everything is ok 

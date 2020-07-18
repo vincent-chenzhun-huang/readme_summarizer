@@ -1,1 +1,1 @@
-mortalms a fork of heavenms originally developed by ronan c. p. lana for maplesolaxia. furthermore a modification of the original odinms as developed by the
+image httpsimg.shields.iopypivdjangosessionsecurity.svg target httpspypi.python.orgpypidjangosessionsecurity .. image httpsimg.shields.iotravisyourlabsdjangosessionsecurity.svg target httpstravisci.orgyourlabsdjangosessionsecurity this app provides a mechanism to logout inactive authenticated users. an inactive browser should be logged

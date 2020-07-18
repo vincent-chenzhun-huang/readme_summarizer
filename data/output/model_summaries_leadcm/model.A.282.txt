@@ -1,1 +1,1 @@
-phone tracker phone tracker is an android library to gather environment signals like cell towers wifi access points and gps locations. you can configure how
+reactnativemusiccontrol react native music control is a module to enable remote controls and display now playing info on the lock screen and in the notification

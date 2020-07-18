@@ -1,1 +1,1 @@
-A crash course in six episodes for software developers who want to become machine learning practitioners.
+be sh

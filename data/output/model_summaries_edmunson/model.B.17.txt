@@ -1,1 +1,1 @@
-i have a big which i need to scroll up and down.
+gnomeshellextensiontaskwhisperer is a simple extension for displaying pending tasks created by taskwarrior in gnome shell.

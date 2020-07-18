@@ -1,1 +1,1 @@
-key rotation is a best practice that limits the amount of data an attacker can decrypt if the database were ever compromised provided we keep the encryption keys safe that is 3. define the 6 functions we need 6 functions for encrypting decrypting hashing and verifying the data we will be storing encrypt to encrypt any personal data we want to store in the database.
+deploying to the web with firebase install if you havent already first time create a project in firebase and do copy into and change values inside with yours from firebase console.

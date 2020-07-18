@@ -1,1 +1,1 @@
-Comet Time Series Toolset for working with a time-series of remote sensing imagery and user defined polygons
+using SQLAlchemy with Tornado

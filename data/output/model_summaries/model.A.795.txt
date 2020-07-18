@@ -1,1 +1,1 @@
-some examples after fetching a valid access token you are now ready to use the api.
+a few liquid templates to use for rendering rss feeds for your jekyll blog.

@@ -1,1 +1,1 @@
-domain storytelling modeler a tool to visualize domain stories in your browser.
+if you are designing a new widget that is unique in purpose from existing elements create a new scss file for it and update appcorp.css to include it.

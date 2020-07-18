@@ -1,1 +1,1 @@
-is an easy to use interface to thetvdb.com it supports python 2.6 2.7 and 3.3 onwards has moved to a separate repository github.comdbrtvnamer it is
+randomdict travis sonarquality sonarmaintainability codacy codeclimatemaintainability pip downloads simple python package to generate random dictionaries of given types. how do i install this package as

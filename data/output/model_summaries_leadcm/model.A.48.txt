@@ -1,1 +1,1 @@
-hetznerkube fast and easy setup of kubernetes clusters on hetzner cloud this project contains a cli tool to easily provision kubernetes clusters on hetzner cloud.
+premise historically inventorygui creation in bukkit has been very tedious and unintuitive. most of the time if you are looking to create more than one

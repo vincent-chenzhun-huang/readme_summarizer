@@ -1,1 +1,1 @@
-The Kinesis Scaling Utility is designed to give you the ability to scale Amazon Kinesis Streams in the same way that you scale EC2 Auto Scaling groups – up or down by a count or as a percentage of the total fleet. You can also simply scale to an exact num
+generate great looking dynamic user interfaces on top of Twitter Bootstrap jQuery UI jQuery Mobi

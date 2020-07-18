@@ -1,1 +1,1 @@
-stagemonitor is a java monitoring agent that tightly integrates with time series databases like elasticsearch graphite and influxdb to analyze graphed metrics and kibana to
+feinstaubapi api to save data from sensors especially particulates sensors. note daily csv dumps httparchive.luftdaten.info installation virtualenv with virtualenvwrapper mkvirtualenv feinstaubapi p usrbinpython3 install packets

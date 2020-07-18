@@ -1,1 +1,1 @@
-select an item in the tree to make that frame visible in the caseevent structure of the jki sm navigating the frames in the jki state machine will select that item in the editors tree view click the back and forward buttons to navigate the history and clear history button to clear drag and drop frames in the tree to reorder them drag a category devider to move the whole category rightclick on items in the treeview to rename duplicate delete etc.
+for general discussions about pocketflow development and directions please refer to pocketflow google group.

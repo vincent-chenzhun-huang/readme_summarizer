@@ -1,1 +1,1 @@
-flight indicators jquery plugin the flight indicators plugin allows you to display high quality flight indicators using html css3 jquery and svg images. the methods
+mmmmyscoreboard this a module for magicmirror httpsmagicmirror.builders httpsgithub.commichmichmagicmirror this module displays todays scores for your favourite teams across a number of different leagues including nhl

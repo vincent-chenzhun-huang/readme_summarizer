@@ -1,1 +1,1 @@
-in 2019 the new bluetooth powered omnipod dash will be implemented in tidepool loop what youll need to capture the commands there are 2 ways you can build a radio capture and parsing setup rfcat omni this was the first python based capture program which parsed the data as raw or as txt.
+default async function channel channel.prefetch1 await channel.assertqueuequeuename durable false return queuename returns channelwrapper channelwrappersendrpcmsg ttl exchangename routingkey send rpc request to rpc server.

@@ -1,1 +1,1 @@
-Front end source code for a web dashboard developed as part of a research project to determine the essential elements for presenting Competency-Based Medical Education dashboards.
+compile on Mac OS X

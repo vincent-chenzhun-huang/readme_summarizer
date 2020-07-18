@@ -1,1 +1,1 @@
-Learning to trade under the reinforcement learning framework
+authenticaticate through LDAP and AD LDS backend

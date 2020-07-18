@@ -1,1 +1,1 @@
-:hourglass: Ruby library to compute distance of dates in words. Originally built for Jekyll.
+writing automated acceptance tests against 

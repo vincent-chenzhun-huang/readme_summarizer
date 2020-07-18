@@ -1,1 +1,1 @@
-flinkk8soperator flinkk8soperator is a kubernetes operator that manages flink applications on kubernetes.
+puzzcodepuzzle code description puzzcode is a simple compiler based on mingw written in c to build windows applications in such a way that they can’t be analysed by standard analysis tools e.g. ida ollydbg x64dbg snowman decompiler etc.

@@ -1,1 +1,1 @@
-this project consist of a text editor dedicated input window descriptive output window list box with autocomplete suggestions dedicated hotkeys binded with different keyboard shortcuts for various functions like complie autocomplete code in speech format save open file etc.
+note that the blazor winforms and wpf core projects require visual studio 2019 or the latest visual studio code to edit and compile otherwise it can be done via command line.

@@ -1,1 +1,1 @@
-gatsbys helloworld starter kick off your project with this helloworld boilerplate.
+ilorest ansible role table of contents overview usage writing a module writing a playbook usage history license authors overview this ansible ilo rest role for hpe ilo is intended to provide an simple solution for user to manage server setting usage examples should be run in the root folder.

@@ -1,1 +1,1 @@
-we are trying to reborn nomp. need contributors neoscrypt algo fixed node open mining portal consists from 3 main modules main module httpsgithub.comfoxer666nodeopenminingportal stratum pool
+timeago.js timeago.js is a simple library less than that is used to format datetime with statement. eg 3 hours ago. localization supported. time and time

@@ -1,1 +1,1 @@
-the licenses for this project do not grant you rights to use any microsoft names logos or trademarks.
+extend as you would normally do sqliteopenhelper providing the constructor with a database name and version number sqliteassethelper relies upon asset file and folder naming conventions.

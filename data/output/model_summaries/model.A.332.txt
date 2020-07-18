@@ -1,1 +1,1 @@
-docker setup running create a new directory to store the configuration and sqlite3 database.
+paypal email address to which the donations in euro shall go place a new empty file with the name emailforpaypal.php in that newly created config folder.

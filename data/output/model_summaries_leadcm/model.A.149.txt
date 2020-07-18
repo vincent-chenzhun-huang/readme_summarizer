@@ -1,1 +1,1 @@
-the movie db javascript library last release 3.0.3 see changelog file a javascript library to interact with the restful api of themoviedb.org. you will need
+the goal of this project is to use to load balance requests from a application to replication masterslave cluster. project architecture applications mysql is the

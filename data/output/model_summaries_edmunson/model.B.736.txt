@@ -1,1 +1,1 @@
-go emoji utils a collection of useful functions for working with emoji.
+welcome to swiflow warning swiflow is under active development on its master branch.

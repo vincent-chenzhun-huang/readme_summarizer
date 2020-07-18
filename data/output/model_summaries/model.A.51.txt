@@ -1,1 +1,1 @@
-apple app store data analysis and modeling the project aims on helping app store developers to develop successful trending new apps.
+if the method is invoked with pandas.series object as an y argument then its name is used as the target name for supervised models.

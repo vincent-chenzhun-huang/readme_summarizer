@@ -1,1 +1,1 @@
-these are the scripts i use everyday to make my computer behave exactly how i want it to. some of these scripts have been modified
+slfcd supervised learning framework for cancer detection. 基于监督学习的癌症检测框架 该框架在根据全幻灯片癌症病理图像（whole slide images wsi）作为输入数据，实现了癌区域定位，以及基于wsi的图像分类。 如果本项目对您有所帮助，请给课star. . 基本概述 这个仓库主要包含了基于深度学习的癌症检测的源代码框架，开发用于从全幻灯片癌症病理图像（wsi）中识别癌转移。该框架成功应用于camelyon‘16 grand challenge的数据集。我开发本项目主要是提供一个关于wsi检测的解决方案，以及超简优化代码，并没有在性能上做出较多的探索。 notes x extrascnnrf 是使用keras训练的相近项目 x debug camelyon16

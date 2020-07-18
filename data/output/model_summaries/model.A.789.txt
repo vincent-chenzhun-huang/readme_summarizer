@@ -1,1 +1,1 @@
-install this project requires python 3 and the following python libraries installed pandas matplotlib plotly linear regression make sure you have jupyter notebook installed.
+string or undefined get the name of the provices where the municipality belong to.

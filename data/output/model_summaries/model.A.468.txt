@@ -1,1 +1,1 @@
-add or remove a thin vertical blank line as a separator beetwen two images add or remove label on before and after image add or remove more controls buttons apply custom css on label apply custom css on images enable click on the circle control in order to toogle images set animation easing animation duration to use.
+guid partition table wikipedia booting from an external usb drive from the raspberry pi stackexchange.

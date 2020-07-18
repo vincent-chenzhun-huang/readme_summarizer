@@ -1,1 +1,1 @@
-content provider helper get it on google play com.jensdriller.contentproviderhelper requires actionbarsherlock and the latest androidsupportv4.jar library. whats new v1.1.0 choose your theme light dark light
+ansible role hashicorp application an ansible role to install hashicorp applications in a linux x8664 based system. requirements the role targets debian and rhel based

@@ -1,1 +1,1 @@
-if you want to implement a custom step create a step and make getsteplayoutclass return the class of your own extension of steplayout.
+luksencryptraspbianstretch scripts to luks encrypt the root partition of a raspbian raspbian stretch luks encrypt quote mon aug 06 2018 1014 pm hello i was searching for a way to luks encrypt my root folder but all the tutorials i found were for jessie and werent very noob friendly so i decided to bundle them into a few automated scripts to make the job easier.

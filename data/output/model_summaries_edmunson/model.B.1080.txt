@@ -1,1 +1,1 @@
-the protein feature view svg library for visualising protein annotations this is the library behind the protein feature view at rcsb pdb.
+what is pangolin mainpage pangolin is a lightweight portable rapid development library for managing opengl display interaction and abstracting video input.

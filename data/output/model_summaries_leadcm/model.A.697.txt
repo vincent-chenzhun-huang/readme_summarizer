@@ -1,1 +1,1 @@
-quick cli for exploring the fb graphql api literally tossed together in a few hours to save time inspecting what fields are actually supported since
+devise token auth simple multiclient and secure tokenbased authentication for rails. if youre building spa or a mobile app and you want authentication you need

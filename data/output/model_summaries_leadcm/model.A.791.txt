@@ -1,1 +1,1 @@
-speedtestcli command line interface for testing internet bandwidth using speedtest.net .. image httpsimg.shields.iopypivspeedtestcli.svg target httpspypi.python.orgpypispeedtestcli alt latest version .. image httpsimg.shields.iotravissivelspeedtestcli.svg target httpspypi.python.orgpypispeedtestcli alt travis
+glokka global akka glokka is a scala library that allows you to register and lookup actors by names in an akka cluster. see glokka is

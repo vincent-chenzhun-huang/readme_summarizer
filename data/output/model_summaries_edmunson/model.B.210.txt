@@ -1,1 +1,1 @@
-side menu side menu with some categories to choose.
+ubiquitoussuccotash code for building various datasets for ldsr unless otherwise noted all of these scripts were built on the msu high performance computing cluster.

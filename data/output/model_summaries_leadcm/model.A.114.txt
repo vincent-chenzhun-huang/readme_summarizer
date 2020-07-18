@@ -1,1 +1,1 @@
-trading using qlearning in this project i will present an adaptive learning model to trade a single stock under the reinforcement learning framework. this area
+kubi kubi is the missing tool for active directory or ldap driven company. it handles openldap or active directory lds authentication for kubernetes clusters. it

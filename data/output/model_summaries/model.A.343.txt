@@ -1,1 +1,1 @@
-when you see this message type in your password followed by enter.
+graphicon a vue.js plugincomponent to help you manage your icons seamlessly installation or usage install the plugin then use in your components if you didnt install the plugin with vue.use youll have to declare the gicon component first options the props of is an object containing attributes that will be merged to default attributes and passed to the root svg element of icons.

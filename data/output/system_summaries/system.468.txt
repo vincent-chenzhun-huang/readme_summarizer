@@ -1,1 +1,1 @@
-A user macro for Confluence server for creating image comparison slider
+configure a USB drive as root filesystem 

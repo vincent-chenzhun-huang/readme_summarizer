@@ -1,1 +1,1 @@
-The Esri Geometry API for Java enables developers to write custom applications for analysis of spatial data.  This API is used in the Esri GIS Tools for Hadoop and other 3rd-party data processing solutions.
+study and develop the Linux kernel v51 kernel modules QEMU gem5 and x8664 ARMv7 and ARMv8 userland and baremetal assembly ANSI C C and POSIX C GDB step debug and KGDB just work Powered by Buildroot and crosstool

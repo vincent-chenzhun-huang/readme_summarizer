@@ -1,1 +1,1 @@
-multitemplate this is a custom html render to support multi templates ie.
+terminal manager terminal manager is a visual studio code extension to switch between various terminals.

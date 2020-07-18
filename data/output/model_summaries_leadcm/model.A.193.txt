@@ -1,1 +1,1 @@
-wp user manager user profile builder membership author uri httpswpusermanager.com plugin uri httpswpusermanager.com contributors alessandro.tesoro wpusermanager tags members profile community user profile user registration requires
+cloud computing project w. python description this project objective is to learn how to control and manage cloud computing platforms such as amazon web services

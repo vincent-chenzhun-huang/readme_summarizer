@@ -1,1 +1,1 @@
-Bulma's pure JavaScript extension to display toasts
+eat

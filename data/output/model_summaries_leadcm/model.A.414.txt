@@ -1,1 +1,1 @@
-mikes powershell profile how to set up a terminal in windows if youve been using nix for 20 years heya. ive been using bash for
+comp 551 final project mcgill univeristy professor w. hamilton baseline reproduction for fasion mnist may 2019 team 16 blair d. suki l. ellen c. abstraction

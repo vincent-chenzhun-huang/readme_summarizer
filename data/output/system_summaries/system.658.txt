@@ -1,1 +1,1 @@
-A python library to parse FGD files
+help students solidify this bind state and props 

@@ -1,1 +1,1 @@
-usage use the function to get a locationforecast object by calling the locationforecast api.
+custom chromosome length files calibrations tables and nucleosome standard sequence genomes must be generated for your specific cell line genome assembly and nucleosome standard set.

@@ -1,1 +1,1 @@
-personreid sequential rl an independent attempt to replicate the paper multishot pedestrian reidentification via sequential decision making cvpr2018 prerequisites data preparation to prepare data under
+djifirmwaretools tools for extracting modding and repackaging firmwares of dji multirotor drones. motivation the project started as an alternative implementation of the parser from phantomlicensecheck.

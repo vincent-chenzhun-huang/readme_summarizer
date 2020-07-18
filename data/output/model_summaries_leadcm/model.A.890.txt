@@ -1,1 +1,1 @@
-unblocker unblocker was originally a web proxy for evading internet censorship similar to cgiproxy phproxy glype but written in node.js. its since morphed into a
+offlinemapmatching a qgisplugin for matching a trajectory with a network using a hidden markov model and viterbi algorithm. goal of the project matching a trajectory

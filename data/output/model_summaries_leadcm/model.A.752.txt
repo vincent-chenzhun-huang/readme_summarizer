@@ -1,1 +1,1 @@
-update recent changes to facebooks 3rd party authorization system means this library works again just follow the instructions below. tinder crawler node.js app that uses
+radialbar v.0.2.2 эта javascript библиотека позволяет создавать радиальные прогресс бары на canvas. установить bower npm а так же вы можете клонировать репозиторий или скачать релиз

@@ -1,1 +1,1 @@
-imas encrypted code modules background the imas encrypted code modules security control mitigates static attacks allows section of source code to be encrypted into a .dylib at build time and decrypted at runtime.
+conan curl this repository contains a conan receipe that can be used to build curl packages.

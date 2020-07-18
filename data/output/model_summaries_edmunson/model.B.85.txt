@@ -1,1 +1,1 @@
-document management system api document management system provides a restful api for users to create and manage documents giving different privileges based on user roles and managing authentication using jwt.
+swurg is a burp suite extension designed for openapi testing.

@@ -1,1 +1,1 @@
-image httpstravisci.orgetetoolkitete.svgbranchmaster target httpstravisci.orgetetoolkitete .. image httpsbadges.gitter.imjoin20chat.svg alt join the chat at httpsgitter.imjhcepasete target httpsgitter.imjhcepaseteutmsourcebadgeutmmediumbadgeutmcampaignprbadgeutmcontentbadge .. .. image httpscoveralls.ioreposjhcepasetebadge.png overview ete environment for tree exploration
+amd radeongpu rocmtensorflow information this readme is intended to provide helpful information for deep learning developers with amd rocm. unfortunately amds official repository for rocm

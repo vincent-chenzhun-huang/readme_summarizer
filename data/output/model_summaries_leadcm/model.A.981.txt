@@ -1,1 +1,1 @@
-zilliqa codename durian overview zilliqa is a scalable smart contract platform that aims to tackle the congestion issue plaguing the blockchain industry. zilliqa utilises a
+phantommagick for phantommagick version 1 please use the 1.0.2 branch phantommagick provides a simple api to ease the process of converting html to pdf or

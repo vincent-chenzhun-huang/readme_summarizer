@@ -1,1 +1,1 @@
-Node.js module to authenticate using HTTP NTLM
+completing the Udacity Project

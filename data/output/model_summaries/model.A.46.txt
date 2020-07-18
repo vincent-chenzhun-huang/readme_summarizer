@@ -1,1 +1,1 @@
-running the environment service in idea after importing the cloudbreak repo root launch the environment application by executing the com.sequenceiq.environment.environmentapplication class with the following jvm options dvault.root.token replace with the value of vaultroottoken from the cbdlocalprofile file.
+this project came out of a pr to the react native cli tool issues are reported frequently without important environment information like nodenpm versions.

@@ -1,1 +1,1 @@
-to aid development there is a script you can run to automatically translate text using google translate.
+field names in the output by default the field names in the output match those in the input.

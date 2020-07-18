@@ -1,1 +1,1 @@
-A collection of usage examples for camunda BPM intended to get you started quickly
+swap the Fn key and left Control key on Macbook Pro and Apple keyboards in GNULinux

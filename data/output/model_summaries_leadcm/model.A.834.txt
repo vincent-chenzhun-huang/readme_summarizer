@@ -1,1 +1,1 @@
-createdmg a shell script to build fancy dmgs. status and contribution policy this project is maintained thanks to the contributors who send pull requests and
+description tired of waiting for sharepoint pages to load want something easy to support that works on all versions this warmup script is for you

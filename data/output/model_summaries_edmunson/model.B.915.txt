@@ -1,1 +1,1 @@
-100 free resources for learning full stack web development.
+managing memory bit by bit table of contents introduction unique capabilities competitors usage code sample api data structures traits bit orderings macros feature flags alloc atomic serde std warnings planned features introduction bitvec enables rust projects to have complete bitlevel control of memory with types that fit in with existing rust idioms and patterns.

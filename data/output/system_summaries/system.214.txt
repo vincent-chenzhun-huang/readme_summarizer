@@ -1,1 +1,1 @@
-:ledger: Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods
+format dates numbers and strings including pluralization and handling translations 

@@ -1,1 +1,1 @@
-universal starter kit to build any javascript es6 projectlibrary runnable in nodejs and on any browser introduction javascript 2015es6next introduces a lot of new cool features unfortunately not yet available in the current modern browsers.
+obviously the proposed textsnake representation is able to eﬀectively and precisely describe the geometric properties such as location scale and bending of curved text with perspective distortion while the other representations axisaligned rectangle rotated rectangle or quadrangle struggle with giving accurate predictions in such cases.

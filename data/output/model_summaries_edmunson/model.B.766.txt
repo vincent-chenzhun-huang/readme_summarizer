@@ -1,1 +1,1 @@
-skillsets sets of skills provided with permissionscommands this plugins allow you to create several sets of skills for your arena or rp server.
+s3cmd tool for amazon simple storage service s3 author michal ludvig michallogix.cz project homepage c tgrmn software and contributors s3tools s3cmd mailing lists announcements of new releases s3toolsannouncelists.sourceforge.net general questions and discussion s3toolsgenerallists.sourceforge.net bug reports s3toolsbugslists.sourceforge.net s3cmd requires python 2.6 or newer.

@@ -1,1 +1,1 @@
-Boilerplate project to run WebdriverIO tests with Cucumber
+send and get emails as possible as it can be in python3

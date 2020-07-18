@@ -1,1 +1,1 @@
-A repository to follow along gatsbyjs tutorial
+installing the Python iLOrest library and showcasing a few examples 

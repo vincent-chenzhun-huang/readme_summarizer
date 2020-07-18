@@ -1,1 +1,1 @@
-bolt bolt is a postlink optimizer developed to speed up large applications. it achieves the improvements by optimizing applications code layout based on execution profile
+full documentation a small validation library for .net that uses a fluent interface and lambda expressions for building validation rules. get started fluentvalidation can be

@@ -1,1 +1,1 @@
-Graphical User Interface for creating and running Scratch 3.0 projects.
+use it in your next Computer Vision or AI project 

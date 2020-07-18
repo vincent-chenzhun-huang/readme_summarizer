@@ -1,1 +1,1 @@
-sameersbnpostgresql9.412 introduction contributing issues getting started installation quickstart persistence trusting local connections setting user password creating database user creating databases enabling unaccent extension granting user
+terraformawsroute53clusterhostname terraform module to define a consistent aws route53 hostname this project is part of our comprehensive sweetops approach towards devops. its 100 open source

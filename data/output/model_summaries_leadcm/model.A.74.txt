@@ -1,1 +1,1 @@
-reactredux shopping cart exercise this repository is an exercise of a shopping cart. it simulates a small catalog that is shown in the main view
+medicare locator built with the rasa stack 🏥 introduction this is an open source starter pack for developers to show how to automate full conversations

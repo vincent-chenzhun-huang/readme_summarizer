@@ -1,1 +1,1 @@
-allowingdenying lints you can add options to your code to allowwarndeny clippy lints the whole set of warn lints using the clippy lint group denyclippyall all lints using both the clippy and clippypedantic lint groups denyclippyall denyclippypedantic.
+trackattribution option boolean can be set to show layers attribution only when map boundary intersects layers geometry.

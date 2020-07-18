@@ -1,1 +1,1 @@
-dhi matlab toolbox the dhi matlab toolbox provides a number of tools and examples for working with dhi related data files within matlab.
+imdb movie scrapper in this project i have made a imdb scraper httpswww.imdb.comindiatopratedindianmoviesrefnvmv250in in which i have scraped a total of 250 movies using beautifulsoup and requests library and performed different analysis based on years decades genres directors languages and casts.

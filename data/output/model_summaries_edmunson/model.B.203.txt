@@ -1,1 +1,1 @@
-terraformawskopsdatanetwork terraform module to lookup network resources within a kops cluster this project is part of our comprehensive sweetops approach towards devops.
+vruntimetemplate a vue.js components that makes easy compiling and interpreting a vue.js template at runtime by using a like api.

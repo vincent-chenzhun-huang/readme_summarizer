@@ -1,1 +1,1 @@
-lightmapper lightmapper.h is a cc singlefile library for lightmap baking by using your existing opengl renderer. to paste the implementation into your project insert the
+noteimage notation write over the background theme that represent tasks to do. algumas coisas já pensadas.. concepção da idéia esse negocio de ter um programa

@@ -1,1 +1,1 @@
-anonymous pr branches no local branch only operating detached fetch existing pr branches by number automatic diffs against upstream head and pr branch delete local and remote branches at same time git pr rm support for gitlab and github support for automatically making prsmrs github and gitlab11.10.
+note for this article the app that im using is irrelevant as the focus of this article is to document what would be the next step to resolve the error rather than talking about the actual application that im trying to install using helm.

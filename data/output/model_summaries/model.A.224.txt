@@ -1,1 +1,1 @@
-lyricstoaudioalignment this project aims at creating an automatic alignment between the textual lyrics and monophonic singing vocals audio.
+the buildpack supports extension through the use of git repository forking.

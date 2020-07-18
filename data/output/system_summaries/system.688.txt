@@ -1,1 +1,1 @@
-FusionCharts JavaScript Charting library. Over 95+ charts and 1,400+ maps to choose from, with integrations available for all popular JavaScript frameworks & back-end programming languages. 
+deeply nested React elements

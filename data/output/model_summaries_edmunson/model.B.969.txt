@@ -1,1 +1,1 @@
-spanomatic spanomatic is an android library that allows you to automatically add spans to text from resources strings.
+algojammer algojammer is an experimental proofofconcept code editor for writing algorithms in python.

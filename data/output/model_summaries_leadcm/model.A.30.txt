@@ -1,1 +1,1 @@
-scipy proceedings this is the repository for submitting to and managing the proceedings for the annual scientific computing with python conference. this repository is a
+gitlabgithub proxy glghproxy proxy to provide githublike api on top of gitlab. especially designed to use the jira dvcs connector with gitlab. very important configuration

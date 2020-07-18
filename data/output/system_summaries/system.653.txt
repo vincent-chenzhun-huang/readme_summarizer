@@ -1,1 +1,1 @@
-A minimalistic GUI for analyzing Pandas DataFrames.
+analyze HBase Snapshots

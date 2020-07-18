@@ -1,1 +1,1 @@
-amazonelasticcomputecloud amazon elastic compute cloud amazon ec2 is a web service that provides resizeable computing capacity—literally servers in amazons data centers—that you use to build and host your software systems.
+sonarqube the sonarqube project is a subproject of the overarching devops toolchain dotc project.

@@ -1,1 +1,1 @@
-imgorgchef.png introduction orgchef is a package for managing recipes in orgmode.
+fancywalkthroughandroid prerequisites add this in your root file not your module file dependency add this to your modules file make sure the version matches the jitpack badge above fancy walkthrough fancy walkthrough library for android with image or solid color backgrounds.

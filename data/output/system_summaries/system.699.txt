@@ -1,1 +1,1 @@
-A curated list of resources dedicated to text summarization
+setting up and managing resources

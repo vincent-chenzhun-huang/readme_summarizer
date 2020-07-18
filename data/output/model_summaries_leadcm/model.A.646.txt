@@ -1,1 +1,1 @@
-gstreamer video analytics plugins this is preview of the product functionality that is being introduced to gain early developer feedback. comments questions and suggestions are
+you can read more at learning python application development httpswww.packtpub.comapplicationdevelopmentlearningpythonapplicationdevelopmentutmsourcegithubutmmediumrepositoryutmcampaign9781785889196 readme file for book learning python application development packt publishing directory contents code files for

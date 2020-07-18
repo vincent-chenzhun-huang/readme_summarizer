@@ -1,1 +1,1 @@
-create your own auto direct message twitter bot 💬💬 create a welcome message for your new followers in twitter is the first step to get
+pyapns2 python library for interacting with the apple push notification service apns via http2 protocol installation either download the source from github or use easyinstall

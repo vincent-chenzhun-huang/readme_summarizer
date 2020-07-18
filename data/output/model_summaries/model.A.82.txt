@@ -1,1 +1,1 @@
-example2 this example creates a vcn in oracle cloud infrastructure including default route table dhcp options security list and subnets from scratch then use terraformocijenkins module to deploy a jenkins cluster.
+the complexity and cost of developing asics monopolized bitcoin mining leading to relatively dangerous mining centralization.

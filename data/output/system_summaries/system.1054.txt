@@ -1,1 +1,1 @@
-A C++ library for interacting with JSON.
+track fingers using Kinect v2 

@@ -1,1 +1,1 @@
-ember modal dialog the embermodaldialog addon provides components to implement modal dialogs throughout an ember application using a simple consistent pattern.
+abstractvm abstractvm is a machine that uses a stack to compute simple arithmetic expressions.

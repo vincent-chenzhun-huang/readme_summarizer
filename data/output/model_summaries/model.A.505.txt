@@ -1,1 +1,1 @@
-your app is ready to be deployed see the section about deployment for more information.
+microsoft restier odata made simple releases      documentation      odata v4.01 documentation what is restier restier is an api development framework for building standardized odata v4 based restful services on .net.

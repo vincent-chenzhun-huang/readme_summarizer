@@ -1,1 +1,1 @@
-anycubic photon owners documentation use this repository to collect information on the anycubic photon lcd resin printers hardware software and usage. please note that most
+this project is deprecated. features one click chart change tiny 4.4kb minified and gzipped auto tooltips auto hw dimensions updates automatically when resizing beautiful animations

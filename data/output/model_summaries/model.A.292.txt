@@ -1,1 +1,1 @@
-installing perfkit benchmarker and prerequisites before you can run the perfkit benchmarker you need accounts on the cloud providers you want to benchmark google cloud platform aws azure alicloud digitalocean rackspace cloud profitbricks you also need the software dependencies which are mostly command line tools and credentials to access your accounts without a password.
+your app is ready to be deployed see the section about deployment for more information.

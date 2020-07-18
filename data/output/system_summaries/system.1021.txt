@@ -1,1 +1,1 @@
-OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+collect key points of AI papers 

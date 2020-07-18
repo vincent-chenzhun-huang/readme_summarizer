@@ -1,1 +1,1 @@
-jooqs reason for being compared to jpa java and sql have come a long way. sql is an ancient yet established and wellunderstood technology. java
+browserupdate many internet users are still using very old outdated browsers â€“ most of them for no actual reason. we want to remind these unobtrusively

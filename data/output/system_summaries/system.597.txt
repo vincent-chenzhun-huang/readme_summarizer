@@ -1,1 +1,1 @@
-This is a light weight yet powerful calculator plugin for OpenCPN.  Would you like to know your hull speed?
+code through tinkering and building projects

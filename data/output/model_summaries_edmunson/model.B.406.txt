@@ -1,1 +1,1 @@
-azuregrpctelemetrypipeline this repository contains a sample implementation of a data pipeline to ingest streaming telemetry from cisco ios xr devices and process the data on azure.
+laser cut box openscad module this is an openscad module for creating boxes to be lasercut out of flat panels e.g. plywood or acrylic.

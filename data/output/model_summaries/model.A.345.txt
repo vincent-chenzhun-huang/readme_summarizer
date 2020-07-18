@@ -1,1 +1,1 @@
-we dont sort in databases for two reasons the sort order collation for strings for example can be different between sql server and postgresql and we dont want to stress the servers more than needed anyway.
+installation you can install this library in your projects as a nuget package for some linux flavours you may need to also compile a workaround for a invalid caller error.

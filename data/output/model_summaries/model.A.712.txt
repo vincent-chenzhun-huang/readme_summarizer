@@ -1,1 +1,1 @@
-algorithmic trading.
+tests have been done on machines prepared by this playbook yaml defaults file for bootstrap the user to use to connect to machines.

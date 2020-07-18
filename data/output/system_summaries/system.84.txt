@@ -1,1 +1,1 @@
-Flat Surface Shader for rendering lit triangles to a number of contexts including WebGL, Canvas 2D and SVG
+build browsers or browserlike applications 

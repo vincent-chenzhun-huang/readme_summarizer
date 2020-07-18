@@ -1,1 +1,1 @@
-webext redux a set of utilities for building redux applications in web extensions. this package was originally named . installation this package is available on
+a feature rich modmail bot for discord. what is modmail modmails core functionality provides an efficient way for server members to communicate with server staff.

@@ -1,1 +1,1 @@
-hacktoberfest this repository is mainly open to those who are looking to make some pr for the hacktoberfest event and to get started with github
+mattermost poll provides a slash command to create polls in mattermost. by default a poll will only offer the options yes and no. however users

@@ -1,1 +1,1 @@
-angularrave easily intergrate the rave payment gateway in your angular2 project how to use you can checkout the demo here 1. install the module run
+jquery mask plugin a jquery plugin to make masks on form fields and html elements. documentation demos usage examples httpsigorescobar.github.iojquerymaskplugin features lightweight 2kb minified 1kb

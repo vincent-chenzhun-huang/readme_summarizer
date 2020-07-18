@@ -1,1 +1,1 @@
-Tools used to generate the SciPy conference proceedings
+use the JIRA DVCS connector with Gitlab 

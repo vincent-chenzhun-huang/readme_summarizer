@@ -1,1 +1,1 @@
-lazydatepicker this is an android project to offer an alternative to the native android date picker. usage to make a lazy date picker add lazydatepicker
+lookyloo is a web interface allowing to scrape a website and then displays a tree of domains calling each other. thank you very much tech

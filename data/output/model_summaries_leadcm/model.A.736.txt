@@ -1,1 +1,1 @@
-go emoji utils a collection of useful functions for working with emoji. for example look up the definition of a specific emoji or search for
+welcome to swiflow warning swiflow is under active development on its master branch. .. image httpsimg.shields.iopypivswiflow.svg target httpspypi.python.orgpypiswiflow .. image httpsreadthedocs.orgprojectsswiflowbadgeversionlatest target httpsswiflow.readthedocs.ioenlatestbadgelatest alt documentation

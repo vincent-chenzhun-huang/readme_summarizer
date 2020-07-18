@@ -1,1 +1,1 @@
-nconsolerstandard library for parsing console arguments in c this is forked from the original nconsoler to update it to be a .net standard library. this
+migrating asp.net web forms app to .net core using dotvvm dotvvm is an open source mvvm framework for web applications that supports asp.net and asp.net

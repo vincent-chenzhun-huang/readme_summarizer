@@ -1,1 +1,1 @@
-pysmartgardena description this library aims to provide python way to communicate with gardena smart systems and all gardena smart equipments.
+apache fineract cn template this project provides a template layout for all apache fineract cn services.

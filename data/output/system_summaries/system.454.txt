@@ -1,1 +1,1 @@
-Meta-layer for Poky to build embedded Linux exvironments by Debian's source codes
+reverse engineer

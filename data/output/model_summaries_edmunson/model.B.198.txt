@@ -1,1 +1,1 @@
-pickout cool and powerful effect to select fields.
+railsadmin railsadmin is a rails engine that provides an easytouse interface for managing your data.

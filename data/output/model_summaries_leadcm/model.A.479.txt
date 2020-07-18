@@ -1,1 +1,1 @@
-nkakouros.taskserver ansible role to setup a taskservertaskd for taskwarrior. this role follows closely the tutorial at httpsgitpitch.comgothenburgbitfactorytaskserversetup it will install taskd as per the tutorial
+reactcurrencyinput an es2015 react component for currency. supports custom decimal and thousand separators as well as precision. changes v1.3.0 deprecated onchange option in favor of

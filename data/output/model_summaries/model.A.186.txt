@@ -1,1 +1,1 @@
-ubuntu using gcc git clone b master singlebranch httpsgithub.comwoolongcoinwoolongcoin cd woolongcoin mkdir build cd build cmake .. make the binaries will be in the src folder when you are complete.
+the project has two portals upload page any developer can upload codeboilerplatedesign architechture etc from this page.

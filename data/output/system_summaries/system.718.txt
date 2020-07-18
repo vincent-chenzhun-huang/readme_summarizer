@@ -1,1 +1,1 @@
-A package to parse @mentions from a text and mention the users with Laravel.
+persist user settings in cloud storage across devices and installs 

@@ -1,1 +1,1 @@
-outline server this repository has all the code needed to create and manage outline servers on digitalocean. an outline server runs instances of shadowsocks proxies
+usb and sdcard firmware flashing for the arduino atmega 2560 and adk master branch is sdcard flash bootloaderfromflash is flash from an spi chip mechanics

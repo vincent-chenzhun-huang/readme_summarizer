@@ -1,1 +1,1 @@
-computer science rankings this ranking of top computer science schools is designed to identify institutions and faculty actively engaged in research across a number of
+this repo is deprecated to get a fresh botkit starter kit use the yeoman generator or remix a starter kit on glitch botkit starter kit

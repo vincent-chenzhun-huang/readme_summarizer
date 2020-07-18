@@ -1,1 +1,1 @@
-This R package is designed to obtain USGS or EPA water quality sample data, streamflow data, and metadata directly from web services. See: http://usgs-r.github.io/dataRetrieval/
+calling over Tor

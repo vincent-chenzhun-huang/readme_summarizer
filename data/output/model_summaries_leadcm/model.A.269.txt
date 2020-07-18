@@ -1,1 +1,1 @@
-clippy a collection of lints to catch common mistakes and improve your rust code. there are 303 lints included in this crate we have a
+boundarycanvas is a plugin for leaflet mapping library to draw tiled raster layers with arbitrary boundary. html5 canvas is used for rendering. works with both

@@ -1,1 +1,1 @@
-note all docker images in this project work for released versions of dataverse only prerequisites youll need a running and fully configured kubernetes cluster either using openshift minikube a fullfledged cluster gke or similar.
+delete if we decide we dont want the campaign we created anymore python campaign.apidelete useful arguments multiple access tokens throughout the docs the method facebookadsapi.init is called before making any api calls.

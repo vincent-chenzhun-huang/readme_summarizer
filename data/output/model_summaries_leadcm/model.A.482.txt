@@ -1,1 +1,1 @@
-command line video splitter simple command line python script that splits video into multi chunks. under the hood script uses ffmpeg so you will need
+2018，开始你的pwa学习之旅 pwa学习系列技术文章汇总至此处 戳我，或者直接查看下面列表 第一篇：2018，开始你的pwa学习之旅（本文） 第二篇：10分钟学会使用manifest，让你的webapp更“native” 第三篇：从今天开始，让你的webapp离线可用 第四篇：troubleshooting 解决firebase login验证失败问题 第五篇：与你的用户保持联系 web push功能 第六篇：how to debug 在chrome中调试你的pwa 第七篇：增强交互：使用notification api来进行提醒 第八篇：使用service worker进行后台数据同步 第九篇：pwa实践中的问题与解决方案 第十篇：resource hint 提升页面加载性能与体验 pwa作为今年最火热的技术概念之一，对提升web应用的安全、性能和体验有着很大的意义，非常值得我们去了解与学习。

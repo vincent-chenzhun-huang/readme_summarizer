@@ -1,1 +1,1 @@
-at the input file it will look for the command line to extract the hostname.
+data series multiple data series can be defined for a chart function mychart.jqcandlestick data data series type line name series 1 type point name series 2 dataoffset 2 each series inherits its settings from which is defined as seriesdefaults type point name null names dataoffset 1 yaxis 0 color fff four builtin types are available defined in and candlestick.

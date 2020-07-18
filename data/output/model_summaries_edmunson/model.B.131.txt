@@ -1,1 +1,1 @@
-gofeedcli is an implementation of gofeed as a command line.
+jquery filedrop plugin html5 drag desktop files into browser jquery filedrop uses the html5 file api to allow users to drag multiple files from desktop to the browser uploading each file to a userspecified url.

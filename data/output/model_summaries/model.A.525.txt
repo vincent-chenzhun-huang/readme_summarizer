@@ -1,1 +1,1 @@
-list of directories or communities to submit your idea startup product to get visibility.
+this can be achieved by adding the following setting packaging proto files .proto files can be included in the jar file by adding the following setting to your build definition alternatively .proto files can be packaged in a separate jar file in the protobuf configuration with a proto classifier changing the location of the generated java files by default the compiled proto files are created in targetsrcmanagedmaincompiledprotobuf.

@@ -1,1 +1,1 @@
-log4net.ext.json moved to gitlab enable json logging in log4net extend log4net with simple configuration options to create json log entries. pass semantic information to downstream
+steam scraper this repository contains scrapy spiders for crawling products and scraping all usersubmitted reviews from the steam game store. a few scripts for more

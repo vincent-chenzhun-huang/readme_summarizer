@@ -1,1 +1,1 @@
-the last value is returned for any subsequent invocations ruby allowdie.to receiveroll.andreturn1 2 3 die.roll 1 die.roll 2 die.roll 3 die.roll 3 die.roll 3 to return an array in a single invocation declare an array ruby allowteam.to receiveplayers.andreturndoublename david message expectations a message expectation is an expectation that the test double will receive a message some time before the example ends.
+przesyłanie żądania ściągnięcia cieszymy się że chcesz przyczynić się do powstawania dokumentacji języka arduino to najlepszy sposób aby pomóc społeczności.

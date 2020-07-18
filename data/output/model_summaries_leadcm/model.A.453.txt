@@ -1,1 +1,1 @@
-weakauras 2 weakauras is a powerful and flexible framework that allows the display of highly customizable graphics on world of warcrafts user interface to indicate
+external header footer contributors yllus donate link httpsgithub.comyllusexternalheaderfooter tags requires at least 3.5.2 tested up to 5.0.0 stable tag trunk license gplv2 or later license

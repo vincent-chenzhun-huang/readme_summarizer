@@ -1,1 +1,1 @@
-seostats seo metrics library for php seostats is the open source php library to get seorelevant website metrics.
+database table printer dbtableprinter is a java utility class for printing rows from a given database table or a to standard out formatted to look like a table with rows and columns with borders.

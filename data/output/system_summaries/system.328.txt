@@ -1,1 +1,1 @@
-Repository containing the material required to reproduce the results of the paper \Vision-Based Fall Detection with Convolutional Neural Networks\""
+send mail via SMTP protocol

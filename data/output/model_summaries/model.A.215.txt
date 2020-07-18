@@ -1,1 +1,1 @@
-for general discussions about pocketflow development and directions please refer to pocketflow google group.
+keyboardjs also provides contexts.

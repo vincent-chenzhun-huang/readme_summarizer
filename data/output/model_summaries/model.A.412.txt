@@ -1,1 +1,1 @@
-steps after following the setup instructions above run the jupyter notebooks in order.
+toast the toast is the notification template that will be used to create all toaster notifications.

@@ -1,1 +1,1 @@
-yahoofinancials a python module that returns stock cryptocurrency forex mutual fund commodity futures etf and us treasury financial data from yahoo finance. .. image httpstravisci.orgjecsandyahoofinancials.svgbranchmaster
+protoflutterdriverserver features access to find an element by text find a button named get the element text after it returns text localhost8080hubwdelementsemanticid get the semantics

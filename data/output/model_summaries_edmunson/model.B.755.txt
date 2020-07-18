@@ -1,1 +1,1 @@
-🌠 kuantic app 🌠 mevn web application to support ecommerce.
+this is a playground repository where i play around with oblige by andrew apted in order to see how further i can push it while playing around.

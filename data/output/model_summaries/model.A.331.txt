@@ -1,1 +1,1 @@
-zookeeper will be available at kafka will be available at run with single zookeeper multiple kafka if you want to have three brokers and experiment with kafka replication faulttolerance.
+androidjscore androidjscore allows android developers to use javascript natively in their apps.

@@ -1,1 +1,1 @@
-MEVN web application to support e-commerce.
+Ajapted the original author when properly baked 

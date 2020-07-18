@@ -1,1 +1,1 @@
-A better way to handle gestures on iOS
+detect the device OS and browser details 

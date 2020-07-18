@@ -1,1 +1,1 @@
-androidsmartanimationlibrary if you like this library then plz hit the star at the top right corner for any query or suggestion mail me at programer.prabhatgmail.com
+cesi centralized supervisor interface cesi is a web interface for managing multiple supervisors from the same place. supervisor has its own web ui but managing

@@ -1,1 +1,1 @@
-recorder.recordoptions will start recording audio until recorder.stop is called.
+ysoserial is a collection of utilities and propertyoriented programming gadget chains discovered in common java libraries that can under the right conditions exploit java applications performing unsafe deserialization of objects.

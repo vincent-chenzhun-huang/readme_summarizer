@@ -1,1 +1,1 @@
-springbootversion 1.5.10.release gsrestservicecors linkguidesgsrestservicecors gsspringboot linkguidesgsspringboot toc icons font sourcehighlighter prettify projectid gsconsumingrestangularjs this guide walks you through writing a simple angularjs client that consumes
+herokuprivatelinkterraformautomation magic of terraform and shell script to automate the process of provisioning heroku privatelink which use to connect to a private heroku postgres database

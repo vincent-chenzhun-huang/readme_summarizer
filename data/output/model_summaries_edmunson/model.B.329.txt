@@ -1,1 +1,1 @@
-these are json result of stepbystep adding nlp component into watson assistant.
+contentsync directory copysyncmirror tool that uses file contents not timestamps to avoid touching identical files.

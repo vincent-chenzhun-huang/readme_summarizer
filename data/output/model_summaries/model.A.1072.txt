@@ -1,1 +1,1 @@
-this script uses the class below to deploy the aforementioned template to the subscription and resource group specified in and respectively.
+running fithic arguments required arguments f fragments the f argument is used to pass in a full path to what we deem a fragments file each line will have 5 entries.

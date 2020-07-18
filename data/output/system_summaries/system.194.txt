@@ -1,1 +1,1 @@
-A Todo demo app to learn Sinatra with TDD Selenium testing
+configure Log4net as Microsoft Extensions Logging handler on any ASPNET Core application Original code proposal by anuraj https dotnetthoughtsnethowtouselog4netwithaspnetcoreforlogging

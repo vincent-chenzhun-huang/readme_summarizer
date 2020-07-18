@@ -1,1 +1,1 @@
-japanese wifinian more control over wifi connections wifinian is a windows desktop tool to enable user to actively control wifi connections. dpi 200 functions connect
+burpdynamicsessiontracker bdst burp extension to track dynamic session cookies back to their source easily and swap between sessions. prereqs the only thing you need is

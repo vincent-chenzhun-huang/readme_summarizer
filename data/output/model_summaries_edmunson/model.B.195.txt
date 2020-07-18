@@ -1,1 +1,1 @@
-code to look for evoked potentials in variable spacing stimulation data as well as fit analytic models to the volume conducted signals this repository contains code to analyze human intracranial datasets from the stimulation spacing and stimulation geometry projects.
+ssoled small simple oled library project started 1152017 copyright c 2017 bitbank software inc. written by larry bank bitbankpobox.com the purpose of this code is to easily control sh1106ssd1306 oled displays using a minimum of flash and ram.

@@ -1,1 +1,1 @@
-this deep neural network is implemented with keras functional api which makes it extremely easy to experiment with different interesting architectures.
+show control and tell this repository contains the reference code for the paper show control and tell a framework for generating controllable and grounded captions cvpr 2019. please cite with the following bibtex environment setup clone the repository and create the conda environment using the file our code is based on speaksee a python package that provides utilities for working with visualsemantic data developed by us.

@@ -1,1 +1,1 @@
-JavaScript library to make drawing animation on SVG
+the vastly inferior search capabilities of many debuggers and tracers and a convenient w

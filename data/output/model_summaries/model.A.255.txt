@@ -1,1 +1,1 @@
-webpageurl string a boolean value that determines whether siri can suggest the user activity as a shortcut to the user.
+ccxt websockets db updater a python 3 command line program to subscribe cryptocurrency exchanges websockets and save order books in real time in a database.

@@ -1,1 +1,1 @@
-A trie implementation to solve a word finder task I was requested for a C# interview
+calculating thermodynamic properties under quasiharmonic approximation using data from abinitio calculations

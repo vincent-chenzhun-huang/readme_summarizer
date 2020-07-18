@@ -1,1 +1,1 @@
-utlacademicpipesdosublopendeferanddroppingdowmtomutiplelanguagesinonedatastep academic pipes dosubl open defer and dropping dowm to mutiple languages in one datastep academic pipes dosubl open defer and dropping dowm to multiple
+serverless webpack a serverless v1.x plugin to build your lambda functions with webpack. this plugin is for you if you want to use the latest

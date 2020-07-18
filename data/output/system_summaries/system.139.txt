@@ -1,1 +1,1 @@
-Gatsby plugin to add a <link rel=\preconnect\"> for every specified domain"
+image classification

@@ -1,1 +1,1 @@
-use opcuaclient to read write subscribe browse opc ua server.
+partedarrays.jl partedarrays was written to make it easier to work with arrays that are naturally partitioned into subarrays.

@@ -1,1 +1,1 @@
-single ip range of ips the script will then use a series of show commands and regexes against the show command outputs to identify the port the associated mac address is learned on determine if there is another cisco switch connected via cdp and continues the trace until it reaches a port where no switch is detected.
+train your own opencv haar classifier important this guide assumes you work with opencv 2.4.x.

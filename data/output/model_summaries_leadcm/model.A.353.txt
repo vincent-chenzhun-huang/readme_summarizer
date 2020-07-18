@@ -1,1 +1,1 @@
-data pipeline clientlib what is it data pipeline clientlib provides an interface to tail and publish to data pipeline topics. read more how to download
+nuxt basic authentication an example project on how to use http authorization in nuxt.js files to look for configauthentication.js configconfig.json serverindex.js storeauth.js middlewareauth.js nuxt.config.js build

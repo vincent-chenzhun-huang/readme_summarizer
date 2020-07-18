@@ -1,1 +1,1 @@
-dbnomics.jl dbnomics julia client this package provides you access to dbnomics data series.
+jenkinspasswordspray jenkinspasswordspray is a tool witten in powershell to perform password spraying attacks against users of a jenkins instance.

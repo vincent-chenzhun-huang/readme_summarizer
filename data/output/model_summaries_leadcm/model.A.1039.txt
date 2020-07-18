@@ -1,1 +1,1 @@
-weight standardization weight standardization ws is a normalization method to accelerate microbatch training. microbatch training is hard because small batch sizes are not enough for
+promptpwd this is a small c program that prints an abbreviated representation of the current working directorys path. it was designed to work with bashs

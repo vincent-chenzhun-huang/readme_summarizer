@@ -1,1 +1,1 @@
-capistranomb an opinionated capistrano task library for deploying rails apps from scratch on ubuntu 16.04 or 18.04 lts. capistrano is great for deploying rails applications
+this documentation is deprecated. please use new powerbi custom visuals site instead. power bi visuals learn how to build power bi visuals developing your first

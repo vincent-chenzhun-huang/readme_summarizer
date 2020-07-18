@@ -1,1 +1,1 @@
-about this repo is a holding area for recipes destined for a condaforge feedstock repo.
+amazon managed blockchain workshop building and deploying an application for hyperledger fabric on amazon managed blockchain this workshop builds a hyperledger fabric blockchain network using amazon managed blockchain.

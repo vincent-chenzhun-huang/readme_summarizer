@@ -1,1 +1,1 @@
-apollineandroid android application for collecting air measurements.
+ipaclientinstall role this repository contains the ansible role and playbooks to install and uninstall freeipa .

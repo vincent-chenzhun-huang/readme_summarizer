@@ -1,1 +1,1 @@
-Hands on guide to using PyTorch and implementing Capsule Networks
+addon updates and install new versions directly from Blender 

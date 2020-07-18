@@ -1,1 +1,1 @@
-kubernetes vault integration the kubernetesvault project allows pods to automatically receive a vault token using vaults approle auth backend.
+what is moddetective doing moddetective is very elementary in how it operates.

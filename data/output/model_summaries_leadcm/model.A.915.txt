@@ -1,1 +1,1 @@
-100 free resources for learning full stack web development. hello i created this list and am constantly updating it with new resources information and news.
+managing memory bit by bit table of contents introduction unique capabilities competitors usage code sample api data structures traits bit orderings macros feature flags alloc

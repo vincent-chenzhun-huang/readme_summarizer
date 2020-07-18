@@ -1,1 +1,1 @@
-dreamhouse lightning web components sample application important this is the new lightning web components version of the dreamhouse sample application.
+swiftcharts easy to use and highly customizable charts library for ios features bars plain stacked grouped horizontal vertical scatter lines straightcubiccustom path generator areas bubble multiple axes candlestick multiple labels per value x axis everything is customizable colors views units labels animations interactions axes etc.

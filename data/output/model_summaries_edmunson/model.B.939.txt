@@ -1,1 +1,1 @@
-shots project is not maintainable.
+installation the module works with cmssw8026 cmssw8029 recommended and requires topquarkanalysisbfragmentation wich produces some values for certain systematics.

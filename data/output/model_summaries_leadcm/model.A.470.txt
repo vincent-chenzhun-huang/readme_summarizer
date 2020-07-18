@@ -1,1 +1,1 @@
-introduction aws codecommit is a fullymanaged source control service that makes it easy for companies to host secure and highly scalable private git repositories. codecommit
+formatter.js 999 999999formattedselector selector.formatter.resetpattern tests install dependencies npm install run tests npm test license the mit license mit copyright c 2013 first opinion permission is

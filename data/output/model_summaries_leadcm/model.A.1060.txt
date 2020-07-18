@@ -1,1 +1,1 @@
-rgbdformatter this repository holds matlab codes to convert various rgbd datasets into the easytouse unified format including dir structure and file naming when we utilize
+vuepursue vue.js plugin to examine the dependencies that reactive data has. intended to be used during development to aid optimization and an understanding of the

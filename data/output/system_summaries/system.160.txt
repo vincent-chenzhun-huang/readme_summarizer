@@ -1,1 +1,1 @@
-Moved to GITLAB! Enable JSON logging in log4net (+extras)
+scraping product data and reviews from Steam 

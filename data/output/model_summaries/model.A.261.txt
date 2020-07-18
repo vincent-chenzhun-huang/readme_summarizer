@@ -1,1 +1,1 @@
-state entities it is possible to separate control entities and state entities.
+google drive google sheets apis classes a python classes to control the google drive api and google sheets api with direct functions to do the basic documents retrieval overwrite delete and permissioning control.

@@ -1,1 +1,1 @@
-description sharepoint patchify apply cu patch to entire farm from one powershell console. sweet note may need to run and on all farm servers to
+froalaoembed a simple plugin for froala wysiwyg editor that allows users to insert and customise a wide variety of external web content. prerequisites this plugin

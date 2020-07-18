@@ -1,1 +1,1 @@
-improvements for my next version i want to try figure out what ways i can make the algorithm more efficient.
+open control linter is a linter for the opencontrol standard of security controls.

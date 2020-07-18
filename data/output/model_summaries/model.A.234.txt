@@ -1,1 +1,1 @@
-pythonmiio pypi version build status code health coverage status docs hound this library and its accompanying cli tool is used to interface with devices using xiaomis .
+read more magento 2 italian language pack overview language package process install italian language pack how to active italian language pack how to contribute supported magento versions notes language package authors 1. language package process this is status of italian language pack you can see how many percentage of this project has been done.

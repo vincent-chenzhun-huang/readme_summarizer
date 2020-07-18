@@ -1,1 +1,1 @@
-aloisius .. image httpsimg.shields.iopypivaloisius.svg target httpspypi.python.orgpypialoisius .. image httpstravisci.orgadonigaloisius.svgbranchmaster target httpstravisci.orgadonigaloisius .. image httpsimg.shields.iopypilaloisius.svg target httpsopensource.orglicensesbsd2clause about aloisius helps you to manage the lifecycle of
+toutes les 10mins on reprend ces 5 etapes grace a la commande crontab e dans le shell bash qui executera ses fichiers python 1 on

@@ -1,1 +1,1 @@
-angularprogressarc an angularjs directive for displaying a circular progress meter. demo features displays a circular progress meter. utilises svg for rendering. adjustable dimensions color and
+shadow dom atención todo es acerca de v1 spec. este documento es más tuyo que mío. me hace feliz que haya podido ayudar a las

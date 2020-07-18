@@ -1,1 +1,1 @@
-redisfullcheck is used to compare whether two redis have the same data.
+mvccore extension router modules mvccore router extension to manage multiple websites in single project defined by domain routes targeted by module property in url completing.

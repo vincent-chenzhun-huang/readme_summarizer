@@ -1,1 +1,1 @@
-Gatsby plugin to use Google Docs as a data source
+Kubernetes storing data in ClickHouse and providing web UI 

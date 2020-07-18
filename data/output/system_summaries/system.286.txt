@@ -1,1 +1,1 @@
-GUI and CLI for downloading YouTube video/audio.
+emulate an Android ARM32 andor ARM64 native library and an experimental iOS ARM32 emulation

@@ -1,1 +1,1 @@
-A unit test-like interface for fuzzing and symbolic execution
+implement CNN Inference

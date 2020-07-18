@@ -1,1 +1,1 @@
-playlistimporter npm package to parse playlist links from common music platforms to json.
+macadminscripts some scripts that might be of use to macos admins.

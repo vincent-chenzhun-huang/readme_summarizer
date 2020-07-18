@@ -1,1 +1,1 @@
-headgazelib what is the project is a pure swift library to empower ios app control through head gaze without a finger touch.
+please read the documents before porting it and using it.

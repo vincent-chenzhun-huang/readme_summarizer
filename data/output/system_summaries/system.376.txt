@@ -1,1 +1,1 @@
-Cordova/Phonegap plugin to manage device settings
+retrieve users and start transfer process 

@@ -1,1 +1,1 @@
-multitemplate this is a custom html render to support multi templates ie. more than one . usage start using it download and install it import
+terminal manager terminal manager is a visual studio code extension to switch between various terminals. features by default vscode lets us define only one link

@@ -1,1 +1,1 @@
-portworx documentation a hugo implementation of the portworx documentation. contributing to the docs click the fork button in the upperright area of the screen to
+pire adversarial queries for blocking contentbased image retrieval cbir. this repository releases the pytorch implementation of pire in our paper whos afraid of adversarial queries

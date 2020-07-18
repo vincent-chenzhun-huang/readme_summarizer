@@ -1,1 +1,1 @@
-how to create a challenge on evalai if you are looking for a simple challenge configuration that you can replicate to create a challenge on
+spotcast home assistant custom component to start spotify playback on an idle chromecast device this component is not meant to be a full spotify chromecast

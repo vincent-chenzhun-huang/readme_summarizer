@@ -1,1 +1,1 @@
-contenthash this is a simple package made for encoding and decoding content hashes has specified in the eip 1577. this package will be useful for
+stockutils util collection to accelerate deep learnign experiments on stock market data. currently prealpha code with frequent breaking changes. example full example code here install

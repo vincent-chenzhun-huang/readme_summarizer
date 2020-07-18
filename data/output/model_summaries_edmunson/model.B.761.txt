@@ -1,1 +1,1 @@
-testmynids.org a website and framework for testing nids detection what is it a simple project that aims to centralize testing for detection of malicious events by network intrusion detection systems nids.
+force page protection summary this x64dbg plugin sets the page protection for memory mapped views in scenarios which cause ntprotectvirtualmemory to fail.

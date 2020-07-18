@@ -1,1 +1,1 @@
-Simple to use, easy to customize Toast component for Android & iOS. Developed with love for redux apps
+helping people find accomodation properties houses rent of apartment etc 

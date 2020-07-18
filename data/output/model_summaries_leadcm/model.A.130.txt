@@ -1,1 +1,1 @@
-grunt csspurge purges duplicate css rules and more. based on csspurge. you have an issue this is a simple grunt plugin which means it’s a
+zero to jupyterhub with kubernetes this repo contains a helm chart for jupyterhub and a guide to use it. together they allow you to make

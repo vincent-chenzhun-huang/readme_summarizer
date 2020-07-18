@@ -1,1 +1,1 @@
-boxvr  images example images produced by our generator.
+when using the script for the first time or after upgrading the host docker version run the script with the parameter first to make sure it works okay and doesnt delete any volumes that shouldnt be deleted.

@@ -1,1 +1,1 @@
-salt minion configuration states salt configuration and state files files description srvsalt the state tree includes all sls salt state file representing the state in which all nodes should be etcsaltmaster salt master configuration → defines to location of the state tree srvsalttop.sls maps nodes to sls configuration files cf.
+how this config works somewhere along the way running gdswxguitoolsgds.py requires wx version 4. this is not available from the ubuntu package manager for 16.04 and does not seem to work correctly for 18.04 in f prime.

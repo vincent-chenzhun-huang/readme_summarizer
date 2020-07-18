@@ -1,1 +1,1 @@
-for that purpose open slic3r and select file export config... save the file with the desired name e.g. config.ini once done in profiles click import profile... button click on browse... and search for the profile.
+it uses that spec to locate the data set in this case modifies a copy of the data set based on the spec and outputs a new translated data set.

@@ -1,1 +1,1 @@
-codepilot.ai this and others readmes in the repo serve as living documents and the source of truth for our development practices. design split testing unit
+exosite this library provides integration with exosite by wrapping the exosite https device api. to include this library in your project add at the top

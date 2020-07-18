@@ -1,1 +1,1 @@
-building fatal fatal is a header only library therefore no building is required.
+to make the process easier it makes sense to use a widelyknown corpus query language use it and then translate queries to sparql queries which are then run against our data.

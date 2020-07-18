@@ -1,1 +1,1 @@
-ï·½ banner license is software licensing library that provides an abstract way to secure your software usage. features rsabased signing to prevent alteration custom license
+welcome to the edublocks github repository about edublocks edublocks is a visual block based programming tool that helps teachers to introduce text based programming languages

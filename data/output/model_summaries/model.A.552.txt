@@ -1,1 +1,1 @@
-wadbpwn hack a random android device with 100 guarantee to succeed within 1 second.
+to run chef zero in the background simply issue the command you can stop the server the same way valid options you may currently pass the following options to the initializer the host to run on default 127.0.0.1 the port to run on default 8889 run in debug mode to see all requests and responses default false cli command line if you dont want to use chef zero as a library you can simply start an instance with the included executable note this will run in the foreground.

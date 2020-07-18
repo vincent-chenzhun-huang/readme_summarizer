@@ -1,1 +1,1 @@
-tlgan transparent latentspace gan this is the repository of my threeweek project draw as you can tell controlled image synthesis and edit using tlgan resource
+arduino stm32 notice this software is experimental and a work in progress. under no circumstances should these files be used in relation to any critical

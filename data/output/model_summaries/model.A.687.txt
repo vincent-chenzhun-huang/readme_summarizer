@@ -1,1 +1,1 @@
-from mike version 2017 it also supports reading network results such as results from mike 11 mike 1d or mike urbanmouse files with extensions .res11 .res1d .prf .xrf .trf .crf.
+imdb movie scrapper in this project i have made a imdb scraper httpswww.imdb.comindiatopratedindianmoviesrefnvmv250in in which i have scraped a total of 250 movies using beautifulsoup and requests library and performed different analysis based on years decades genres directors languages and casts.

@@ -12,7 +12,7 @@ def read_data():
 
 
 def write_to_dir(readme_df):
-    system_summaries = readme_df['summary'].to_list()
+    system_summaries = readme_df['purpose'].to_list()
     lex_rank_summaries = readme_df['lex_rank'].to_list()
     edmunson_summaries = readme_df['edmunson'].to_list()
     leadcm_summaries = readme_df['lead_cm'].to_list()

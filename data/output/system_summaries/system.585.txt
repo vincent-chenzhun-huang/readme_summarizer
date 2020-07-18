@@ -1,1 +1,1 @@
-A development framework to build tailer-made chatbot lightning fast.
+interacting with the pipedrivecom API

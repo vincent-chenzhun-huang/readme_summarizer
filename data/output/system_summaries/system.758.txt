@@ -1,1 +1,1 @@
-shellz is a small utility to track and control your ssh, telnet, web and custom shells and tunnels.
+import manipulate and interactively visualise data 

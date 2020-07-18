@@ -1,1 +1,1 @@
-comfy bundle this bundle introduces all the necessary logic in order to save admiistrable configuration in the database or in any other way.
+yellowcake an opinionated starter project for creating lightningfast websites with gatsby v2 and netlify cms v2.

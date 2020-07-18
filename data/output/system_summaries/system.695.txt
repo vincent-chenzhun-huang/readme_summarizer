@@ -1,1 +1,1 @@
-Lambda function that is invoked by kinesis stream on a periodic basis to flush out the data records from kinesis stream to Dynamo db table which are later used for manifest generation process
+solving constrained and unconstrained nonlinear optimization problems 

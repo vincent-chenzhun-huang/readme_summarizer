@@ -1,1 +1,1 @@
-new maintainers and repository location this repository no longer is the main location of reactnativefetchblob.
+nibview tiny swift framework to reference nibs from anywhere code other nibs or storyboards sparkles capabilities ✨ true rendering inside interface builder with and 📏 calculates correct intrinsic content size ♻️ referencing from other nibs and storyboards keeping them small ⌨️ loading from code with a simple ⚙️ integrates as little or as much play around with project 🕹️👈 usage subclass just subclass and optionally add attribute.

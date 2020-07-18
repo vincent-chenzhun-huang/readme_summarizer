@@ -1,1 +1,1 @@
-Package for authoring OSVR experiences with Unity.
+existing projects and much more

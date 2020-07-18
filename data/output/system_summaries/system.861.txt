@@ -1,1 +1,1 @@
-Tools for fetching shapefiles from the Census FTP site, then extracting data from them.
+storing objects in S3 while taking advantage of client side envelope encryption with KMS

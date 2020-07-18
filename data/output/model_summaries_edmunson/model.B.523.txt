@@ -1,1 +1,1 @@
-shapeshifter robust physical adversarial attack on faster rcnn object detector overview this is the code repository for the ecmlpkdd 2018 paper shapeshifter robust physical adversarial attack on faster rcnn object detector the arxiv version is available at httpsarxiv.orgabs1804.05810 the code included here reproduces our techniques presented in the paper.
+datadog agent omnibus project this is an omnibus project to build the datadog agent packages.

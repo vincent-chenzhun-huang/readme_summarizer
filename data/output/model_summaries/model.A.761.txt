@@ -1,1 +1,1 @@
-testmynids.org a website and framework for testing nids detection what is it a simple project that aims to centralize testing for detection of malicious events by network intrusion detection systems nids.
+the protection argument is interpretted as a hex value representing a page constant.1 if no arguments are specified the address is set to the active address in the disassembly view and the protection is set to pageexecutereadwrite 0x40.

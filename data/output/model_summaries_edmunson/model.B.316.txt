@@ -1,1 +1,1 @@
-backgrounddownload plugins for mobile platforms to enable file downloads in background allows to launch file downloads that will continue even if the app goes into background or gets quit by the operating system.
+welcome to the github repo.

@@ -1,1 +1,1 @@
-your app is ready to be deployed see the section about deployment for more information.
+pipe api the pipe object is passed to all handlers and transport during initialization whenever new context is created via trooba.buildcontext or pipe.createcontext call.

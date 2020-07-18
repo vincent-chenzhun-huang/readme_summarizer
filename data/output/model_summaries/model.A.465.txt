@@ -1,1 +1,1 @@
-fusepy is the currently only viable crossplatform python implementation.
+ansiblestoredsafeclient ansiblestoredsafeclient.py is an ansible vault password client script to be used for retrieving password from storedsafe to be used for encryption and decryption when using ansiblevault.

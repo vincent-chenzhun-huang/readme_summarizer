@@ -1,1 +1,1 @@
-nanoservices simple framework to develop modular apex services supports extensible service factory to add custom service factory all default methods can be overriden to add custom functionality interoperable with system.callable sample usage extend invoke as a normal class or from another nanoservice normal class another nanoservice
+rapidpro indexer simple service for indexing rapidpro contacts into elasticsearch.

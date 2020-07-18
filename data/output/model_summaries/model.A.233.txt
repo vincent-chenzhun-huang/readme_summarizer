@@ -1,1 +1,1 @@
-your app is ready to be deployed see the section about deployment for more information.
+awesome keycloak carefully curated list of awesome keycloak resources.

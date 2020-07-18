@@ -1,1 +1,1 @@
-A toolset to make a system look as if it was the victim of an APT attack
+install Superset on Amazon EC2 Linux version 1 machine

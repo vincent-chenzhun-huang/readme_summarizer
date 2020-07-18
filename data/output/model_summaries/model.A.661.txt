@@ -1,1 +1,1 @@
-pdflayouttextstripper converts a pdf file into a text file while keeping the layout of the original pdf.
+status barerror state text color status.error.fgcolor status bar color status.error.bgcolor consolewith error text font console.fontconsole.font.macosx foreground color of unselected error text console.error.color background color of unselected text console.color foreground color of selected text background color of selected text line status bar bar at the bottom of the screen that shows the line number board and port.

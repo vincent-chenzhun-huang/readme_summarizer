@@ -1,1 +1,1 @@
-Opinionated scripts for managing application deployment lifecycle in Kubernetes
+synchronize a debugging session WinDbgGDBLLDBOllyDbg2x64dbg with IDA disassembler 

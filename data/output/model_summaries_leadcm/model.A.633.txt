@@ -1,1 +1,1 @@
-connect to openvpn server step establish a vpn connection with the specified openvpn server. how to use this step can be run directly with the
+auto py to exe a .py to .exe converter using a simple graphical interface built using eel and pyinstaller in python. getting started prerequisites python

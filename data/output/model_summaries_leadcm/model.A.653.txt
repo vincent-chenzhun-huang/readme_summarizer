@@ -1,1 +1,1 @@
-pandas dataframe gui a minimalistic gui for analyzing pandas dataframes based on wxpython. usage features tabular view of data frame columns are sortable by clicking
+hbase snapshot to spark example this project shows how to analyze an hbase snapshot using spark. why do this the main motivation for writing this

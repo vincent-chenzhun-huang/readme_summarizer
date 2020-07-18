@@ -1,1 +1,1 @@
-samples for ai samples for ai is a deep learning samples and projects collection.
+wasmer is a go library for executing webassembly binaries.

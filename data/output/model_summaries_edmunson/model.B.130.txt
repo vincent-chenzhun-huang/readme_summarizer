@@ -1,1 +1,1 @@
-grunt csspurge purges duplicate css rules and more.
+zero to jupyterhub with kubernetes this repo contains a helm chart for jupyterhub and a guide to use it.

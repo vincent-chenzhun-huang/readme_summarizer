@@ -1,1 +1,1 @@
-github coverage reporter jenkins plugin for reporting code coverage as a github status check.
+example usage confirm password dialog used to show a dialog that prompts the user to confirm their password.

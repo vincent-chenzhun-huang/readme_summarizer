@@ -1,1 +1,1 @@
-using this template you can still create a 3 or more node cluster distributed architecture for tableau server but some of the tableau services on tableauworkern nodes will not be available if you use trial license.
+autolinktextview autolinktextview is textview that supports hashtags mentions urls http phone and email automatically detecting and ability to handle clicks.

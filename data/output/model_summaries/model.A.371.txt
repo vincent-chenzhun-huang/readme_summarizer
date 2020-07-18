@@ -1,1 +1,1 @@
-etherscan api patch5 patch4 master patch5 master master a way to access the etherscan.io api using promises.
+to check this run the following command in the terminal after inserting your yubikey if you have an existing key you want to import the key must be a rsa 2048 bit key.

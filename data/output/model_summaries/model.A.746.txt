@@ -1,1 +1,1 @@
-aframe a web framework for building virtual reality experiences.
+runs antora to generate html and produce an index runs serve so that you can browse the html and use the search ui individual steps follow these steps if you dont have installed or you want to see how everything works install all of the dependencies sourcebash npm i run antora to generate html and an index sourcebash nodemodules.binantora generator.generatorgenerator.js antoraplaybook.yml by default the html and index are place in the folder.

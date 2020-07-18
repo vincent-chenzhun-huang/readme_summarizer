@@ -1,1 +1,1 @@
-ï·½ banner license is software licensing library that provides an abstract way to secure your software usage.
+welcome to the edublocks github repository about edublocks edublocks is a visual block based programming tool that helps teachers to introduce text based programming languages like python to children at an earlier age via a drag and drop programming experience edublocks is the easiest way to make the transition from blocks to text heres why text on the blocks edublocks displays the python text on the block so you can see exactly what youre coding.

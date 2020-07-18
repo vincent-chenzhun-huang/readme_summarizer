@@ -1,1 +1,1 @@
-natural language toolkit for indic languages inltk inltk aims to provide out of the box support for various nlp tasks that an application developer might need for indic languages.
+if you have go and docker installed is all you need kind consists of go packages implementing cluster creation image build etc.

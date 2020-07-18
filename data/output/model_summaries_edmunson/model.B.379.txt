@@ -1,1 +1,1 @@
-1.4 billion text credentials analysis nlp using deep learning and nlp to analyze a large corpus of clear text passwords.
+gruntts typescript compilation task for gruntjs gruntts is an npm package that handles typescript compilation work in gruntjs build scripts.

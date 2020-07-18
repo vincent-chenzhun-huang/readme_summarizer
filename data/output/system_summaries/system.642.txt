@@ -1,1 +1,1 @@
-(Discontinued) TokenWizard is an DApp to create and manage crowdsale and token contracts using a simple UI
+a position estimator

@@ -1,1 +1,1 @@
-C# code for Transferring Backdoor Payloads by DNS Traffic and Bypassing Anti-viruses  
+use CoreML 

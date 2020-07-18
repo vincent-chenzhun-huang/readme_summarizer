@@ -1,1 +1,1 @@
-list of components used in this project component description cf.
+f prime development via vagrant vms tutorial and configuration for developing fsw projects in a vm.

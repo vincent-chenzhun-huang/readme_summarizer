@@ -1,1 +1,1 @@
-for more information see the .net foundation code of conduct.
+note that instance members of dbcontext and related classes are not guaranteed to be thread safe the solutions thinking there are multiple solutions to manage concurrency scenarios from data perspective the most common patterns are pessimistic concurrency locking and optimistic concurrency actually entity framework has an implementation of optimistic concurrency.

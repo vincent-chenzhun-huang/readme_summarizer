@@ -1,1 +1,1 @@
-under linux for instance add the following line to the end of your .bashrc file creating the virtual environment i suggest using pipenv.
+the client uses a common subset of pywb cdx server api and the original ia wayback cdx server api and so should work with either of these tools.

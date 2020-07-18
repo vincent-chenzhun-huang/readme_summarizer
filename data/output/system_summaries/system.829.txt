@@ -1,1 +1,1 @@
-A very simple A* implementation in C++ callable from Python for pathfinding on a two-dimensional grid.
+processing image files

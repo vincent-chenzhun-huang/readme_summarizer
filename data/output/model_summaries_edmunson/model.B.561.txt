@@ -1,1 +1,1 @@
-cumulus cumulus is a crossplatform rendezvous service to assist p2p connection in rtmfp peers communication.
+assignment 4 assignment and code blog entry due at 1159pm on monday 5202019 this assignment will not be demoed the goal of this assignment is to start to use node.js and some of its builtin modules to build a very simple web server that serves static content.

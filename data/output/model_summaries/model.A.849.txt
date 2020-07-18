@@ -1,1 +1,1 @@
-small example ida output when compiling first line features does not leave any strings in memory.
+for example the following code begins serial communication data collection functions bool readsensor readsensor reads data from the ublox receiver and parses the ubxnavpvt packet.

@@ -1,1 +1,1 @@
-truffle contracts tests.
+i mean what good is an api if you constantly have to have the documentation a browser and a web debugger open to figure it out note that you need an api key for most commands but api keys can be obtained immediately for free from the steam web api developer page.

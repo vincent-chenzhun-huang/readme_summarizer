@@ -1,1 +1,1 @@
-fseam python script to generate cpp mock for fseam what is a link seam mock a seam is a term introduced by michael feathers in
+typescript react conversion guide this walkthrough illustrates how to adopt typescript in an existing reactbabelwebpack project. well start with a tictactoe project written fully in

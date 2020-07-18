@@ -1,1 +1,1 @@
-postman collection sdk postman collection sdk is a nodejs module that allows a developer to work with postman collections. using this module a developer can
+overview built on the microsoft 365 platform the proposal manager solution enables banking organizations to streamline and automate the proposal process create more effective proposals

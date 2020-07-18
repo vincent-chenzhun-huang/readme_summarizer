@@ -1,1 +1,1 @@
-how to train a gan tips and tricks to make gans work while research in generative adversarial networks gans continues to improve the fundamental stability
+bac0 buildstatus coverage docs .. image httpsbadges.gitter.imchristiantremblaybac0.svg alt join the chat at httpsgitter.imchristiantremblaybac0 target httpsgitter.imchristiantremblaybac0utmsourcebadgeutmmediumbadgeutmcampaignprbadgeutmcontentbadge bac0 is a python 3 3.4 and over scripting application

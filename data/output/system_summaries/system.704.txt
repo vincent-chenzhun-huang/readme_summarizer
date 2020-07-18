@@ -1,1 +1,1 @@
-Source code of Smart Flasher, a simple app aimed to make flashing recovery zips much easier.
+write better Bash scripts

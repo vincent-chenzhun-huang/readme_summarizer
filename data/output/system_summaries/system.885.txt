@@ -1,1 +1,1 @@
-Ansible role to install and provision Liferay portal
+integrate Behat and PhpSpec

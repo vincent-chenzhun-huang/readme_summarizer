@@ -1,1 +1,1 @@
-TizenRT is a lightweight RTOS-based platform to support low-end IoT devices
+achieve card swipe layout like Tantan 模仿探探卡片滑动效果的布局 

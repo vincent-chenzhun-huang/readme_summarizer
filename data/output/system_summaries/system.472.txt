@@ -1,1 +1,1 @@
-Contoso Moments is a sample to demonstrate the advantages of using Azure App Service for building Modern Applications
+push code commits and I will merge them if possible 

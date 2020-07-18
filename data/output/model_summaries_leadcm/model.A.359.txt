@@ -1,1 +1,1 @@
-github coverage reporter jenkins plugin for reporting code coverage as a github status check. screenshots usage this plugin allows you to send status checks to
+password dialog for cordova this is a cordova plugin for showing password prompt dialogs. there are currently four dialogs available user name and password enter

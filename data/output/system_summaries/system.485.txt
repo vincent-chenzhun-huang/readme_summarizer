@@ -1,1 +1,1 @@
-Web application for drawing analog meter scales / Веб приложение для рисования шкал аналоговых приборов
+connect interact and get data from neurosky s MindWave EEG headset 

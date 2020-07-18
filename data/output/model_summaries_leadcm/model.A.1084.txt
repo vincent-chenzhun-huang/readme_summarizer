@@ -1,1 +1,1 @@
-awslambdadependencylayer ansible role to build and deploy a lambda layer bundled with the dependencies for a given runtime. requirements requires and the following pip libraries
+dynamite tools for dynamodb dynamite allows you to archive table in an s3 bucket. restore data back into from the s3 archive. you can optionally

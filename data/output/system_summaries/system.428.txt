@@ -1,1 +1,1 @@
-Small python challenge to hire new python developers.
+analyzing neural time series 

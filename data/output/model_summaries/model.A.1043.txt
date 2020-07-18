@@ -1,1 +1,1 @@
-bastionhostdisplayname the display name of the bastion host instance.
+a typical example looks something like sh ffmpeg i input.mp4 vf transform360inputstereoformatmono cubeedgelength512 interpolationalgcubic enablelowpassfilter1 enablemultithreading1 numhorizontalsegments32 numverticalsegments15 adjustkernel1 output.mp4 to build and use transformv1 building transform is implemented as an ffmpeg video filter.

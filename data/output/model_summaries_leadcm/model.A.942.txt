@@ -1,1 +1,1 @@
-area estimation accuracy assessment area2 toolbox link to earth engine code documentation this repository provides tools and guidance for estimating map accuracy and area on
+virtualdesktopaccessor.dll dll for accessing windows 10 tested with 1809 build 17663 virtual desktop features from e.g. autohotkey. mit licensed see license.txt c jari pennanen 20152018

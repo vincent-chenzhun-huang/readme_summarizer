@@ -1,1 +1,1 @@
-apache zookeeper terraform module a terraform module to create and manage an apache zookeeper cluster on aws.
+reactscriptsformerkitdashboard this package includes scripts and configuration used by create react app.

@@ -1,1 +1,1 @@
-quotesangular independent project for mc18 week 1 requiring using angular to create an application where users can create quotes and have those quotes voted on.
+contact publication httpsdoi.org10.1016j.softx.2019.02.005 full documenation httpwww.secondquantization.com also see httpwww.secondtech.com always work against a versioned release.

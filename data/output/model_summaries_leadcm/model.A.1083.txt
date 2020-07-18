@@ -1,1 +1,1 @@
-welcome to infinite flight airport editing got a passion for design and want to help improve infinite flight here you can help contribute to airport
+thanos helm chart helm chart that install and configure prometheusoperator and thanos. goal make it as easy and reproducible as possible to setup a highavailable

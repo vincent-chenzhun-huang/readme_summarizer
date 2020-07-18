@@ -1,1 +1,1 @@
-antergos iso antiso modified version of archiso to build the antergos iso livecd dependencies antergosgfxboot for a graphical boot or isolinuxsyslinux archinstallscripts cpio dosfstools gfxboot
+playlistimporter npm package to parse playlist links from common music platforms to json. motivation i created this as more of a general use extension of

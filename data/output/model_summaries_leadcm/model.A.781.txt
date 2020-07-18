@@ -1,1 +1,1 @@
-disentangled vae this repository contains code training metrics plotting to investigate disentangling in vae as well as compare 5 different losses summary of the differences
+easygrpc a futurebased grpc api for c. this project is an attempt to create a wrapper around grpc to make writing asynchronous servers and clients

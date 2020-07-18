@@ -1,1 +1,1 @@
-accessing data with python guide this repository contains detailed instructional notebooks which examine a wide array of data formats using modules.
+open xdmod xdmod xd metrics on demand is an nsffunded open source tool designed to audit and facilitate the utilization of the xsede cyberinfrastructure by providing a wide range of metrics on xsede resources including resource utilization resource performance and impact on scholarship and research.

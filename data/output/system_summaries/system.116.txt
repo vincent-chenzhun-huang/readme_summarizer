@@ -1,1 +1,1 @@
-Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
+working with JSON Schema and JSON HyperSchema

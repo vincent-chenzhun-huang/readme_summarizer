@@ -1,1 +1,1 @@
-MixedRealityToolkit-Unity uses code from the base MixedRealityToolkit repository and makes it easier to consume in Unity.
+enable query search

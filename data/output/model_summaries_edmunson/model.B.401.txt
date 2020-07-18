@@ -1,1 +1,1 @@
-littlevgl opensource embedded gui library littlevgl provides everything you need to create a graphical user interface gui on embedded systems with easytouse graphical elements beautiful visual effects and low memory footprint.
+gmailsend minimalistic module to send emails using gmail basically its a wrapper around package to simplify its usage for gmail accounts even more.

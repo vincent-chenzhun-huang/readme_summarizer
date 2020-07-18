@@ -1,1 +1,1 @@
-but when we say expressions we dont mean programs and this is a very important distinction k programs are read written and evaluated left to right.
+why has been selected as a demonstrator for the elastest project fullteaching has been selected as a demonstrator for the elastest project because of it usage of openvidu and completeness of its features.

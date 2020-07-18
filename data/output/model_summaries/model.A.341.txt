@@ -1,1 +1,1 @@
-there are several kinds of plugins executor plugins which define how to download webpages how to parse webpages and how to detect new crawldatumsurls dbmanager plugins which maintains the crawling history generatorfilter plugins which generate crawldatumsurls which will be crawled nextfilter plugins which filter crawldatumsurls which detected by the crawler some breadthcrawler and ramcrawler are the most used crawlers which extends autoparsecrawler.
+operation first run the server on iiwa side using the smart pad then you shall run the simulink project in matlab 2018a.

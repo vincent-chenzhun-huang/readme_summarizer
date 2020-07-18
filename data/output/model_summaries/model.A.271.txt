@@ -1,1 +1,1 @@
-to provide vulkan capability to the ios and macos platforms moltenvk uses apples publicly available apis including metal.
+originally mirrored from www.4tphi.netawalterspipi.html the protocol informatics framework written by marshall beddoe copyright c 2004 baseline research overview the protocol informatics project is a software framework that allows for advanced sequence and protocol stream analysis by utilizing bioinformatics algorithms.

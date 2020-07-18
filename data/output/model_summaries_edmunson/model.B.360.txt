@@ -1,1 +1,1 @@
-ociquickstartdatastax these are terraform modules that deploy datastax enterprise dse on oracle cloud infrastructure oci.
+box skills kit for node.js this is the official toolkit provided by box for creating custom box skills written in node.js.

@@ -1,1 +1,1 @@
-ncform 中文版 ncform a nice form development way that generates form uis and their interactions with just configuration.
+aws lambda rds and java this project shows how to manipulate a database table in mysql from an aws lambda function.

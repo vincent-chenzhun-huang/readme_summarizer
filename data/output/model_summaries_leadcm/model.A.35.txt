@@ -1,1 +1,1 @@
-xgcm general circulation model postprocessing with xarray pypi conda forge build status codecov docs doi license xgcm is a python package for working with the
+caltech ist4 pcp analysis commandline tool to help bulk execution and graph plotting for caltech ist4 programming challenge. prerequisites python 3 numpy pandas matplotlib seaborn

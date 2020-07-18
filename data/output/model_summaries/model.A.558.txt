@@ -1,1 +1,1 @@
-aem project archetype this archetype creates a minimal adobe experience manager project as a starting point for your own projects.
+it will be invalid if the rfabshadowradius is 0 rfabshadowdx the shadow offset of rfabxaxis。default is 0 rfabshadowdy the shadow offset of rfabyaxis。default is 0 mainactivity： rfab also needs an implementation of to fill and assign content of rfab when it expands.

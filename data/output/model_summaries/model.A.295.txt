@@ -1,1 +1,1 @@
-in the default configuration beam segments are available.
+add id3 tags to tracks album artist album artist title track number and year.

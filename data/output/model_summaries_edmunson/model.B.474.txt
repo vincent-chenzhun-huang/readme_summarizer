@@ -1,1 +1,1 @@
-fuse studio fuse studio is a visual desktop tool suite for working with the fuse framework.
+ffmpegcore setup nuget a great way to use ffmpeg encoding when writing video applications clientside and serverside.

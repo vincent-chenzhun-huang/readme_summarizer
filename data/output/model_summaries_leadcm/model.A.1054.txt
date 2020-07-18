@@ -1,1 +1,1 @@
-jsoncpp json is a lightweight datainterchange format. it can represent numbers strings ordered sequences of values and collections of namevalue pairs. jsoncpp is a c
+kinect finger tracking the most accurate way to track fingers using kinect v2. why is it the best solution out there tracks both hands simultaneously.

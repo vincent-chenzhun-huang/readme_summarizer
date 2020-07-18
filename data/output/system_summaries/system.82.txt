@@ -1,1 +1,1 @@
-Terraform module to deploy Jenkins on Oracle Cloud Infrastructure (OCI)
+mine Siacoin

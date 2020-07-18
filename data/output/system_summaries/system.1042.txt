@@ -1,1 +1,1 @@
-Kubernetes operator that provides control plane for managing Apache Flink applications
+build uncrackable windows application against analysis tools

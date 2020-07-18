@@ -1,1 +1,1 @@
-phpmf2 phpmf2 is a pure generic microformats2 parser. it makes html as easy to consume as json. instead of having a hardcoded list of all
+prometheus rsocket proxy this is a collection of resources to help you get application metrics to prometheus when you cannot open ingress into your application

@@ -1,1 +1,1 @@
-default name.es6.js output name of es6 chunks.
+to use lewei camera wifi to control drone instead of esp wifi edit following lines in communication.cpp service plutoservice in plutopilot this service request data from pluto drone.

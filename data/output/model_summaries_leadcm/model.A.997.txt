@@ -1,1 +1,1 @@
-conductance analysis vmt based on the publication martin pospischil zuzanna piwkowska thierry bal and alain destexhe extracting synaptic conductances from single membrane potential traces neuroscience
+accountgo accounting system built on dotnetcore an opensource and cross platform asp.net core mvc reactjs on the frontend. its in early stage and still have

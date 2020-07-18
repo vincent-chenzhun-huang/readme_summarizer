@@ -1,1 +1,1 @@
-mixhtmlbuilder a quick laravel mix extension to build up html templates from partials.
+animatednumberreact a simple animated number for react using anime.

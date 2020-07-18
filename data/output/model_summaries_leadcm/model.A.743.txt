@@ -1,1 +1,1 @@
-azure iotpiday workshop this is an exclusive workshop to help developers get handson with azure and iot devices. prerequisites a raspberry pi. a raspberry pi
+the main objective is that many sites send notifications to their users through the browser for various events occurring within the web app. we can

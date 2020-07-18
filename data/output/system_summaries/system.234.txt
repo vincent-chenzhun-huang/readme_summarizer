@@ -1,1 +1,1 @@
-Python library & console tool for controlling Xiaomi smart appliances
+install o

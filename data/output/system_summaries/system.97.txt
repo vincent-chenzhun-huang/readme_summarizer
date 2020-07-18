@@ -1,1 +1,1 @@
-Repository for maintaining proposal for changes to the Haxe programming language
+make web accessibility easier 

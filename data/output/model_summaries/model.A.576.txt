@@ -1,1 +1,1 @@
-multithreading vs multiprocessing there is a good article to compare multithreading and multiprocessing of python httpsmedium.comcontentsquareengineeringblogmultithreadingvsmultiprocessinginpythonece023ad55a .
+once you have pandas and ipython you can get going a tab should open up in your browser at happy pandas running the cookbook inside docker container.

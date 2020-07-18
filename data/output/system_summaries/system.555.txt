@@ -1,1 +1,1 @@
-HCKalmanFilter is Swift implementation of Kalman filter algorithm intended to solve problem with GPS tracking
+read write hash and sign the xdr structures that are used in stellarcore

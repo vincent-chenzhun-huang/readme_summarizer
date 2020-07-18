@@ -1,1 +1,1 @@
-NIPS Implementation challenge 2017 for \Searching for activation functions\" paper by Google Brain"
+spiking neural networks 

@@ -1,1 +1,1 @@
-Lottie-Windows is a library and tools for rendering Lottie animations on Windows 10. 
+work in multithread contexts with Entity Framework or just work safest with DbContext following t

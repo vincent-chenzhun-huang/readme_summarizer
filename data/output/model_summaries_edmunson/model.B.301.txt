@@ -1,1 +1,1 @@
-pgpcore a .net core class library for using pgp.
+coolbnb coolbnb an airbnb.com clone is an application giving users the possibility to search and book lodging filtered by location dates type and price.

@@ -1,1 +1,1 @@
-to make the app more fun we added a simple message when the app has started successfully.
+pyapns2 python library for interacting with the apple push notification service apns via http2 protocol installation either download the source from github or use easyinstall easyinstall apns2 sample usage further info ios reference library local and push notification programming guide contributing to develop pyapns2 check out the code and install dependencies.

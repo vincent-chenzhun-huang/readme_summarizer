@@ -1,1 +1,1 @@
-openimufilter a project aimed to demo filters for imuthe complementary filter the kalman filter and the mahonymadgwick filter with lots of references and tutorials.
+but when we say expressions we dont mean programs and this is a very important distinction k programs are read written and evaluated left to right.

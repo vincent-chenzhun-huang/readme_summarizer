@@ -1,1 +1,1 @@
-this file must be in the root of your php project.
+these productscomponents inherits all the core services provided by carbon kernel such as registryrepository user management transports caching clustering logging deployment related features.

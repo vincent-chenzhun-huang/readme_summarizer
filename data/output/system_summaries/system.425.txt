@@ -1,1 +1,1 @@
-Redmine Time logger plugin.  More than likely there is only going to be one more public release.   New version has new time logging with the option of multiple loggers running at the same time, fixes for excessive loggng, and a whole new look.
+your necessity Also support swift 

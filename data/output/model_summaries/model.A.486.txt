@@ -1,1 +1,1 @@
-2. setting the environment variables after installing the npm package you need to set up the configuration in your terminal.
+clientside if false the connect method will not dispatch automatically the read method of the sources marked as serverside so for example api requests will not be repeated on client side and data retrieved in server side will be always passed to connected components.

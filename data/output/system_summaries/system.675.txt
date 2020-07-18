@@ -1,1 +1,1 @@
-a place to test nasa binder examples with the latest python packages
+creating web pages quickly with bootstrap 4 and webpack 4

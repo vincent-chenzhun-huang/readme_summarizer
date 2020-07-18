@@ -1,1 +1,1 @@
-hence to use a module such as cryptopensslrandom you will need to seed the prng used there from one used here.
+personal website 3 steps to setup this theme at your website features index page chart skills categories in blog page pagination page views counter multilingual page web analytics comment share search engines compress css and js files put in a jalpc plug upgrading jalpc ensure theres an upstream remote pull in the latest changes todo donate jalpc wiki ad this is a simple beautiful and swift theme for jekyll.

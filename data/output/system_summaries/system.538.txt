@@ -1,1 +1,1 @@
-Code for QuickStart article for accessing blobs with PHP
+know before diving into writing production code in React Native 

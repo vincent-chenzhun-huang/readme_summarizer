@@ -1,1 +1,1 @@
-react starter kit for firebase a.k.a. serverless edition react starter kit for firebase is a popular project template aka boilerplate for building modern scalable web
+simplecsvmanager a small java library to read and write csv files easier. the library is useful if you want to read or write csv files

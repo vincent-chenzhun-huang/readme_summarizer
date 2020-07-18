@@ -1,1 +1,1 @@
-what is eurekacoin eurekacoin is a decentralized blockchain project built on bitcoins utxo model with support for ethereum virtual machine based smart contracts and secured
+this project was bootstrapped with create react app. available scripts in the project directory you can run runs the app in the development mode. open

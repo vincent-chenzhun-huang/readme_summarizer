@@ -1,1 +1,1 @@
-mask textspotter introduction this is the official implementation of mask textspotter. mask textspotter is an endtoend trainable neural network for spotting text with arbitrary shapes
+stock performance classification with a 1d cnn keras and azure ml workbench overview we recently worked with a financial services partner to develop a model

@@ -1,1 +1,1 @@
-the backtesting introduction this is to backtest a trading strategy based on simple moving average ma cross signal.
+pandas cookbook pandas is a python library for doing data analysis.

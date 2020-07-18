@@ -1,1 +1,1 @@
-moltenvk copyright c 20142019 the brenwill workshop ltd. this document is written in markdown format. for best results use a markdown reader. table of contents
+note i wolever am not the original author of this software and i understand very little about how it actually works. i have only updated

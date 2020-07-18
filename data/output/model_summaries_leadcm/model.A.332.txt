@@ -1,1 +1,1 @@
-trelloburndown an easy to use scrum burndown chart for trello boards. getting started get quickly up and runnning with the docker image or binary. or
+madebykhora website for fundraising for the khora community kitchen. setup setup place all the files and folders of this repo on a phpenabled webserver. do

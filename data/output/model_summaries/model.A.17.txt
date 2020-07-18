@@ -1,1 +1,1 @@
-the big surprise was that the other methods except the manual copying were all faster than skiacopyup.
+the data is fetched from export function of taskwarrior taskwarrior docs installation after the installation restart gnome shell and enable the extension through gnometweaktool.

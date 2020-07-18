@@ -1,1 +1,1 @@
-create the backend in python.
+modules available modules in neurodsp include filter data with bandpass highpass lowpass or notch filters detect bursting oscillations in neural signals find and analyze rhythmic and recurrent patterns in time series compute spectral domain features such as power spectra estimate instantaneous measures of oscillatory activity simulate time series including periodic and aperiodic signal components plotting functions contribute welcomes and encourages contributions from the community as long as contributors follow the code of conduct.

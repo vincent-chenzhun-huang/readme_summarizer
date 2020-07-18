@@ -1,1 +1,1 @@
-calculation for every triangle in a scene the following calculation is performed a vector between the triangles centroid and the lights position is calculated and normalised.
+browser a simple browser composed from browser components.

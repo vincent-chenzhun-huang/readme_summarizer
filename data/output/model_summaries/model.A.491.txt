@@ -1,1 +1,1 @@
-hello world code to be isolated is wrapped inside the run method of a hystrixcommand similar to the following this command could be used like this more examples and information can be found in the how to use section.
+4. so what will we use from the options data and the anomaly detection the options data is quite large.

@@ -1,1 +1,1 @@
-lona developer preview this project is in an early stage and lacks documentation â€“ however with some effort it can be used very effectively.
+iqoption api a simple websocket api for iq option.

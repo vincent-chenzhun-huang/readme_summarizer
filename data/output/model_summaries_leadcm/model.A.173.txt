@@ -1,1 +1,1 @@
-perspectivevue designing a 2d game for a 2d screen is pretty simple to us. but it comes to design a 3d environment for a 2d
+quill imageresize module a module for quill rich text editor to allow images to be resized. also see quillimagedropmodule a module that enables copypaste and

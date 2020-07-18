@@ -1,1 +1,1 @@
-bayestestr become a bayesian master you will is a lightweight package providing utilities to describe posterior distributions and bayesian models.
+gulp boilerplate a boilerplate for building web projects with gulp.

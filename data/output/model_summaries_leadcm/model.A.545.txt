@@ -1,1 +1,1 @@
-this project was bootstrapped with create react app. available scripts in the project directory you can run runs the app in the development mode. open
+olinuxino singleboard linux computer copyright c 20122019 olimex ltd the project olinuxino is an open source software and open source hardware project aiming to produce

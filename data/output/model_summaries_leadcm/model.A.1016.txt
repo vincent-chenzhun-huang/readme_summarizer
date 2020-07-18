@@ -1,1 +1,1 @@
-this project was bootstrapped with create react app. available scripts in the project directory you can run runs the app in the development mode. open
+digistories generator link this project was bootstrapped with create react app. available scripts in the project directory you can run runs the app in the

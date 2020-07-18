@@ -1,1 +1,1 @@
-gatsby static site generator netlify cms for content management see also netlify cms docs netlify cms repo get going hit the deploy to netlify button.
+who needs to deploy a registry by default docker users pull images from dockers public registry instance.

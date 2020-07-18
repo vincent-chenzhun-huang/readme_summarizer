@@ -1,1 +1,1 @@
-Try to reborn NOMP. Only for devs.
+format date with time ago statement eg 3 hours ago No dependency localization tiny 

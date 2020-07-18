@@ -1,1 +1,1 @@
-youtubedl download videos from youtube.com or other video platforms installation description options configuration output template format selection video selection faq developer instructions embedding youtubedl bugs copyright installation to install it right away for all unix users linux macos etc.
+convolutional recurrent neural network update 20190521 i rewrite this repo base on fairseq refer to my implementation here.

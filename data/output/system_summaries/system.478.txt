@@ -1,1 +1,1 @@
-Learning how to use React Google Charts
+register the hostnames that are specified as Rules in an Ingress resource with the Ingress controller in Consul 

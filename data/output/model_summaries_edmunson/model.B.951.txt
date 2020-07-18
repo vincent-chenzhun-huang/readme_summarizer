@@ -1,1 +1,1 @@
-importance sampling this python package provides a library that accelerates the training of arbitrary neural networks created with using importance sampling.
+adapt authoring tool adapt is a free and easy to use framework and authoring tool that creates fully responsive multidevice html5 elearning content.

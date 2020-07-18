@@ -1,1 +1,1 @@
-loremipsum this readme is for version 2. switch to branch for the version 1 documentation.
+this project was bootstrapped with create react app.

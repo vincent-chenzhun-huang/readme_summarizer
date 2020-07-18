@@ -1,1 +1,1 @@
-hckalmanfilter is a delightful library for ios written in swift. hckalmanfilter library was created for the implementation of kalman filter algorithm for the problem of
+stellarbase the stellarbase library is the lowestlevel stellar helper library. it consists of classes to read write hash and sign the xdr structures that are

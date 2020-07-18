@@ -1,1 +1,1 @@
-about the library inspiration this library is strongly inspired in this concept from hila peleg in dribble. see it below working example for more details
+usecombinedreducers react hook custom hook to combine all usereducer hooks for one global state container with one dispatch function. use at toplevel and pass dispatch

@@ -1,1 +1,1 @@
-note we are not actively responding to issues right now. if you find a bug please submit a pr. android sliding up panel this library
+development for the v2 volusion storefronts this document describes how to develop themes and other artifacts that can be used across all volusion v2 storefronts.

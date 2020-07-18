@@ -1,1 +1,1 @@
-pythonrecsys a python library for implementing a recommender system. installation dependencies pythonrecsys is build on top of with cscpysparse divisi2 also requires and uses networkx.
+introduction media access control mac addresses play an important role in localarea networks. they also pack a lot of information into 48bit hexadecimal strings the

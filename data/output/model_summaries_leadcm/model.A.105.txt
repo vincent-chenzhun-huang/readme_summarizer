@@ -1,1 +1,1 @@
-microsoft graph office ui fabric js peoplepicker sample table of contents introduction prerequisites register the application run the sample questions and comments contributing additional resources
+masternodemanager script to manage all masternodes at once and is dupmn aware created by eddy erkel version 0.1 31052019 disclamer this script is provided as

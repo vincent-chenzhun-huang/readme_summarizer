@@ -1,1 +1,1 @@
-ibm cloud private reference architecture this project provides prescriptive guidance on how to efficiently deploy and operate ibm cloud private platform in the enterprise. we
+pdf.jsextract extracts text from pdf files this is just a library packaged out of the examples for usage of pdf.js with nodejs. it reads a

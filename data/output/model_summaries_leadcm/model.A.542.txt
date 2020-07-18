@@ -1,1 +1,1 @@
-hyperledger indy catalyst table of contents introduction decentralized identity selfsovereign identity open standards decentralized identifiers did verifiable credentials links to emerging did and verifiable credentials
+project summary this is a working project that currently only utilizes state and props to pass its data. before getting started try to get familiar

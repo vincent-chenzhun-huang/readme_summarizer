@@ -1,1 +1,1 @@
-please copy the complete project available in github in d directory and execute below in browser to get code coverage statistics.
+installation the steps are as follows get a copy of the software git clone httpsgithub.comgeeklady2logreader.git install the pandas software with pip pip install pandas install on your system this step is not necessarcy for using and testing.

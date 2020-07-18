@@ -1,1 +1,1 @@
-nkakouros.taskserver ansible role to setup a taskservertaskd for taskwarrior.
+reactcurrencyinput an es2015 react component for currency.

@@ -1,1 +1,1 @@
-A sandbox for executing JavaScript with Graal in Java
+writing offline and batch applications using Spring and Java

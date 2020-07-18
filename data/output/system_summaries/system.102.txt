@@ -1,1 +1,1 @@
-A React component to sort and paginate data
+support dynamic hyperjacking and unhyperjacking that is virtualiz

@@ -1,1 +1,1 @@
-caffe segnet cudnn5 this is a modified version of caffe which supports the segnet architecture as described in segnet a deep convolutional encoderdecoder architecture for image segmentation vijay badrinarayanan alex kendall and roberto cipolla httparxiv.orgabs1511.00561 please refer to alex kendalls caffesegnet for tutorial and a guide how to use it httpsgithub.comalexgkendallcaffesegnet.
+the most important parts are the device declaration and the reading process.

@@ -1,1 +1,1 @@
-in a typical scenario the user segments manually 5 to 10 percents of his images trains the network on these examples and then uses the network to segment the remaining images.
+local testing prior to each release whoever is releasing should be testing the release locally to ensure that the code is working as expected.

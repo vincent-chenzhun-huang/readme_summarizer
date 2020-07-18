@@ -1,1 +1,1 @@
-welcome to the introduction to text analytics training we will be going through several jupyter notebooks during this time and use a number of data
+prerequisites custom version of ns3 and specified version of ndnsim needs to be installed. the code should also work with the latest version of ndnsim

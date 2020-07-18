@@ -1,1 +1,1 @@
-kubernetes scripts opinionated scripts for managing application development and deployment lifecycle using kubernetes. how to install then in your toplevel project directory config file k8sscripts
+retsync retsync stands for reverseengineering tools synchronization. its a set of plugins that help to synchronize a debugging session windbggdblldbollydbgollydbg2x64dbg with ida disassembler. the underlying

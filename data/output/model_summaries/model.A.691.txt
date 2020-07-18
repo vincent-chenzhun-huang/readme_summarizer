@@ -1,1 +1,1 @@
-default value instancetype the type of instance to use for the apache zookeeper instances.
+reactscriptsformerkitdashboard this package includes scripts and configuration used by create react app.

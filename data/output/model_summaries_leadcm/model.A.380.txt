@@ -1,1 +1,1 @@
-lottieplayer web component this is a web component for easily embedding and playing lottie animations in websites. demo basic usage examples scrolling effects demo installation
+jquery textfill this jquery plugin resizes text to make it fit into a container. the font size gets as big as possible. homepage. simple example.

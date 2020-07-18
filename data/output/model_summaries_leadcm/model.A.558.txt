@@ -1,1 +1,1 @@
-aem project archetype this archetype creates a minimal adobe experience manager project as a starting point for your own projects. the properties that must be
+rapidfloatingactionbutton quick solutions for floating action button，rapidfloatingactionbutton（rfab） how to use： dependencies： androidbucket：the base library androidinject：the inject library shadowviewhelper：shadow layout shadow view for android nineoldandroids：the property

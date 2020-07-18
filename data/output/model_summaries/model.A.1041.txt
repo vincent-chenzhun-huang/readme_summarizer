@@ -1,1 +1,1 @@
-set options when creating a channel optional create a typed channel in typescript clear tmpfolder when used in nodejs the broadcastchannel will communicate with other processes over filesystem based sockets.
+when it is a players turn pick the card they will play and enter that command and the card number.

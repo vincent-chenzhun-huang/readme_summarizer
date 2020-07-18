@@ -1,1 +1,1 @@
-parallax one contributors codeinwp tags black blue gray white light responsivelayout onecolumn twocolumns rightsidebar custombackground customcolors custommenu featuredimages frontpagepostform fullwidthtemplate rtllanguagesupport threadedcomments translationready requires at
+kivy for ios this toolchain is designed to compile the necessary libraries for ios to run your application and manage the creation of the xcode

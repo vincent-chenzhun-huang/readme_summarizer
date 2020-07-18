@@ -1,1 +1,1 @@
-hackingthecapsulenetwork this repository is contains hands on guide to learning pytorch and developing machine learning models using it. this repo describes capsule networks and its
+blender addon updater with this python module developers can create autochecking for updates with their blender addons as well as oneclick version installs. updates are

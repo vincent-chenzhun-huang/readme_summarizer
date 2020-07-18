@@ -1,1 +1,1 @@
-yellowcake an opinionated starter project for creating lightningfast websites with gatsby v2 and netlify cms v2.
+distribution the docker toolset to pack ship store and deliver content.

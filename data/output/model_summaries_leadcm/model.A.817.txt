@@ -1,1 +1,1 @@
-nginxupstreamdynamicservers an nginx module to resolve domain names inside upstreams and keep them up to date. by default servers defined in nginx upstreams are only
+fastboot3ds a bootloader for the 3ds console written by derrek profi200 d0k3 fastboot3ds is a bootloader for the 3ds console intended to be installed to

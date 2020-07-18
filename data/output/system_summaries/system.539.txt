@@ -1,1 +1,1 @@
-Terraform module to deploy ArangoDB on Oracle Cloud Infrastructure (OCI)
+iOS 11 or later 

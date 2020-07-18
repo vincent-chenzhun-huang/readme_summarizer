@@ -1,1 +1,1 @@
-if you have more than one python version installed eg.
+instead of using various pandas commands at different instances and going back and forth to cross refer information data profile dataframe brings all information into a single dataframe.

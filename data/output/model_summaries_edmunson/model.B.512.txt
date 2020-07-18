@@ -1,1 +1,1 @@
-build an alexa feed reader skill build a feed reader skill for alexa this tutorial will walk firsttime alexa skills developers through all the required steps involved in creating a feed reading skill using a template called ‘feed reader’.
+dependentdropdown a multi level dependent dropdown jquery plugin that allows nested dependencies.

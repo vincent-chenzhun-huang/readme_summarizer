@@ -1,1 +1,1 @@
-Javascript developer library for interacting with Matic Network
+a commons of openly licensed imagery and map layer services 

@@ -1,1 +1,1 @@
-compiling dlib python api before you can run the python example programs you must compile dlib.
+if everything is set up properly you can use the containers run command to try connecting to your gitlab server via ssh.

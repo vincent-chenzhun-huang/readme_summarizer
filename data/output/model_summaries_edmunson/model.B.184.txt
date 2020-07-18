@@ -1,1 +1,1 @@
-fixes.inc community patches for buggy samp functions.
+about the library inspiration this library is strongly inspired in this concept from hila peleg in dribble.

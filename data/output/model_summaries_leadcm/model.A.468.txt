@@ -1,1 +1,1 @@
-confluence user macro image comparison slider a confluence user macro to create an image comparison slider. features this user macro give ability to view a
+adafruitpiexternalroothelper a shell script for configuring an external usb drive as root filesystem on a raspberry pi running raspbian. its a companion to using an

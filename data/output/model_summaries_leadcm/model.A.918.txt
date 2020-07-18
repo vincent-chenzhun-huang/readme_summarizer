@@ -1,1 +1,1 @@
-httptravisci.orgrubietynilifyblanks httpsgemnasium.comrubietynilifyblanks httpscodeclimate.comgithubrubietynilifyblanks nilify blanks in rails when saving a model from a form and values are not provided by the user an empty string
+⛔️ deprecated mern is deprecated and is no longer actively maintained. mernstarter mern is a scaffolding tool which makes it easy to build isomorphic apps

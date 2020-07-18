@@ -1,1 +1,1 @@
-google drive google sheets apis classes a python classes to control the google drive api and google sheets api with direct functions to do the
+snap.js a library for creating beautiful mobile shelfs in javascript view video preview view demos features support installation usage settings defaults public methods gotchas faqs

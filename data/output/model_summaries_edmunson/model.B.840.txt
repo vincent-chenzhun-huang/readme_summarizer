@@ -1,1 +1,1 @@
-starter theme starter theme and slate v1 are currently in beta you should expect potentially breaking changes between updates and more bugs than a finalized release.
+misultin development has been discontinued.

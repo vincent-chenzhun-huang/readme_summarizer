@@ -1,1 +1,1 @@
-Free resources for learning Full Stack Web Development
+managing memory bit by bit

@@ -1,1 +1,1 @@
-jintellitype read me httpwww.melloware.com licensed under the apache license version 2.0 the license you may not use this file except in compliance with the license.
+table of contents author contents license instructions for running the program subroutines manipulated variables continuous process measurements sampled process measurements process disturbances author copyright c 19982002 the board of trustees of the university of illinois all rights reserved.

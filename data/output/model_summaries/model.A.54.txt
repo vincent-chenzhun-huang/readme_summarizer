@@ -1,1 +1,1 @@
-ctrl will change the dpi image size on the selected tab.
+the way this library works is that you write or generate the html template the way you normally do with reagent for example which then you pepper with special keywords to trigger the activation of inputs labels validation etc.

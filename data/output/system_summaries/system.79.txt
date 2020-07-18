@@ -1,1 +1,1 @@
-Project Exodus - Unity to Unreal scene/project transfer tool.
+reducing data from an integral field spectrograph IFS 

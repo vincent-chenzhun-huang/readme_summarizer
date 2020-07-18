@@ -1,1 +1,1 @@
-javascript canvas to blob description canvas to blob is a polyfill for the standard javascript canvas.toblob method. it can be used to create blob objects
+vagrantlxc base boxes this repository contains a set of scripts for creating base boxes for usage with vagrantlxc 1.0. what distros versions can i build

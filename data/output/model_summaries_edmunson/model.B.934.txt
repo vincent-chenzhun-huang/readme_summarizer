@@ -1,1 +1,1 @@
-adhrit is an open source android apk reversing and analysis tool that can help security researchers and ctf enthusiasts alike.
+senteval evaluation toolkit for sentence embeddings senteval is a library for evaluating the quality of sentence embeddings.

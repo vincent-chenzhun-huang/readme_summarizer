@@ -1,1 +1,1 @@
-trabajo de grado this repository presents the code of my trabajo de grado realized to obtain an undergraduate degree in electronic engineering from the pontificia universidad javeriana of bogota and a master degree from the french engineering school inpenseeiht.
+fixed data table 2 for react fixeddatatable2 is a continuation of facebookfixeddatatable.

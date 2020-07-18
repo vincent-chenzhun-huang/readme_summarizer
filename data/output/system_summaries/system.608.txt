@@ -1,1 +1,1 @@
-Library for interacting with runeberg.org
+show personal aggregated gameplay history information like lifetime winslosses

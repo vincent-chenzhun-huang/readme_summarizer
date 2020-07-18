@@ -1,1 +1,1 @@
-a repository to accompany selected applied sessions of the 2019 vada program summer school june 1014 at the george and fay yee centre for healthcare innovation winnipeg manitoba.
+about simplesql is a wrapper around phps pdo and is intended to be an easy to use dropin for your projects.

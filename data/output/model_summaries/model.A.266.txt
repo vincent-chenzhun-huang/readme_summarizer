@@ -1,1 +1,1 @@
-log viewer configuration homebridge config ui x allows you to view the homebridge process logs in the browser.
+hybridauth 3.0rc10 hybridauth enables developers to easily build social applications and tools to engage websites visitors and customers on a social level that starts off with social signin and extends to social sharing users profiles friends lists activities streams status updates and more.

@@ -1,1 +1,1 @@
-Repository containing wrapper to obtain various object proposals easily
+building RESTstyle Web Services using Go

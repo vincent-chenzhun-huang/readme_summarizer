@@ -1,1 +1,1 @@
-nativepayloaddns c code for backdoor payloads transfer by dns traffic and bypassing antiviruses published by damon mohammadbagher warning this code published to explaining antiviruses vulnerability
+coremlinarkit this simple project detects objects in augmented reality and displays 3d labels on top of them. this serves as a basic template for an

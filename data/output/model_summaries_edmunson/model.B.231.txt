@@ -1,1 +1,1 @@
-nextcloudsynccron script to run the linuxunix nextcloud command line client in a cron job.
+babi tasks this repository contains code to generate the as described in the paper .

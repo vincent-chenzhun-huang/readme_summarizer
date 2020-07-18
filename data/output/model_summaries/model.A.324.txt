@@ -1,1 +1,1 @@
-file appassetsjavascriptnlsalbums.js only .albums.
+once the job is started at its scheduled time sidekiqstatus job metadata will once again be added back to redis and you will be able to get status info for the job until the expiration time.

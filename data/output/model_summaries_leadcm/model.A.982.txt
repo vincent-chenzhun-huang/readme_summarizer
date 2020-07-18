@@ -1,1 +1,1 @@
-nanoservices simple framework to develop modular apex services supports extensible service factory to add custom service factory all default methods can be overriden to add
+rapidpro indexer simple service for indexing rapidpro contacts into elasticsearch. deploying as indexer is a go application it compiles to a binary and that binary

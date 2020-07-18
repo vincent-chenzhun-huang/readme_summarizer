@@ -1,1 +1,1 @@
-tizenrt tizenrt is lightweight rtosbased platform to support lowend iot devices. please find project details at wiki especially documentations page. contents environment setup how to
+cardswipelayout introduction cardswipelayout use recyclerview to achieve card swipe layout like tantan . screenshot blog 《玩转仿探探卡片式滑动效果》 usage step 1 for build.gradle compile me.yuqirongcardswipelayout1.0.0 or maven

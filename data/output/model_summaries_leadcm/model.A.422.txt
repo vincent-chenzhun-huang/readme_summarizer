@@ -1,1 +1,1 @@
-cli the secrethub cli provides the commandline interface to interact with secrethub. secrethub is a developer tool to help you keep database passwords api tokens
+a buildin v2ray plugin for ssrpanel only one thing user should do is that setting up the database connection without doing that user neednt do

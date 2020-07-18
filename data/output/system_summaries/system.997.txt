@@ -1,1 +1,1 @@
-Python demo of the VmT method to extract conductances from single Vm traces (Pospischil et al. 2009)
+click STAR if you like this project 

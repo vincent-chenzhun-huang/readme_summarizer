@@ -1,1 +1,1 @@
-open311client this is a java client to submit issues to open311 georeport v2 compliant systems.
+this project was bootstrapped with create react app.

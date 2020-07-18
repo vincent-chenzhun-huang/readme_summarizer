@@ -1,1 +1,1 @@
-An interactive indicator to navigate between the different pages of a ViewPager
+various deep learning projects such as 6D object pose estima

@@ -1,1 +1,1 @@
-scrollreveal.js copyright c 2014 httpstwitter.comjulianlloyd licensed under the mit license.
+using recipes recipes are used to install and compile any libraries you may need to use.

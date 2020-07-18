@@ -1,1 +1,1 @@
-an unopinionated authentication library for building node.js apis.
+photomapr the goal of photomapr is to make it easier to create photomaps.

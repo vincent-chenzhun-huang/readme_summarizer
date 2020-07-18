@@ -1,1 +1,1 @@
-virtuailor idapython tool for c vtables reconstruction virtuailor is an idapython tool that reconstructs vtables for c code written for intel architecture and both 32bit and 64bit code.
+samples for cognitive services nuget packages this repo provides c samples for the cognitive services nuget packages.

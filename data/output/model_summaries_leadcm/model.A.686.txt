@@ -1,1 +1,1 @@
-reactwebpackconfig basic structure to generate react apps with webpack using webpack merge and other interesting plugins. what its used on this project webpack merge optimizecssassets
+isar interschema adapter this repository contains python code for replicating the results in the paper michael p.j. camilleri and christopher k. i. williams the extended

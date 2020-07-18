@@ -1,1 +1,1 @@
-this module checks all the possible locations that a native addon would be built at and returns the first one that loads successfully.
+the default template looks like installation the installation steps are the following customize parameters create a user in our account with credentials pair configure cli create a iam policy called and attach to user create the cloudformation stack upload in s3 the email template deploy the lambda code step 1 customize makefile at the beginning of the makefile are defined a set of parameters that most probably you want to change.

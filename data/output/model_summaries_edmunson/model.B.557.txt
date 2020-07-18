@@ -1,1 +1,1 @@
-reporting services date selector sample this sample allows you a mechanism to introduce a date range into your where clause for your sql server reporting services report.
+blue core software this repository provides all of the midlevel software needed to run a blue robot arm with ros.

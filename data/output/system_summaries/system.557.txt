@@ -1,1 +1,1 @@
-This sample allows you a mechanism to introduce a date range into your where clause for your SQL Server Reporting Services report.
+running and using a Blue robot arm

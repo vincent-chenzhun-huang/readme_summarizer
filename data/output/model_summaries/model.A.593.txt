@@ -1,1 +1,1 @@
-previousthumb the previous button on the thumbs list.
+this repository hosts a template request for proposals and some associated documents all documents are licensed under the creative commons 4.0 the template request for proposals capturing contract details and expectations for proposals from vendors the template requirements questionnaires for completing with functional technical requirements for the project as well as collecting readymade sets of cybersecurity requirements.

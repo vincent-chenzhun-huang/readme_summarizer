@@ -1,1 +1,1 @@
-Visual Studio extension to generate OpenAPI (Swagger) web service reference.
+the Google Assistant 

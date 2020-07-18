@@ -1,1 +1,1 @@
-looking glass easy to deploy looking glass made in php.
+this repository hosts the instructions and neccessary artifacts for building and publishing python functions as a docker container on linux.

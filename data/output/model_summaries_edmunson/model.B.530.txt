@@ -1,1 +1,1 @@
-rscustomtabbarcontroller this is super flexible custom tab bar controller implementation.
+hairsalon this repository contains my java application hair salon that enables the user to add update and delete hair stylists and clients hair salon application this is a repo containing a basic appication that has been deployed to heroku.

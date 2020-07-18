@@ -1,1 +1,1 @@
-A node mini project to introduce connecting to a database in a node project.
+End Users Motu handles extracts and transforms oceanographic huge volumes of data without performance collapse 

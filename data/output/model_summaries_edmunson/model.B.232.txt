@@ -1,1 +1,1 @@
-announcing movit movit is the modern video toolkit notwithstanding that anything thats called “modern” usually isnt and its really not a toolkit.
+reactnativecircularslider radiobutton react native component for creating circular slider.

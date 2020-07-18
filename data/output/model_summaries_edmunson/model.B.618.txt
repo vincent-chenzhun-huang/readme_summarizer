@@ -1,1 +1,1 @@
-mvccore extension router modules mvccore router extension to manage multiple websites in single project defined by domain routes targeted by module property in url completing.
+vagrantansibleauto this vagrant plugin provides the provisioner that automatically sets up the provisioned guest as an ansible control machine for the nodes defined in your vagrantfile.

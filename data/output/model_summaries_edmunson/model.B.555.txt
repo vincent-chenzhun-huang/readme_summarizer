@@ -1,1 +1,1 @@
-hckalmanfilter is a delightful library for ios written in swift.
+stellarbase the stellarbase library is the lowestlevel stellar helper library.

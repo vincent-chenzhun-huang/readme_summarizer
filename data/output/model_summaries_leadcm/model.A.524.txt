@@ -1,1 +1,1 @@
-jquery print plugin jquery.print is a plugin for printing specific parts of a page usage include it in your html after importing jquery like use
+smtp client for qt c version 1.1 the smtpclient for qt is small library writen for qt 4 c version that allows application to send

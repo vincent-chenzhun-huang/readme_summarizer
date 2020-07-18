@@ -1,1 +1,1 @@
-LSTM text generation by word. Used to generate lyrics from a corpus of a music genre.
+fetch data and metadata from the ethereum blockchain

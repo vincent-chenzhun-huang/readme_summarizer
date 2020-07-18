@@ -1,1 +1,1 @@
-snowflake whale awesome ai ml and data science on kubernetes awesome tools and libs for ai deep learning machine learning computer vision data science data
+react render in browser component a react component that helps you render browser specific content. why ever wanted to put up a banner for all

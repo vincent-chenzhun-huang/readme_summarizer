@@ -1,1 +1,1 @@
-parameters transfer transfer the transfer to be prepared.
+but when you want to start to define the eloquent relations between comment and user and article models you immediately realize that you have to put code on the eloquent models of other modules to define the inverse of the relationships.

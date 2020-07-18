@@ -1,1 +1,1 @@
-adhrit is an open source android apk reversing and analysis tool that can help security researchers and ctf enthusiasts alike.
+0422 senteval new tasks added probing tasks for evaluating what linguistic properties are encoded in sentence embeddings 1004 senteval example scripts for three sentence encoders skipthoughtlngensengoogleuse dependencies this code is written in python.

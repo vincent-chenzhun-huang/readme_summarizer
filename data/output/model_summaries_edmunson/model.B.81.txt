@@ -1,1 +1,1 @@
-giphy android search library this library is a wrapper giphys wonderful api and allows you to easily include animated gifs in your projects.
+wallpaper engine weicue integration the end result is being able to automatically set all available leds from icue to the rgb value of the html color name in the accompanying text file.

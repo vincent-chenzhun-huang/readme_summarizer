@@ -1,1 +1,1 @@
-this plugin allows you to specify a list of attributes or exceptions from all the attributes that will be converted to nil if they are blank before a model is saved.
+there are four types of webpack configs provided for development webpack.config.prod.js for production webpack.config.server.js for bundling server in production and webpack.config.babel.js for babelpluginwebpackloaders for server rendering of assets included through webpack.

@@ -1,1 +1,1 @@
-Various utility scripts for running Lucene performance tests
+running a BCH implementation of Blockbook 

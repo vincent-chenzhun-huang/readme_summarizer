@@ -1,1 +1,1 @@
-predicting breast cancer proliferation scores with tensorflow keras and apache spark note this project is still a work in progress.
+mappings a list of mappings found for the group of marks.

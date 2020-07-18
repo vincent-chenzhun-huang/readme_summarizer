@@ -1,1 +1,1 @@
-use your existed mongoose schema to generate graphql types.
+iqkeyboardmanager while developing ios apps we often run into issues where the iphone keyboard slides up and covers the .

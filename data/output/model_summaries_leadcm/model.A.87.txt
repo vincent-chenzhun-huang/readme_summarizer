@@ -1,1 +1,1 @@
-bean matchers javabeans spec javabeans tutorial javabeans wikipedia entry project documentation google code project page archived beans are prevalent in our java world however these
+a starting point for the installation maintenance and monitoring of highlyavailable docker swarmbased containerized applications. features a modern devops toolset prometheus alertmanager grafana for monitoring

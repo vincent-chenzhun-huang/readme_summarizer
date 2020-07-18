@@ -1,1 +1,1 @@
-v localpathdockerpath maps your a folder on your local machine to a folder on the virtual machine docker container.
+to support astyle in a simple way we provide a make target that allows the developer to format their source code by simply running .

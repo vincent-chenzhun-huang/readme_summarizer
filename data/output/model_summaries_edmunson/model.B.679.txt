@@ -1,1 +1,1 @@
-ociquickstarttableau these are terraform modules that deploy tableau on oracle cloud infrastructure oci.
+autolinktextview autolinktextview is textview that supports hashtags mentions urls http phone and email automatically detecting and ability to handle clicks.

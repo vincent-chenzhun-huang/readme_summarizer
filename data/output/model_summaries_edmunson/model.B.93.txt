@@ -1,1 +1,1 @@
-siddhistoremongodb the siddhistoremongodb extension is an extension to siddhi that can be used to persist events to a mongodb instance of the users choice.
+this project was bootstrapped with create react app.

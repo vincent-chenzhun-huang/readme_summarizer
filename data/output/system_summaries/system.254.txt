@@ -1,1 +1,1 @@
-A library to empower iOS app control through head gaze without a finger touch
+be a small KV database 嵌入式 Flash 存储器库，让 Flash 成为小型 KV 数据库

@@ -1,1 +1,1 @@
-Android application for collecting air measurements
+install and uninstall FreeIPA clients

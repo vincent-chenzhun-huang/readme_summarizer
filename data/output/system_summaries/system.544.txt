@@ -1,1 +1,1 @@
-Reverse Engineered SDK to manage the Citrix App Layering appliance
+parse shibboleth IDP audit logs

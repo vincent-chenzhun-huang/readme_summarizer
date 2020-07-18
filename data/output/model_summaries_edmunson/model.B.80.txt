@@ -1,1 +1,1 @@
-vmdash a cloud vm dashboard that allows you to interact with multiple providers from a single panel.
+spring cloud event sourcing example this reference application is a spring cloud example of using event sourcing in microservices.

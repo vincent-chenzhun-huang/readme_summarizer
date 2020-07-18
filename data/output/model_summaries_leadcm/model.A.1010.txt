@@ -1,1 +1,1 @@
-boom filters boom filters are probabilistic data structures for processing continuous unbounded streams. this includes stable bloom filters scalable bloom filters counting bloom filters inverse
+graphql its a strongly typed query language and run time for your data . open soure and created by facebook . gives clients he power

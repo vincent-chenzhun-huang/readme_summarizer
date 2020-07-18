@@ -1,1 +1,1 @@
-Simple discord bot just to replace our humble friend
+monitoring events watching the camera feed and test animations of Anki s robot Cozmo

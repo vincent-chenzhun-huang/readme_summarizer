@@ -1,1 +1,1 @@
-easings for android if you are not pleased with the native interpolators on android.
+munit is a metadata driven unit testing framework for crossplatform haxe development.

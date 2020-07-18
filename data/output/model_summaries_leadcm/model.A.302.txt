@@ -1,1 +1,1 @@
-the easiest way to use any coding standard used by features use phpcodesniffer phpcsfixer anything you like 2nd run under few seconds with caching skipping
+werf previously known as dapp is made to implement and support continuous integration and continuous delivery cicd. it helps devops engineers generate and deploy images

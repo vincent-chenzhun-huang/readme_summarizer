@@ -1,1 +1,1 @@
-trooba truba means pipe in russian and it is not a pipe.
+easyddns an easy to use esp8266 ddns update client library.

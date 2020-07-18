@@ -1,1 +1,1 @@
-php-mf2 is a pure, generic microformats-2 parser for PHP. It makes HTML as easy to consume as JSON.
+pull metrics from applications that can only open egress

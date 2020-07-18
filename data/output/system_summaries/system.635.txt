@@ -1,1 +1,1 @@
-enlopy is an open source python library with methods to generate, process, analyze, and plot energy related timeseries.
+setup and use fastai on Google Cloud Platfrom

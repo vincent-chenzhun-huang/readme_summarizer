@@ -1,1 +1,1 @@
-installing console dash on raspberry pi video guide instructions are below but here is a video guide to help guide you through it.
+example const uint64t minimumfee 100000 2. penalty free block size srccryptonoteconfig.h cryptonote protects chain from tx flooding by reducing block reward for blocks larger than the median block size.

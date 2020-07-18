@@ -1,1 +1,1 @@
-An Ethereum proxy contract that can be used for deploying contracts to a deterministic address on any chain.
+Improve the efficiency of full stack application development

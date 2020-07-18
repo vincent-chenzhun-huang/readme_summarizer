@@ -1,1 +1,1 @@
-todo list in sinatra learning objective know rack a ruby webserver interface know sinatra learn ui testing with rspec and capybaraselenium deployment to heroku rack
+microsoft.extensions.logging.log4net.aspnetcore allows to configure log4net as microsoft extensions logging handler on any asp.net core application. thanks to anuraj for this original blog post. example of

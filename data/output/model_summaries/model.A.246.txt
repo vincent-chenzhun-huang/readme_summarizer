@@ -1,1 +1,1 @@
-if you wish to extends the functionality of reactpainter by adding additional properties to the canvas getting the ref of the canvas then call this function with those properties and spread the result of this function to the canvas.
+swift let stylesheet labelstylesheet .compose.numberoflines 3 .compose.font uifont.preferredfontfortextstyle .body stylesheets can be used with bentos components.

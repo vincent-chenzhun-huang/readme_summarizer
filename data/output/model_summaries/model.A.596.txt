@@ -1,1 +1,1 @@
-configuration to set up friends in your telerik platform account click the run in telerik platform button.
+image below shows tuning of linear control.

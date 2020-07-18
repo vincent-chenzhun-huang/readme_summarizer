@@ -1,1 +1,1 @@
-eclipsefdnhugosolsticetheme hugo theme of the eclipse foundation look and feel.
+basically hook checks the dom with an interval and looks at the distance between the bottom of your infinite component and the bottom of the window.

@@ -1,1 +1,1 @@
-graphqlnormalizr normalize graphql responses for persisting in the client cachestate. not related in any way to normalizr just shamelessly piggybacking on its popularity. also normalizer
+android fillableloaders android open source library providing an interesting fillable progress view working with svg paths. this is a nice option too if you want

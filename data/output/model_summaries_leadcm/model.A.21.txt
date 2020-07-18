@@ -1,1 +1,1 @@
-this repository is forked and modified from here. part 1. introduction implementation of yolo v3 object detector in tensorflow tfslim. this repository is inspired by
+topeka for android a fun to play quiz that showcases material design on android introduction material design is a new system for visual interaction and

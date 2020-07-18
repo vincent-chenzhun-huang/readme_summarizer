@@ -1,1 +1,1 @@
-welcome fedhipster fedhipster is a fork of jhipster with support for u.s. web design system steps to build and test locally install fedhipster as a
+license this sample code is made available under the mit0 license. see the license file. finding missing persons by scanning social media with amazon rekognition

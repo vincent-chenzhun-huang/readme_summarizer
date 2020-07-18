@@ -1,1 +1,1 @@
-siafpgaminer this project is a vhdl fpga core that implements an optimized blake2b pipeline to mine siacoin.
+fierydata a library which binds firestore data to plain arrays and objects and keeps them in sync.

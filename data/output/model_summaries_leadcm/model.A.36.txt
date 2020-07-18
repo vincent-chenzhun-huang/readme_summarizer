@@ -1,1 +1,1 @@
-training python i use this repository to data structures algorithms and my solutions to programming puzzles. data structures strings and arrays dynamic array class test
+studentmarksloaderandsaver by momotenko yurii information about students marks is stored in files field is a word or set of words separated either with or .

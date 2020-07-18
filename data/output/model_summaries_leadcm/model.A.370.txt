@@ -1,1 +1,1 @@
-analysis of the cooccurrence between tf dna binding motifs and ehancer rna origins hello this github rep contains two things 1 a jupyter notebook that
+mycroft backend personal mycroft backend alternative to mycroft.home written in flask under construction you can run it but why would you before its finished pull

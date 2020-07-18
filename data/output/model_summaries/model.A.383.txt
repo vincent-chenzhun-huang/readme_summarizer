@@ -1,1 +1,1 @@
-gatsbyconfig.js this is the main configuration file for a gatsby site.
+note that the library folder is automatically searched by ansible for modules when running from playbooks.

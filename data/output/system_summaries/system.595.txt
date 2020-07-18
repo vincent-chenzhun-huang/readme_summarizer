@@ -1,1 +1,1 @@
-Repository for storing models and weights generated using caffe-jacinto
+deploy any machine learning model using Azure Functions

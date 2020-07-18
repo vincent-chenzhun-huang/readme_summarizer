@@ -1,1 +1,1 @@
-how to stream a movie to a html 5 video tag using nodejs this is a very quick and easy article explaining how to stream
+lxd mosaic this is an application you can use to do basic management for multiple instances of lxd why most of the other lxd managers

@@ -1,1 +1,1 @@
-login to datastax lifecycle manager lcm when the completed it printed out the urls for opscenter and lcm.
+what is a box skill how does a box skill work what is this toolkit for where can i learn more installation basic usage 1. reading the webhook payload 2. processing the file using a ml provider 3. write metadata to file optional deal with errors what is a box skill a box skill is a type of application that performs custom processing for files uploaded to box.

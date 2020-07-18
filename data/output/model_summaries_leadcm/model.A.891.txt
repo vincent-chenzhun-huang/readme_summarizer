@@ -1,1 +1,1 @@
-packerpostprocessorvhd packer postprocessor plugin to produce virtual hard disk vhd files. vhd files can be used with the following hypervisors hyperv vmware virtualbox xenserver packerpostprocessorvhd
+esp8266esp32arduinomakefile for linux and cygwinwindows makefile to build arduino code for esp8266 under linux and cygwin tested on debian x64 raspberry cygwinnt10.0. based on martin

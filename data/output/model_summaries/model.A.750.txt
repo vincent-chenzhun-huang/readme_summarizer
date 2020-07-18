@@ -1,1 +1,1 @@
-the options are as follows example is the color black hex 000000 rgb r 0 g 0b 0 rgbstring rgb000 hsv h 0 s 0 v 0 here are the defaults for each option here is an example of a fully random color call here is an example that will produce 100 reds as rgb strings makescheme the second core function allows please to make a color scheme for you.
+that can be done with and the commands to execute.

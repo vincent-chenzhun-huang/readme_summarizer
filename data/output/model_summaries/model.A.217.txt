@@ -1,1 +1,1 @@
-ubuntu using gcc git clone b master singlebranch httpsgithub.comturtlecointurtlecoin cd turtlecoin mkdir build cd build cmake .. make the binaries will be in the src folder when you are complete.
+description of modules the modules packaged with the utility are listed in the table below.

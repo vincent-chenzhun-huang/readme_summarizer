@@ -1,1 +1,1 @@
-piano assistant note this project is a work in progress. i wont say no to some help. if youre slightly interrested into the project and
+siddhi execution json the siddhiexecutionjson extension is a siddhi extension that provides capability to retrieve insert and modify json elements. for information on siddhi and

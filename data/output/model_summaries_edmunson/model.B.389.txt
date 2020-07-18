@@ -1,1 +1,1 @@
-bazel watcher note this is not an official google product.
+rpiclone version 2 is a complete rewrite with improved capability over the original.

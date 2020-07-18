@@ -1,1 +1,1 @@
-it allows you to generate application configuration files at container startup time from templates and container environment variables tail multiple log files to stdout andor stderr wait for other services to be available using tcp https unix before starting the main process.
+laravel page speed simple package to minify html output on demand which results in a 35 optimization.

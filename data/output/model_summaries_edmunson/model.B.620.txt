@@ -1,1 +1,1 @@
-neverwinteractplugin an plugin for act advanced combat tracker to parse combat log file from neverwinter by perfect world.
+jetson stats welcome in the jetson setup configurator visit the official website or read the wiki the idea of this project is automatically update and setup your nvidia jetson nano xavier tx2i tx2 tx1 tk1 embedded board without wait a lot of time.

@@ -1,1 +1,1 @@
-extension api example this repo contains examples of the symphony extension api.
+obsolete mkcast is no longer being maintained by me at any rate.

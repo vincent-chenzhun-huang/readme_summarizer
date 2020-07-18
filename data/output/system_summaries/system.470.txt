@@ -1,1 +1,1 @@
-A serverless solution to back up CodeCommit repositories to S3
+match a specified pattern

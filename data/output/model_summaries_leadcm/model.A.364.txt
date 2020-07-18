@@ -1,1 +1,1 @@
-djangoprofilemiddleware an easy to use customizable django profiling middleware for django version below 1.10. for version 1.10 or above refer here requirement django version below
+cloudtrail to slack cloudtrail のログストリームを slack に通知する lambda 関数 開発環境 awscli awssamcli docker ローカル環境のセットアップ 環境変数 変数名説明サンプル slack oauth トークン slack チャンネルid or チャンネル名 パッケージングとデプロイ パッケージングしてs3にアップロード

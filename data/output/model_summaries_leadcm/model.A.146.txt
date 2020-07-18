@@ -1,1 +1,1 @@
-bcmtools copyright c 20112014 institute of industrial science the university of tokyo. all rights reserved. copyright c 20122016 advanced institute for computational science aics riken.
+technical glossary this glossary is everevolving and relies on the contributions of people like you for new word suggestions heart. if youve got a word

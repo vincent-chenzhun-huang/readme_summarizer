@@ -1,1 +1,1 @@
-High performance components for building Trading Platform such as ultra fast matching engine, order book processor
+know more

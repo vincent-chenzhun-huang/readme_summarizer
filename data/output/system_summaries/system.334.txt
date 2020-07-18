@@ -1,1 +1,1 @@
-A Terraform module to create hardened log S3 bucket for AWS services
+practising Git Flow workflow

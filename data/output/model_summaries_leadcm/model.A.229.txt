@@ -1,1 +1,1 @@
-croodle croodle is an endtoend encrypted web application to schedule a date or to do a poll on a any topic. all data like title
+sqlitetoexcel english readme sqlitetoexcel 库整合了 apache poi 和一些基本的数据库操作，使得 sqlite 和 excel 之间相互转换更加便捷。 从 v1.0.5 版本开始，不再支持 xlsx 格式，因为 poi ooxml 库和其他一些相关的依赖太大了，体积超过了 10mb，同时开发过程中也发现 poi 对于 android 支持不够全面，放弃

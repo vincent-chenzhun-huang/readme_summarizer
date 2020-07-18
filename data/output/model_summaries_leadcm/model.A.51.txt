@@ -1,1 +1,1 @@
-apple app store data analysis and modeling the project aims on helping app store developers to develop successful trending new apps. the project applies the
+sklearn2pmml python library for converting scikitlearn pipelines to pmml. features this library is a thin wrapper around the jpmmlsklearn commandline application. for a list of

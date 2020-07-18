@@ -1,1 +1,1 @@
-python jsonpath rw httpsgithub.comkennknowlespythonjsonpathrw build status test coverage pypi version pypi downloads this library provides a robust and significantly extended implementation of jsonpath for python.
+if you want to package the binary you will need to include the mingw dlls it depends on they can install to the same directory as the binary.

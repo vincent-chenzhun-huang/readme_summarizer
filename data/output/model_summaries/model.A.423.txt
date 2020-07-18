@@ -1,1 +1,1 @@
-your app is ready to be deployed see the section about deployment for more information.
+there is already a working test of the reflective interpreter in test.chap8j.

@@ -1,1 +1,1 @@
-frinder frinder is an android app that matches you with people nearby who are also looking to meet new people not focussed on dating.
+it is extremely nice that we are on the road of specifying and unifying remote debugging protocol and we can already remotely debug web applications on desktop chrome but what if we want to get it working also on android browser or safari for ios mobileconsole can be embedded within any page for debugging it will catch errors and behave exactly as native js console in browser.

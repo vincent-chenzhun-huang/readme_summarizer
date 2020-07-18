@@ -1,1 +1,1 @@
-installation pythran sources are hosted on httpsgithub.comsergesanspaillepythran.
+this does 2 things it takes the prisma docker image as a base and adds a prerun hook that renders the prisma config required to run the app and adds a cmd docker directive to the image that heroku requires all images to have.

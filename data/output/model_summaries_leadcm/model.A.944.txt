@@ -1,1 +1,1 @@
-holdoutsgenerator travis sonarquality sonarmaintainability codacy codeclimatemaintainability pip downloads simple python package to generate and cache both random and chromosomal holdouts with arbitrary depth. how do
+create typescript library project introduction in you enterprise if you want to create shared javascript library then webpack and typescript comes first in mind. however

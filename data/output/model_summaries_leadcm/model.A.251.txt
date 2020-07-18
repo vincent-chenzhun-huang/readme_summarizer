@@ -1,1 +1,1 @@
-scgps single cell global fate potential of subpopulations the scgps package website is available at httpsimbcomputationalgenomicslab.github.ioscgpsindex.html the usage instruction can be found at httpsimbcomputationalgenomicslab.github.ioscgpsarticlesvignette.html scgps
+mtfplus a plugin that adds new subclasses to ntf cadets. requires exiled usage place your classes in a file a must into the folder located

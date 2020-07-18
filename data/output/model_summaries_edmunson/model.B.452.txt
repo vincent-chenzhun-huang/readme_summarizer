@@ -1,1 +1,1 @@
-design and build a chat app with socket.io watch on youtube introduction this mini series is jam packed full of useful information for the beginner to intermediate web developer.
+android debug database android debug database is a powerful library for debugging databases and shared preferences in android applications android debug database allows you to view databases and shared preferences directly in your browser in a very simple way what can android debug database do see all the databases.

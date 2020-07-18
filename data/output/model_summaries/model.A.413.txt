@@ -1,1 +1,1 @@
-bdprochot related tools require the use of the msr module and the msrtools package etcsystemdsystemdisablebdprochot.service copy this file to the same location in the root of your system and run also ensure to copy usrlocalsbindisableprochot.py to the same path in your system and ensure it is root executable.
+useful for cicd layer caching dockerpush pushes the recently build image to the registry k8sdeploy generates cisha1 suffixs for each of the files defined in your k8sscripts config and uses kubectl create if the objects dont exist kubectl apply if they do.

@@ -1,1 +1,1 @@
-osvrunity maintained at for details see for support see .net binding for osvr managedosvr the unity integration is based on the managedosvr .net binding for
+ngtoolkit this project has two faces first a angular universal pwa boilerplate prepared for easy deployment on serverless environment. the boilerplate contains all of the

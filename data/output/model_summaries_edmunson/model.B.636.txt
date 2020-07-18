@@ -1,1 +1,1 @@
-cisco ip trace this python script will take a single ip address or a range within a 24 and trace the associated mac addresses from a core cisco routerswitch to the edge switch port.
+train your own opencv haar classifier important this guide assumes you work with opencv 2.4.x.

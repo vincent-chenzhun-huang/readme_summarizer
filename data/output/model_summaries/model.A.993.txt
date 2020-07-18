@@ -1,1 +1,1 @@
-you can also create custom scroll handles just implement scrollhandle interface.
+create as many refs and measurement objects as youd like.

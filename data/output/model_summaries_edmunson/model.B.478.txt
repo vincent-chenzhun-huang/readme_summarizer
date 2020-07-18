@@ -1,1 +1,1 @@
-this project was bootstrapped with create react app.
+ingressconsulregister a tool to register the hostnames that are specified as rules in an ingress resource with the ingress controller in consul.

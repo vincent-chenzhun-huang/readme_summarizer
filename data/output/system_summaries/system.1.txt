@@ -1,1 +1,1 @@
-Toolkit to emulate firmware and analyse it for security vulnerabilities 
+extracting translatable strings and generating modulemdtranslations YAML

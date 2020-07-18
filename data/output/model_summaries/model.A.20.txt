@@ -1,1 +1,1 @@
-an example to train sbr on the unlabeled sequences the parameter is the path to the detector trained in the basic training section.
+overview dlpy is a highlevel python library for the sas deep learning features available in sas viya.

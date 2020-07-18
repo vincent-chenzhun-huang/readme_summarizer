@@ -1,1 +1,1 @@
-is an ios lightweight library that can displays adverts or boardcast e.g. with an custom view. 中文介绍 support what kinds of scrolltype txscrolllabelviewtypeleftright scrolling from
+j2team community developed by j2teamnnl all the tool about facebook as for now add friend auto reations change privacy count reations post delete friend member

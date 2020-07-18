@@ -1,1 +1,1 @@
-Arduino library to support external I2C EEPROMs.
+help with counters and powerups 

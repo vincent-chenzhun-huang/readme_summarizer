@@ -1,1 +1,1 @@
-Perfkit Benchmarker contains set of benchmarks to measure and compare cloud offerings. The benchmarks use defaults to reflect what most users will see. PerfKit Benchmarker is licensed under the Apache 2 license terms. Please make sure to read, understand 
+apply the learned skills

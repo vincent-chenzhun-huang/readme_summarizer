@@ -1,1 +1,1 @@
-bigoperformance a simple html app to demonstrate performance costs of data structures. clone the project navigate to the root of the project in a termina
+detectobjectsinpath using camera to detect a safe route for walking this is the app i built to help anybody who is visually impaired navigate their

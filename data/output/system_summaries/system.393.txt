@@ -1,1 +1,1 @@
-Framework for creating payment-channel based ILP ledger plugins
+decouple your eloquent models from one another new 

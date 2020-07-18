@@ -1,1 +1,1 @@
-pythonic filesystems in userspace fuse in 2019 filesystem in userspace api two widely used versions exist 2 and 3. while version 3 is currently being adopted by more and more projects most fuse file systems tend to use version 2 at this point.
+ansiblestoredsafeclient ansiblestoredsafeclient.py is an ansible vault password client script to be used for retrieving password from storedsafe to be used for encryption and decryption when using ansiblevault.

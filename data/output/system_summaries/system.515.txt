@@ -1,1 +1,1 @@
-Simple examples to introduce PyTorch
+be run on a raspberry pi and used as a dashboard

@@ -1,1 +1,1 @@
-an inprocess practice todo app to help me prepare for googles associate android developer certification exam a very happy endingbeginning im thrilled to announce that
+cwwav copyright c 20112014 by thomas horsten this program is free software you can redistribute it andor modify it under the terms of the gnu

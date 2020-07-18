@@ -1,1 +1,1 @@
-event gateway rest api this example shows a simple way to deploy a rest api via the event gateway and aws lambda.
+gatsbysourcedatocms source plugin for pulling models and records into gatsby from datocms administrative areas.

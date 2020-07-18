@@ -1,1 +1,1 @@
-indoor3d this is a javascript lib based on three.js to show an indoor map.
+dijkstras algorithm in this problem you will implement dijkstras algorithm to find shortest paths between pairs of cities on a map.

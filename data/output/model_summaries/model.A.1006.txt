@@ -1,1 +1,1 @@
-aws credentials uses under the hood and therefore inherits the same mechanism for looking up aws credentials.
+contents installation helpful utilities basic usage android example app provider interface architecture want to help license legal installation prerequisites java jdk 1.8 1.7 source compatibility is targeted gradle 4.10.1 for android android 6 marshmallow note android 6 marshmallow was selected as the minimum target level due to keystore security concerns in older versions of android.

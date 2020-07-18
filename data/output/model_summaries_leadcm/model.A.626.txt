@@ -1,1 +1,1 @@
-scripts to rule them all this is a set of boilerplate scripts describing the normalized script pattern that github uses in its projects. while these
+overview exchangesharp is a c console app and framework for trading and communicating with various exchange api end points for cryptocurrency assets. many exchanges are

@@ -1,1 +1,1 @@
-you can configure this as well as other security details by passing a dictionary of customisation options to the function obpserverinfocustomise before the obpserverinfo class initialize has been called.
+backgrounddownload plugins for mobile platforms to enable file downloads in background allows to launch file downloads that will continue even if the app goes into background or gets quit by the operating system.

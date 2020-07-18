@@ -1,1 +1,1 @@
-this project was taken up as part of udacity data science nano degree program capstone project.
+whats included 14 different top and bottom layouts small 40px medium 50px and large 65px navbar sizes dark and light color themes calcite colors extended navbar dropdown menu and collapsible panels dropdown menu drawer option full map view custom sass build for bootstrap and calcite maps support for arcgis js 3.x arcgis js 4.x and esri leaflet dojo and jquery support note the framework is compatible with standard or custom builds of bootstrap 3.x.

@@ -1,1 +1,1 @@
-if need to consider horizontal and vertical rotation the relevant properties of the control must be set here.
+no .bashprofile file create one by navigating to the home directory then run touch .bashprofile open the .bashprofile file in the code editor code .bashprofile create the following alias lines alias newapp.newapp.sh alias newdesign.newdesign.sh save the file and quit the terminal app.

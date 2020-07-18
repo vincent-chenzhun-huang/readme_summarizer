@@ -1,1 +1,1 @@
-Tools and guidance for estimating map accuracy and area on the Google Earth Engine
+accessing Windows 10 Virtual Desktop features from eg AutoHotkey

@@ -1,1 +1,1 @@
-python package for analyzing general circulation model output data
+Caltech IST4 Programming Challenge 

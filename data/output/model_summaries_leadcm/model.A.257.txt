@@ -1,1 +1,1 @@
-conjuriamapikey get an iam api key used by conjur or get a sdk client using iam authentication. how to install available python3 functions ec2 usage
+try tensorflow example code to try out tensorflow. see the blog post simple endtoend tensorflow examples for more discussion and context. you need have tensorflow

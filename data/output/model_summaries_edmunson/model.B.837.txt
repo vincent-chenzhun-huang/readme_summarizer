@@ -1,1 +1,1 @@
-appinfoparser appinfoparser is a parser for parsing or files.
+strongbox strongbox is a swift utility class for storing data securely in the keychain.

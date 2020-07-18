@@ -1,1 +1,1 @@
-Standardizing weights to accelerate micro-batch training
+fit the prompt

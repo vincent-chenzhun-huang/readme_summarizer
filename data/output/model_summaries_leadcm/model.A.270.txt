@@ -1,1 +1,1 @@
-mailgun with go go library for interacting with the mailgun api. note backward compatibility has been broken with the v3.0 release which includes versioned paths
+openssh server this role configures the openssh daemon. it by default configures the ssh daemon with the normal os defaults. works across a variety of

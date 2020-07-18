@@ -1,1 +1,1 @@
-these heuristics have been tested on a code generated with clang and gcc compilers.
+full documentation a small validation library for .net that uses a fluent interface and lambda expressions for building validation rules.

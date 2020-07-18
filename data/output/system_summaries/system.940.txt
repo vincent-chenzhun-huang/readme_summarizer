@@ -1,1 +1,1 @@
-This library provides a simple way to add a draggable sliding up panel (popularized by Google Music and Google Maps) to your Android application. Brought to you by Umano.
+develop themes and other artifacts that can be used across all Volusion V2 storefronts

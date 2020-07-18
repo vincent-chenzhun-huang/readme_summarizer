@@ -1,1 +1,1 @@
-mining the social web 3rd edition the official code repository for mining the social web 3rd edition oreilly 2019. the book is available from amazon and safari books online.
+cloud code for intellij cloud code for intellij is a plugin that helps facilitates cloudnative development in the jetbrains family of ides.

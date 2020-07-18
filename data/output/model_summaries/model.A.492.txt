@@ -1,1 +1,1 @@
-this is useful if you need to restore a backup file that includes some files along with the database dump.
+some of the features include url segments replace segment in resource with value method get post put patch delete format json xml urlencoded plaintext for contenttype and accept headers and convertingparsing request and response querystringparams body cookies headers for more details see the webrequest portion of the docs authentication example the following example demonstrates using an authenticator with vbaweb to query twitter.

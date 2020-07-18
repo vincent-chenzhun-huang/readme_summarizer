@@ -1,1 +1,1 @@
-bitcoinrelated dockerfiles and configurations this is the public repository of dockerfiles used in production by satoshi portal for the bitcoin applications it develops and operates
+install 1. download jar httpsplugins.jetbrains.complugin11551dartjsonformat 2. search in ide plugins browse repositories input dartjsonformat generate examples 1. simple data 2. ojbect 3. array 4. array

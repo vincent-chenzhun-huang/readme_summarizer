@@ -1,1 +1,1 @@
-xgcm general circulation model postprocessing with xarray pypi conda forge build status codecov docs doi license xgcm is a python package for working with the datasets produced by numerical gcms and similar gridded datasets that are amenable to analysis.
+batch execution and plotting basic command from the commandline run from its directory with the appropriate options.

@@ -1,1 +1,1 @@
-stock performance classification with a 1d cnn keras and azure ml workbench overview we recently worked with a financial services partner to develop a model
+powered concourse pipelines a set of workable powered concourse pipelines to drive pcf platform tiles install upgrade and patch in an automated and easy way

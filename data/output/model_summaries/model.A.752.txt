@@ -1,1 +1,1 @@
-instructions get your facebook id from facebook put it into the authentication script before starting the application get your facebook id visit view your network requests on chrome open developer tools and click on the network tab click the ok button on the facebook popup window.
+radialbar v.0.2.2 эта javascript библиотека позволяет создавать радиальные прогресс бары на canvas.

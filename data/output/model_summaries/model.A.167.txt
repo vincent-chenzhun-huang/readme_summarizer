@@ -1,1 +1,1 @@
-it be used to download and execute a remote payload.
+prcommit the source commit prtobranch the target branch to merge to prtitle the pull request title prdescription the pull request description extension properties the plugin exposes an extension with the following properties the stash repository the stash project name the stash host name the stash user name the stash password example its recommended to not hardcode credentials in your build.gradle file.

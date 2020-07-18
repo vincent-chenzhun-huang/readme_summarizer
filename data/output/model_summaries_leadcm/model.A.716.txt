@@ -1,1 +1,1 @@
-extension api example this repo contains examples of the symphony extension api. this api allows you to write applications which users can install. additionally with
+obsolete mkcast is no longer being maintained by me at any rate. its really just a bundle of hackiness and kludges so ive essentially rewritten

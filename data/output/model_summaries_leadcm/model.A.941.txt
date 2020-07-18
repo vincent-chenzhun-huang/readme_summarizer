@@ -1,1 +1,1 @@
-trinitycore master build status introduction requirements install reporting issues submitting fixes copyright authors contributors links build status master 3.3.5 introduction trinitycore is a mmorpg framework
+knockoutpostbox knockoutpostbox is a knockout.js plugin designed to use knockouts basic pubsub capabilities to facilitate decoupled communication between separate view models components. more background here

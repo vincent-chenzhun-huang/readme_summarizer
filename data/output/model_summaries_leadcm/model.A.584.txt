@@ -1,1 +1,1 @@
-index 1. judul program 2. fitur program 3. syarat dan ketentuan 4. flowchart dan manual 5. kontributor script 6. kontak dan saran 7. disclaimer step
+this blender addon runs a recursive back tracker maze algorithm over the selected part of any mesh to produce a maze. a blender mesh structure

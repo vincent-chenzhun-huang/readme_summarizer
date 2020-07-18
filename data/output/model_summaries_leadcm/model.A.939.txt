@@ -1,1 +1,1 @@
-shots project is not maintainable. if you want to use it you must to see how can i save screenshots on my own server taskfocused
+installation the module works with cmssw8026 cmssw8029 recommended and requires topquarkanalysisbfragmentation wich produces some values for certain systematics. other modules are standard and it should

@@ -1,1 +1,1 @@
-Workshop to build out a real-life IoT scenario by capturing IoT data and ingesting it into the Azure Cloud.
+show the push notification while using the React based application using Firebase and FCM service 

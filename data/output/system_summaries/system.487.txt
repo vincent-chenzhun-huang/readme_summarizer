@@ -1,1 +1,1 @@
-Specification for streaming massive heterogeneous 3D geospatial datasets :earth_americas:
+read data from your Azure Kinect device 

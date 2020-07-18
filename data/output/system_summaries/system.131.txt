@@ -1,1 +1,1 @@
-✅ Command to parse RSS and Atom feeds to JSON.
+handle files 

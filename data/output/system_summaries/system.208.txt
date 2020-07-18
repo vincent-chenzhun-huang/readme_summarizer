@@ -1,1 +1,1 @@
-A package for making a cookbook and managing recipes with org-mode.
+your apps without writing dozens of lines of code 

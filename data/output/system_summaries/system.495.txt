@@ -1,1 +1,1 @@
-Repo for tracking changes and patching of RASP-GM
+be a Modbus master

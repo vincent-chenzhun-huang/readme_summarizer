@@ -1,1 +1,1 @@
-md360player4android it is a lite library to render 360 degree panorama video for android.
+either download package from the link above or extract folder from the repository project – it contains all the required assets other stuff is just for testing purposes.

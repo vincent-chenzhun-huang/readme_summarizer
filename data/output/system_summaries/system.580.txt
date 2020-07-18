@@ -1,1 +1,1 @@
-An ember-cli addon for implementing modal dialogs
+compute simple arithmetic expressions 

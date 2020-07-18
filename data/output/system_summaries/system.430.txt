@@ -1,1 +1,1 @@
-GaleForce is a project to customise the Google Wifi router
+help developers quickly get started in building their own 

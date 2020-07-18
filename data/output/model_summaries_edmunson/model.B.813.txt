@@ -1,1 +1,1 @@
-flashstorage library for arduino the flashstorage library aims to provide a convenient way to store and retrieve users data using the nonvolatile flash memory of microcontrollers.
+bee bee is an orm framework.

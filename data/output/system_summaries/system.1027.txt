@@ -1,1 +1,1 @@
- A port of Robert Penner's easing equations to kotlin on Android to add flavors to your animations
+generating compiling and running test cases from the command line 

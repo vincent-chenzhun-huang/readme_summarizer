@@ -1,1 +1,1 @@
-sports.py gather live uptodate sports scores.
+options there are some options that can be controlled through the file cnk controls the connectedness of the grid.

@@ -1,1 +1,1 @@
-A curated list of resources related to how to do open source projects
+signing incoming requests with Amazon Web Services AWS authentication headers 

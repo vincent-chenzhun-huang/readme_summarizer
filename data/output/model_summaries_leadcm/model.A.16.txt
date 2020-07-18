@@ -1,1 +1,1 @@
-1 preface several cisco business units have teamed up to create this restful api design guide. collectively this includes devnet collaboration and the application platform
+moviesui ui for retrieveing viewing and editing movie records from an sql database built with react and using the reactadmin module. currently deployed at httpsmoviedbeditor.herokuapp.com

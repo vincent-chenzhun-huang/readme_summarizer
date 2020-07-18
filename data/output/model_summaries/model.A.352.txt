@@ -1,1 +1,1 @@
-after installation you can launch the wordpress exploit framework console by running .
+usage 1. downloading the dataset.

@@ -1,1 +1,1 @@
-donation if this project helped you reduce the time to get your job done let me know.
+docker services orchestration demonstration kubernetes orchestration demo also available this is a demo application from the docker for web developers course on pluralsight that demonstrates how multiple services can be integrated and orchestrated using docker and docker compose.

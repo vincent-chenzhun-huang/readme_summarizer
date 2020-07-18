@@ -1,1 +1,1 @@
-appinfoparser appinfoparser is a parser for parsing or files. it will return the infomation with json from or . support node ✅ browser latest ✅
+strongbox strongbox is a swift utility class for storing data securely in the keychain. use it to store small sensitive bits of data securely. strongbox

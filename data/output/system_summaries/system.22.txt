@@ -1,1 +1,1 @@
-Visolate is an application for calculating machining toolpaths (G-code) for manufacturing printed circuit boards (PCBs) by isolation milling. As an outstanding feature, this calculation is done on the computer's screen, using the features of 3D graphics d
+SilverStripe

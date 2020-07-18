@@ -1,1 +1,1 @@
-executing .runcontainerizedtests.sh t all with the config below in place would execute the two control tests against master and bastion instances in your deployment.
+usage define your grid structure call waterfall function with your grid as a argument and let the magic happen responsive just call waterfall function again on window resize event many images to load in this case we highly recommend you run the waterfall only after the images have been loaded.

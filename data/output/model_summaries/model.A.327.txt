@@ -1,1 +1,1 @@
-other ways to encode a color image many other possible models may be used to represent the colors that make up an image.
+aframe a web framework for building virtual reality experiences.

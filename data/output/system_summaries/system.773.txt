@@ -1,1 +1,1 @@
-A generic library for messaging with rabbit mq with extension on spring boot amqp
+assist with complex graphs

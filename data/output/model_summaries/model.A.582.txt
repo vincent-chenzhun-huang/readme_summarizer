@@ -1,1 +1,1 @@
-usage vd ... vd visidata supports tsv csv xlsx hdf5 sqlite json and more see the list of supported sources.
+this can be used to collect data about source of traffic for integration with crm google analytics classic used to provide a handy cookie which contained the traffic source information for the user visiting the site.

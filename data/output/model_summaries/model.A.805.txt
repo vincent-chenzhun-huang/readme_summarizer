@@ -1,1 +1,1 @@
-licensesdialog licensesdialog is an open source library to display licenses of thirdparty libraries in an android app.
+password for the metasys application s service default time service to extract data from discovery the discovery app processes the network tree from the metasys and determines which api endpoints should be used for the extraction calls.

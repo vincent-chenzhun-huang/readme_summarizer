@@ -1,1 +1,1 @@
-big data docker guide this guides you to create a docker image and run it effectively. the docker includes hadoop hbase spark and jupyter notebook
+description this repo provides a simple example for how to setup various ci services as well as integrating analysis tools into these services. these tools

@@ -1,1 +1,1 @@
-scratchgui scratch gui is a set of react components that comprise the interface for creating and running scratch 3.0 projects installation this requires you to
+mobile and desktop camera app template html css js and webrtc i like to experiment with computer vision and ai apis like azure cognetive services

@@ -1,1 +1,1 @@
-training python i use this repository to data structures algorithms and my solutions to programming puzzles.
+the example of good command line is input good001.txt output out.txt stat con

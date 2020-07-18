@@ -1,1 +1,1 @@
-see the license for the specific language governing permissions and limitations under the license.
+these will be used to configure the canvas apislug it is string which defines proxy setup to make a api request action how to render in web content player will render inside the web environment with the above configuration .

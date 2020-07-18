@@ -1,1 +1,1 @@
-The gulp wrapper around patternlab-node core, providing tasks to interact with the core library and move supporting frontend assets.
+using pixijs in Expo

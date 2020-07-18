@@ -1,1 +1,1 @@
-citybikeanalysistableau background as lead analyst for the new york citi bike program you are now responsible for overseeing the largest bike sharing program in the united states.
+reverse shell from jira since i havent found any well explained articles on how to get reverse shell from jira web application server i thought it could be a good idea to cover this subject with the pentesters community.

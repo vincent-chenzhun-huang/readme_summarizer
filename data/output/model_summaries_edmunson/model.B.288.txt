@@ -1,1 +1,1 @@
-the official docusign python client pypi module that wraps the docusign api documentation about the docusign api requirements python 2.7 3.6 recommended free developer sandbox compatibility python 2.7 note this opensource sdk is provided for cases where you would like to make additional changes that the sdk does not provide outofthebox.
+features this drupal module provides a tool to build a chat bot to work on facebooks messenger platform.

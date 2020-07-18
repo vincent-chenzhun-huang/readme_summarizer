@@ -1,1 +1,1 @@
-this project was bootstrapped with create react app. available scripts in the project directory you can run runs the app in the development mode. open
+eloquenttaggable easily add the ability to tag your eloquent models in laravel 5. note these instructions are for laravel 5.8. if you are using laravel

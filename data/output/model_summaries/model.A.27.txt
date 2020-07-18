@@ -1,1 +1,1 @@
-then create a file etcudevrules.dusbtmc.rules with the following content usbtmc instruments agilent mso7104 subsystemsusb actionadd attrsidvendor0957 attrsidproduct1755 groupusbtmc mode0660 substituting the correct idvendor and idproduct from lsusb.
+1.2 motion input data stacked optical flow images in motion stream we use two methods to get optical flow data.

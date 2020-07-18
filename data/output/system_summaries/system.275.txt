@@ -1,1 +1,1 @@
-Google Apps Script connected to spreadsheet that follows trending hashtags / hashtags we use on Instagram and Twitter
+Gathering Meteorological and Environmental Metadata from Multiple Networks

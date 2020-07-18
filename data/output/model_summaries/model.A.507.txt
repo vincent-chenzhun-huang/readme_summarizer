@@ -1,1 +1,1 @@
-any change you want to make to your cv from then on would have to be done on the branch and will be immediately rendered by github pages.
+the library ships with a simple cli bash datapackage infer .csv data package descriptor profile tabulardatapackage resources encoding utf8 format csv mediatype textcsv name data path datadatapackagedata.csv profile tabulardataresource schema ... datapackage bash usage cli.py options command args... options version show the version and exit.

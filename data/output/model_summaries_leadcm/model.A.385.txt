@@ -1,1 +1,1 @@
-androidbaseutils context free and basic utils to build android project conveniently any kinds of contributions including pull requests writing issues email me personally are always
+this project was bootstrapped with create react app. available scripts in the project directory you can run runs the app in the development mode. open

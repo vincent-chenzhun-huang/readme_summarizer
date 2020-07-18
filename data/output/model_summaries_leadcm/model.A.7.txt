@@ -1,1 +1,1 @@
-contents introduction problem statement methodology results conclusion and future work references introduction sustainability is the development that satisfies the needs of the present without compromising
+asteroids in .net framework .net core 3 and blazor webassembly live demo httpsaesalazar.github.ioasteroidswasm this project is a poc to determine the plausibility of writing a

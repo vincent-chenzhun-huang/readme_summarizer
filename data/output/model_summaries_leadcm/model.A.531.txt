@@ -1,1 +1,1 @@
-collective.behavior.localdiazo .. contents table of contents life the universe and everything dexterity behavior to enable a local diazo theme. this package aims to make easier
+this project was bootstrapped with create react app. below you will find some information on how to perform common tasks. you can find the most

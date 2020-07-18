@@ -1,1 +1,1 @@
-overbloggraphqlbundle this symfony bundle provides integration of graphql using webonyxgraphqlphp and graphql relay.
+compilation database generator tool for generating clangs json compilation database file for gnu based build systems.

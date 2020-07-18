@@ -1,1 +1,1 @@
-A robust and significantly extended implementation of JSONPath for Python, with a clear AST for metaprogramming.
+uncompress the downloaded package you need a zip extractor 

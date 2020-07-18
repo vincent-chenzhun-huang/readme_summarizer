@@ -1,1 +1,1 @@
-cordovaphonegap wrapper for paystack sdk for android ios by arttitude 360 with reference from httpsgithub.comtolu360cordovapluginpaystack index description installation automatically cli plugman manually phonegap build usage
+typescript and javascript lib generator travis ci status this tool is used to generate and for typescript. the input file is the json webidl file

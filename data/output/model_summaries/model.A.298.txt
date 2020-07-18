@@ -1,1 +1,1 @@
-search the locker for the file if file does not exist in locker it will be made known to the user if file exists in locker will find the files information and use its references from its file retriever to map to its corresponding chunks in the dictionary.
+piripiri is a browser orchestration to enable decentralized browser applications tests.

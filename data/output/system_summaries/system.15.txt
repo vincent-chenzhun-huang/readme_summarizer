@@ -1,1 +1,1 @@
-A Utility to Convert a The Master Genealogist Database into a SQL/Sqlite Database 
+different services are covered in the accompanying user guide including descriptions syntax and

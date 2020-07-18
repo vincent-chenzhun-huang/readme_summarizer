@@ -1,1 +1,1 @@
-A .NET library for controlling Dynamixel actuator products from Robotis
+help with Go development

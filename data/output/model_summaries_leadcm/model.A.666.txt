@@ -1,1 +1,1 @@
-vueorgchart a vue component that wraps orgchart.js and supports scoped slots to customize nodes in chart. support and ajax support are dropped since now you
+官方文档请点击 （httpsgithub.comnewsettlens4gearidgenblobmasterdocsns4gearidgenv1.0.docx ） 20181112 id生成器 版本1.0 1. 配置 id生成器数据库定制化配置 keyname区分业务 keylengthid长度 keycache缓存数量 keyprefix前缀 keysubffix后缀 keydigitkey生成规则 keytype 2、3 时支持10进制、36进制或者62进制 1.1 keyname区分业务 1.2 keylengthid长度 1.3 keycache步长 每次分配号段的长度

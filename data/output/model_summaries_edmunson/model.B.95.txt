@@ -1,1 +1,1 @@
-redom develop web apps with 100 javascript and web standards.
+gopherjs grpcweb boilerplate a minimal repo containing all the boilerplate for getting started with gopherjs using grpcweb.

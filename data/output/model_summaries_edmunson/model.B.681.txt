@@ -1,1 +1,1 @@
-gitlabmirrors for docker this is samrocketmangitlabmirrors packaged inside a docker container based on alpine linux.
+grafana status panel this is a plugin meant to be used as a centralized view for the status of component in a glance.

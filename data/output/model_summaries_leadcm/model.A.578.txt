@@ -1,1 +1,1 @@
-bochspwn reloaded bochspwn reloaded is an instrumentation module for the bochs ia32 emulator similar to the original bochspwn project from 2013. it performs taint tracking
+steps to running the ridgelet transform method downey and clayton g3 2007 shape analysis feb 2019 shai roth shairot12gmail.com the following codes were designed to

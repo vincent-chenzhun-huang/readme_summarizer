@@ -1,1 +1,1 @@
-A C/C++ single-file library for drop-in lightmap baking. Just use your existing OpenGL renderer to bounce light!
+do 

@@ -1,1 +1,1 @@
-A simple React website for searching recipes.
+requestresponse streamresponse requestresponse and streamstream usecases

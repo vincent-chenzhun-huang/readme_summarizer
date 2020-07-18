@@ -1,1 +1,1 @@
-A CLI tool for provisioning kubernetes clusters on Hetzner Cloud
+make the creation of interactive Minecraft inventories easier 

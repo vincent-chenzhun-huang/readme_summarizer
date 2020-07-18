@@ -1,1 +1,1 @@
-uitesthelper general information when creating ui tests you will see that you are often repeating the same pieces of code.
+bidirectional attention flow for machine comprehension this the original implementation of bidirectional attention flow for machine comprehension.

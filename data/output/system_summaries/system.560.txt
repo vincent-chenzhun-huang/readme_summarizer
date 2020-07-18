@@ -1,1 +1,1 @@
-Just use pyecharts to imitate Echarts official example. (Official example URL: https://echarts.baidu.com/examples/)
+generate php getters and setters from class properties http wwwvimorgscriptsscriptphp scriptid1707

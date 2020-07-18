@@ -1,1 +1,1 @@
-Qlik Sense Extension to display images
+perform the loading of a library from memory into a host process 

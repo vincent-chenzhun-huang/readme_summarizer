@@ -1,1 +1,1 @@
-sometimes the components look too different for you to be able to just change the css you have to make one component for desktop and another for mobile.
+svg 3d tag cloud jquery plugin jquerysvg3dtagcloudplugin preview description a very small and cssless jquery plugin for drawing a 3d interactive svg based and fully customizable sphere tag cloud from an array of html links.

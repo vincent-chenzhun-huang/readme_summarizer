@@ -1,1 +1,1 @@
-Awesome WebSocket CLient - an interactive command line client for testing websocket servers
+tail Kubernetes logs from multiple pods at the same time

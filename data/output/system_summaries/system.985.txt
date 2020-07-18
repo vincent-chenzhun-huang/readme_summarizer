@@ -1,1 +1,1 @@
-Easy to configure development environment for Vue project
+serving up RPC endpoints 

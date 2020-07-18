@@ -1,1 +1,1 @@
-A lightweight library for generating text tables.
+visualize hypergraphs 

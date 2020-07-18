@@ -1,1 +1,1 @@
-key the value for the cache header.
+by default sqlitejson returns lists of json objects.

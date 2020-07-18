@@ -1,1 +1,1 @@
-once complete youll see something like this
+getting started has no external dependencies apart from and from openssl which we download and compile by using the script so that you can be sure you are downloading it from the official openssl repository.

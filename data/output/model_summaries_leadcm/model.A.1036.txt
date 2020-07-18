@@ -1,1 +1,1 @@
-a new feature for sketch measure export layers influence rect to spec. layers influence rect includes the area of shadows and outside borders its exactly
+tracking progress in natural language processing table of contents english automatic speech recognition ccg supertagging common sense constituency parsing coreference resolution dependency parsing dialogue domain

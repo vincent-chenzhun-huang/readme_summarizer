@@ -1,1 +1,1 @@
-autolinktextview autolinktextview is textview that supports hashtags mentions urls http phone and email automatically detecting and ability to handle clicks.
+the addonoperator adds hooks and values to helm charts in order to enhance the capabilities of helm and transform charts into smart modules that configure themselves and respond to changes in the cluster.

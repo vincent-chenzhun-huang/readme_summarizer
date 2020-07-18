@@ -1,1 +1,1 @@
-support all functions of grafana rest api for manipulating dashboards and datasources.
+speak to alexa through any enabled physical device through your browser with echosim.io or through your amazon mobile app and say text start text adventure customization amend .skill.json change the skill name example phrase icons testing instructions etc ... remember that interaction models are localespecific and must be changed for each locale enus engb dede etc.. see the skill manifest documentation for more information.

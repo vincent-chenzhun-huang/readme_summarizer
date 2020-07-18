@@ -1,1 +1,1 @@
-Adapters for combining Realm Java with Android UI components and framework classes
+create a reusable email capture component by integrating Django the Django Rest Framework and Reactjs 

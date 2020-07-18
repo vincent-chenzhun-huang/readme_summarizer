@@ -1,1 +1,1 @@
-this project was bootstrapped with create react app. available scripts in the project directory you can run runs the app in the development mode. open
+lisp in small pieces for modern schemes this repository contains source code from the book lisp in small pieces by christian queinnec updated to work

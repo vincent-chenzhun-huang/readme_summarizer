@@ -1,1 +1,1 @@
-Sitetool is a tool to manage website deployments and development.
+en and ch txt file

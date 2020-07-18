@@ -1,1 +1,1 @@
-A demostration application for working with Firebase and Cloud Firestore
+working with Network Devices 

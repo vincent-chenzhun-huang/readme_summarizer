@@ -1,1 +1,1 @@
-use the sample button to generate a random latent vector and corresponding image.
+license copyright holger krekel and others 20042019. distributed under the terms of the mit license pytest is free and open source software.

@@ -1,1 +1,1 @@
-an open source solution to application performance monitoring for java server applications
+store sensor pushed via REST api

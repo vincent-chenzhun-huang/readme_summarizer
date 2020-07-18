@@ -1,1 +1,1 @@
-noderedcontribopcua a nodered nodes to communicate or serve via opc ua. based on nodeopcua install run command on nodered installation directory. npm install noderedcontribopcua or
+partedarrays.jl partedarrays was written to make it easier to work with arrays that are naturally partitioned into subarrays. partedarrays keeps the memory together in one

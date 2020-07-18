@@ -1,1 +1,1 @@
-Allows you to listen for incoming SMS messages using React Native
+detecting recognizing and clustering faces 

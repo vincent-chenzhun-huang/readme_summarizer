@@ -1,1 +1,1 @@
-scaffold this readme is for macos only. introduction scaffold adds shell scripts and a few aliases to create a set of directories for new projects.
+tbicontransitionkit tbicontransitionkit is an easy to use icon transition kit that allows to smoothly change from one shape to another. build on uibutton with cashapelayers

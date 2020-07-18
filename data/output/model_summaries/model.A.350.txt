@@ -1,1 +1,1 @@
-what is it the aim of this project is to have a device which displays piano scores.
+getobject function function retrieves the object specified in the given path of the json element.

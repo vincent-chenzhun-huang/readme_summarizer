@@ -1,1 +1,1 @@
-trading simulatorbacktesting this project is to check your trading predictions and for checking diffrent strategies. it was built for our cryptocurrency ml predictions but it
+nexmo apis quickstart examples for php the purpose of the quickstart guide is to provide simple php examples focused on one goal. for example sending

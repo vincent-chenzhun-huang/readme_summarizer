@@ -1,1 +1,1 @@
-aws cost explorer report generator python sam lambda module for generating an excel cost report with graphs including month on month cost changes. uses the
+angular resizable element demo httpsmattlewis92.github.ioangularresizableelementdemo table of contents about installation documentation development license about an angular 6.0 directive that allows an element to be dragged

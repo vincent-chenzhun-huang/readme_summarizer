@@ -1,1 +1,1 @@
-create a storage account using the azure portal first create a new generalpurpose storage account to use for this quickstart.
+environment setup intro to git github js react native 2. build your first app this stepbystep guide will teach you about the best practices and open source tools we are using at wix and will guide you through building a simple blog app.

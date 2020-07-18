@@ -1,1 +1,1 @@
-gogenavro generates typesafe go code based on your avro schemas including serializers and deserializers that support avros schema evolution rules.
+ask sdk frameworks java this repository contains framework and plugin libraries for building alexa custom skills in java.

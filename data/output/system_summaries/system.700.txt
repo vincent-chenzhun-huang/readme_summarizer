@@ -1,1 +1,1 @@
-A CLI tool for automating the tedious process of backporting changes
+downloading air quality data from the Mexican National Air Quality Information System SINAICA 

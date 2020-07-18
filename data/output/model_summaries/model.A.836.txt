@@ -1,1 +1,1 @@
-flexibility you could use different feature extractors trained on different dataset and add knobs to the welltrained gan 1. instructions on the online demo 1.1 why hosting the model on kaggle i host the demo as a kaggle notebook instead of a more convenient web app due to cost considerations.
+a very simple model with three criteria and one criteria with two subcriteria and three alternatives is as follows supported methods there are a wide variety of methods available for calculating the priorities from preference matrices.

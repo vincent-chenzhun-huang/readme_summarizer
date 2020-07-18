@@ -1,1 +1,1 @@
-saralajsonapidataformatter a fluent frameworkagnostic javascript library that can be used simply to transform standard json api responses to simple json objects and vice versa.
+you can disable this with you can choose which paths will be searched for inline snippets by settings the snippetsearchpaths option when creating your application in emberclibuild.js js var app new emberapp snippetsearchpaths app other by default the file extension from the containing file will automatically be included in the snippet name.

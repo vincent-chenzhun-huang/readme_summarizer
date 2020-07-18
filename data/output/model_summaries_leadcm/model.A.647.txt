@@ -1,1 +1,1 @@
-mctabbarcontroller english 可以快速定制tabbar中间按钮 详细介绍可参考 简书 效果图 添加 mctabbarcontroller 到你的项目 cocoapods 推荐 cocoapods mctabbarcontroller.h. objectc pod mctabbarcontroller swift pod mctabbarcontrollerswift 资源文件导入 1、下载最新的项目版本，将文件夹mctabbarcontroller导入到你的项目中. 2、在需要使用的地方 import mctabbarcontroller.h. 版本要求
+overview logcabin is a distributed system that provides a small amount of highly replicated consistent storage. it is a reliable place for other distributed systems

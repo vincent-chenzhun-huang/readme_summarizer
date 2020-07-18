@@ -1,1 +1,1 @@
-天猫精灵控制zigbee设备 1.
+设置项 get apisettings 用户信息 get apiusers 参数 类型 描述 uid int 用户 id 可选 name string 用户的用户名或昵称 可选 归档 get apiarchives ps：默认按从新到旧 desc 顺序排列文章。 参数 类型 描述 order string 归档的排序方式 asc desc 可选 showcontent bool 是否显示文章内容 可选 showdigest string 指定是否显示文章摘要及显示摘要的类型 可选 limit int 当 showdigest 的类型为 excerpt 时，指定截断的字数 可选 ps showdigest 和 limit 参数的使用参见 apiposts 部分。 其它 自定义 uri 前缀 默认情况下 restful 插件会占用 api 用于不同的接口。如果该 uri 有其它用途，或与其它插件冲突，或者由于某些不可描述的原因用户不希望暴露该接口，可以选择通过修改 config.inc.php 自定义前缀。 例如，在 config.inc.php 文件中加入下列内容： 重新启用插件，此时你可以通过 rest 访问相关 api.

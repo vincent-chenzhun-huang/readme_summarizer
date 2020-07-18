@@ -1,1 +1,1 @@
-multistreamselect friendly protocol multiplexing.
+researchkit framework the researchkit™ framework is an open source software framework that makes it easy to create apps for medical research or for other research projects.

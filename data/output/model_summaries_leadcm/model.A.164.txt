@@ -1,1 +1,1 @@
-about the project census2020 project proposal for the city of san jose website to inform community members about the census 2020 census 2020 kiosks project
+talk i just gave a talk about this at httpswww.socallinuxexpo.orgscale17xscale 17x. presentation lives httpsgithub.comdkogantalkfeedgnuplotvnlogblobmasterfeedgnuplotvnlog.orghere. summary vnlog pronounced vanillog is a triviallysimple log format a whitespaceseparated

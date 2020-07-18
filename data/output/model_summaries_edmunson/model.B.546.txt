@@ -1,1 +1,1 @@
-this repo is to host content for the building virtual machine labs training.
+branch build status myget nuget master develop xbimgeometry xbimgeometry is part of the xbim toolkit.

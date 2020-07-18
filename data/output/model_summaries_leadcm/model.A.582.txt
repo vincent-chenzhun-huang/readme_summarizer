@@ -1,1 +1,1 @@
-visidata v1.5.2 a terminal interface for exploring and arranging tabular data. dependencies linux or osx python 3.4 pythondateutil other modules may be required for opening
+trafficsourcetracker.js a replacement for google analytics last non direct click tracking done by utmz cookie. this can be used to collect data about source of

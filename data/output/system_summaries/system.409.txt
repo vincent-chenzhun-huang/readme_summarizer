@@ -1,1 +1,1 @@
-The Shopify Supply theme already configured to work with slatev1.beta
+create new Adobe Experience Manager AEM projects that follow best practices

@@ -1,1 +1,1 @@
-computer science rankings this ranking of top computer science schools is designed to identify institutions and faculty actively engaged in research across a number of areas of computer science.
+this repo is deprecated to get a fresh botkit starter kit use the yeoman generator or remix a starter kit on glitch botkit starter kit for cisco spark bots this repo contains everything you need to get started building a cisco spark bot with botkit.

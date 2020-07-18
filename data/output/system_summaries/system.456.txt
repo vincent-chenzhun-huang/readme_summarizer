@@ -1,1 +1,1 @@
-Php bot interface to work with Viber API
+translate documentation and software online using a web browser 

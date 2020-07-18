@@ -1,1 +1,1 @@
-get the demo from googleplay and see the librarys custom interpolators in action.
+to install latest build from git haxelib git munit httpsgithub.commassiveinteractivemassiveunit.git src if you want to make sure it works make sure to run the bash script build.sh and check that the tests all pass on all platforms haxelib run munit test coverage cd ..test haxelib run munit test coverage new since 2.0.0 haxe 3 support some apis have changed to ensure compatibility with both haxe 2.10 and haxe3.

@@ -1,1 +1,1 @@
-Automatically add spans to text from Android resources strings
+writing algorithms

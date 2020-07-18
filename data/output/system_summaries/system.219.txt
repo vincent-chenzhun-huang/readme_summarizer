@@ -1,1 +1,1 @@
-Node.js module to create and manage multiple spinners in command-line interface programs
+learn about web development 

@@ -1,1 +1,1 @@
-to run ecs on a directory right click on a folder in the project browser go to external tools and select ecs.
+minimal required version is 1.9.0. to optionally use git submodules minimal version is 2.14.0. install werf way 1 recommended using multiwerf multiwerf is a version manager for werf which downloads werf binary builds manages multiple versions of binaries installed on a single host that can be used at the same time automatically updates werf binary can be disabled.

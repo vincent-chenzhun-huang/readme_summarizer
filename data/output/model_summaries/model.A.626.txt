@@ -1,1 +1,1 @@
-you should set up any specific things for your environment here before your tests are run.
+nuget simple example web socket example logging exchangesharp uses nlog internally currently.

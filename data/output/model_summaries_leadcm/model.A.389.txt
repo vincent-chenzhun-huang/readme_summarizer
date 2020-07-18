@@ -1,1 +1,1 @@
-bazel watcher note this is not an official google product. a source file watcher for bazel projects ever wanted to save a file and have
+rpiclone version 2 is a complete rewrite with improved capability over the original. see the examples below. rpiclone is a shell script that is for

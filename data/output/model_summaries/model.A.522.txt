@@ -1,1 +1,1 @@
-.. image https1.bp.blogspot.coms8sszvfprmv1qkcxfcvniaaaaaaaad0i8uufyre4mqqyyuwsxroovx3zrfw93nclwclcbs1600stacking.png a stacking new model meta learner is trained from the combined predictions of two or more previous model.
+add this code to apps init stage and youll never lose a download again task.id is very important for reattaching the download task with any ui component representing that task this is why you need to make sure to give sensible ids that you know what to do with try to avoid using random ids.

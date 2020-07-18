@@ -1,1 +1,1 @@
-discontinuation of project this project will no longer be maintained by intel.
+scrollablegraphview announcements 972017 version 4 version 4 was released which adds multiple plots dynamic reloading of values more reference line customisation options and various bug fixes.

@@ -1,1 +1,1 @@
-eeprom.commit store the eeprom data in flash.
+all suidselectupdateinsertdelete operation use the same bee interfaceno longer need any new dao interface.

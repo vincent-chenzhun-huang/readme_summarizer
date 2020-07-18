@@ -1,1 +1,1 @@
-looking for contributors quickopenernetbeans no support for netbeans 9.0 wiki download from plugin center nb8.1 download from plugin center ≥ nb8.1 sometimes while programming in
+plpgsqlcheck i founded this project because i wanted to publish the code i wrote in the last two years when i tried to write enhanced

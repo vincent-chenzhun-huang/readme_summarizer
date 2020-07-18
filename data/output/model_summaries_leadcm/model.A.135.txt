@@ -1,1 +1,1 @@
-homeassistantconfiguration home assistant configuration files yamls. these are my home assistant configuration files. navigation home assistant configuration files are now mostly located within packages directory.
+instruction and get the output like below where the normal ping output is like prerequisite and are required. is not needed unless you pipe the

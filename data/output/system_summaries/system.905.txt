@@ -1,1 +1,1 @@
-Course materials for teaching data visualization in Python.
+simplify and demonstrate usage of UWP controls

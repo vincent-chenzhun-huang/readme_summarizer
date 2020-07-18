@@ -1,1 +1,1 @@
-radialbar v.0.2.2 эта javascript библиотека позволяет создавать радиальные прогресс бары на canvas.
+you can use the sass port of normalize in one of several methods following the about normalize.css articles suggestions approach 1 download and use normalizescss as a starting point for your own projects base sass customising the values to match the designs requirements.

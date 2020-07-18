@@ -1,1 +1,1 @@
-Generate add to calendar links for Google, iCal and other calendar systems
+enable and customize tracing of JAXRS and nonJAXRS methods by using MicroProfile OpenTracing https openlibertyioguidesmicroprofileopentracinghtml

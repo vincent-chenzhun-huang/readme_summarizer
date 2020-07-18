@@ -1,1 +1,1 @@
-grubchoosedefault supports running a mount script at startup time.
+version 2.5x version 3.x this stream contains the code for the new major version with a number of significant changes—both to the app and the codebase.

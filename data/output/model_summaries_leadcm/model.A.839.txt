@@ -1,1 +1,1 @@
-an unopinionated authentication library for building node.js apis. usage • why • principles • examples • documentation permit makes it easy to add an authentication
+photomapr the goal of photomapr is to make it easier to create photomaps. a photomap is an interactive map which shows the location of places

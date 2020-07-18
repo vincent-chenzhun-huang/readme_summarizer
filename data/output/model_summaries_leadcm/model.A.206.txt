@@ -1,1 +1,1 @@
-httpntlm for of httpntlm is a node.js library to do http ntlm authentication its a port from the python libary pythonntml install you can install
+udacitynavigation submission for completing the udacity project implementation the agent is a combination of 4 addons to vanilla dqn. priority replay double dqn dueling dqn

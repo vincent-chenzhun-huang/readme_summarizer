@@ -1,1 +1,1 @@
-c language interface foundation clif clif provides a common foundation for creating c wrapper generators for various languages. overview it consists of four parts parser
+pandas data exploration journey the pandas data exploration journey series will consist of following notebooks 1. data profiling 0116avautomateddataprofilingmsword.ipynb 2. data quality and transformations decisions

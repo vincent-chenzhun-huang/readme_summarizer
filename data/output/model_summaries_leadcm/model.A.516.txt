@@ -1,1 +1,1 @@
-deactivated cisco devnet learning labs infinite toolkit these labs are now deactivated. these selfpaced interactive tutorials provide instructions for developers to learn that the infinite
+puffscionjsicap utilities for handling icap addresseshttpsgithub.comethereumwikiwikiicapinterexchangeclientaddressprotocol. it works in node.js as well as in the browser via . when minified for a browser it should

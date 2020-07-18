@@ -1,1 +1,1 @@
-open data schema map this module provides a flexible way to expose your drupal content via apis following specific open data schemas. currently the ckan
+docker postgres library for hooking dockerbased postgres into your spring boot lifecycle right before liquibase and deleting it afterwards. if you develop for a particular

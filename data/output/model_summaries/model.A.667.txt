@@ -1,1 +1,1 @@
-source code ncar github bugs our issue tracker is at httpsgithub.comuvahydroinformaticspysummaissues.
+tvhb batch utility that reads the config file and moves any categorised recordings to the appropriate places in the kodi file stores.

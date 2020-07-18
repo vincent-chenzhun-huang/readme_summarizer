@@ -1,1 +1,1 @@
-Straight-forward and tested methods for accessing Auth0 Authentication and Management API endpoints.
+stacking machine learning technique 

@@ -1,1 +1,1 @@
-import the library to your project 6th page libraries of android app generation options create a java global procedure startsyncclient that will start database observation and display the sync button replace dbname attribute with the name of the local database .
+your app is ready to be deployed see the section about deployment for more information.

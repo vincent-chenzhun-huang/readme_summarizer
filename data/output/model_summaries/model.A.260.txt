@@ -1,1 +1,1 @@
-finally the second fully connected layer takes the input of size 128 to produce 2 output features.
+if you want to learn react native and related technologies subscribe my youtube channel and follow react native tutorial playlist demo youtube demo my other mobile apps table of contents technology used features setup in local machine publish in google play and apple store contribution questions or feedback technology used react native expo and some other 3rd party libraries mentioned in code features this is my first react native and expo based project.

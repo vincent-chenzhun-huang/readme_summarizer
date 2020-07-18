@@ -1,1 +1,1 @@
-A framework for using LSTMs to detect anomalies in multivariate time series data. Includes spacecraft anomaly data and experiments from the Mars Science Laboratory and SMAP missions.
+build realtime clientserver applications 

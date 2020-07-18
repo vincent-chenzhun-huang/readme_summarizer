@@ -1,1 +1,1 @@
-150 is its default value.
+if you use record.py to create your sequence color images depth aligned to color images and camera parameters will be automatically saved under the directory of the sequence.

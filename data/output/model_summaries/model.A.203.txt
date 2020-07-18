@@ -1,1 +1,1 @@
-check out our other projects follow us on twitter apply for a job or hire us to help with your cloud strategy and implementation.
+vruntimetemplate a vue.js components that makes easy compiling and interpreting a vue.js template at runtime by using a like api.

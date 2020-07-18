@@ -1,1 +1,1 @@
-saralajsonapidataformatter a fluent frameworkagnostic javascript library that can be used simply to transform standard json api responses to simple json objects and vice versa. install
+code snippet ember component this is an ember component and embercli addon that lets you render code snippets within your app. the code snippets can

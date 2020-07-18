@@ -1,1 +1,1 @@
-tuyapimqtt client mqtt interface for tuya home automation devices sold under various names. this is a wrapper script for the project codethewebtuyapi. httpsgithub.comcodethewebtuyapi this project
+golfscrape pga tour data ruby class to get data from the pga tour leaderboard from yahoo rankings from sportsnetwork events from espn installation inside your

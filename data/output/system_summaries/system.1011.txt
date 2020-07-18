@@ -1,1 +1,1 @@
-A program to read from a Nissan Consult port and display a dashboard. This was originally meant to be run on a raspberry pi and used as a dashboard
+starting a new CryptoNote currency See srccryptonoteconfigh

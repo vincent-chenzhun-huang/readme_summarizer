@@ -1,1 +1,1 @@
-DATA-SCIENCE-BOWL-2018 Find the nuclei in divergent images to advance medical discovery
+Generating Controllable and Grounded Captions CVPR 2019

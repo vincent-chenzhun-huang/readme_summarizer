@@ -1,1 +1,1 @@
-imputeprepsanger this pipeline takes plink genotype files and adjusts the strand the positions the reference alleles performs quality control steps and output a vcf file
+democracyos democracyos is an online space for deliberation and voting on political proposals. it is a platform for a more open and participatory government.the software

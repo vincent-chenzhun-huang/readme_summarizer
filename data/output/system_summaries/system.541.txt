@@ -1,1 +1,1 @@
-Plugins and code snippets to improve your WooCommerce store.
+implementing an RESTful API into your eCommerce 2 project https githubcomcodingforentrepreneursecommerce2 using the Django Rest Framework Django Rest Framework JWT Django CORS Headers and more 

@@ -1,1 +1,1 @@
-3. run python examples.py.
+however the audio video image and document sample skills repositories in box community can provide some guidance or inspiration on what you can built upon or deployed asis.

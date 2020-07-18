@@ -1,1 +1,1 @@
-focusnode property the property allows you to specify the selector of one of your components child elements that you want to receive focus when one of the methods added by the mixin is invoked.
+to enter the container use which will drop you into a container with all of the services running the cron jobs log both stdout and stderr of their last run to files in the root directory if you want to expose the influxdb ports then you can do so as follows customisation for other teams most of the scripts to gather data have all of their parameters at the top.

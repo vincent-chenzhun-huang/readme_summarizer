@@ -1,1 +1,1 @@
-you can then use all the functions below directly on the enum value waiting for an element when creating tests you usually have to take into consideration if an element is accessible or not.
+results dev data note these scores are from the official evaluator copied in squad folder squadevaluatev1.1.py.

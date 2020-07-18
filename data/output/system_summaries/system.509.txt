@@ -1,1 +1,1 @@
-Python based framework for collecting data from sensors and brokers to forward the json values to database, brokers, display 
+automating a mac app with JSON wire protocol

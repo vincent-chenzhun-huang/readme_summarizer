@@ -1,1 +1,1 @@
-disclaimer warning the authors of this document take no responsibility for correctness. this project is merely here to help guide security researchers towards determining whether
+django post office django post office is a simple app to send and manage your emails in django. some awesome features are allows you to

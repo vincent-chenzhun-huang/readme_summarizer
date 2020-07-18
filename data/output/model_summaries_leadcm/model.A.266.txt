@@ -1,1 +1,1 @@
-supported languages gb de fr poland czechrepublic ru cn hungary jp es netherlands tr it homebridge config ui x this is a plugin for homebridge.
+hybridauth 3.0rc10 hybridauth enables developers to easily build social applications and tools to engage websites visitors and customers on a social level that starts off

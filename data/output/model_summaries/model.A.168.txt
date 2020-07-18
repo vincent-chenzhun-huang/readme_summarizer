@@ -1,1 +1,1 @@
-play method callback instead of using the global constructor callback when you create the vivus object you can add callbacks to be executed for specific play method calls.
+memfetch is a convenient screenshot grabber for ssh or screen sessions by the way the tool can be also used to retrieve memory dump on fault conditions such as segmentation fault even if core file wont be generated on kernel level rlimit settings custom signal handlers setuid or otherwise privileged code cwd permissions etc.

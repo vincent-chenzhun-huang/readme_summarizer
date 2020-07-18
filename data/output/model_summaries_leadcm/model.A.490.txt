@@ -1,1 +1,1 @@
-handpose ✔ working see the todo list below for future improvements a program to recognize hand pose from an rgb camera. getting started these instructions
+pagetype sample languages powershell java products azureactivedirectory description java console application letting users signin with usernamepassword to call microsoft graph api urlfragment activedirectoryjavanativeheadlessv2 java console

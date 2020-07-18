@@ -1,1 +1,1 @@
-git extensions git extensions is a standalone ui tool for managing git repositories.
+mocha side bar sidebar new running in the new test view by default expect error messages similar to wallaby implementation coverage via istanbul soon as independent extension also new run test in parallel important note for coverage feature there is an open issue in vscode that its not able to select via mouse render two different decorations at the same line.

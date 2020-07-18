@@ -1,1 +1,1 @@
-httpsurltopdfapi.herokuapp.comapirenderurlhttpwww.andreaverlicchi.eulazyloaddemoslazilyloadlazyload.htmlscrollpagetrue render only the first page.
+install cocoapods carthage add this line to your pods file or add this to cartfile accio add the following to your package.swift next add to your app targets dependencies like so then run .

@@ -1,1 +1,1 @@
-the agent is also taking few steps to reach the goal state so the ratio of cumulative reward to number of steps tends to increase.
+for chrome chromedriver needs to be on your path or specified as an argument for firefox 48 and above geckodriver needs to be on your path or specified as an argument selenium grid want to run tests using a grid and in parallel all you need to do is ensure the browser is installed in the default location and that the driver is on the path.

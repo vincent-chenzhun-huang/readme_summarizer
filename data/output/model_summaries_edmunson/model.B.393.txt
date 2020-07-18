@@ -1,1 +1,1 @@
-ilppluginpaymentchannelframework ilp virtual ledger plugin for directly transacting connectors including a framework for attaching onledger settlement mechanisms.
+eloquent relativity this allows you to decouple your eloquent models from one another by defining relations dynamically at runtime.

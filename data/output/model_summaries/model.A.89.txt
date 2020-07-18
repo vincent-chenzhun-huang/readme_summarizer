@@ -1,1 +1,1 @@
-b64sha is a perl script to calculate and compare the sha hash values 256 or 512 bits and print them encoded in base64 instead of hexadecimal.
+for android uni links supports two types of android links app links and deep links.

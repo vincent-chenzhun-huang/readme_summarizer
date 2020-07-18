@@ -1,1 +1,1 @@
-Generate Go code to serialize and deserialize Avro schemas
+building Alexa Custom Skills in Java 

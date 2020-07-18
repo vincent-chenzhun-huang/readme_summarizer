@@ -1,1 +1,1 @@
-awesome paper list a collection of graph embedding deep learning recommendation knowledge graph heterogeneous graph papers with reference implementations you need to zoom in on
+encn the ezdvpp encapsulates the dvpp apis to simplify the calls. the main functions include image format conversion including yuv to jpg yuv to h.264

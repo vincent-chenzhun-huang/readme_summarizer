@@ -1,1 +1,1 @@
-command line utility abbinder as of 1.18 its part of main bundler. path to the utility is audiobookbinder.appcontentsmacosabbinder usage abbinder hsv c 12 r samplerate
+crfsharp crfsharp is conditional random fields crf implemented by .netc a machine learning algorithm for learning from labeled sequences of examples. overview crfsharp is conditional

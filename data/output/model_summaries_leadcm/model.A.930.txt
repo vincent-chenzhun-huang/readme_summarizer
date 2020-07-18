@@ -1,1 +1,1 @@
-tech2xl python script to extract info from cisco devices commands and create an excel file version 1.0 author andrés gonzález usage python tech2xl ... example
+jqcandlestick jquery plugin for creating line bar and candlestick charts. supported browsers should work in all browsers that support the canvas element tested in newest

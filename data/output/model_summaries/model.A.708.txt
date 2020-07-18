@@ -1,1 +1,1 @@
-this is required to support parsing data from prime soundcloud and youtube music as simple get requests will not do.
+typically forked os build numbers are 4 digits so when this document was last updated build 17g2208 was the correct build for 2018 macbook pros 17g65 was the correct build for all other macs that support high sierra.

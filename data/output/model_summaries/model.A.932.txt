@@ -1,1 +1,1 @@
-in estabbarcontroller add container views to uitabbar to be compatible with these two ways。 6 customizable style with estabbarcontroller you can： 1. customize selected items color and style 2. add selecting animation 3. customize items background color 4. add highlight animation 5. add animation to prompt users 6. and much more ... 7 customizable items size customizable click event you can easily customize items size using estabbarcontroller.
+your app is ready to be deployed see the section about deployment for more information.

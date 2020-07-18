@@ -1,1 +1,1 @@
-there is a method to create items in batch for each item you can set the indicator color and the indicator icon java item.setindicatorcolorresr.color.blue item.setindicatoriconresr.drawable.icicon expandingitem layout attributes attribute name type default value meaning mandatory itemlayout reference the layout for the item header.
+installation usage create a global dispatch function and state object by initializing multiple hooks in you can pass state and dispatch function down via props or reacts context api.

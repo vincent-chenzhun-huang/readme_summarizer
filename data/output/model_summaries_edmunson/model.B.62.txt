@@ -1,1 +1,1 @@
-netbillpaymentcalcservice this service is used for calculating the net bill amount by implementing certain discounts reference documentation 1. executing the service please follow below steps for executing this project in windows operating system.
+log reader public code sample the main purpose of this code sample is an example of what i developed for a coding exercise.

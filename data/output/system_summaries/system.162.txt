@@ -1,1 +1,1 @@
-Takt is Android library for measuring the FPS using Choreographer.
+use outside default admin django 

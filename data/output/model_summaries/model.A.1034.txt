@@ -1,1 +1,1 @@
-datadog agent omnibus project this is an omnibus project to build the datadog agent packages.
+rosi training build build tools for the re.je rosi training.

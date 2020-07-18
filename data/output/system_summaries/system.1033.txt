@@ -1,1 +1,1 @@
-runing a three nodes consul cluster on kubernetes,fork from consul-on-kubernetes of kelseyhightower; i change sth to adapter to my test environment. 
+build a queryable index from a text corpus

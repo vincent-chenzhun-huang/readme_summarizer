@@ -1,1 +1,1 @@
-switchdecor an app to help you adding frame to your favorite screenshots from nintendo switch.
+vimpyserver a fast lightweight embedded python server to control remotely vim from telnet or netcat without xwindows nor vimserver.

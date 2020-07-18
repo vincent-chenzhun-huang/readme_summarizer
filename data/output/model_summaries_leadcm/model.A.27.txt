@@ -1,1 +1,1 @@
-python usbtmc readme for more information and updates httpalexforencich.comwikienpythonusbtmcstart github repository httpsgithub.compythonivipythonusbtmc google group httpsgroups.google.comdforumpythonivi introduction python usbtmc provides a pure python usbtmc driver for
+twostreamactionrecognition we use a spatial and motion stream cnn with resnet101 for modeling video information in ucf101 dataset. reference paper 1 twostream convolutional networks for

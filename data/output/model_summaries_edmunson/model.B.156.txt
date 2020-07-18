@@ -1,1 +1,1 @@
-magento 2 smtp extension gmail g suite amazon ses office360 mailgun sendgrid mandrill and other smtp servers.
+readme john little 20190711 this is an exploration of how to bootstrap an introduction to r workshop for library carpentry assumption library data is not unique library data may have some consistently unique challenges data savvy skills should emphasize technique tools and approach techniques reproducible scripting tools r rstudio tidyverse approach open source and ccby are foundational.

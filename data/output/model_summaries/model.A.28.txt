@@ -1,1 +1,1 @@
-this project may be useful for you whether you are trying to simulate other peoples existing models or as a way to start your own model development as these working examples can help get you up to speed quickly.
+arg type description column string table column to be checked.

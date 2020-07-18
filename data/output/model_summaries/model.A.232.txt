@@ -1,1 +1,1 @@
-601 the typical sdtv color space insert picture here the difference might be subtle but would you like that color cast maybe you could correct for it manually but what if it happened on output instead of on input and i can promise you that once we move to more widegamut color spaces like the one in rec.
+you can run it by xcode will open.
