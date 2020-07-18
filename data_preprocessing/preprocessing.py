@@ -3,6 +3,10 @@ import pandas as pd
 import string
 import logging
 import re
+import nltk
+from nltk.stem import WordNetLemmatizer
+from constants.mac import ORIGINAL_DATA_TRAIN, ORIGINAL_DATA_VALID, ORIGINAL_DATA_TEST
+from constants.default import OUTPUT_FILE_TRAIN, OUTPUT_FILE_VALID, OUTPUT_FILE_TEST
 
 from bs4 import BeautifulSoup
 from interruptingcow import timeout
@@ -18,7 +22,7 @@ class Preprocessor:
         self.faulty_indices = []
         self.extractive = extractive
 
-    def remove_starting_periods(self, readme: str):
+    def remove_starting_periods(self, readme):
         if readme.startswith('.'):
             print('removing starting periods...')
             while readme.startswith('.'):
@@ -102,7 +106,6 @@ class Preprocessor:
         return text
 
     def remove_markdown(self, readme):
-        print(f'removing markdown for index {self.COUNT}...')
         self.COUNT += 1
         html = self.convert_to_html(readme)
         readme = self.get_text_from_html(html)
@@ -122,16 +125,43 @@ class Preprocessor:
         print('removing faulty rows...')
         self.df.drop(self.faulty_indices, inplace=True)
 
+    # def get_wordnet_pos(self, word):
+    #     """Map POS tag to first character lemmatize() accepts"""
+    #     tag = nltk.pos_tag([word])[0][1][0].upper()
+    #     tag_dict = {"J": wordnet.ADJ,
+    #                 "N": wordnet.NOUN,
+    #                 "V": wordnet.VERB,
+    #                 "R": wordnet.ADV}
+
+    #     return tag_dict.get(tag, wordnet.NOUN)
 
 
-    def preprocess(self):
+    # def lemmatize(self, readme):
+    #     wordnet_lemmatizer = WordNetLemmatizer()
+
+    #     punctuations=string.punctuation
+    #     words = nltk.word_tokenize(readme)
+    #     for word in words:
+    #         if word in punctuations:
+    #             words.remove(word)
+    #     for i in range(len(words)):
+    #         words[i] = wordnet_lemmatizer.lemmatize(words[i], self.get_wordnet_pos(words[i]))
+    #     return ' '.join(words)
+
+
+    # def bulk_lemmatize(self, column_to_clean='readme'):
+    #     self.df[column_to_clean] = self.df[column_to_clean].apply(lemmatize)
+
+
+
+    def preprocess(self, column_to_clean='readme'):
         print('preprocessing data...')
         try:
-            self.bulk_delete_code_blocks()
-            self.bulk_remove_markdown()
-            self.remove_punctuation_and_escapes()
-            self.bulk_delete_redundent_spaces()
-            self.bulk_to_lower_case()
+            self.bulk_delete_code_blocks() # delete code blocks
+            self.bulk_remove_markdown() # remove markdown
+            self.remove_punctuation_and_escapes() # remove punctuations and escape characters
+            self.bulk_delete_redundent_spaces() # delete redundent spaces
+            self.bulk_to_lower_case() # convert to lower case
             self.write_faulty_index_to_txt_file()
             self.remove_faulty_rows()
 
@@ -142,32 +172,31 @@ class Preprocessor:
         print('exporting...')
         if self.extractive:
             self.df.to_csv(
-                f'/Users/vincenthuang/Development/Summer-2020/readme_summarizer/data/cleaned_data_extractive/{self.filename}'
+                f'..\cleaned_data_extractive\{self.filename}'
             )
         else:
             self.df.to_csv(
-                f'/Users/vincenthuang/Development/Summer-2020/readme_summarizer/data/cleaned_data/{self.filename}'
+                f'..\cleaned_data\{self.filename}'
             )
 
     def report(self):
         print(self.faulty_indices)
         return self.faulty_indices
 
-
 if __name__ == '__main__':
     train_preprocessor = Preprocessor(
-        '/Users/vincenthuang/Development/Summer-2020/readme_summarizer/data/original_data/train.readme_data.csv',
-        'train.cleaned_readme_data.csv',
+        ORIGINAL_DATA_TRAIN,
+        OUTPUT_FILE_TRAIN,
         extractive=False
     )
     eval_preprocessor = Preprocessor(
-        '/Users/vincenthuang/Development/Summer-2020/readme_summarizer/data/original_data/valid.readme_data.csv',
-        'valid.cleaned_readme_data.csv',
+        ORIGINAL_DATA_VALID,
+        OUTPUT_FILE_VALID,
         extractive=False
     )
     test_preprocessor = Preprocessor(
-        '/Users/vincenthuang/Development/Summer-2020/readme_summarizer/data/original_data/test.readme_data.csv',
-        'test.cleaned_readme_data.csv',
+        ORIGINAL_DATA_TEST,
+        OUTPUT_FILE_TEST,
         extractive=False
     )
 
