@@ -172,11 +172,11 @@ class Preprocessor:
         print('exporting...')
         if self.extractive:
             self.df.to_csv(
-                f'..\cleaned_data_extractive\{self.filename}'
+                f'data/cleaned_data_extractive/{self.filename}'
             )
         else:
             self.df.to_csv(
-                f'..\cleaned_data\{self.filename}'
+                f'data/cleaned_data/{self.filename}'
             )
 
     def report(self):
@@ -187,17 +187,17 @@ if __name__ == '__main__':
     train_preprocessor = Preprocessor(
         ORIGINAL_DATA_TRAIN,
         OUTPUT_FILE_TRAIN,
-        extractive=False
+        extractive=True
     )
     eval_preprocessor = Preprocessor(
         ORIGINAL_DATA_VALID,
         OUTPUT_FILE_VALID,
-        extractive=False
+        extractive=True
     )
     test_preprocessor = Preprocessor(
         ORIGINAL_DATA_TEST,
         OUTPUT_FILE_TEST,
-        extractive=False
+        extractive=True
     )
 
     preprocessors = [train_preprocessor, eval_preprocessor, test_preprocessor]
